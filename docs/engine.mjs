@@ -62,6 +62,6 @@ export async function search(engine, query, field, value, page = 1) {
     }
     constraints.push(`(${exact} OR (${keyword}))`);
   }
-  const rows = await run(`SELECT m.id, m.name, m.subject, m.description, m.needs_information, m.preview, ${exact} AS exact FROM models m ${constraints.length ? 'WHERE ' + constraints.join(' AND ') : ''} ORDER BY exact DESC, m.id LIMIT ${pageSize + 1} OFFSET ${(page - 1) * pageSize}`);
-  return {rows: rows.slice(0, pageSize), hasNext: rows.length > pageSize};
+  const rows = await run(`SELECT m.id, m.name, m.subject, m.description, m.needs_information, m.preview, COUNT(*) OVER () AS match_count, ${exact} AS exact FROM models m ${constraints.length ? 'WHERE ' + constraints.join(' AND ') : ''} ORDER BY exact DESC, m.id LIMIT ${pageSize + 1} OFFSET ${(page - 1) * pageSize}`);
+  return {rows: rows.slice(0, pageSize), hasNext: rows.length > pageSize, total: Number(rows[0]?.match_count ?? 0)};
 }

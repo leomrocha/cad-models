@@ -1,4 +1,4 @@
-import {pageSize, search} from './engine.mjs?v=2';
+import {pageSize, search} from './engine.mjs?v=3';
 const $ = id => document.getElementById(id);
 function readState(url) {
   const params = url.searchParams;
@@ -26,13 +26,16 @@ function resultUrl({engine, query, field, value, page}) {
   if (page > 1) url.searchParams.set('page', page);
   return url;
 }
+function clearState(engine) {
+  return {engine, query: '', field: '', value: '', page: 1};
+}
 let active = readState(new URL(location.href));
 fillForm(active);
 const pagers = [...document.querySelectorAll('.pagination')];
 let worker;
 let generation = 0;
 function sqlite(request, args) {
-  worker ??= new Worker(new URL('./sqlite-worker.mjs?v=2', import.meta.url), {type:'module'});
+  worker ??= new Worker(new URL('./sqlite-worker.mjs?v=3', import.meta.url), {type:'module'});
   return new Promise((resolve, reject) => {
     function cleanup() {
       worker.removeEventListener('message', receive);
@@ -96,15 +99,19 @@ async function render(state, action = 'replaceState') {
   active = state;
   const {engine, query, field, value, page} = state;
   history[action](null, '', resultUrl(state));
+  $('explore-all').href = resultUrl(clearState(engine)).href;
   $('status').textContent = 'Searching…';
   $('results').setAttribute('aria-busy', 'true');
   try {
     const args = [query, field, value, page];
-    const {rows, hasNext} = await (engine === 'sqlite' ? sqlite(request, args) : search(engine, ...args));
+    const {rows, hasNext, total} = await (engine === 'sqlite' ? sqlite(request, args) : search(engine, ...args));
     if (request !== generation) return;
     $('results').replaceChildren(...rows.map(card));
     const first = (page - 1) * pageSize + 1;
-    $('status').textContent = rows.length ? `Models ${first}–${first + rows.length - 1}` : 'No matches. Try a different search or clear the filter.';
+    const filter = field === 'needs' ? 'Needs more information' : value && field ? value : '';
+    const context = [query && `Search: “${query}”`, filter && `Filter: ${filter}`].filter(Boolean).join(' · ');
+    const summary = rows.length ? `Showing ${first}–${first + rows.length - 1} of ${total} models` : 'No matches';
+    $('status').textContent = context ? `${summary} · ${context}` : summary;
     for (const pager of pagers) {
       pager.hidden = page === 1 && !hasNext;
       setPagerLink(pager.querySelector('[data-page="-1"]'), page > 1 ? {...state, page: page - 1} : null);
@@ -133,6 +140,13 @@ function plainClick(event) {
 }
 $('search').addEventListener('submit', event => {event.preventDefault(); newSearch();});
 $('engine').addEventListener('change', newSearch);
+$('explore-all').addEventListener('click', event => {
+  if (!plainClick(event)) return;
+  event.preventDefault();
+  const state = clearState($('engine').value);
+  fillForm(state);
+  render(state, 'pushState');
+});
 for (const selector of document.querySelectorAll('#search-tags [data-tag]')) {
   selector.addEventListener('click', event => {
     if (!plainClick(event)) return;

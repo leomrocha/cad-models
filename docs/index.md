@@ -18,8 +18,11 @@ Search parts, reference drawings and assemblies by name, identifier, subject or 
     {% include tag-list.html %}
   </details>
 </form>
-<p id="status" role="status"></p>
+<div class="results-toolbar">
+  <p id="status" role="status"></p>
+  <a id="explore-all" href="{{ '/' | relative_url }}">Explore all models</a>
+</div>
 {% include pagination.html label="Search pages above results" %}
 <section id="results" class="results" aria-label="Search results"></section>
 {% include pagination.html label="Search pages below results" %}
-<script type="module" src="{{ '/app.mjs?v=2' | relative_url }}"></script>
+<script type="module" src="{{ '/app.mjs?v=3' | relative_url }}"></script>

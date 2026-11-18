@@ -33,3 +33,7 @@ button{background:#24564f;color:white;font-weight:650;cursor:pointer;margin-top:
 .pagination[hidden]{display:none}
 .pagination a{display:inline-block;padding:.5rem .75rem;border:1px solid #a8bbb4;border-radius:.35rem}
 .pagination a[aria-disabled=true]{opacity:.55}
+
+.results-toolbar{display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:.5rem 1rem;margin-block:.75rem}
+.results-toolbar p{margin:0}
+#explore-all{display:inline-block;padding:.45rem .75rem;background:#24564f;color:white;border-radius:.4rem;font-weight:650;text-decoration:none}
