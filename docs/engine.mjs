@@ -30,12 +30,13 @@ async function duckEngine() {
 }
 
 const engines = new Map();
-export const pageSize = 100;
+export const pageSizes = [20, 50, 100];
 
-export async function search(engine, query, field, value, page = 1) {
+export async function search(engine, query, field, value, page = 1, pageSize = pageSizes[0]) {
   if (!Number.isSafeInteger(page) || page < 1 || page > 1_000_000) {
     throw new RangeError('Invalid search page');
   }
+  if (!pageSizes.includes(pageSize)) throw new RangeError('Invalid page size');
   if (!engines.has(engine)) {
     const promise = engine === 'duckdb' ? duckEngine() : sqliteEngine();
     engines.set(engine, promise);

@@ -12,8 +12,10 @@ permalink: /manual.html
    catalogue. To narrow results, choose a filter and enter a value such as
    `brick` for **Material**. Select **Needs more information** to find flagged
    entries. Click an existing tag to apply it directly. Use the Previous and
-   Next arrows above or below the results to change pages.
-3. Select **Explore all models** to clear the search and filters and return to the full catalogue. If the results are empty, you can also try a shorter query.
+   Next arrows above or below the results to change pages. **Models per page**
+   defaults to 20 and also offers 50 or 100.
+3. To return to the full catalogue, clear the search field, select **Any**
+   for the filter, and select **Search**.
    [Browse subjects]({{ '/browse.html' | relative_url }}) lists the catalogue
    by subject and works without browser search.
 

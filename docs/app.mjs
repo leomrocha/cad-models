@@ -1,33 +1,34 @@
-import {pageSize, search} from './engine.mjs?v=3';
+import {pageSizes, search} from './engine.mjs?v=5';
 const $ = id => document.getElementById(id);
 function readState(url) {
   const params = url.searchParams;
   const parsedPage = Number(params.get('page') || 1);
+  const parsedSize = Number(params.get('size'));
   return {
     engine: params.get('engine') === 'duckdb' ? 'duckdb' : 'sqlite',
     query: params.get('q') || '',
     field: params.has('tag') ? 'tags' : (params.get('field') || ''),
     value: params.get('tag') || params.get('value') || '',
+    pageSize: pageSizes.includes(parsedSize) ? parsedSize : pageSizes[0],
     page: Number.isSafeInteger(parsedPage) && parsedPage >= 1 && parsedPage <= 1_000_000 ? parsedPage : 1,
   };
 }
-function fillForm({engine, query, field, value}) {
+function fillForm({engine, query, field, value, pageSize}) {
   $('engine').value = engine;
   $('query').value = query;
   $('field').value = field;
   $('value').value = value;
+  $('page-size').value = pageSize;
 }
-function resultUrl({engine, query, field, value, page}) {
+function resultUrl({engine, query, field, value, page, pageSize}) {
   const url = new URL(location.href);
   url.search = '';
   for (const [key, text] of Object.entries({engine, q: query, field, value})) {
     if (text && !(key === 'engine' && text === 'sqlite')) url.searchParams.set(key, text);
   }
   if (page > 1) url.searchParams.set('page', page);
+  if (pageSize !== pageSizes[0]) url.searchParams.set('size', pageSize);
   return url;
-}
-function clearState(engine) {
-  return {engine, query: '', field: '', value: '', page: 1};
 }
 let active = readState(new URL(location.href));
 fillForm(active);
@@ -35,7 +36,7 @@ const pagers = [...document.querySelectorAll('.pagination')];
 let worker;
 let generation = 0;
 function sqlite(request, args) {
-  worker ??= new Worker(new URL('./sqlite-worker.mjs?v=3', import.meta.url), {type:'module'});
+  worker ??= new Worker(new URL('./sqlite-worker.mjs?v=5', import.meta.url), {type:'module'});
   return new Promise((resolve, reject) => {
     function cleanup() {
       worker.removeEventListener('message', receive);
@@ -88,12 +89,12 @@ function card(row) {
 async function render(state, action = 'replaceState') {
   const request = ++generation;
   active = state;
-  const {engine, query, field, value, page} = state;
+  const {engine, query, field, value, page, pageSize} = state;
   history[action](null, '', resultUrl(state));
   $('status').textContent = 'Searching…';
   $('results').setAttribute('aria-busy', 'true');
   try {
-    const args = [query, field, value, page];
+    const args = [query, field, value, page, pageSize];
     const {rows, hasNext, total} = await (engine === 'sqlite' ? sqlite(request, args) : search(engine, ...args));
     if (request !== generation) return;
     $('results').replaceChildren(...rows.map(card));
@@ -123,17 +124,15 @@ async function render(state, action = 'replaceState') {
 }
 function newSearch() {
   render({engine: $('engine').value, query: $('query').value,
-    field: $('field').value, value: $('value').value, page: 1}, 'pushState');
+    field: $('field').value, value: $('value').value, page: 1, pageSize: Number($('page-size').value)}, 'pushState');
 }
 function plainClick(event) {
   return !event.ctrlKey && !event.metaKey && !event.shiftKey && !event.altKey && event.button === 0;
 }
 $('search').addEventListener('submit', event => {event.preventDefault(); newSearch();});
 $('engine').addEventListener('change', newSearch);
-$('explore-all').addEventListener('click', () => {
-  const state = clearState($('engine').value);
-  fillForm(state);
-  render(state, 'pushState');
+$('page-size').addEventListener('change', () => {
+  render({...active, pageSize: Number($('page-size').value), page: 1}, 'pushState');
 });
 for (const selector of document.querySelectorAll('#search-tags [data-tag]')) {
   selector.addEventListener('click', event => {
