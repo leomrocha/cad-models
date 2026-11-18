@@ -85,21 +85,11 @@ function card(row) {
   }
   return article;
 }
-function setPagerLink(link, state) {
-  if (state) {
-    link.href = resultUrl(state).href;
-    link.removeAttribute('aria-disabled');
-  } else {
-    link.removeAttribute('href');
-    link.setAttribute('aria-disabled', 'true');
-  }
-}
 async function render(state, action = 'replaceState') {
   const request = ++generation;
   active = state;
   const {engine, query, field, value, page} = state;
   history[action](null, '', resultUrl(state));
-  $('explore-all').href = resultUrl(clearState(engine)).href;
   $('status').textContent = 'Searching…';
   $('results').setAttribute('aria-busy', 'true');
   try {
@@ -114,8 +104,8 @@ async function render(state, action = 'replaceState') {
     $('status').textContent = context ? `${summary} · ${context}` : summary;
     for (const pager of pagers) {
       pager.hidden = page === 1 && !hasNext;
-      setPagerLink(pager.querySelector('[data-page="-1"]'), page > 1 ? {...state, page: page - 1} : null);
-      setPagerLink(pager.querySelector('[data-page="1"]'), hasNext ? {...state, page: page + 1} : null);
+      pager.querySelector('[data-page="-1"]').hidden = page === 1;
+      pager.querySelector('[data-page="1"]').hidden = !hasNext;
       pager.querySelector('[data-page-number]').textContent = `Page ${page}`;
     }
   } catch (error) {
@@ -140,9 +130,7 @@ function plainClick(event) {
 }
 $('search').addEventListener('submit', event => {event.preventDefault(); newSearch();});
 $('engine').addEventListener('change', newSearch);
-$('explore-all').addEventListener('click', event => {
-  if (!plainClick(event)) return;
-  event.preventDefault();
+$('explore-all').addEventListener('click', () => {
   const state = clearState($('engine').value);
   fillForm(state);
   render(state, 'pushState');
@@ -158,12 +146,10 @@ for (const selector of document.querySelectorAll('#search-tags [data-tag]')) {
 }
 for (const pager of pagers) {
   pager.addEventListener('click', event => {
-    const link = event.target.closest('a[data-page][href]');
-    if (!link || !plainClick(event)) return;
-    event.preventDefault();
-    const state = readState(new URL(link.href));
-    if (state.page === active.page || $('results').hasAttribute('aria-busy')) return;
-    render(state, 'pushState');
+    const button = event.target.closest('button[data-page]');
+    if (!button || button.hidden || $('results').hasAttribute('aria-busy')) return;
+    const page = active.page + Number(button.dataset.page);
+    render({...active, page}, 'pushState');
     if (pager === pagers.at(-1)) $('status').scrollIntoView({block:'start'});
   });
 }
