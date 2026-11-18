@@ -1,0 +1,22 @@
+{
+  "sqlite draft-body": [
+    "draft-body"
+  ],
+  "sqlite draft-joint": [
+    "draft-joint"
+  ],
+  "sqlite plain-washer-10p5-20-2": [
+    "plain-washer-10p5-20-2"
+  ],
+  "sqlite material=steel": [],
+  "duckdb draft-body": [
+    "draft-body"
+  ],
+  "duckdb draft-joint": [
+    "draft-joint"
+  ],
+  "duckdb plain-washer-10p5-20-2": [
+    "plain-washer-10p5-20-2"
+  ],
+  "duckdb material=steel": []
+}

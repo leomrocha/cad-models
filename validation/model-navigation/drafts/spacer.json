@@ -1,0 +1,35 @@
+{
+  "type": "model",
+  "title": "Spacing ring",
+  "subject": "Mechanical / Pivot joints",
+  "description": "Original 10 mm diameter spacing ring with a 6.4 mm through bore and 2 mm axial thickness.",
+  "tags": [
+    "spacer",
+    "ring",
+    "pivot"
+  ],
+  "sources": [
+    {
+      "title": "Local source geometry and dimensions",
+      "path": "validation/model-navigation/clevis.py"
+    }
+  ],
+  "material": null,
+  "standards": null,
+  "previews": [
+    {
+      "file": "model-navigation/spacer-iso.png",
+      "view": "isometric",
+      "alt": "Spacing ring \u2014 iso"
+    },
+    {
+      "file": "model-navigation/spacer-face.png",
+      "view": "axis-facing",
+      "alt": "Spacing ring \u2014 face"
+    }
+  ],
+  "rights_evidence": "Procedurally authored here from the stated synthetic dimensions. No third-party geometry or textures.",
+  "model_file": "validation/model-navigation/models/spacer.blend",
+  "sha256": "d4c7e035345e3dece8c104aeba9506c8b74bc6c703db077493f50e0270ecd751",
+  "disposition": "local validation draft"
+}

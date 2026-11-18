@@ -1,0 +1,35 @@
+{
+  "type": "model",
+  "title": "Plain pivot pin",
+  "subject": "Mechanical / Pivot joints",
+  "description": "Original cylindrical pivot pin, nominal 6 mm diameter and 24 mm length.",
+  "tags": [
+    "pin",
+    "pivot",
+    "axle"
+  ],
+  "sources": [
+    {
+      "title": "Local source geometry and dimensions",
+      "path": "validation/model-navigation/clevis.py"
+    }
+  ],
+  "material": null,
+  "standards": null,
+  "previews": [
+    {
+      "file": "model-navigation/pin-iso.png",
+      "view": "isometric",
+      "alt": "Plain pivot pin \u2014 iso"
+    },
+    {
+      "file": "model-navigation/pin-face.png",
+      "view": "axis-facing",
+      "alt": "Plain pivot pin \u2014 face"
+    }
+  ],
+  "rights_evidence": "Procedurally authored here from the stated synthetic dimensions. No third-party geometry or textures.",
+  "model_file": "validation/model-navigation/models/pin.blend",
+  "sha256": "59269337aa6e9ea6aa3213a016dec4dd4869352112dcd32b26a733804f500c4b",
+  "disposition": "local validation draft"
+}

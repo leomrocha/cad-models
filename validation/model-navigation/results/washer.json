@@ -1,0 +1,16 @@
+{
+  "id": "plain-washer-10p5-20-2",
+  "sha256": "81ed4acd73ca058cb84ddbe2b97f39a99f3e6e5840df10fff6d271d3c93c99bb",
+  "file": "plain-washer-10p5-20-2.step",
+  "axis": "Z",
+  "outside_mm": 20,
+  "inside_mm": 10.5,
+  "thickness_mm": 2,
+  "z_bounds_mm": [
+    0.0,
+    2.0
+  ],
+  "volume_mm3": 455.1382356888312,
+  "solid_count": 1,
+  "result": "PASS"
+}

@@ -1,0 +1,35 @@
+{
+  "type": "model",
+  "title": "Rectangular tube outline with named contours",
+  "subject": "Mechanical / Stock profiles",
+  "description": "Organised derivative of the existing rectangular tube profile fixture. Outer and inner contours retain the original geometry.",
+  "tags": [
+    "tube",
+    "cross-section",
+    "contours"
+  ],
+  "sources": [
+    {
+      "title": "Local source geometry and dimensions",
+      "path": "docs/downloads/tube-profile.dxf"
+    }
+  ],
+  "material": null,
+  "standards": null,
+  "previews": [
+    {
+      "file": "model-navigation/tube-before.png",
+      "view": "before",
+      "alt": "Rectangular tube outline with named contours \u2014 before"
+    },
+    {
+      "file": "model-navigation/tube-after.png",
+      "view": "after",
+      "alt": "Rectangular tube outline with named contours \u2014 after"
+    }
+  ],
+  "rights_evidence": "Original tube fixture already distributed by this catalogue; only the organizational assignments and layer colors are added.",
+  "model_file": "validation/model-navigation/models/tube-profile-organised.dxf",
+  "sha256": "b218c251e75ef29b09e27f0a8a6b4bb57bcd02fe66014764abe05f31d68919ac",
+  "disposition": "local validation draft"
+}

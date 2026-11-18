@@ -1,0 +1,24 @@
+{
+  "objects": [
+    {
+      "id": "outer",
+      "definition": "outer",
+      "parent": null,
+      "label": "Outer profile",
+      "role": "outside",
+      "layer": "Outer profile",
+      "display_colour": 5,
+      "physical_material": null
+    },
+    {
+      "id": "bore",
+      "definition": "bore",
+      "parent": null,
+      "label": "Internal opening",
+      "role": "opening",
+      "layer": "Internal opening",
+      "display_colour": 2,
+      "physical_material": null
+    }
+  ]
+}

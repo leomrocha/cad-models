@@ -1,0 +1,25 @@
+{
+  "type": "model",
+  "title": "Nominal plain washer 10.5 \u00d7 20 \u00d7 2 mm",
+  "subject": "Mechanical / Spacers and washers",
+  "description": "Analytic annular solid generated from original nominal dimensions. Bore 10.5 mm, outside diameter 20 mm, axial thickness 2 mm.",
+  "tags": [
+    "plain washer",
+    "annulus",
+    "spacer"
+  ],
+  "sources": [
+    {
+      "title": "Original public nominal geometry and dimensions",
+      "path": "validation/model-navigation/washer.py"
+    }
+  ],
+  "material": null,
+  "standards": null,
+  "previews": [],
+  "rights_evidence": "Original parametric geometry from the stated dimensions.",
+  "draft_id": "plain-washer-10p5-20-2",
+  "model_file": "validation/model-navigation/models/plain-washer-10p5-20-2.step",
+  "sha256": "81ed4acd73ca058cb84ddbe2b97f39a99f3e6e5840df10fff6d271d3c93c99bb",
+  "disposition": "local validation draft"
+}

@@ -1,0 +1,134 @@
+{
+  "assembly": {
+    "result": "PASS",
+    "objects": 5,
+    "differences": []
+  },
+  "repaired_tube": {
+    "result": "PASS",
+    "objects": 2,
+    "differences": []
+  },
+  "adversarial_readback_cases": {
+    "broken definition": {
+      "result": "FAIL",
+      "objects": 5,
+      "differences": [
+        {
+          "id": "spacer-left",
+          "field": "definition",
+          "expected": "spacer",
+          "observed": "missing",
+          "present": true
+        }
+      ]
+    },
+    "duplicate occurrence": {
+      "result": "FAIL",
+      "error": "spacer-right: duplicate occurrence ID"
+    },
+    "incorrect label": {
+      "result": "FAIL",
+      "objects": 5,
+      "differences": [
+        {
+          "id": "spacer-left",
+          "field": "label",
+          "expected": "Left spacing ring",
+          "observed": "Wrong ring label",
+          "present": true
+        }
+      ]
+    },
+    "moved occurrence": {
+      "result": "FAIL",
+      "objects": 5,
+      "differences": [
+        {
+          "id": "spacer-left",
+          "field": "position",
+          "expected": [
+            0.0,
+            -5.0,
+            15.0
+          ],
+          "observed": [
+            0.0,
+            -3.0,
+            15.0
+          ],
+          "present": true
+        }
+      ]
+    },
+    "swapped appearance": {
+      "result": "FAIL",
+      "objects": 5,
+      "differences": [
+        {
+          "id": "spacer-left",
+          "field": "display_colour",
+          "expected": [
+            0.68,
+            0.76,
+            0.79
+          ],
+          "observed": [
+            0.18,
+            0.48,
+            0.7
+          ],
+          "present": true
+        }
+      ]
+    },
+    "wrong layer": {
+      "result": "FAIL",
+      "objects": 5,
+      "differences": [
+        {
+          "id": "spacer-left",
+          "field": "layer",
+          "expected": "Spacers",
+          "observed": "Structure",
+          "present": true
+        }
+      ]
+    },
+    "wrong physical material": {
+      "result": "FAIL",
+      "objects": 5,
+      "differences": [
+        {
+          "id": "spacer-left",
+          "field": "physical_material",
+          "expected": null,
+          "observed": "steel",
+          "present": true
+        }
+      ]
+    }
+  },
+  "drawing_inheritance": {
+    "nested_layers": 3,
+    "observed_lines": 9,
+    "overrides": "PASS",
+    "hidden_inheritance": "PASS"
+  },
+  "stl_material_route": {
+    "status": "GAP",
+    "connection": "workshop-fixture",
+    "binding": "2492f999bd8712eaed86c9d21003d069d1d987b7bc246a179631d6f9bab58453",
+    "routes": [],
+    "reasons": [
+      "acquire_asset: missing dependencies [], unpreserved properties ['physical_material'], accessible=True",
+      "emit_asset: missing dependencies [], unpreserved properties ['physical_material'], accessible=True",
+      "No verified declaration chain from step-solid to stl-mesh; check a writer for stl-mesh and its input representation"
+    ]
+  },
+  "tool_sha256": {
+    "verify_navigation.py": "b827abe18bcc8cf4c913c22f13e1adce2f7b65ede0f40b0f510a8916b903684b",
+    "dxf_styles.py": "479a2f20b2091d1fc3f098f8d9d50cae023334342efa347bef4f4ad2f2890516"
+  },
+  "skill_commit": "754e0ef8b82408f3fd1074fc9335d5a30c6ec8f6"
+}

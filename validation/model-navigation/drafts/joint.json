@@ -1,0 +1,61 @@
+{
+  "type": "model",
+  "title": "Clevis joint with twin spacing rings",
+  "subject": "Mechanical / Pivot joints",
+  "description": "One fork body, one pivot pin and two independently selectable spacing-ring occurrences.",
+  "tags": [
+    "clevis",
+    "assembly",
+    "pin",
+    "spacer"
+  ],
+  "sources": [
+    {
+      "title": "Local source geometry and dimensions",
+      "path": "validation/model-navigation/clevis.py"
+    }
+  ],
+  "material": null,
+  "standards": null,
+  "previews": [
+    {
+      "file": "model-navigation/joint-iso.png",
+      "view": "isometric",
+      "alt": "Clevis joint with twin spacing rings \u2014 iso"
+    },
+    {
+      "file": "model-navigation/joint-top.png",
+      "view": "top",
+      "alt": "Clevis joint with twin spacing rings \u2014 top"
+    },
+    {
+      "file": "model-navigation/joint-pivot-spacers.png",
+      "view": "pivot-spacers",
+      "alt": "Clevis joint with twin spacing rings \u2014 pivot-spacers"
+    }
+  ],
+  "rights_evidence": "Procedurally authored here from the stated synthetic dimensions. No third-party geometry or textures.",
+  "model_file": "validation/model-navigation/models/joint.blend",
+  "sha256": "1b58bc06e0f43459d95bbc55c765f3c169dc5f4214f417a5ed50df95595552c3",
+  "disposition": "local validation draft",
+  "dependencies": [
+    {
+      "draft": "body",
+      "role": "embedded geometry",
+      "quantity": 1,
+      "sha256": "805496e1e726bbfe8f65d3110a499ef4d939e459cea23f86eb4c47688d1cede0"
+    },
+    {
+      "draft": "pin",
+      "role": "embedded geometry",
+      "quantity": 1,
+      "sha256": "59269337aa6e9ea6aa3213a016dec4dd4869352112dcd32b26a733804f500c4b"
+    },
+    {
+      "draft": "spacer",
+      "role": "embedded geometry",
+      "quantity": 2,
+      "sha256": "d4c7e035345e3dece8c104aeba9506c8b74bc6c703db077493f50e0270ecd751"
+    }
+  ]
+}

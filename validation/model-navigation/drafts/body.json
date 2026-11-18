@@ -1,0 +1,35 @@
+{
+  "type": "model",
+  "title": "Fork body",
+  "subject": "Mechanical / Pivot joints",
+  "description": "Original fork body with two bored ears and a common base.",
+  "tags": [
+    "fork",
+    "clevis",
+    "bored ear"
+  ],
+  "sources": [
+    {
+      "title": "Local source geometry and dimensions",
+      "path": "validation/model-navigation/clevis.py"
+    }
+  ],
+  "material": null,
+  "standards": null,
+  "previews": [
+    {
+      "file": "model-navigation/body-iso.png",
+      "view": "isometric",
+      "alt": "Fork body \u2014 iso"
+    },
+    {
+      "file": "model-navigation/body-face.png",
+      "view": "axis-facing",
+      "alt": "Fork body \u2014 face"
+    }
+  ],
+  "rights_evidence": "Procedurally authored here from the stated synthetic dimensions. No third-party geometry or textures.",
+  "model_file": "validation/model-navigation/models/body.blend",
+  "sha256": "805496e1e726bbfe8f65d3110a499ef4d939e459cea23f86eb4c47688d1cede0",
+  "disposition": "local validation draft"
+}
