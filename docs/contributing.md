@@ -4,20 +4,47 @@ title: Contribute to CAD Models
 permalink: /contributing.html
 ---
 
-## Catalogue tickets
+[Open a catalogue issue](https://github.com/leomrocha/cad-models/issues/new) or
+prepare a draft pull request for a specific change. Small fixes to descriptions,
+tags, citations, and links are welcome.
 
-Use a bug report for a wrong result, a broken download, or a catalogue error.
-Use an improvement ticket for a proposed search, classification, or catalogue
-change. A catalogue-wide ticket can identify a page or query.
+| Contribution | Include in the issue or draft |
+|---|---|
+| Bug report | Page URL or exact query, selected search engine and filters, expected result, and actual result |
+| Record correction | Model ID or page, revision if listed, field to correct, and evidence |
+| Improvement | Affected page or query, proposed change, and an example showing the expected result |
+| New model or subject | Model name or subject, proposed category and tags, source, and any related entries |
 
-1. Run `python scripts/intake.py new bug > bug.json` or replace `bug` with `improvement`.
-2. Fill in the title, affected URL or query, and expected and observed results for a bug. Include the model ID and revision when relevant.
-3. Check the draft with `python scripts/intake.py check bug.json` and give it to the maintainer for triage.
+Catalogue-wide issues can use a page or query as their reference. Contributors
+who prefer a local form can run `python scripts/intake.py new bug`, substituting
+`improvement`, `model`, or `subject` as needed. Save and fill the JSON draft, then
+run `python scripts/intake.py check path/to/draft.json`. This checks the draft
+structure. The maintainer reviews the proposed change.
 
-## Models, revisions, and subjects
+## Propose a model or revision
 
-1. Search for existing models and variants. Generate a draft with `python scripts/intake.py new model` or `python scripts/intake.py new subject`.
-2. Describe the supplied geometry and its best-known subject and tags. Use JSON null for unavailable facts. Attach source citations to standards and material claims. List internal CAD references with their exact revisions and use roles.
-3. Share metadata and citations at intake. Maintain clearance for each native file, embedded resource, derivative and preview before public submission.
-4. Include available, redistribution-cleared preview images for the supplied CAD revision. Use a small isometric thumbnail when available. Additional front, side, top, or detail views can help. Use PNG, JPEG, or WebP and label each view with `view`, `file`, and `alt`. Store images under `data/previews/` and list their relative paths in the model's `previews` array. Entries without images remain listed.
-5. Run the same draft check and catalogue build used by maintainers. Maintainers resolve duplicate IDs, review evidence and rights, and decide when a model can be released.
+1. Search for existing entries and variants first. Identify the object, the exact
+   variant where known, and the geometry represented in the supplied file.
+2. Suggest a subject, description, and useful tags. Cite the original source for
+   available materials, dimensions, and standards. Record unavailable details
+   as JSON `null`.
+3. List reused CAD models and their exact revisions. State whether a model is
+   linked, embedded, or used as a source for derived geometry. Describe any
+   documented editable dimensions or separate adaptation recipe in the companion.
+4. Start with metadata and citations. Confirm redistribution rights before
+   attaching CAD files, derivatives, source documents, or preview images to a
+   public issue or pull request.
+5. Include available, redistribution-cleared previews. An isometric thumbnail is
+   preferred. Front, side, top, and detail views are also useful. Store PNG,
+   JPEG, or WebP files under `data/previews/` and list them in the model's
+   `previews` array with `view`, `file`, and `alt` fields. Models can be listed
+   while preview images are unavailable.
+
+## Send a change for review
+
+State what changed, which sources support it, and which checks you ran.
+For catalogue data changes, rebuild the search assets and site using the
+README commands. Verify the affected entry and a representative query in both
+search engines. For a documentation change, build the site and check the
+affected pages and links. Maintainers assign catalogue IDs, review rights and
+evidence, and decide what to publish.

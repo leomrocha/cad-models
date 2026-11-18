@@ -1,28 +1,35 @@
 ---
 layout: default
-title: Catalogue user manual
+title: Catalogue user guide
 permalink: /manual.html
 ---
 
 ## Find a model
 
-Search for a part number such as `LS-PS310K` or a designation such as `ISO 4017`.
-Select **SQLite** or **DuckDB with Parquet** in the search form. Both options
-search the same catalogue. Use subject, tag, material, standard, or dimension
-filters with the field value. Clear the filter if the result list is empty.
-[Browse subjects]({{ '/browse.html' | relative_url }}) works without browser search.
+1. Open [Search]({{ '/' | relative_url }}) and enter a part number, a designation,
+   or a few keywords. Try `LS-PS310K`, `ISO 4017`, or `rectangular tube`.
+2. Choose **SQLite** or **DuckDB with Parquet**. Both engines search the same
+   catalogue. To narrow results, choose a filter and enter a value such as
+   `brick` for **Material**. Select **Needs more information** to find flagged
+   entries.
+3. If the results are empty, try a shorter query or clear the filter.
+   [Browse subjects]({{ '/browse.html' | relative_url }}) lists the catalogue
+   by subject and works without browser search.
 
-## Read and download a model
+## Read an entry and download files
 
-Open a result to see its description, known properties, and available images.
-Select a preview to see it at full size. Source dimensions describe the
-physical object. Dimensions labelled as represented in a file describe that
-CAD file. Entries flagged **Needs more information** stay searchable.
-Use the listed download and companion when available.
+Open the result and check the name, description, geometry scope, and sources.
+A source specification describes the physical object. A dimension attributed
+to a CAD file describes that saved geometry. Missing details may be marked
+**Needs more information**.
 
-## Contribute
+Select an available preview to see it at full size. Follow the download link
+when one is listed. The companion describes the supplied file, its references,
+and any documented adaptation instructions.
 
-The [contribution guide]({{ '/contributing.html' | relative_url }}) covers
-reporting catalogue bugs, proposing improvements, and adding models or
-subjects. Include the affected page or query and the expected and observed
-result. Include the model ID and revision when relevant.
+## Help improve the catalogue
+
+Use the [contribution guide]({{ '/contributing.html' | relative_url }}) to
+report an error, suggest a change, or propose a model or subject. If you want
+to query the catalogue from a script or agent, see the
+[agent guide]({{ '/agents.html' | relative_url }}).
