@@ -1,4 +1,4 @@
-import {search} from './engine.mjs';
+import {search} from './engine.mjs?v=2';
 self.onmessage = async ({data}) => {
   const {request, args} = data;
   try {

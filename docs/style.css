@@ -31,4 +31,5 @@ button{background:#24564f;color:white;font-weight:650;cursor:pointer;margin-top:
 #search-tags summary{cursor:pointer;font-weight:600}
 .pagination{align-items:center;gap:.7rem;margin-block:.6rem 1rem}
 .pagination[hidden]{display:none}
-.pagination button:disabled{opacity:.55;cursor:default}
+.pagination a{display:inline-block;padding:.5rem .75rem;border:1px solid #a8bbb4;border-radius:.35rem}
+.pagination a[aria-disabled=true]{opacity:.55}

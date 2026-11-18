@@ -1,18 +1,38 @@
-import {pageSize, search} from './engine.mjs';
+import {pageSize, search} from './engine.mjs?v=2';
 const $ = id => document.getElementById(id);
-const url = new URL(location.href);
-const options = url.searchParams;
-if (options.get('engine') === 'duckdb') $('engine').value = 'duckdb';
-$('query').value = options.get('q') || '';
-$('field').value = options.has('tag') ? 'tags' : (options.get('field') || '');
-$('value').value = options.get('tag') || options.get('value') || '';
-const initialPage = Number(options.get('page') || 1);
-let page = Number.isSafeInteger(initialPage) && initialPage >= 1 && initialPage <= 1_000_000 ? initialPage : 1;
+function readState(url) {
+  const params = url.searchParams;
+  const parsedPage = Number(params.get('page') || 1);
+  return {
+    engine: params.get('engine') === 'duckdb' ? 'duckdb' : 'sqlite',
+    query: params.get('q') || '',
+    field: params.has('tag') ? 'tags' : (params.get('field') || ''),
+    value: params.get('tag') || params.get('value') || '',
+    page: Number.isSafeInteger(parsedPage) && parsedPage >= 1 && parsedPage <= 1_000_000 ? parsedPage : 1,
+  };
+}
+function fillForm({engine, query, field, value}) {
+  $('engine').value = engine;
+  $('query').value = query;
+  $('field').value = field;
+  $('value').value = value;
+}
+function resultUrl({engine, query, field, value, page}) {
+  const url = new URL(location.href);
+  url.search = '';
+  for (const [key, text] of Object.entries({engine, q: query, field, value})) {
+    if (text && !(key === 'engine' && text === 'sqlite')) url.searchParams.set(key, text);
+  }
+  if (page > 1) url.searchParams.set('page', page);
+  return url;
+}
+let active = readState(new URL(location.href));
+fillForm(active);
 const pagers = [...document.querySelectorAll('.pagination')];
 let worker;
 let generation = 0;
 function sqlite(request, args) {
-  worker ??= new Worker(new URL('./sqlite-worker.mjs', location.href), {type:'module'});
+  worker ??= new Worker(new URL('./sqlite-worker.mjs?v=2', import.meta.url), {type:'module'});
   return new Promise((resolve, reject) => {
     function cleanup() {
       worker.removeEventListener('message', receive);
@@ -62,29 +82,33 @@ function card(row) {
   }
   return article;
 }
-async function render() {
-  const request = ++generation;
-  for (const pager of pagers) for (const button of pager.querySelectorAll('button')) button.disabled = true;
-  $('status').textContent = 'Searching…';
-  const args = ['query', 'field', 'value'].map(id => $(id).value);
-  const engine = $('engine').value;
-  const state = new URL(location.href);
-  state.search = '';
-  for (const [key, value] of Object.entries({engine, q:args[0], field:args[1], value:args[2]})) {
-    if (value && !(key === 'engine' && value === 'sqlite')) state.searchParams.set(key, value);
+function setPagerLink(link, state) {
+  if (state) {
+    link.href = resultUrl(state).href;
+    link.removeAttribute('aria-disabled');
+  } else {
+    link.removeAttribute('href');
+    link.setAttribute('aria-disabled', 'true');
   }
-  if (page > 1) state.searchParams.set('page', page);
-  history.replaceState(null, '', state);
+}
+async function render(state, action = 'replaceState') {
+  const request = ++generation;
+  active = state;
+  const {engine, query, field, value, page} = state;
+  history[action](null, '', resultUrl(state));
+  $('status').textContent = 'Searching…';
+  $('results').setAttribute('aria-busy', 'true');
   try {
-    const {rows, hasNext} = await (engine === 'sqlite' ? sqlite(request, [...args, page]) : search(engine, ...args, page));
+    const args = [query, field, value, page];
+    const {rows, hasNext} = await (engine === 'sqlite' ? sqlite(request, args) : search(engine, ...args));
     if (request !== generation) return;
     $('results').replaceChildren(...rows.map(card));
     const first = (page - 1) * pageSize + 1;
     $('status').textContent = rows.length ? `Models ${first}–${first + rows.length - 1}` : 'No matches. Try a different search or clear the filter.';
     for (const pager of pagers) {
       pager.hidden = page === 1 && !hasNext;
-      pager.querySelector('[data-page="-1"]').disabled = page === 1;
-      pager.querySelector('[data-page="1"]').disabled = !hasNext;
+      setPagerLink(pager.querySelector('[data-page="-1"]'), page > 1 ? {...state, page: page - 1} : null);
+      setPagerLink(pager.querySelector('[data-page="1"]'), hasNext ? {...state, page: page + 1} : null);
       pager.querySelector('[data-page-number]').textContent = `Page ${page}`;
     }
   } catch (error) {
@@ -93,18 +117,25 @@ async function render() {
     $('results').replaceChildren();
     for (const pager of pagers) pager.hidden = true;
     $('status').textContent = 'Search is unavailable. Open Browse subjects to view catalogue entries.';
+  } finally {
+    if (request === generation) {
+      $('results').removeAttribute('aria-busy');
+      $('status').dataset.completed = String(request);
+    }
   }
-  if (request === generation) $('status').dataset.completed = String(request);
 }
 function newSearch() {
-  page = 1;
-  render();
+  render({engine: $('engine').value, query: $('query').value,
+    field: $('field').value, value: $('value').value, page: 1}, 'pushState');
+}
+function plainClick(event) {
+  return !event.ctrlKey && !event.metaKey && !event.shiftKey && !event.altKey && event.button === 0;
 }
 $('search').addEventListener('submit', event => {event.preventDefault(); newSearch();});
 $('engine').addEventListener('change', newSearch);
 for (const selector of document.querySelectorAll('#search-tags [data-tag]')) {
   selector.addEventListener('click', event => {
-    if (event.ctrlKey || event.metaKey || event.shiftKey || event.altKey) return;
+    if (!plainClick(event)) return;
     event.preventDefault();
     $('field').value = 'tags';
     $('value').value = selector.dataset.tag;
@@ -113,11 +144,18 @@ for (const selector of document.querySelectorAll('#search-tags [data-tag]')) {
 }
 for (const pager of pagers) {
   pager.addEventListener('click', event => {
-    const button = event.target.closest('button[data-page]');
-    if (!button || button.disabled) return;
-    page += Number(button.dataset.page);
-    render();
+    const link = event.target.closest('a[data-page][href]');
+    if (!link || !plainClick(event)) return;
+    event.preventDefault();
+    const state = readState(new URL(link.href));
+    if (state.page === active.page || $('results').hasAttribute('aria-busy')) return;
+    render(state, 'pushState');
     if (pager === pagers.at(-1)) $('status').scrollIntoView({block:'start'});
   });
 }
-render();
+window.addEventListener('popstate', () => {
+  const state = readState(new URL(location.href));
+  fillForm(state);
+  render(state);
+});
+render(active);
