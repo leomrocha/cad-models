@@ -128,7 +128,7 @@
   },
   "tool_sha256": {
     "verify_navigation.py": "b827abe18bcc8cf4c913c22f13e1adce2f7b65ede0f40b0f510a8916b903684b",
-    "dxf_styles.py": "479a2f20b2091d1fc3f098f8d9d50cae023334342efa347bef4f4ad2f2890516"
+    "dxf_styles.py": "e2de1d9a124bbfb2b6da05ba62883db795530ffd704af52ff2c675231e360023"
   },
-  "skill_commit": "754e0ef8b82408f3fd1074fc9335d5a30c6ec8f6"
+  "skill_commit": "ef7c5cdaf7488dd845991ec83aa0a501a558eddc"
 }

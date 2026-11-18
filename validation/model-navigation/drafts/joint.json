@@ -36,26 +36,26 @@
   ],
   "rights_evidence": "Procedurally authored here from the stated synthetic dimensions. No third-party geometry or textures.",
   "model_file": "validation/model-navigation/models/joint.blend",
-  "sha256": "1b58bc06e0f43459d95bbc55c765f3c169dc5f4214f417a5ed50df95595552c3",
+  "sha256": "d33e2e84209afb501ed04d197d0e417c7caad0dbe32edf601fc4bd3e2d4d1ae0",
   "disposition": "local validation draft",
   "dependencies": [
     {
       "draft": "body",
       "role": "embedded geometry",
       "quantity": 1,
-      "sha256": "805496e1e726bbfe8f65d3110a499ef4d939e459cea23f86eb4c47688d1cede0"
+      "sha256": "c9aa41aaaa78d59ed35198584d94d26fd17e926c2123e3fcafb951d446a6be63"
     },
     {
       "draft": "pin",
       "role": "embedded geometry",
       "quantity": 1,
-      "sha256": "59269337aa6e9ea6aa3213a016dec4dd4869352112dcd32b26a733804f500c4b"
+      "sha256": "fdbd77cc7cd9a58fffba4aea26e545efa944977dd5d509ecdeb00dfc0d0a0bcc"
     },
     {
       "draft": "spacer",
       "role": "embedded geometry",
       "quantity": 2,
-      "sha256": "d4c7e035345e3dece8c104aeba9506c8b74bc6c703db077493f50e0270ecd751"
+      "sha256": "72b6351041dd643b74c2feb17cece8ee26982d0192e33339da64f8d390a71b1e"
     }
   ]
 }

@@ -95,10 +95,22 @@ def assign(obj, key, identity, label, parent=None):
     collection(layer).objects.link(obj)
 
 
+def portable_scene():
+    scene = bpy.context.scene
+    scene.render.filepath = "//"
+    scene.render.use_stamp_filename = False
+    for screen in bpy.data.screens:
+        for area in screen.areas:
+            for space in area.spaces:
+                if space.type == "FILE_BROWSER" and space.params:
+                    space.params.directory = b"//"
+
+
 def save(name):
     path = MODELS / (name + ".blend")
     if path.exists():
         raise FileExistsError(path)
+    portable_scene()
     bpy.ops.wm.save_as_mainfile(filepath=str(path), compress=True)
 
 
@@ -179,6 +191,7 @@ def render(name, direction, center, size):
     obj.rotation_euler = (Vector(center)-position).to_track_quat("-Z","Y").to_euler()
     cam.type = "ORTHO"
     cam.ortho_scale = size
+    scene.render.use_stamp_filename=False
     scene.render.engine="BLENDER_WORKBENCH"
     shading=scene.display.shading
     shading.light="STUDIO"
