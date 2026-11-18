@@ -1,0 +1,36 @@
+---
+layout: default
+---
+{% assign model = site.data.catalogue | where: "id", page.model_id | first %}
+<p>{{ model.description | escape }}</p>
+<p>{{ model.state | escape }}</p>
+{% if model.gallery.size > 0 %}
+<h2>Preview views</h2>
+<div class="gallery">
+  {% for preview in model.gallery %}
+  <figure>
+    <a href="{{ preview.url | relative_url }}"><img src="{{ preview.url | relative_url }}" alt="{{ preview.alt | escape }}" loading="lazy"></a>
+    <figcaption>{{ preview.view | escape }}</figcaption>
+  </figure>
+  {% endfor %}
+</div>
+{% endif %}
+{% assign fields = "tags,materials,standards,dimensions" | split: "," %}
+{% for field in fields %}
+  {% assign values = model[field] %}
+  {% if values.size > 0 %}
+  <h2>{{ field | capitalize }}</h2>
+  <ul>
+    {% for value in values %}
+      <li>{% if field == 'tags' %}{{ value | escape }}{% else %}{% for pair in value %}{{ pair[1] | escape }}{% unless forloop.last %} · {% endunless %}{% endfor %}{% endif %}</li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+{% endfor %}
+{% for source in model.sources %}
+<p><a href="{{ source.url | escape }}">{{ source.title | escape }}</a></p>
+{% endfor %}
+{% if model.download %}
+<p><a href="{{ model.download | relative_url }}" download>Download {{ model.file | split: '.' | last | upcase }}</a>{% if model.companion %} · <a href="{{ model.companion | relative_url }}">Companion</a>{% endif %}</p>
+{% endif %}
+{{ content }}

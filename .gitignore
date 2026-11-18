@@ -1,0 +1,18 @@
+node_modules/
+.deps/
+.venv/
+__pycache__/
+dist/
+_site/
+.jekyll-cache/
+
+# Local project records and measurements
+/benchmarks/
+/scripts/benchmark*.mjs
+/plans/
+/notes/
+/local/
+/ferme/
+/data/ferme-*
+/.bundle/
+/vendor/bundle/

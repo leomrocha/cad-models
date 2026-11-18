@@ -1,0 +1,179 @@
+[
+  {
+    "id": "blickle-ls-ps310k",
+    "name": "Blickle LS-PS310K caster reference",
+    "subject": "Vehicles / Casters",
+    "kind": "Interface reference",
+    "description": "Swivel caster catalogue example. Blickle documents a rectangular 160 × 120 mm mounting pattern with four Ø14 mm holes.",
+    "tags": [
+      "caster",
+      "swivel caster",
+      "mounting plate"
+    ],
+    "aliases": [
+      "LS-PS310K"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "mounting hole centres",
+        "value": "160 × 120 mm",
+        "evidence": "source specification"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Blickle G16 catalogue, chapter 4, LS-PS 310K table",
+        "url": "https://uk.blickle.info/-/media/project/blickle/global-web/service/mediathek/katalogkapitel/pdf-dokumente/en/g16-chapter-4.pdf?fh=b52be283e2be767ebc501c5b60e4be6a"
+      }
+    ],
+    "needs_information": true,
+    "state": "Product metadata example."
+  },
+  {
+    "id": "iso-4017-m6x20",
+    "name": "ISO 4017 M6 × 20 screw nominal reference",
+    "subject": "Mechanical / Fasteners",
+    "kind": "Part",
+    "description": "Example listing for an ISO 4017 M6 × 20 hex-head screw.",
+    "tags": [
+      "mechanical part",
+      "fastener",
+      "screw",
+      "M6"
+    ],
+    "aliases": [
+      "ISO4017",
+      "ISO 4017"
+    ],
+    "materials": null,
+    "standards": [
+      {
+        "designation": "ISO 4017",
+        "relationship": "example designation"
+      }
+    ],
+    "dimensions": [
+      {
+        "name": "nominal length",
+        "value": "20 mm",
+        "evidence": "source specification"
+      }
+    ],
+    "needs_information": true,
+    "state": "Fastener metadata example."
+  },
+  {
+    "id": "fixture-wall",
+    "name": "Historic house wall and roof fixture",
+    "subject": "Buildings / Historic",
+    "kind": "Assembly",
+    "description": "Synthetic catalogue example of a historic building with brick exterior walls and an oak roof frame.",
+    "tags": [
+      "historic house",
+      "brick",
+      "oak",
+      "timber"
+    ],
+    "aliases": [],
+    "materials": [
+      {
+        "component": "exterior walls",
+        "name": "brick",
+        "role": "represented"
+      },
+      {
+        "component": "roof frame",
+        "name": "oak",
+        "role": "represented"
+      }
+    ],
+    "standards": [],
+    "dimensions": null,
+    "needs_information": false,
+    "state": "Synthetic search fixture."
+  },
+  {
+    "id": "fixture-mini",
+    "name": "Bronze fitting miniature fixture",
+    "subject": "Creative / Miniatures",
+    "kind": "Printable model",
+    "description": "Synthetic miniature representing a bronze fitting, with resin proposed for printing.",
+    "tags": [
+      "miniature",
+      "historic fitting"
+    ],
+    "aliases": [],
+    "materials": [
+      {
+        "component": "fitting",
+        "name": "bronze",
+        "role": "represented"
+      },
+      {
+        "component": "fitting",
+        "name": "resin",
+        "role": "proposed print"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Synthetic search fixture."
+  },
+  {
+    "id": "fixture-wheel",
+    "name": "Tractor wheel fixture",
+    "subject": "Vehicles / Wheels",
+    "kind": "Part",
+    "description": "Synthetic tractor wheel search example with five bolt holes.",
+    "tags": [
+      "tractor wheel",
+      "agricultural machinery",
+      "wheel"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "bolt count",
+        "value": "5",
+        "evidence": "synthetic fixture"
+      }
+    ],
+    "needs_information": true,
+    "state": "Synthetic search fixture."
+  },
+  {
+    "id": "fixture-tube",
+    "name": "Rectangular tube profile fixture",
+    "subject": "Mechanical / Stock",
+    "kind": "Part",
+    "description": "Original 2D rectangular tube cross-section with a 40 × 20 mm outer profile and 2 mm wall thickness.",
+    "tags": [
+      "tube",
+      "rectangular tube",
+      "section profile"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": [],
+    "dimensions": [
+      {
+        "name": "cross-section",
+        "value": "40 × 20 mm",
+        "evidence": "represented in DXF"
+      },
+      {
+        "name": "wall thickness",
+        "value": "2 mm",
+        "evidence": "represented in DXF"
+      }
+    ],
+    "needs_information": true,
+    "state": "Original local pilot file.",
+    "file": "tube-profile.dxf"
+  }
+]

@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@duckdb/duckdb-wasm": "^1.33.1-dev57.0",
+    "@sqlite.org/sqlite-wasm": "^3.54.1-build1"
+  },
+  "devDependencies": {
+    "esbuild": "^0.28.2"
+  }
+}
