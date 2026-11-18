@@ -3,7 +3,13 @@ layout: default
 ---
 {% assign model = site.data.catalogue | where: "id", page.model_id | first %}
 <p>{{ model.description | escape }}</p>
+{% if model.download %}
+{% assign download_parts = model.download | split: '/' %}
+{% capture raw_url %}{{ site.raw_download_base }}{% for segment in download_parts %}{% unless segment == empty %}/{{ segment | url_encode | replace: '+', '%20' }}{% endunless %}{% endfor %}{% endcapture %}
+<p><a href="{{ raw_url | escape }}">Download {{ model.file | split: '.' | last | upcase }} from GitHub</a>{% if model.companion %} · <a href="{{ model.companion | relative_url }}">Companion</a>{% endif %}</p>
+{% else %}
 <p>{{ model.state | escape }}</p>
+{% endif %}
 {% if model.gallery.size > 0 %}
 <h2>Preview views</h2>
 <div class="gallery">
@@ -22,7 +28,7 @@ layout: default
   <h2>{{ field | capitalize }}</h2>
   <ul>
     {% for value in values %}
-      <li>{% if field == 'tags' %}{{ value | escape }}{% else %}{% for pair in value %}{{ pair[1] | escape }}{% unless forloop.last %} · {% endunless %}{% endfor %}{% endif %}</li>
+      <li>{% if field == 'tags' %}<a href="{{ '/' | relative_url }}?tag={{ value | url_encode }}">{{ value | escape }}</a>{% else %}{% for pair in value %}{{ pair[1] | escape }}{% unless forloop.last %} · {% endunless %}{% endfor %}{% endif %}</li>
     {% endfor %}
   </ul>
   {% endif %}
@@ -30,7 +36,4 @@ layout: default
 {% for source in model.sources %}
 <p><a href="{{ source.url | escape }}">{{ source.title | escape }}</a></p>
 {% endfor %}
-{% if model.download %}
-<p><a href="{{ model.download | relative_url }}" download>Download {{ model.file | split: '.' | last | upcase }}</a>{% if model.companion %} · <a href="{{ model.companion | relative_url }}">Companion</a>{% endif %}</p>
-{% endif %}
 {{ content }}

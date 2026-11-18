@@ -11,7 +11,8 @@ permalink: /manual.html
 2. Choose **SQLite** or **DuckDB with Parquet**. Both engines search the same
    catalogue. To narrow results, choose a filter and enter a value such as
    `brick` for **Material**. Select **Needs more information** to find flagged
-   entries.
+   entries. Click an existing tag to apply it directly. Use the Previous and
+   Next arrows above or below the results to change pages.
 3. If the results are empty, try a shorter query or clear the filter.
    [Browse subjects]({{ '/browse.html' | relative_url }}) lists the catalogue
    by subject and works without browser search.
@@ -23,7 +24,7 @@ A source specification describes the physical object. A dimension attributed
 to a CAD file describes that saved geometry. Missing details may be marked
 **Needs more information**.
 
-Select an available preview to see it at full size. Follow the download link
+Select an available preview to see it at full size. Follow the direct GitHub download link
 when one is listed. The companion describes the supplied file, its references,
 and any documented adaptation instructions.
 

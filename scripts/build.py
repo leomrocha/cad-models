@@ -7,6 +7,7 @@ import shutil
 import sqlite3
 import subprocess
 from pathlib import Path
+from urllib.parse import quote_plus
 
 import duckdb
 
@@ -115,6 +116,14 @@ shutil.copyfile("CONTRIBUTING.md", dist / "contributing.md")
 for file in Path("src").iterdir():
     shutil.copy(file, dist)
 
+tags = sorted({tag for record in records for tag in record["tags"]}, key=str.casefold)
+tag_list = '<ul class="tag-list" aria-label="Catalogue tags">' + "".join(
+    f'<li><a href="./?tag={quote_plus(tag)}" data-tag="{html.escape(tag, quote=True)}">{html.escape(tag)}</a></li>'
+    for tag in tags
+) + '</ul>'
+home = dist / "index.html"
+home.write_text(home.read_text().replace("<!-- catalogue-tags -->", tag_list))
+
 def page(title, body):
     return f'<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>{html.escape(title)}</title><link rel="stylesheet" href="/style.css"><main><nav><a href="/">Search</a> · <a href="/browse.html">Browse</a> · <a href="/manual.html">Manual</a></nav><h1>{html.escape(title)}</h1>{body}</main></html>'
 
@@ -171,4 +180,4 @@ for subject, members in sorted(subjects.items()):
     for record in members:
         body.append(f'<li><a href="/models/{record["id"]}.html">{html.escape(record["name"])}</a></li>')
     body.append('</ul>')
-(dist / "browse.html").write_text(page("Browse CAD models", "".join(body)))
+(dist / "browse.html").write_text(page("Browse CAD models", "<h2>Browse by tag</h2>" + tag_list + "<h2>Browse by subject</h2>" + "".join(body)))

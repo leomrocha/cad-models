@@ -2,3 +2,4 @@ title: CAD Models catalogue
 markdown: kramdown
 kramdown:
   input: GFM
+raw_download_base: https://raw.githubusercontent.com/leomrocha/cad-models/master/docs

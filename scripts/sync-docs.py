@@ -15,12 +15,6 @@ for name in ("data", "vendor", "downloads", "previews"):
         shutil.copytree(source, target)
 for name in ("app.mjs", "sqlite-worker.mjs", "engine.mjs", "style.css"):
     shutil.copyfile(dist / name, docs / name)
-# The existing data exports contain root-relative preview paths.
-app = docs / "app.mjs"
-source = app.read_text()
-assert source.count("    image.src = url;") == 1
-app.write_text(source.replace("    image.src = url;", "    image.src = new URL(url.replace(/^\\//, ''), import.meta.url).href;"))
-
 model_dir = docs / "models"
 model_dir.mkdir(exist_ok=True)
 ids = {record["id"] for record in records}

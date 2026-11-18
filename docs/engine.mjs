@@ -30,7 +30,12 @@ async function duckEngine() {
 }
 
 const engines = new Map();
-export async function search(engine, query, field, value) {
+export const pageSize = 100;
+
+export async function search(engine, query, field, value, page = 1) {
+  if (!Number.isSafeInteger(page) || page < 1 || page > 1_000_000) {
+    throw new RangeError('Invalid search page');
+  }
   if (!engines.has(engine)) {
     const promise = engine === 'duckdb' ? duckEngine() : sqliteEngine();
     engines.set(engine, promise);
@@ -57,5 +62,6 @@ export async function search(engine, query, field, value) {
     }
     constraints.push(`(${exact} OR (${keyword}))`);
   }
-  return run(`SELECT m.id, m.name, m.subject, m.description, m.needs_information, m.preview, ${exact} AS exact FROM models m ${constraints.length ? 'WHERE ' + constraints.join(' AND ') : ''} ORDER BY exact DESC, m.id LIMIT 100`);
+  const rows = await run(`SELECT m.id, m.name, m.subject, m.description, m.needs_information, m.preview, ${exact} AS exact FROM models m ${constraints.length ? 'WHERE ' + constraints.join(' AND ') : ''} ORDER BY exact DESC, m.id LIMIT ${pageSize + 1} OFFSET ${(page - 1) * pageSize}`);
+  return {rows: rows.slice(0, pageSize), hasNext: rows.length > pageSize};
 }

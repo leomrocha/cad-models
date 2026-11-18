@@ -13,7 +13,13 @@ Search parts, reference drawings and assemblies by name, identifier, subject or 
     <label>Filter<select id="field"><option value="">Any</option><option value="subject">Subject</option><option value="tags">Tag</option><option value="materials">Material</option><option value="standards">Standard</option><option value="dimensions">Dimension</option><option value="needs">Needs more information</option></select></label>
     <label>Filter value<input id="value" placeholder="e.g. brick"></label>
   </div>
+  <details id="search-tags">
+    <summary>Filter by an existing tag</summary>
+    {% include tag-list.html %}
+  </details>
 </form>
 <p id="status" role="status"></p>
+{% include pagination.html label="Search pages above results" %}
 <section id="results" class="results" aria-label="Search results"></section>
+{% include pagination.html label="Search pages below results" %}
 <script type="module" src="{{ '/app.mjs' | relative_url }}"></script>
