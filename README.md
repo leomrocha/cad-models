@@ -1,8 +1,8 @@
 # CAD Models
 
 CAD Models is a searchable catalogue of CAD parts, assemblies, and reference
-drawings. Each entry describes the model, cites its sources, and links to
-available CAD files, preview images, and technical companions.
+drawings. Each entry describes the model and links to available CAD files, preview
+images, and technical companions.
 
 The current index contains 320 entries, including 319 reusable CAD model records
 and the original tube-profile DXF. Each entry lists its available downloads.
@@ -18,7 +18,7 @@ and the original tube-profile DXF. Each entry lists its available downloads.
    `LS-PS310K` or `ISO 4017`.
 2. Select **SQLite** or **DuckDB with Parquet**. Both search the same catalogue.
    Use a filter to narrow results, or browse by subject.
-3. Open a result to inspect its geometry scope, sources, and available files.
+3. Open a result to inspect its geometry scope and available files.
    Download the CAD file and read its companion when listed. Entries can
    describe a model even when a CAD download is unavailable.
 

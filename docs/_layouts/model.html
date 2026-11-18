@@ -6,7 +6,7 @@ layout: default
 {% if model.download %}
 {% assign download_parts = model.download | split: '/' %}
 {% capture raw_url %}{{ site.raw_download_base }}{% for segment in download_parts %}{% unless segment == empty %}/{{ segment | url_encode | replace: '+', '%20' }}{% endunless %}{% endfor %}{% endcapture %}
-<p><a href="{{ raw_url | escape }}">Download {{ model.file | split: '.' | last | upcase }} from GitHub</a>{% if model.companion %} · <a href="{{ model.companion | relative_url }}">Companion</a>{% endif %}</p>
+<p><a href="{{ raw_url | escape }}">Download {{ model.file | split: '.' | last | upcase }} CAD model</a>{% if model.companion %} · <a href="{{ model.companion | relative_url }}">Companion</a>{% endif %}</p>
 {% else %}
 <p>{{ model.state | escape }}</p>
 {% endif %}
@@ -32,8 +32,5 @@ layout: default
     {% endfor %}
   </ul>
   {% endif %}
-{% endfor %}
-{% for source in model.sources %}
-<p><a href="{{ source.url | escape }}">{{ source.title | escape }}</a></p>
 {% endfor %}
 {{ content }}

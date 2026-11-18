@@ -168,8 +168,6 @@ for record in records:
                 text = " · ".join(value.values()) if isinstance(value, dict) else value
                 detail.append(f'<li>{html.escape(text)}</li>')
             detail.append('</ul>')
-    for source in record.get("sources", []):
-        detail.append(f'<p><a href="{html.escape(source["url"], quote=True)}">{html.escape(source["title"])}</a></p>')
     if record.get("file") == dxf.name:
         detail.append(f'<p><a href="/downloads/{dxf.name}" download>Download DXF</a> · <a href="/downloads/{companion.name}">Companion</a></p>')
     (model_dir / f'{record["id"]}.html').write_text(page(record["name"], "".join(detail)))

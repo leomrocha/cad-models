@@ -24,6 +24,8 @@ structure. The maintainer reviews the proposed change.
 2. Suggest a subject, description, and useful tags. Cite the original source for
    available materials, dimensions, and standards. Record unavailable details
    as JSON `null`.
+   Keep supplier and sales listing URLs out of public catalogue records and
+   companions. Download links point directly to the CAD model file.
 3. List reused CAD models and their exact revisions. State whether a model is
    linked, embedded, or used as a source for derived geometry. Describe any
    documented editable dimensions or separate adaptation recipe in the companion.

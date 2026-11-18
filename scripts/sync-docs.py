@@ -21,6 +21,9 @@ ids = {record["id"] for record in records}
 for stale in model_dir.glob("*.md"):
     if stale.stem not in ids and stale.read_text().startswith("---\n# Generated catalogue entry\n"):
         stale.unlink()
+downloads = (dist / "downloads").resolve()
+model_formats = {".dwg", ".dxf", ".step", ".stp", ".iges", ".igs", ".stl",
+                 ".obj", ".3mf", ".blend", ".fcstd", ".brep", ".ifc", ".glb", ".gltf"}
 for record in records:
     model_id = record["id"]
     gallery = []
@@ -29,13 +32,17 @@ for record in records:
         if (dist / path).is_file():
             gallery.append(dict(preview, url="/" + path.as_posix()))
     record["gallery"] = sorted(gallery, key=lambda view: view["view"].casefold() != "isometric")
-    if record.get("file"):
-        path = Path("downloads") / record["file"]
-        if (dist / path).is_file():
-            record["download"] = "/" + path.as_posix()
-            companion = path.with_suffix(".md")
-            if (dist / companion).is_file():
-                record["companion"] = "/" + companion.as_posix()
+    record.pop("sources", None)
+    record.pop("download", None)
+    record.pop("companion", None)
+    file = Path(record.get("file") or "")
+    native = (downloads / file).resolve()
+    if native.is_relative_to(downloads) and file.suffix.lower() in model_formats and native.is_file():
+        path = native.relative_to(dist)
+        record["download"] = "/" + path.as_posix()
+        companion = path.with_suffix(".md")
+        if (dist / companion).is_file():
+            record["companion"] = "/" + companion.as_posix()
     title = json.dumps(record["name"], ensure_ascii=False)
     entry = model_dir / f"{model_id}.md"
     entry.write_text(

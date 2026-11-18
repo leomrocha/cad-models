@@ -19,7 +19,7 @@ permalink: /manual.html
 
 ## Read an entry and download files
 
-Open the result and check the name, description, geometry scope, and sources.
+Open the result and check the name, description, geometry scope, and available files.
 A source specification describes the physical object. A dimension attributed
 to a CAD file describes that saved geometry. Missing details may be marked
 **Needs more information**.
