@@ -1,18 +1,70 @@
-node_modules/
-.deps/
-.venv/
+# Local planning, source inventories, and benchmark work
+/_local/
+
+# FERME-specific project assemblies
+/models/nano-tractor/assemblies/
+/models/sowbot/assemblies/
+/models/tractor/assemblies/
+
+# Python bytecode, environments, test caches, and build output
 __pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+/.deps/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.pytype/
+.tox/
+.nox/
+.hypothesis/
+.coverage
+.coverage.*
+htmlcov/
+coverage.xml
+build/
 dist/
+*.egg-info/
+.eggs/
+
+# JavaScript dependencies, tool caches, and coverage
+node_modules/
+.npm/
+.pnpm-store/
+.yarn/cache/
+.yarn/unplugged/
+.yarn/install-state.gz
+.eslintcache
+.stylelintcache
+.parcel-cache/
+.turbo/
+coverage/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Jekyll and Ruby Bundler
 _site/
 .jekyll-cache/
-
-# Local project records and measurements
-/benchmarks/
-/scripts/benchmark*.mjs
-/plans/
-/notes/
-/local/
-/ferme/
-/data/ferme-*
-/.bundle/
+.jekyll-metadata
+.sass-cache/
+.bundle/
 /vendor/bundle/
+
+# Local environment, IDE, editor, and operating-system files
+.env
+.env.*
+!.env.example
+!.env.sample
+.idea/
+.vscode/
+*.iml
+*.sublime-workspace
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
