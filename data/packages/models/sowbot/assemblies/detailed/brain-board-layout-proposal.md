@@ -37,7 +37,7 @@ Every matrix has the form `[[1,0,0,X],[0,1,0,Y],[0,0,1,Z],[0,0,0,1]]`; X, Y and 
 4. [XY boundary view](<../../../../images/sowbot/brain-board-layout-proposal-grouped-XY.png>).
 5. [Isometric boundary view](<../../../../images/sowbot/brain-board-layout-proposal-grouped-isometric.png>).
 6. [Native viewport](<../../../../images/sowbot/brain-board-layout-proposal-native.png>).
-7. [Grouped native-boundary renderer](<../../../../scripts/sowbot/render_native_boundary_views.py>); caller supplies native records, skill scripts, output folder, stem and title. Acquisition, checkpoints, failed request and geometry receipts reside under ignored `local/work/sowbot/assembly-04-brain/`.
+7. Grouped native-boundary renderer; caller supplies native records, skill scripts, output folder, stem and title. Acquisition, checkpoints, failed request and geometry receipts reside under ignored `local/work/sowbot/assembly-04-brain/`.
 
 ## Sources — online
 

@@ -22,4 +22,4 @@
 1. [Previous Mini layout](<mini-receiver-exterior-hardware-layout-proposal.md>).
 2. [Propow clearance solids](<../../../../library/standards/propow-cpn24050-size-field-envelopes.md>).
 3. [Isometric view](<../../../../images/sowbot/mini-hardware-battery-envelope-layout-proposal-isometric.png>).
-4. [Assembly occurrence BOM](<../../../../docs/sowbot/bom/mini-battery-envelope-occurrences.csv>).
+4. Assembly occurrence BOM.

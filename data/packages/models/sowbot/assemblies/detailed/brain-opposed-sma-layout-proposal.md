@@ -4,7 +4,7 @@
 2. **Native drawing** [Brain opposed-SMA layout proposal](<brain-opposed-sma-layout-proposal.dwg>).
 3. **DWG SHA-256:** `d26c6f86f5a3e8d6431ec9681ce22ca3733803f1597c7282d13154a3d1910198`.
 4. **Actual execution and checking models** Unavailable.
-5. **Occurrence BOM** Nine roots with the same quantities as the parent layout. [Model sources, matrices and quantities](<../../../../docs/sowbot/bom/brain-opposed-sma-occurrences.csv>).
+5. **Occurrence BOM** Nine roots with the same quantities as the parent layout. Model sources, matrices and quantities.
 
 ## Technical specification
 

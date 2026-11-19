@@ -20,7 +20,7 @@
 
 ## References
 
-1. [Nine-root occurrence BOM](<../../../../docs/sowbot/bom/brain-avaota-source-connectors-occurrences.csv>).
+1. Nine-root occurrence BOM.
 2. [Library 311 Avaota-A1 board](<../../../../library/subassemblies/avaota-a1-v17-board-source-connectors.md>).
 3. [Previous Brain proposal](<brain-receiver-exterior-layout-proposal.md>).
 4. Saved-model and geometry evidence.

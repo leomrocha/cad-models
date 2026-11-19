@@ -36,7 +36,7 @@ The Brain occurrence contains library 252 Yuzuki Avaota-A1 v1.7 computer exterio
 3. [XY boundary drawing](<../../../../images/sowbot/mini-board-footprint-layout-proposal-XY.png>).
 4. [Isometric boundary drawing](<../../../../images/sowbot/mini-board-footprint-layout-proposal-isometric.png>).
 5. [Native top viewport](<../../../../images/sowbot/mini-board-footprint-layout-proposal-native.png>).
-6. [Grouped native-boundary renderer](<../../../../scripts/sowbot/render_native_boundary_views.py>). Job inputs, geometry checks, footprint projection check, source pins, native records and incremental checkpoints are retained in ignored `local/work/sowbot/assembly-06-mini/`.
+6. Grouped native-boundary renderer. Job inputs, geometry checks, footprint projection check, source pins, native records and incremental checkpoints are retained in ignored `local/work/sowbot/assembly-06-mini/`.
 
 ## Sources — online
 

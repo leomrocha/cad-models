@@ -14,7 +14,7 @@
 ## Verification
 
 1. All six solids passed source vertex, topology and composed placement checks. Maximum bidirectional vertex-set distance was 1.42e-14 mm.
-2. Incremental and final verified SAVE, inspected [isometric view](<../../../../images/sowbot/pico-hrb-service-layout-isometric.png>) and guarded closure passed. The [occurrence BOM](<../../../../docs/sowbot/bom/pico-hrb-service-layout-occurrences.csv>) binds each root to its source drawing and transform.
+2. Incremental and final verified SAVE, inspected [isometric view](<../../../../images/sowbot/pico-hrb-service-layout-isometric.png>) and guarded closure passed. The occurrence BOM binds each root to its source drawing and transform.
 
 ## References
 

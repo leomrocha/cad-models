@@ -13,7 +13,7 @@
 
 ## Verification
 
-1. The independent geometry comparison matched all **1,177** geometry occurrences and their composed placements. The [occurrence BOM](<../../../../docs/sowbot/bom/main-opposed-sma-occurrences.csv>) identifies all ten roots and their sources.
+1. The independent geometry comparison matched all **1,177** geometry occurrences and their composed placements. The occurrence BOM identifies all ten roots and their sources.
 2. Verified save, [isometric view](<../../../../images/sowbot/main-opposed-sma-layout-proposal-isometric.png>) and guarded CAD closure passed.
 
 ## References

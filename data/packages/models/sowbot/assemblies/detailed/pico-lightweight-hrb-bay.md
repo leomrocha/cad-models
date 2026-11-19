@@ -14,7 +14,7 @@
 ## Verification
 
 1. The two native roots expand to four closed solids. The placement and solid topology match the retained source references. The maximum bidirectional vertex-set error was 1.42e-14 mm.
-2. Incremental and final verified SAVE, inspected [isometric view](<../../../../images/sowbot/pico-lightweight-hrb-bay-isometric.png>) and guarded closure passed. The [occurrence BOM](<../../../../docs/sowbot/bom/pico-lightweight-hrb-bay-occurrences.csv>) records both source drawings, quantities and transformations.
+2. Incremental and final verified SAVE, inspected [isometric view](<../../../../images/sowbot/pico-lightweight-hrb-bay-isometric.png>) and guarded closure passed. The occurrence BOM records both source drawings, quantities and transformations.
 
 ## References
 

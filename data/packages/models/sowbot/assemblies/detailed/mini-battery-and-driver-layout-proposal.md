@@ -22,7 +22,7 @@
 
 1. [Previous battery clearance proposal](<mini-hardware-battery-envelope-layout-proposal.md>).
 2. [Library 312 Mini motor driver](<../../../../library/subassemblies/open-bts7960-mini-driver-21-opening-source-face.md>).
-3. [Four-root occurrence BOM](<../../../../docs/sowbot/bom/mini-battery-and-driver-occurrences.csv>).
+3. Four-root occurrence BOM.
 4. Native placement and geometry checks.
 
 ## Sources — online

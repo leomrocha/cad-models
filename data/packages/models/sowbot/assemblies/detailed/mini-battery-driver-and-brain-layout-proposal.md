@@ -21,7 +21,7 @@
 
 1. [Updated Brain source](<brain-avaota-source-connectors-layout-proposal.md>).
 2. [Previous Mini battery and driver layout](<mini-battery-and-driver-layout-proposal.md>).
-3. [Four-root occurrence BOM](<../../../../docs/sowbot/bom/mini-updated-brain-occurrences.csv>).
+3. Four-root occurrence BOM.
 4. Independent saved drawing check.
 
 ## Sources — online

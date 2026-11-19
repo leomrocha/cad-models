@@ -1,6 +1,6 @@
 # Pico suspension pivots and roller axes
 
-1. **Plan check** — Assembly 2 step 5. Compare the eight arm-to-carrier pivots and eight arm-to-roller axes in the manufacturer static pose. The left carrier is STEP body 3234 and the right carrier is body 3368. Manufacturer STEP · [Installed wheel-axis register](<bom/pico-chassis-wheel-axes.csv>).
+1. **Plan check** — Assembly 2 step 5. Compare the eight arm-to-carrier pivots and eight arm-to-roller axes in the manufacturer static pose. The left carrier is STEP body 3234 and the right carrier is body 3368. Manufacturer STEP · Installed wheel-axis register.
 2. **Left arm and roller pairs** — Source bodies 3186/3180, 3206/3205, 3220/3219 and 3237/3233. [Left source group](<../../library/subassemblies/pico-left-suspension-arm-roller-source-group.md>).
 3. **Right arm and roller pairs** — Source bodies 3320/3314, 3340/3339, 3354/3353 and 3371/3367. [Right source group](<../../library/subassemblies/pico-right-suspension-arm-roller-source-group.md>).
 4. **Pivot and axle geometry** — Each **Ø4.3 mm** carrier pivot and **Ø7.2 mm** arm pivot share an axis in the source pose. Each **Ø5.2 mm** arm axle opening shares an axis with its corresponding **Ø15 mm** roller bore. The arm pivot-to-axle centre spacing is **15.004404 mm**. The calculations use cylindrical support surfaces and the retained wheel-axis transforms. Exact source face and axis records.

@@ -13,7 +13,7 @@
 ## Verification
 
 1. Independent comparison matched each installed geometry type, payload and composed placement to its source. Incremental and final verified SAVE and guarded closure passed.
-2. [Isometric view](<../../../../images/sowbot/mini-orp-and-antenna-layout-proposal-isometric.png>) was inspected. The [occurrence BOM](<../../../../docs/sowbot/bom/mini-orp-and-antenna-occurrences.csv>) binds placed models, quantities, matrices and source hashes.
+2. [Isometric view](<../../../../images/sowbot/mini-orp-and-antenna-layout-proposal-isometric.png>) was inspected. The occurrence BOM binds placed models, quantities, matrices and source hashes.
 
 ## References
 

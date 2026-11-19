@@ -37,7 +37,7 @@
 
 ## References
 
-1. [Current plan](<../../../../plans/sowbot/plan.md>), assembly 7 and component job 30.
+1. Current plan, assembly 7 and component job 30.
 2. Exact recovery receipt, including original request IDs, source hashes, placement matrices, checkpoint hashes and the last observed native state.
 3. Saved occurrence and checkpoint records.
 4. Canonical save audit.

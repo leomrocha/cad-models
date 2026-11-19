@@ -28,7 +28,7 @@ The chassis combines the fixed frame, both gearmotors and drive sprockets, two g
 
 1. [Tracked running gear, library 305](<../../../../library/subassemblies/pico-tracked-running-gear-source-group.md>).
 2. [Eight source spring exteriors, library 309](<../../../../library/subassemblies/pico-eight-spring-closed-source-placement.md>).
-3. [Installed BOM and CAD root handles](<../../../../docs/sowbot/bom/pico-chassis-installed-bom.csv>).
+3. Installed BOM and CAD root handles.
 4. [XY view](<../../../../images/sowbot/pico-chassis-XY.png>).
 5. [XZ view](<../../../../images/sowbot/pico-chassis-XZ.png>).
 6. [YZ view](<../../../../images/sowbot/pico-chassis-YZ.png>).

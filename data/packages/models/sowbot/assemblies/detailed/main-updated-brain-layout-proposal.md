@@ -18,7 +18,7 @@
 
 ## References
 
-1. [Ten-root occurrence BOM](<../../../../docs/sowbot/bom/main-updated-brain-occurrences.csv>).
+1. Ten-root occurrence BOM.
 2. [Previous Main layout proposal](<main-receiver-exterior-hardware-layout-proposal.md>).
 3. Independent saved drawing check.
 
