@@ -10,7 +10,7 @@ from mathutils import Vector
 BASE = Path(__file__).resolve().parent
 MODELS = BASE / "models"
 RESULTS = BASE / "results"
-IMAGES = BASE.parents[1] / "data/previews/model-navigation"
+IMAGES = BASE / "models"
 ROOT_ID = "clevis-joint"
 SPECS = {
     "body": ("Fork body", "yoke", "Structure", (0.18, 0.48, 0.70), (30, 20, 22)),

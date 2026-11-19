@@ -24,9 +24,9 @@
 
 ## References
 
-1. [Existing near-track component](<../../../../../../library/parts/mechanical/main-chassis-visible-tread-photo-reference.md>), library 280; canonical component preserved.
-2. [Top saved-record view](<main-chassis-visible-track-source-partial-stage-XY.png>).
-3. [Isometric saved-record view](<main-chassis-visible-track-source-partial-stage-isometric.png>).
+1. [Existing near-track component](<../../parts/main-chassis-visible-tread-photo-reference/main-chassis-visible-tread-photo-reference.md>), library 280; canonical component preserved.
+2. [Top saved-record view](<view-2.png>).
+3. [Isometric saved-record view](<view-1.png>).
 4. Source-calibrated construction recipe and arrays.
 5. Original-pixel pick overlay.
 6. Native array/unit/source checks.

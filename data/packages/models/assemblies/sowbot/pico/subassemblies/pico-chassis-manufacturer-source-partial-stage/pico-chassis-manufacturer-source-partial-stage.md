@@ -69,10 +69,10 @@
 
 ## Views
 
-1. [XY native-record view](<pico-chassis-manufacturer-source-partial-stage-XY.png>).
+1. [XY native-record view](<view-2.png>).
 1. XZ native-record view.
 1. YZ native-record view.
-1. [isometric native-record view](<pico-chassis-manufacturer-source-partial-stage-isometric.png>).
+1. [isometric native-record view](<view-1.png>).
 
 ## Sources — online
 

@@ -9,7 +9,7 @@ import ezdxf
 from PIL import Image, ImageDraw
 
 BASE = Path(__file__).resolve().parent
-SOURCE = BASE.parents[1] / "docs/downloads/tube-profile.dxf"
+SOURCE = BASE.parents[1] / 'data/packages/models/mechanical-parts/profiles/rectangular-tubes/tube-profile/tube-profile.dxf'
 TARGET = BASE / "models/tube-profile-organised.dxf"
 APP = "PROFILE_NAV"
 SCHEDULE = {
@@ -71,7 +71,7 @@ def preview(document, name):
         pts=[(40+14*x,345-14*y) for x,y in e.vertices()]
         colour={"0":"#363c42","Outer profile":"#285f91","Internal opening":"#a06400"}[e.dxf.layer]
         draw.line(pts+[pts[0]],fill=colour,width=5)
-    image.save(BASE.parents[1]/"data/previews/model-navigation"/(name+".png"))
+    image.save(BASE/"models"/(name+".png"))
 
 
 def run():

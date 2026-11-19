@@ -26,5 +26,5 @@
 
 ## References — library
 
-1. [Native front-face view](<pico-lower-plate-front-flange-partial-exterior-YZ.png>).
-2. [Native isometric view](<pico-lower-plate-front-flange-partial-exterior-isometric.png>).
+1. [Native front-face view](<view-2.png>).
+2. [Native isometric view](<view-1.png>).

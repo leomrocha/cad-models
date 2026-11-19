@@ -38,7 +38,9 @@ structure. The maintainer reviews the proposed change.
    public issue or pull request.
 5. Include available, redistribution-cleared previews. An isometric thumbnail is
    preferred. Front, side, top, and detail views are also useful. Store PNG,
-   JPEG, or WebP files under `data/previews/` and list them in the model's
+   JPEG, or WebP files beside the CAD file and Markdown companion in the same
+   model folder under `data/packages/models/`. List every asset in
+   `package_assets`, with paths relative to `data/packages/`. List images in the model's
    `previews` array with `view`, `file`, and `alt` fields. Add `thumbnail_file`
    for the primary search-card thumbnail. The [preview workflow](https://leomrocha.github.io/cad-models/preview-workflow.html)
    describes image sizes and review. Models can be listed while images are unavailable.
@@ -48,6 +50,8 @@ structure. The maintainer reviews the proposed change.
 State what changed, which sources support it, and which checks you ran.
 For catalogue data changes, rebuild the search assets and site using the
 README commands. Verify the affected entry and a representative query in both
-search engines. For a documentation change, build the site and check the
+search engines. Check that CAD, companion, thumbnail, and gallery URLs use
+`raw.githubusercontent.com` and point to the exact model folder. Check that
+the generated site contains zero CAD or image files. For a documentation change, build the site and check the
 affected pages and links. Maintainers assign catalogue IDs, review rights and
 evidence, and decide what to publish.

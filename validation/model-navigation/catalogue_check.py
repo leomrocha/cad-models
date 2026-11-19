@@ -13,19 +13,21 @@ for path in sorted((BASE/"drafts").glob("*.json")):
     d=json.loads(path.read_text())
     subprocess.run([sys.executable,"scripts/intake.py","check",str(path)],cwd=ROOT,check=True)
     assert hashlib.sha256((ROOT/d["model_file"]).read_bytes()).hexdigest()==d["sha256"]
+    for preview in d.get("previews", []):
+        image = ROOT / preview["file"]
+        assert image.is_file() and image.parent == (ROOT / d["model_file"]).parent, image
     for dependency in d.get("dependencies",[]):
         part=json.loads((BASE/"drafts"/(dependency["draft"]+".json")).read_text())
         assert dependency["sha256"]==part["sha256"]
     entries.append(dict(id=d.get("draft_id","draft-"+path.stem),name=d["title"],
        subject=d["subject"],kind="Assembly" if path.stem=="joint" else "Part",
        description=d["description"],tags=d["tags"],aliases=[],materials=None,standards=None,
-       dimensions=None,needs_information=True,state="Local draft",previews=d["previews"]))
+       dimensions=None,needs_information=True,state="Local draft",previews=[]))
 with tempfile.TemporaryDirectory(dir=ROOT/"_local") as tmp:
     build=Path(tmp)
     data=build/"data"
     data.mkdir()
     (data/"pilot.json").write_text(json.dumps(entries))
-    (data/"previews").symlink_to(ROOT/"data/previews",target_is_directory=True)
     for item in ("src","node_modules","CONTRIBUTING.md"):
         (build/item).symlink_to(ROOT/item)
     subprocess.run(["node",str(ROOT/"scripts/export.mjs")],cwd=build,check=True)

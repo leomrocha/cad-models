@@ -18,12 +18,12 @@
   "standards": null,
   "previews": [
     {
-      "file": "model-navigation/body-iso.png",
+      "file": "validation/model-navigation/models/body-iso.png",
       "view": "isometric",
       "alt": "Fork body \u2014 iso"
     },
     {
-      "file": "model-navigation/body-face.png",
+      "file": "validation/model-navigation/models/body-face.png",
       "view": "axis-facing",
       "alt": "Fork body \u2014 face"
     }

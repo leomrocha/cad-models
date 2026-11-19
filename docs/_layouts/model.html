@@ -4,11 +4,7 @@ layout: default
 {% assign model = site.data.catalogue | where: "id", page.model_id | first %}
 <p>{{ model.description | escape }}</p>
 {% if model.download %}
-{% assign download_parts = model.download | split: '/' %}
-{% capture raw_url %}{{ site.raw_download_base }}{% for segment in download_parts %}{% unless segment == empty %}/{{ segment | url_encode | replace: '+', '%20' }}{% endunless %}{% endfor %}{% endcapture %}
-{% assign folder_parts = model.repo_folder | split: '/' %}
-{% capture folder_url %}{{ site.model_repo_base }}{% for segment in folder_parts %}{% unless segment == empty %}/{{ segment | url_encode | replace: '+', '%20' }}{% endunless %}{% endfor %}{% endcapture %}
-<p><a href="{{ folder_url | escape }}">Model folder on GitHub</a> · <a href="{{ raw_url | escape }}">Download {{ model.file | split: '.' | last | upcase }} CAD model</a>{% if model.companion %} · <a href="{{ model.companion | relative_url }}">Companion</a>{% endif %}</p>
+<p><a href="{{ model.repo_folder | escape }}">Model folder on GitHub</a> · <a href="{{ model.download | escape }}">Download {{ model.file | split: '.' | last | upcase }} CAD model</a>{% if model.companion %} · <a href="{{ model.companion | escape }}">Companion</a>{% endif %}</p>
 {% else %}
 <p>{{ model.state | escape }}</p>
 {% endif %}
@@ -17,7 +13,7 @@ layout: default
 <div class="gallery">
   {% for preview in model.gallery %}
   <figure>
-    <a href="{{ preview.url | relative_url }}"><img src="{{ preview.url | relative_url }}" alt="{{ preview.alt | escape }}" loading="lazy"></a>
+    <a href="{{ preview.url | escape }}"><img src="{{ preview.url | escape }}" alt="{{ preview.alt | escape }}" loading="lazy"></a>
     <figcaption>{{ preview.view | escape }}</figcaption>
   </figure>
   {% endfor %}

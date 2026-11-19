@@ -18,12 +18,12 @@
   "standards": null,
   "previews": [
     {
-      "file": "model-navigation/pin-iso.png",
+      "file": "validation/model-navigation/models/pin-iso.png",
       "view": "isometric",
       "alt": "Plain pivot pin \u2014 iso"
     },
     {
-      "file": "model-navigation/pin-face.png",
+      "file": "validation/model-navigation/models/pin-face.png",
       "view": "axis-facing",
       "alt": "Plain pivot pin \u2014 face"
     }

@@ -47,6 +47,10 @@ interpret results and share findings.
 
 ## Build and maintain the site
 
+Each model folder under `data/packages/models/` contains the CAD file, its
+Markdown companion, and its images and thumbnail. Model pages and search cards
+link directly to the tracked files on `raw.githubusercontent.com`.
+
 See the [preview workflow](https://leomrocha.github.io/cad-models/preview-workflow.html)
 for model images and search thumbnails.
 

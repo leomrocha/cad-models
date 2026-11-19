@@ -18,12 +18,12 @@
   "standards": null,
   "previews": [
     {
-      "file": "model-navigation/spacer-iso.png",
+      "file": "validation/model-navigation/models/spacer-iso.png",
       "view": "isometric",
       "alt": "Spacing ring \u2014 iso"
     },
     {
-      "file": "model-navigation/spacer-face.png",
+      "file": "validation/model-navigation/models/spacer-face.png",
       "view": "axis-facing",
       "alt": "Spacing ring \u2014 face"
     }

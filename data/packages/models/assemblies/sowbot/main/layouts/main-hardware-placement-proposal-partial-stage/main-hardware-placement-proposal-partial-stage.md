@@ -45,11 +45,11 @@ All root rotations are identity and scale is one. The translation coordinates be
 ## References
 
 1. [Main source-visible chassis stage](<../../subassemblies/main-chassis-visible-track-source-partial-stage/main-chassis-visible-track-source-partial-stage.md>).
-2. [Brain five-board proposal](<../../../../../sowbot/assemblies/detailed/brain-board-layout-proposal.md>).
-3. [VariCore exterior stage](<../../../../../../library/parts/electrical/varicore-vc1280na-photo-exterior-stage.md>), library 282.
-4. [ODrive v3.6 dimensional reference](<../../../../../../library/parts/electrical/odrive-v36-135x50-source-dimension-reference.md>), library 283.
-5. [Top saved-record view](<main-hardware-placement-proposal-partial-stage-XY.png>).
-6. [Isometric saved-record view](<main-hardware-placement-proposal-partial-stage-isometric.png>).
+2. [Brain five-board proposal](<../../../brain/layouts/brain-board-layout-proposal/brain-board-layout-proposal.md>).
+3. [VariCore exterior stage](<../../../../../electronics/batteries/varicore-vc1280na-photo-exterior-stage/varicore-vc1280na-photo-exterior-stage.md>), library 282.
+4. [ODrive v3.6 dimensional reference](<../../../../../electronics/components/odrive-v36-135x50-source-dimension-reference/odrive-v36-135x50-source-dimension-reference.md>), library 283.
+5. [Top saved-record view](<view-2.png>).
+6. [Isometric saved-record view](<view-1.png>).
 7. Proposed root matrices and source pins.
 8. Exact nested geometry checks.
 9. Represented-exterior clearance and removal checks.

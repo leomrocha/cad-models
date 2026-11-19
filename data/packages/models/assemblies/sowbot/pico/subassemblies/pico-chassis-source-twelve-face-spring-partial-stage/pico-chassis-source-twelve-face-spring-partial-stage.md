@@ -5,7 +5,7 @@
 4. **Plan identity:** existing Pico chassis assembly; 42 planned whole-unit occurrences, represented by 26 top-level roots, 192 solid occurrences and 24 supplemental open source-face Mesh occurrences in two spring groups.
 5. **Actual execution model:** unavailable.
 
-6. **Working-tree drawing:** [Pico chassis source stage](<pico-chassis-source-twelve-face-spring-partial-stage.dwg>), SHA-256 `18d63b2d59b4120ebbf2dea76c142d51287ffc188f0977162bc37ebd804905cc`. The [current Pico mechanical chassis](<../../../../../sowbot/assemblies/detailed/pico-chassis.md>) is the active plan model.
+6. **Working-tree drawing:** [Pico chassis source stage](<pico-chassis-source-twelve-face-spring-partial-stage.dwg>), SHA-256 `18d63b2d59b4120ebbf2dea76c142d51287ffc188f0977162bc37ebd804905cc`. The [current Pico mechanical chassis](<../../layouts/pico-chassis/pico-chassis.md>) is the active plan model.
 
 ## Technical specification
 
@@ -84,5 +84,5 @@
 
 3. Earlier plate/spacer hypothesis assembly: [preserved partial stage](<../pico-expansion-plate-spacer-partial-stage/pico-expansion-plate-spacer-partial-stage.md>).
 
-4. [Source twelve-face spring stage](<../../../../../../library/parts/mechanical/pico-tension-spring-source-twelve-face-interior-stage.md>).
+4. [Source twelve-face spring stage](<../../parts/pico-tension-spring-source-twelve-face-interior-stage/pico-tension-spring-source-twelve-face-interior-stage.md>).
 5. [Preserved previous source chassis](<../pico-chassis-manufacturer-source-partial-stage/pico-chassis-manufacturer-source-partial-stage.md>).

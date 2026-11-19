@@ -46,21 +46,19 @@ source images.
 1. Make a PNG gallery image with a maximum canvas of **640 × 480 px**. Preserve
    aspect ratio and keep the entire view visible. Make a primary thumbnail of
    at most **256 × 192 px** from the same view.
-2. Copy cleared derivatives under `data/previews/<model-id>/` in the catalogue
-   source tree. Use descriptive names such as `isometric-1.png`,
-   `isometric-2.png`, `drawing.png`, and `thumbnail.png`. In the model's
-   `previews` array, list the primary gallery image first. Set each entry's
-   `file` to the gallery image path relative to `data/previews/` and set
-   `thumbnail_file` on the primary entry to its thumbnail path. Add a view
-   label and plain-text alt description.
+2. Save each cleared image beside the CAD file and its Markdown companion
+   under `data/packages/models/`. List the image in `package_assets` and in
+   `previews`. Both fields use paths relative to `data/packages/`. Use the
+   same path for the view and thumbnail when the bytes are identical. Add a
+   view label and plain-text alt description.
 
 ```json
 {
   "previews": [
     {
       "view": "Isometric",
-      "file": "model-123/isometric-1.png",
-      "thumbnail_file": "model-123/thumbnail.png",
+      "file": "models/mechanical-parts/fasteners/screws/iso-4017-m6x20/isometric-1.png",
+      "thumbnail_file": "models/mechanical-parts/fasteners/screws/iso-4017-m6x20/thumbnail.png",
       "alt": "Isometric view of the mounting plate and its four mounting holes"
     }
   ]
@@ -79,3 +77,5 @@ source images.
 3. Check that a record with a rights hold or missing preview still opens and
    its search card has no broken image. Confirm that private captures and
    rights-held assets are absent from the site output.
+
+Every displayed image uses its exact `raw.githubusercontent.com` URL. The build rejects site copies, duplicate asset bytes, and image paths outside the model folder.

@@ -22,6 +22,6 @@ Each directly installed occurrence has its own persistent identity. Definition I
 
 Original positions, normals, rotations, source hashes and locators. Reopened model observations.
 
-This layout uses the foot-passage rail revision and a single documented M10 joint. Its two public plain-washer instances represent nominal geometry only. The private records bind the mounting location, application and source revision. Nested selection and washer world frames. [Four role-coloured views](<service-access-layer-sheet.png>).
+This layout uses the foot-passage rail revision and a single documented M10 joint. Its two public plain-washer instances represent nominal geometry only. The private records bind the mounting location, application and source revision. Nested selection and washer world frames. [Four role-coloured views](<view-2.png>).
 
 DWG SHA-256: `b162eff34695ddb5ffa16dc30f97c790b0e0dea98f8bd3c0d57840a8750b13b1`.

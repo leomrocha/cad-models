@@ -2,7 +2,7 @@
 
 Validation assembly; tractor design status remains a discussion proposal. [Native DWG](<panel-navigation-compatible.dwg>). Units are mm. In tractor coordinates X is forward, Y left and Z up.
 
-This separately saved revision derives from [Library group 22, deck panel and cups](<../../../../../../library/groups/deck-half-panel-and-cups-j3f.md>). The source has five inserts on layer 0. The receiver can now distinguish the recessed plate and four individually identified mounting cups. Full original ACIS bytes and original occurrence transforms were compared after reopening.
+This separately saved revision derives from [Library group 22, deck panel and cups](<../deck-half-panel-and-cups-j3f/deck-half-panel-and-cups-j3f.md>). The source has five inserts on layer 0. The receiver can now distinguish the recessed plate and four individually identified mounting cups. Full original ACIS bytes and original occurrence transforms were compared after reopening.
 
 The final pass restores all four source solid history-reference values and compares every native Solid3D property, each Insert placement and all preceding application metadata. Final comparison.
 

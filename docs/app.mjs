@@ -73,7 +73,7 @@ function card(row) {
     const {url, alt} = JSON.parse(row.preview);
     const image = document.createElement('img');
     image.className = 'thumbnail';
-    image.src = new URL(url.replace(/^\//, ''), import.meta.url).href;
+    image.src = url;
     image.alt = alt;
     image.loading = 'lazy';
     article.append(image);

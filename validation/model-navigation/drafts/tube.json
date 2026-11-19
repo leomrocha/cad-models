@@ -18,12 +18,12 @@
   "standards": null,
   "previews": [
     {
-      "file": "model-navigation/tube-before.png",
+      "file": "validation/model-navigation/models/tube-before.png",
       "view": "before",
       "alt": "Rectangular tube outline with named contours \u2014 before"
     },
     {
-      "file": "model-navigation/tube-after.png",
+      "file": "validation/model-navigation/models/tube-after.png",
       "view": "after",
       "alt": "Rectangular tube outline with named contours \u2014 after"
     }

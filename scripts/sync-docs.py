@@ -3,11 +3,27 @@ import json
 import shutil
 from pathlib import Path
 
+from catalogue_urls import FOLDER_BASE, RAW_BASE, repository_path
+
 root = Path(__file__).resolve().parents[1]
 dist = root / "dist"
 docs = root / "docs"
 records = json.loads((dist / "data/catalogue.json").read_text())
-for name in ("data", "vendor", "downloads", "previews"):
+for record in records:
+    if not record.get("file"):
+        continue
+    cad = Path(record["file"])
+    if (record.get("download") != RAW_BASE + repository_path(cad) or
+            record.get("companion") != RAW_BASE + repository_path(cad.with_suffix(".md")) or
+            record.get("repo_folder") != FOLDER_BASE + repository_path(cad.parent)):
+        raise ValueError(f"Invalid repository links for {record['id']}; run the catalogue build")
+    images = {RAW_BASE + repository_path(Path(asset)) for asset in record["package_assets"]
+              if Path(asset).suffix.lower() in {".png", ".jpg", ".jpeg", ".webp", ".svg", ".gif", ".avif", ".ico", ".bmp"}}
+    for view in [*record["gallery"], record["preview"]]:
+        if view and view["url"] not in images:
+            raise ValueError(f"Invalid repository image for {record['id']}")
+
+for name in ("data", "vendor"):
     source, target = dist / name, docs / name
     if target.exists():
         shutil.rmtree(target)
@@ -21,30 +37,8 @@ ids = {record["id"] for record in records}
 for stale in model_dir.glob("*.md"):
     if stale.stem not in ids and stale.read_text().startswith("---\n# Generated catalogue entry\n"):
         stale.unlink()
-downloads = (dist / "downloads").resolve()
-model_formats = {".dwg", ".dxf", ".step", ".stp", ".iges", ".igs", ".stl",
-                 ".obj", ".3mf", ".blend", ".fcstd", ".brep", ".ifc", ".glb", ".gltf"}
 for record in records:
     model_id = record["id"]
-    gallery = []
-    for preview in record.get("previews") or []:
-        path = Path("previews") / preview["file"]
-        if (dist / path).is_file():
-            gallery.append(dict(preview, url="/" + path.as_posix()))
-    record["gallery"] = sorted(gallery, key=lambda view: view["view"].casefold() != "isometric")
-    record.pop("sources", None)
-    record.pop("download", None)
-    record.pop("companion", None)
-    record.pop("repo_folder", None)
-    file = Path(record.get("file") or "")
-    native = (downloads / file).resolve()
-    if native.is_relative_to(downloads) and file.suffix.lower() in model_formats and native.is_file():
-        path = native.relative_to(dist)
-        record["download"] = "/" + path.as_posix()
-        record["repo_folder"] = "/" + path.parent.as_posix()
-        companion = path.with_suffix(".md")
-        if (dist / companion).is_file():
-            record["companion"] = "/" + companion.as_posix()
     title = json.dumps(record["name"], ensure_ascii=False)
     entry = model_dir / f"{model_id}.md"
     entry.write_text(

@@ -19,17 +19,17 @@
   "standards": null,
   "previews": [
     {
-      "file": "model-navigation/joint-iso.png",
+      "file": "validation/model-navigation/models/joint-iso.png",
       "view": "isometric",
       "alt": "Clevis joint with twin spacing rings \u2014 iso"
     },
     {
-      "file": "model-navigation/joint-top.png",
+      "file": "validation/model-navigation/models/joint-top.png",
       "view": "top",
       "alt": "Clevis joint with twin spacing rings \u2014 top"
     },
     {
-      "file": "model-navigation/joint-pivot-spacers.png",
+      "file": "validation/model-navigation/models/joint-pivot-spacers.png",
       "view": "pivot-spacers",
       "alt": "Clevis joint with twin spacing rings \u2014 pivot-spacers"
     }
