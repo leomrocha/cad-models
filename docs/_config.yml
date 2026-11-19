@@ -3,3 +3,4 @@ markdown: kramdown
 kramdown:
   input: GFM
 raw_download_base: https://raw.githubusercontent.com/leomrocha/cad-models/master/docs
+model_repo_base: https://github.com/leomrocha/cad-models/tree/master/docs

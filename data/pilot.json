@@ -4,7 +4,7 @@
     "name": "Blickle LS-PS310K caster reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Blickle LS-PS310K caster reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references",
@@ -30,7 +30,7 @@
     "name": "Blickle LS-VLE250K caster reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Blickle LS-VLE250K caster reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references",
@@ -48,7 +48,7 @@
     "name": "hy400 hy70716a rim interface reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "hy400 hy70716a rim interface reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references",
@@ -66,7 +66,7 @@
     "name": "ISO 730 Category 1 implement hitch-point interface",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "ISO 730 Category 1 implement hitch-point interface; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references"
@@ -90,7 +90,7 @@
     "name": "ISO 730 Category 1N implement hitch-point interface",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "ISO 730 Category 1N implement hitch-point interface; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references"
@@ -114,7 +114,7 @@
     "name": "item line8 m8 connection interface reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "item line8 m8 connection interface reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references",
@@ -132,7 +132,7 @@
     "name": "kc14940 square tube connection reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "kc14940 square tube connection reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references"
@@ -149,7 +149,7 @@
     "name": "quadboss steely 608489 rim interface reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "quadboss steely 608489 rim interface reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references",
@@ -167,7 +167,7 @@
     "name": "skf sy20tf mounting reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "skf sy20tf mounting reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references",
@@ -185,7 +185,7 @@
     "name": "SPP ZSK0750 trailer coupling",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "SPP ZSK0750 trailer coupling; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "standard",
       "interface references"
@@ -202,7 +202,7 @@
     "name": "bmw module and independent shield uprights j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "bmw module and independent shield uprights j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -219,7 +219,7 @@
     "name": "bmw tray angle pad gusset support j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "bmw tray angle pad gusset support j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -236,7 +236,7 @@
     "name": "bmw tray angle pad r3 relieved gusset support j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "bmw tray angle pad r3 relieved gusset support j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -253,7 +253,7 @@
     "name": "caster arm relieved braces 250 s",
     "subject": "Groups",
     "kind": "group",
-    "description": "caster arm relieved braces 250 s; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -271,7 +271,7 @@
     "name": "caster arm relieved braces 300 s",
     "subject": "Groups",
     "kind": "group",
-    "description": "caster arm relieved braces 300 s; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -289,7 +289,7 @@
     "name": "caster frame upper support 250 j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "caster frame upper support 250 j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -307,7 +307,7 @@
     "name": "caster frame upper support 300 j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "caster frame upper support 300 j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -325,7 +325,7 @@
     "name": "caster rearward bridge support 250 j4",
     "subject": "Groups",
     "kind": "group",
-    "description": "caster rearward bridge support 250 j4; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -343,7 +343,7 @@
     "name": "caster rearward bridge support 300 j4",
     "subject": "Groups",
     "kind": "group",
-    "description": "caster rearward bridge support 300 j4; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -361,7 +361,7 @@
     "name": "chassis deck recessed foot hardware j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "chassis deck recessed foot hardware j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -378,7 +378,7 @@
     "name": "chassis deck structural recessed j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "chassis deck structural recessed j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -395,7 +395,7 @@
     "name": "deck half panel and cups j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "deck half panel and cups j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -412,7 +412,7 @@
     "name": "deck seam beam j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "deck seam beam j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -429,7 +429,7 @@
     "name": "deck side supports j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "deck side supports j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -446,7 +446,7 @@
     "name": "eight foot two hole nominal hardware j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "eight foot two hole nominal hardware j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -463,7 +463,7 @@
     "name": "frame core raised foot passages j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "frame core raised foot passages j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -480,7 +480,7 @@
     "name": "frame core raised j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "frame core raised j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -497,7 +497,7 @@
     "name": "front attachment braced root relief j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "front attachment braced root relief j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -514,7 +514,7 @@
     "name": "front attachment braced root relief s",
     "subject": "Groups",
     "kind": "group",
-    "description": "front attachment braced root relief s; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -531,7 +531,7 @@
     "name": "front attachment braced unclipped j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "front attachment braced unclipped j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -548,7 +548,7 @@
     "name": "front attachment braced unclipped s",
     "subject": "Groups",
     "kind": "group",
-    "description": "front attachment braced unclipped s; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -565,7 +565,7 @@
     "name": "front attachment lower cheeks and mast j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "front attachment lower cheeks and mast j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -582,7 +582,7 @@
     "name": "front attachment lower cheeks and mast s",
     "subject": "Groups",
     "kind": "group",
-    "description": "front attachment lower cheeks and mast s; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -599,7 +599,7 @@
     "name": "guard upper support plates and rail sleeves j4",
     "subject": "Groups",
     "kind": "group",
-    "description": "guard upper support plates and rail sleeves j4; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -616,7 +616,7 @@
     "name": "kelly carriers posts and joint sleeves j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "kelly carriers posts and joint sleeves j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -633,7 +633,7 @@
     "name": "kelly carriers sleeves and nominal clamp hardware j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "kelly carriers sleeves and nominal clamp hardware j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -650,7 +650,7 @@
     "name": "leaf common floor and four rails",
     "subject": "Groups",
     "kind": "group",
-    "description": "leaf common floor and four rails; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -667,7 +667,7 @@
     "name": "leaf layered bank and nominal rod hardware",
     "subject": "Groups",
     "kind": "group",
-    "description": "leaf layered bank and nominal rod hardware; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -684,7 +684,7 @@
     "name": "leaf layered modules endplates and floor reference",
     "subject": "Groups",
     "kind": "group",
-    "description": "leaf layered modules endplates and floor reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -701,7 +701,7 @@
     "name": "m25 gland removable insert and carrier",
     "subject": "Groups",
     "kind": "group",
-    "description": "m25 gland removable insert and carrier; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -719,7 +719,7 @@
     "name": "m25 insert carrier and m4 fixings",
     "subject": "Groups",
     "kind": "group",
-    "description": "m25 insert carrier and m4 fixings; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -738,7 +738,7 @@
     "name": "motenergy pair and adjustment frame j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "motenergy pair and adjustment frame j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -755,7 +755,7 @@
     "name": "motor adjustment plates and frame j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "motor adjustment plates and frame j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -773,7 +773,7 @@
     "name": "motor backbones raised frame j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "motor backbones raised frame j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups",
@@ -791,7 +791,7 @@
     "name": "rear attachment braced root relief j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "rear attachment braced root relief j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -808,7 +808,7 @@
     "name": "rear attachment braced unclipped j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "rear attachment braced unclipped j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -825,7 +825,7 @@
     "name": "rear attachment lower cheeks and mast j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "rear attachment lower cheeks and mast j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -842,7 +842,7 @@
     "name": "side lifting supports j3f",
     "subject": "Groups",
     "kind": "group",
-    "description": "side lifting supports j3f; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -859,7 +859,7 @@
     "name": "splash panels and stair supports s03t",
     "subject": "Groups",
     "kind": "group",
-    "description": "splash panels and stair supports s03t; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -876,7 +876,7 @@
     "name": "splash stair left four piece",
     "subject": "Groups",
     "kind": "group",
-    "description": "splash stair left four piece; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -893,7 +893,7 @@
     "name": "splash stair right central four piece",
     "subject": "Groups",
     "kind": "group",
-    "description": "splash stair right central four piece; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -910,7 +910,7 @@
     "name": "splash stair right forward four piece",
     "subject": "Groups",
     "kind": "group",
-    "description": "splash stair right forward four piece; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -927,7 +927,7 @@
     "name": "sumitomo pro l adapter interface",
     "subject": "Groups",
     "kind": "group",
-    "description": "sumitomo pro l adapter interface; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -944,7 +944,7 @@
     "name": "sumitomo pro m adapter interface",
     "subject": "Groups",
     "kind": "group",
-    "description": "sumitomo pro m adapter interface; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -961,7 +961,7 @@
     "name": "Albright SW200-281 contactor",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Albright SW200-281 contactor; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -978,7 +978,7 @@
     "name": "Altec ALT-SB50RAMBKT bracket",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Altec ALT-SB50RAMBKT bracket; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics",
@@ -996,7 +996,7 @@
     "name": "Amphenol AHDBM04-24-91PN receptacle",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Amphenol AHDBM04-24-91PN receptacle; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1013,7 +1013,7 @@
     "name": "amphenol ahdbm04 24 91pn receptacle reference",
     "subject": "Electronics",
     "kind": "part",
-    "description": "amphenol ahdbm04 24 91pn receptacle reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1030,7 +1030,7 @@
     "name": "AHDBM06 mating plug geometry",
     "subject": "Electronics",
     "kind": "part",
-    "description": "AHDBM06 mating plug geometry; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1047,7 +1047,7 @@
     "name": "SurLok SLPIPB50BSO0 cable plug",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SurLok SLPIPB50BSO0 cable plug; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1064,7 +1064,7 @@
     "name": "Blue Sea5026 auxiliary fuse block",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Blue Sea5026 auxiliary fuse block; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1081,7 +1081,7 @@
     "name": "BMW i3 94Ah battery module",
     "subject": "Electronics",
     "kind": "part",
-    "description": "BMW i3 94Ah battery module; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics",
@@ -1099,7 +1099,7 @@
     "name": "Caster primary removable pin, structural-S proposal",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster primary removable pin, structural-S proposal; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -1117,7 +1117,7 @@
     "name": "Caster angle-setting pin, structural-S proposal",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster angle-setting pin, structural-S proposal; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -1135,7 +1135,7 @@
     "name": "G-140 O-ring 3.1×139.4 mm",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "G-140 O-ring 3.1×139.4 mm; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners"
@@ -1152,7 +1152,7 @@
     "name": "AS568-261 O-ring 3.53×171.04 mm",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "AS568-261 O-ring 3.53×171.04 mm; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners"
@@ -1169,7 +1169,7 @@
     "name": "ISO4017 M6x20 screw nominal reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO4017 M6x20 screw nominal reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1201,7 +1201,7 @@
     "name": "ISO4017 M6x16 screw nominal reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO4017 M6x16 screw nominal reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1227,7 +1227,7 @@
     "name": "ISO4017 M6x35 screw nominal reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO4017 M6x35 screw nominal reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1253,7 +1253,7 @@
     "name": "ISO4017 M6x85 screw nominal reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO4017 M6x85 screw nominal reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1279,7 +1279,7 @@
     "name": "ISO4017 M4x16 screw nominal reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO4017 M4x16 screw nominal reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1305,7 +1305,7 @@
     "name": "ISO4017 M10x70 screw nominal reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO4017 M10x70 screw nominal reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1331,7 +1331,7 @@
     "name": "DIN976-1 M8×240 nominal threaded-rod reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "DIN976-1 M8×240 nominal threaded-rod reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1357,7 +1357,7 @@
     "name": "DIN985 M4 nominal nut reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "DIN985 M4 nominal nut reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1383,7 +1383,7 @@
     "name": "DIN985 M6 nominal nut reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "DIN985 M6 nominal nut reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1409,7 +1409,7 @@
     "name": "DIN985 M8 nominal nut reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "DIN985 M8 nominal nut reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1435,7 +1435,7 @@
     "name": "DIN985 M10 nominal nut reference",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "DIN985 M10 nominal nut reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1461,7 +1461,7 @@
     "name": "CPC-T5008 cable lug",
     "subject": "Electronics",
     "kind": "part",
-    "description": "CPC-T5008 cable lug; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1478,7 +1478,7 @@
     "name": "Curtis 1243-4303 controller",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Curtis 1243-4303 controller; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1495,7 +1495,7 @@
     "name": "DIN 471 nominal 20 mm external retaining ring",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "DIN 471 nominal 20 mm external retaining ring; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners"
@@ -1519,7 +1519,7 @@
     "name": "Happymodel EP1 receiver",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Happymodel EP1 receiver; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1536,7 +1536,7 @@
     "name": "Holybro Pixhawk6C hardware",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Holybro Pixhawk6C hardware; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1553,7 +1553,7 @@
     "name": "Holybro PM02V3 module",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Holybro PM02V3 module; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1570,7 +1570,7 @@
     "name": "ISO 4017 M10×35 screw, proposed class 8.8",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO 4017 M10×35 screw, proposed class 8.8; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1595,7 +1595,7 @@
     "name": "ISO 7089 M10 plain washer, proposed 200 HV",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO 7089 M10 plain washer, proposed 200 HV; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1620,7 +1620,7 @@
     "name": "ISO 7089 M4 plain washer, proposed 200 HV",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO 7089 M4 plain washer, proposed 200 HV; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1645,7 +1645,7 @@
     "name": "ISO 7089 M5 plain washer, proposed 200 HV",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO 7089 M5 plain washer, proposed 200 HV; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1670,7 +1670,7 @@
     "name": "ISO 7089 M6 plain washer, proposed 200 HV",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO 7089 M6 plain washer, proposed 200 HV; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1695,7 +1695,7 @@
     "name": "ISO 7089 M8 plain washer, proposed 200 HV",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ISO 7089 M8 plain washer, proposed 200 HV; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1720,7 +1720,7 @@
     "name": "ITEM Angle Bracket Set 8 40×40 0.0.411.15",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "ITEM Angle Bracket Set 8 40×40 0.0.411.15; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -1738,7 +1738,7 @@
     "name": "ITEM Profile 8 40×40 light 0.0.026.33",
     "subject": "Stock profiles",
     "kind": "part",
-    "description": "ITEM Profile 8 40×40 light 0.0.026.33; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "stock profiles"
@@ -1755,7 +1755,7 @@
     "name": "ITEM T-slot Nut 8 St M8 0.0.026.18",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "ITEM T-slot Nut 8 St M8 0.0.026.18; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1773,7 +1773,7 @@
     "name": "jis b1251 type2 m5 2h nominal free washer",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "jis b1251 type2 m5 2h nominal free washer; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1791,7 +1791,7 @@
     "name": "jis b1251 type2 m5 2l nominal free washer",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "jis b1251 type2 m5 2l nominal free washer; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1809,7 +1809,7 @@
     "name": "jis b1251 type2 m6 2h nominal free washer",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "jis b1251 type2 m6 2h nominal free washer; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1827,7 +1827,7 @@
     "name": "jis b1251 type2 m6 2l nominal free washer",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "jis b1251 type2 m6 2l nominal free washer; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1845,7 +1845,7 @@
     "name": "Kelly KLS7240N controller",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Kelly KLS7240N controller; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -1862,7 +1862,7 @@
     "name": "Knott spherical-seat wheel bolt M12×1.5×24 mm",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Knott spherical-seat wheel bolt M12×1.5×24 mm; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -1882,7 +1882,7 @@
     "name": "Littelfuse 20EV100.ZXBDMC bolt-down fuse",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Littelfuse 20EV100.ZXBDMC bolt-down fuse; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics",
@@ -1900,7 +1900,7 @@
     "name": "M12 DIN 985 Nylstop nut AGZ000028626",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "M12 DIN 985 Nylstop nut AGZ000028626; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1925,7 +1925,7 @@
     "name": "M12 flat washer 13×24×2.5 mm",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "M12 flat washer 13×24×2.5 mm; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1943,7 +1943,7 @@
     "name": "M12×80 hex-head bolt H12080109B",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "M12×80 hex-head bolt H12080109B; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners",
@@ -1961,7 +1961,7 @@
     "name": "Battery fuse CNL150",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Battery fuse CNL150; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics",
@@ -1979,7 +1979,7 @@
     "name": "Motenergy ME0907 motor",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Motenergy ME0907 motor; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics",
@@ -1997,7 +1997,7 @@
     "name": "neugart ngv064 wheel 160",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "neugart ngv064 wheel 160; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2015,7 +2015,7 @@
     "name": "neugart ngv090 wheel 200",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "neugart ngv090 wheel 200; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2033,7 +2033,7 @@
     "name": "neugart ngv110 wheel 250",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "neugart ngv110 wheel 250; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2051,7 +2051,7 @@
     "name": "Nissan Leaf Gen2 battery module",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Nissan Leaf Gen2 battery module; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics",
@@ -2069,7 +2069,7 @@
     "name": "Main frame longitudinal rail",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Main frame longitudinal rail; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2086,7 +2086,7 @@
     "name": "Raised J frame longitudinal rail",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Raised J frame longitudinal rail; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2103,7 +2103,7 @@
     "name": "Raised rail with two-hole foot passages",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Raised rail with two-hole foot passages; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2120,7 +2120,7 @@
     "name": "Main frame crossmember",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Main frame crossmember; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2137,7 +2137,7 @@
     "name": "J front narrow crossmember",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J front narrow crossmember; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2154,7 +2154,7 @@
     "name": "Motenergy right fixed motor backbone",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Motenergy right fixed motor backbone; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2172,7 +2172,7 @@
     "name": "Motenergy left fixed motor backbone",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Motenergy left fixed motor backbone; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2190,7 +2190,7 @@
     "name": "Seam beam crown",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Seam beam crown; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2207,7 +2207,7 @@
     "name": "Seam beam base",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Seam beam base; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2224,7 +2224,7 @@
     "name": "Raised deck upright top cap",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Raised deck upright top cap; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2241,7 +2241,7 @@
     "name": "M10 deck/lift foot compression sleeve",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "M10 deck/lift foot compression sleeve; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2259,7 +2259,7 @@
     "name": "Raised deck horizontal outrigger foot",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Raised deck horizontal outrigger foot; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2276,7 +2276,7 @@
     "name": "Raised deck two-hole outrigger vertical leg",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Raised deck two-hole outrigger vertical leg; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2293,7 +2293,7 @@
     "name": "Seam beam M8 threaded block",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Seam beam M8 threaded block; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2311,7 +2311,7 @@
     "name": "Recessed-captive deck panel plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Recessed-captive deck panel plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2328,7 +2328,7 @@
     "name": "Recessed captive deck cup",
     "subject": "Fasteners",
     "kind": "part",
-    "description": "Recessed captive deck cup; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "fasteners"
@@ -2345,7 +2345,7 @@
     "name": "Fixed recessed-cup receiver",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Fixed recessed-cup receiver; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2363,7 +2363,7 @@
     "name": "Recessed-captive deck ledge",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Recessed-captive deck ledge; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2380,7 +2380,7 @@
     "name": "Deck side upright nominal section",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Deck side upright nominal section; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2397,7 +2397,7 @@
     "name": "Caster clevis cheek for 250 mm wheel",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster clevis cheek for 250 mm wheel; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2416,7 +2416,7 @@
     "name": "Caster clevis cheek for 300 mm wheel",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster clevis cheek for 300 mm wheel; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2435,7 +2435,7 @@
     "name": "M12 frame compression sleeve",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "M12 frame compression sleeve; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2453,7 +2453,7 @@
     "name": "Caster S frame doubler",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster S frame doubler; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2471,7 +2471,7 @@
     "name": "Rearward caster raised frame bridge",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Rearward caster raised frame bridge; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2489,7 +2489,7 @@
     "name": "Rearward caster upper tie, 250 mm caster base pose",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Rearward caster upper tie, 250 mm caster base pose; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2507,7 +2507,7 @@
     "name": "Same-axis caster raised-frame upper tie",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Same-axis caster raised-frame upper tie; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2525,7 +2525,7 @@
     "name": "Caster bridge drop 97 mm",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster bridge drop 97 mm; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2543,7 +2543,7 @@
     "name": "Caster bridge drop 47 mm",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster bridge drop 47 mm; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2561,7 +2561,7 @@
     "name": "Rearward caster bridge root plate, welded branch",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Rearward caster bridge root plate, welded branch; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2579,7 +2579,7 @@
     "name": "Caster primary sleeve",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster primary sleeve; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2597,7 +2597,7 @@
     "name": "Caster primary side spacer",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster primary side spacer; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2615,7 +2615,7 @@
     "name": "Caster setting sleeve",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster setting sleeve; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2633,7 +2633,7 @@
     "name": "Caster setting side spacer",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster setting side spacer; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2651,7 +2651,7 @@
     "name": "Blickle 250 caster support plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Blickle 250 caster support plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2669,7 +2669,7 @@
     "name": "Blickle 300 caster support plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Blickle 300 caster support plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2687,7 +2687,7 @@
     "name": "Caster arm triangular brace",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster arm triangular brace; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2705,7 +2705,7 @@
     "name": "Caster arm brace with primary-spacer relief",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster arm brace with primary-spacer relief; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2723,7 +2723,7 @@
     "name": "Caster arm box member",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Caster arm box member; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2741,7 +2741,7 @@
     "name": "Lower-cheek brace, unclipped",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Lower-cheek brace, unclipped; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2758,7 +2758,7 @@
     "name": "Lower-cheek brace, 10 mm root relief",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Lower-cheek brace, 10 mm root relief; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2775,7 +2775,7 @@
     "name": "Mast-seat brace, unclipped",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Mast-seat brace, unclipped; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2792,7 +2792,7 @@
     "name": "Mast-seat brace, 10 mm root relief",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Mast-seat brace, 10 mm root relief; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2809,7 +2809,7 @@
     "name": "Front/rear S attachment mast base seat",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Front/rear S attachment mast base seat; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2826,7 +2826,7 @@
     "name": "Front/rear S attachment crossmember doubler",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Front/rear S attachment crossmember doubler; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2843,7 +2843,7 @@
     "name": "Front/rear S doubler upper support tab",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Front/rear S doubler upper support tab; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2860,7 +2860,7 @@
     "name": "Front/rear S lower attachment cheek",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Front/rear S lower attachment cheek; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2877,7 +2877,7 @@
     "name": "S attachment mast tube",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "S attachment mast tube; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2894,7 +2894,7 @@
     "name": "Front upper attachment carrier, proposed 19.5 mm chassis-pivot alternative",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Front upper attachment carrier, proposed 19.5 mm chassis-pivot alternative; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2911,7 +2911,7 @@
     "name": "J lifting short arm nominal section",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J lifting short arm nominal section; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2928,7 +2928,7 @@
     "name": "J lifting stanchion nominal section",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J lifting stanchion nominal section; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2945,7 +2945,7 @@
     "name": "J lifting tab",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J lifting tab; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2962,7 +2962,7 @@
     "name": "Side lifting-tab root doubler",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Side lifting-tab root doubler; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -2979,7 +2979,7 @@
     "name": "ME0907 moving motor adjustment plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "ME0907 moving motor adjustment plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -2997,7 +2997,7 @@
     "name": "J4 brake hub inner spacer25",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J4 brake hub inner spacer25; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3015,7 +3015,7 @@
     "name": "J4 brake hub outer spacer25",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J4 brake hub outer spacer25; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3033,7 +3033,7 @@
     "name": "J4 brake hub inner spacer30",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J4 brake hub inner spacer30; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3051,7 +3051,7 @@
     "name": "J4 brake hub outer spacer30",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J4 brake hub outer spacer30; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3069,7 +3069,7 @@
     "name": "J4 sprocket-to-wheel spacer25 nominal source proposal",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J4 sprocket-to-wheel spacer25 nominal source proposal; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3087,7 +3087,7 @@
     "name": "J4 sprocket-to-wheel spacer30 nominal source proposal",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J4 sprocket-to-wheel spacer30 nominal source proposal; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3105,7 +3105,7 @@
     "name": "Bearing beam compression sleeve",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Bearing beam compression sleeve; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3123,7 +3123,7 @@
     "name": "SKF 25 mm branch bearing support plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "SKF 25 mm branch bearing support plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3141,7 +3141,7 @@
     "name": "SKF 30 mm branch bearing support plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "SKF 30 mm branch bearing support plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3159,7 +3159,7 @@
     "name": "Sumitomo PRO-L ring-to-rim adapter",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Sumitomo PRO-L ring-to-rim adapter; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3177,7 +3177,7 @@
     "name": "Sumitomo PRO-M ring-to-rim adapter",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Sumitomo PRO-M ring-to-rim adapter; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3195,7 +3195,7 @@
     "name": "J4 guard nominal M6 backing block",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J4 guard nominal M6 backing block; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3213,7 +3213,7 @@
     "name": "J4 guard mounting rail foot",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J4 guard mounting rail foot; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3231,7 +3231,7 @@
     "name": "J4 guard vertical mounting sheet",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J4 guard vertical mounting sheet; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3249,7 +3249,7 @@
     "name": "Nissan Leaf six-module stack end-restraint plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Nissan Leaf six-module stack end-restraint plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3266,7 +3266,7 @@
     "name": "Nissan Leaf two-cassette common floor",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Nissan Leaf two-cassette common floor; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3283,7 +3283,7 @@
     "name": "Leaf cassette support rail",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Leaf cassette support rail; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3300,7 +3300,7 @@
     "name": "BMW elevated tray support angle, welded branch",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "BMW elevated tray support angle, welded branch; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3317,7 +3317,7 @@
     "name": "Battery tray angle riser gusset",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Battery tray angle riser gusset; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3335,7 +3335,7 @@
     "name": "Battery tray gusset with R3 corner relief",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Battery tray gusset with R3 corner relief; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3353,7 +3353,7 @@
     "name": "BMW elevated tray welded riser pad",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "BMW elevated tray welded riser pad; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3370,7 +3370,7 @@
     "name": "BMW shield independent formed upright",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "BMW shield independent formed upright; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3387,7 +3387,7 @@
     "name": "M6 carrier post compression sleeve",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "M6 carrier post compression sleeve; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3405,7 +3405,7 @@
     "name": "M6 rail compression sleeve",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "M6 rail compression sleeve; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3423,7 +3423,7 @@
     "name": "J Kelly side carrier plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J Kelly side carrier plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3440,7 +3440,7 @@
     "name": "J Kelly carrier upright",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "J Kelly carrier upright; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3457,7 +3457,7 @@
     "name": "Orion24/12 Rev00 source-pattern support plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Orion24/12 Rev00 source-pattern support plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3474,7 +3474,7 @@
     "name": "34 mm M6 equipment angle shoe",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "34 mm M6 equipment angle shoe; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3492,7 +3492,7 @@
     "name": "Kelly raised rail gap spacer",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Kelly raised rail gap spacer; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3509,7 +3509,7 @@
     "name": "Albright SW80 end-pattern carrier",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Albright SW80 end-pattern carrier; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3526,7 +3526,7 @@
     "name": "Schneider stop/reset keyed-cutout insert",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Schneider stop/reset keyed-cutout insert; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3543,7 +3543,7 @@
     "name": "M25 gland insert carrier",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "M25 gland insert carrier; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3561,7 +3561,7 @@
     "name": "Removable M25 gland insert",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Removable M25 gland insert; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3579,7 +3579,7 @@
     "name": "Notched trimmed splash panel",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Notched trimmed splash panel; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3596,7 +3596,7 @@
     "name": "Splash stair bridge",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Splash stair bridge; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3613,7 +3613,7 @@
     "name": "Splash stair top-clamp foot",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Splash stair top-clamp foot; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3630,7 +3630,7 @@
     "name": "Splash stair central guard-passage foot",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Splash stair central guard-passage foot; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3647,7 +3647,7 @@
     "name": "Splash stair forward guard-passage foot",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Splash stair forward guard-passage foot; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3664,7 +3664,7 @@
     "name": "Splash stair upstand",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Splash stair upstand; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3681,7 +3681,7 @@
     "name": "Splash stair panel-support plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Splash stair panel-support plate; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3698,7 +3698,7 @@
     "name": "Pilz PNOZX3 774310 relay",
     "subject": "Stock profiles",
     "kind": "part",
-    "description": "Pilz PNOZX3 774310 relay; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "stock profiles"
@@ -3715,7 +3715,7 @@
     "name": "RadioMaster Pocket ELRS transmitter",
     "subject": "Electronics",
     "kind": "part",
-    "description": "RadioMaster Pocket ELRS transmitter; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3732,7 +3732,7 @@
     "name": "radiomaster pocket elrs unfolded clearance envelope",
     "subject": "Electronics",
     "kind": "part",
-    "description": "radiomaster pocket elrs unfolded clearance envelope; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3749,7 +3749,7 @@
     "name": "Schneider XB5AA31 reset button",
     "subject": "Stock profiles",
     "kind": "part",
-    "description": "Schneider XB5AA31 reset button; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "stock profiles"
@@ -3766,7 +3766,7 @@
     "name": "SimpBMS board",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "SimpBMS board; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3784,7 +3784,7 @@
     "name": "SKF SY20TF bearing unit",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "SKF SY20TF bearing unit; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3802,7 +3802,7 @@
     "name": "skf sy20tf",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "skf sy20tf; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3819,7 +3819,7 @@
     "name": "sumitomo eco m ch52578",
     "subject": "Electronics",
     "kind": "part",
-    "description": "sumitomo eco m ch52578; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3836,7 +3836,7 @@
     "name": "sumitomo eco s absolute ch54149",
     "subject": "Electronics",
     "kind": "part",
-    "description": "sumitomo eco s absolute ch54149; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3853,7 +3853,7 @@
     "name": "sumitomo eco s resolver ch51944",
     "subject": "Electronics",
     "kind": "part",
-    "description": "sumitomo eco s resolver ch51944; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3870,7 +3870,7 @@
     "name": "Sumitomo PRO-L CH54527G10 gearmotor",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Sumitomo PRO-L CH54527G10 gearmotor; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3887,7 +3887,7 @@
     "name": "Sumitomo PRO-M CH54065G10 gearmotor",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Sumitomo PRO-M CH54065G10 gearmotor; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3904,7 +3904,7 @@
     "name": "Sumitomo standard driver CH52308G10G10",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Sumitomo standard driver CH52308G10G10; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3921,7 +3921,7 @@
     "name": "sumitomo smartris driver ch52308",
     "subject": "Electronics",
     "kind": "part",
-    "description": "sumitomo smartris driver ch52308; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3938,7 +3938,7 @@
     "name": "tdk i1c2w010a120v 000 r body clearance reference",
     "subject": "Electronics",
     "kind": "part",
-    "description": "tdk i1c2w010a120v 000 r body clearance reference; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -3955,7 +3955,7 @@
     "name": "Tyro Gemini1S remote-stop receiver",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Tyro Gemini1S remote-stop receiver; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical",
@@ -3973,7 +3973,7 @@
     "name": "Tyro Indus1S handheld stop remote",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Tyro Indus1S handheld stop remote; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "mechanical"
@@ -3990,7 +3990,7 @@
     "name": "nano tractor source frame v1",
     "subject": "Groups",
     "kind": "group",
-    "description": "nano tractor source frame v1; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "group",
       "groups"
@@ -4007,7 +4007,7 @@
     "name": "LEVIA U11 source placed complete connector",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "LEVIA U11 source placed complete connector; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -4025,7 +4025,7 @@
     "name": "LEVIA U21 source placed complete connector",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "LEVIA U21 source placed complete connector; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -4043,7 +4043,7 @@
     "name": "LEVIA USB1 source placed complete connector",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "LEVIA USB1 source placed complete connector; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -4061,7 +4061,7 @@
     "name": "SOW BRAIN LEVIA PCB USB1 B198451 source placed",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "SOW BRAIN LEVIA PCB USB1 B198451 source placed; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -4078,7 +4078,7 @@
     "name": "SOW BRAIN LEVIA PCB USB1 THIN BODIES source placed",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "SOW BRAIN LEVIA PCB USB1 THIN BODIES source placed; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -4095,7 +4095,7 @@
     "name": "NEO WITH INTERPOSER BOT",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "NEO WITH INTERPOSER BOT; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -4112,7 +4112,7 @@
     "name": "SOW BRAIN C01 SOURCE 16229",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN C01 SOURCE 16229; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4129,7 +4129,7 @@
     "name": "SOW BRAIN C02 PCB",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN C02 PCB; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4146,7 +4146,7 @@
     "name": "SOW BRAIN C03 F9P PCB",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN C03 F9P PCB; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4163,7 +4163,7 @@
     "name": "SOW BRAIN LEVIA CONNECTOR CENTRAL construction",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN LEVIA CONNECTOR CENTRAL construction; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics",
@@ -4181,7 +4181,7 @@
     "name": "SOW BRAIN LEVIA CONNECTOR SIDES",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN LEVIA CONNECTOR SIDES; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics",
@@ -4199,7 +4199,7 @@
     "name": "SOW BRAIN LEVIA CONNECTOR source local",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN LEVIA CONNECTOR source local; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics",
@@ -4217,7 +4217,7 @@
     "name": "SOW BRAIN LEVIA PCB USB1 B192541",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN LEVIA PCB USB1 B192541; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4234,7 +4234,7 @@
     "name": "SOW BRAIN LEVIA PCB USB1 B198451",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN LEVIA PCB USB1 B198451; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4251,7 +4251,7 @@
     "name": "SOW BRAIN LEVIA PCB USB1 THIN BODIES",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN LEVIA PCB USB1 THIN BODIES; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4268,7 +4268,7 @@
     "name": "SOW BRAIN LEVIA PCB USB1 source local",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW BRAIN LEVIA PCB USB1 source local; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4285,7 +4285,7 @@
     "name": "SOW MAIN C02 OPEN PCB",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW MAIN C02 OPEN PCB; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4302,7 +4302,7 @@
     "name": "SOW SOURCE NEO INTERPOSER BOARD",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW SOURCE NEO INTERPOSER BOARD; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4319,7 +4319,7 @@
     "name": "SOW SOURCE NEO INTERPOSER CONTACTS",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW SOURCE NEO INTERPOSER CONTACTS; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4336,7 +4336,7 @@
     "name": "SOW SOURCE NEO INTERPOSER MAINPCB",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW SOURCE NEO INTERPOSER MAINPCB; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4353,7 +4353,7 @@
     "name": "SOW SOURCE NEO INTERPOSER SHIELD",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SOW SOURCE NEO INTERPOSER SHIELD; existing saved geometry and source specifications.",
+    "description": "",
     "tags": [
       "part",
       "electronics"
@@ -4370,7 +4370,7 @@
     "name": "ODrive D6374 manufacturer motor",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer-source motor solid; 40 source vertices and 7 radii checked; millimetre drawing with retained unit scaling.",
+    "description": "Manufacturer-source motor solid; 40 source vertices and 7 radii checked; millimetre drawing with retained unit scaling",
     "tags": [
       "part",
       "mechanical",
@@ -4388,7 +4388,7 @@
     "name": "Sowbot Mini chassis footprint reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "2D source-profile reference; saved/reopened and checked.",
+    "description": "2D source-profile reference; saved/reopened and checked",
     "tags": [
       "standard",
       "interface references"
@@ -4405,7 +4405,7 @@
     "name": "Hiwonder Pico plate source-profile drawing",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "2D source-profile reference; saved/reopened and checked.",
+    "description": "2D source-profile reference; saved/reopened and checked",
     "tags": [
       "standard",
       "interface references"
@@ -4422,7 +4422,7 @@
     "name": "Pico geared motor primary exterior stage",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "PARTIAL; five source-bound native exterior solids including nominal round shaft; saved/reopened and checked.",
+    "description": "PARTIAL; five source-bound native exterior solids including nominal round shaft; saved/reopened and checked",
     "tags": [
       "part",
       "mechanical",
@@ -4440,7 +4440,7 @@
     "name": "Pico Hiwonder battery pack-size reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Manufacturer 86 × 60 × 21 mm reference envelope; native closed solid saved/reopened and checked.",
+    "description": "Manufacturer 86 × 60 × 21 mm reference envelope; native closed solid saved/reopened and checked",
     "tags": [
       "standard",
       "interface references",
@@ -4458,7 +4458,7 @@
     "name": "LEVIA-H7 board exterior stage",
     "subject": "Electronics",
     "kind": "part",
-    "description": "SAVED_REOPENED_CHECKED; PCB and all 12 external connectors at original source placements; geometry, metadata and reopened matrices checked. Dimensioned installation drawing, native outline and original source mounting references.",
+    "description": "SAVED_REOPENED_CHECKED; PCB and all 12 external connectors at original source placements; geometry, metadata and reopened matrices checked. Dimensioned installation drawing, native outline and original source mounting references",
     "tags": [
       "part",
       "electronics"
@@ -4475,7 +4475,7 @@
     "name": "SparkFun NEO-F9P carrier and module stage",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Partial whole-board exterior; source carrier and 30-body receiver module, 24 contact matches checked.",
+    "description": "Partial whole-board exterior; source carrier and 30-body receiver module, 24 contact matches checked",
     "tags": [
       "part",
       "electronics"
@@ -4492,7 +4492,7 @@
     "name": "Avaota-A1 v1.7 installation substrate",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Partial computer exterior; source perimeter and five apertures checked after save/reopen. Dimensioned installation drawing, source outline/thickness and five perimeter-aperture coordinates.",
+    "description": "Partial computer exterior; source perimeter and five apertures checked after save/reopen. Dimensioned installation drawing, source outline/thickness and five perimeter-aperture coordinates",
     "tags": [
       "part",
       "electronics"
@@ -4509,7 +4509,7 @@
     "name": "Avaota-A1 v1.7 computer installation exterior",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Source-placed board and ten exterior interface definitions, 288 physical bodies checked; source TFT candidate paused separately.",
+    "description": "Source-placed board and ten exterior interface definitions, 288 physical bodies checked; source TFT candidate paused separately",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -4526,7 +4526,7 @@
     "name": "Open BTS7960 Mini source installation drawing",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "PARTIAL; checked 2D source geometry and installation pattern.",
+    "description": "PARTIAL; checked 2D source geometry and installation pattern",
     "tags": [
       "standard",
       "interface references"
@@ -4543,7 +4543,7 @@
     "name": "Brain mounting plate ORP source pattern drawing",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "PARTIAL; checked 2D source geometry and installation pattern.",
+    "description": "PARTIAL; checked 2D source geometry and installation pattern",
     "tags": [
       "standard",
       "interface references",
@@ -4561,7 +4561,7 @@
     "name": "Propow CPN24050 battery dimensional reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "PARTIAL; manufacturer dimension field preserved as three planar drafting rectangles.",
+    "description": "PARTIAL; manufacturer dimension field preserved as three planar drafting rectangles",
     "tags": [
       "standard",
       "interface references",
@@ -4579,7 +4579,7 @@
     "name": "Pico plate-support spacer reconstructed exterior",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "CHECKED_RECONSTRUCTED_EXTERIOR; calibrated orthographic cylinder with retained raster uncertainty.",
+    "description": "CHECKED_RECONSTRUCTED_EXTERIOR; calibrated orthographic cylinder with retained raster uncertainty",
     "tags": [
       "part",
       "mechanical"
@@ -4596,7 +4596,7 @@
     "name": "Physical emergency-stop 22 mm panel interface",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "PARTIAL; source-defined planar installation interface and dimensions.",
+    "description": "PARTIAL; source-defined planar installation interface and dimensions",
     "tags": [
       "standard",
       "interface references"
@@ -4613,7 +4613,7 @@
     "name": "Kee Lite L45-6 supplier dimensional reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "PARTIAL; source-defined planar installation interface and dimensions.",
+    "description": "PARTIAL; source-defined planar installation interface and dimensions",
     "tags": [
       "standard",
       "interface references"
@@ -4630,7 +4630,7 @@
     "name": "Open BTS7960 XH four-pin source connector",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Exact source faceted connector mesh; reopened vertices/faces/source metadata checked.",
+    "description": "Exact source faceted connector mesh; reopened vertices/faces/source metadata checked",
     "tags": [
       "part",
       "electronics",
@@ -4648,7 +4648,7 @@
     "name": "Open BTS7960 XH three-pin source connector",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Exact source faceted connector mesh; reopened vertices/faces/source metadata checked.",
+    "description": "Exact source faceted connector mesh; reopened vertices/faces/source metadata checked",
     "tags": [
       "part",
       "electronics",
@@ -4666,7 +4666,7 @@
     "name": "Open BTS7960 two-pin source terminal",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Exact source faceted connector mesh; reopened vertices/faces/source metadata checked.",
+    "description": "Exact source faceted connector mesh; reopened vertices/faces/source metadata checked",
     "tags": [
       "part",
       "electronics",
@@ -4684,7 +4684,7 @@
     "name": "Pico upper plate perforated planar stage",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Partial faceted 3D plate; 65 source-traced openings and 2 mm supplier thickness; saved/reopened mesh checked.",
+    "description": "Partial faceted 3D plate; 65 source-traced openings and 2 mm supplier thickness; saved/reopened mesh checked",
     "tags": [
       "part",
       "mechanical"
@@ -4701,7 +4701,7 @@
     "name": "Pico lower plate front flange partial exterior",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Partial source-calibrated lower front flange; 101.58 mm width, source 2 mm thickness; saved/reopened closed native solid checked.",
+    "description": "Partial source-calibrated lower front flange; 101.58 mm width, source 2 mm thickness; saved/reopened closed native solid checked",
     "tags": [
       "part",
       "mechanical"
@@ -4718,7 +4718,7 @@
     "name": "Kee Lite L45-6 rear visible surface estimate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Photo-reconstructed open exterior strip and separate nominal tube reference; saved/reopened geometry and metadata checked.",
+    "description": "Photo-reconstructed open exterior strip and separate nominal tube reference; saved/reopened geometry and metadata checked",
     "tags": [
       "part",
       "mechanical"
@@ -4735,7 +4735,7 @@
     "name": "Hiwonder Pico manufacturer upper expansion plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing",
     "tags": [
       "part",
       "mechanical"
@@ -4752,7 +4752,7 @@
     "name": "Hiwonder Pico manufacturer lower formed plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing",
     "tags": [
       "part",
       "mechanical"
@@ -4769,7 +4769,7 @@
     "name": "Hiwonder Pico manufacturer left side carrier",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing",
     "tags": [
       "part",
       "mechanical"
@@ -4786,7 +4786,7 @@
     "name": "Hiwonder Pico manufacturer right side carrier",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing",
     "tags": [
       "part",
       "mechanical"
@@ -4803,7 +4803,7 @@
     "name": "Hiwonder Pico manufacturer whole left track loop",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing",
     "tags": [
       "part",
       "mechanical"
@@ -4820,7 +4820,7 @@
     "name": "Hiwonder Pico manufacturer geared motor exterior",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing",
     "tags": [
       "part",
       "mechanical",
@@ -4838,7 +4838,7 @@
     "name": "Hiwonder Pico manufacturer drive sprocket assembly",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing",
     "tags": [
       "part",
       "mechanical"
@@ -4855,7 +4855,7 @@
     "name": "Hiwonder Pico manufacturer guide end wheel",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing",
     "tags": [
       "part",
       "mechanical",
@@ -4873,7 +4873,7 @@
     "name": "Hiwonder Pico manufacturer lower load roller",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing; shared definition for eight lower and two upper installed rollers.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing; shared definition for eight lower and two upper installed rollers",
     "tags": [
       "part",
       "mechanical"
@@ -4890,7 +4890,7 @@
     "name": "Hiwonder Pico manufacturer suspension arm",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing, supported face profile and pivot/axle cap sections.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing, supported face profile and pivot/axle cap sections",
     "tags": [
       "part",
       "mechanical",
@@ -4908,7 +4908,7 @@
     "name": "Hiwonder Pico manufacturer tension spring exterior",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source geometry and save/reopen PASS; native coil display FAIL. Partial source-sampled coil patch: library 277.",
+    "description": "Manufacturer source geometry and save/reopen PASS; native coil display FAIL. Partial source-sampled coil patch: library 277",
     "tags": [
       "part",
       "mechanical"
@@ -4925,7 +4925,7 @@
     "name": "Hiwonder Pico manufacturer plate support spacer",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing; supported hex caps, across-flat and mouth dimensions.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked. Dimensioned source drawing; supported hex caps, across-flat and mouth dimensions",
     "tags": [
       "part",
       "mechanical"
@@ -4942,7 +4942,7 @@
     "name": "Hiwonder Pico source-sampled partial coil exterior",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Open partial faceted source coil; trim inversion, sampled approximation, exact saved mesh arrays and native viewport display checked.",
+    "description": "Open partial faceted source coil; trim inversion, sampled approximation, exact saved mesh arrays and native viewport display checked",
     "tags": [
       "part",
       "mechanical"
@@ -4959,7 +4959,7 @@
     "name": "Beitian BT-560 antenna",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Partial source reference; native arrays/save/reopen PASS.",
+    "description": "Partial source reference; native arrays/save/reopen PASS",
     "tags": [
       "part",
       "electronics"
@@ -4976,7 +4976,7 @@
     "name": "VariCore VC-1280NA80Ah battery",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Partial source reference; native arrays/save/reopen PASS.",
+    "description": "Partial source reference; native arrays/save/reopen PASS",
     "tags": [
       "part",
       "electronics",
@@ -4994,7 +4994,7 @@
     "name": "GD DG Shengtian main track visible photo reference",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Partial source reference; native arrays/save/reopen PASS.",
+    "description": "Partial source reference; native arrays/save/reopen PASS",
     "tags": [
       "part",
       "mechanical"
@@ -5011,7 +5011,7 @@
     "name": "Beitian BT-560 traced exterior stage",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Partial source reference; native arrays/save/reopen PASS.",
+    "description": "Partial source reference; native arrays/save/reopen PASS",
     "tags": [
       "part",
       "electronics"
@@ -5028,7 +5028,7 @@
     "name": "VariCore VC-1280NA photo exterior stage",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Partial source reference; native arrays/save/reopen PASS.",
+    "description": "Partial source reference; native arrays/save/reopen PASS",
     "tags": [
       "part",
       "electronics"
@@ -5045,7 +5045,7 @@
     "name": "ODrive v3.6 manufacturer size reference",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Partial source reference; native arrays/save/reopen PASS.",
+    "description": "Partial source reference; native arrays/save/reopen PASS",
     "tags": [
       "part",
       "electronics"
@@ -5062,7 +5062,7 @@
     "name": "Hiwonder manufacturer central battery-case geometry — exploded-view interpretation",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked.",
+    "description": "Manufacturer source stage; source vertices/face counts/closed native topology and save/reopen checked",
     "tags": [
       "part",
       "electronics",
@@ -5080,7 +5080,7 @@
     "name": "Brain mounting plate source open face",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "PARTIAL; zero-thickness source face, 10 opening unions; current native arrays and verified SAVE checked.",
+    "description": "PARTIAL; zero-thickness source face, 10 opening unions; current native arrays and verified SAVE checked",
     "tags": [
       "part",
       "mechanical",
@@ -5098,7 +5098,7 @@
     "name": "Open BTS7960 source connectors and board face",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Partial Mini driver exterior; five source connector occurrences, open top face and source drawing. Current source matrices, save-only persistence and views checked.",
+    "description": "Partial Mini driver exterior; five source connector occurrences, open top face and source drawing. Current source matrices, save-only persistence and views checked",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -5117,7 +5117,7 @@
     "name": "Pico spring twelve source-face interiors",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Open source-surface exterior: 12 Mesh interiors, original face1752 reused; current arrays/source hashes, save-only persistence and views checked.",
+    "description": "Open source-surface exterior: 12 Mesh interiors, original face1752 reused; current arrays/source hashes, save-only persistence and views checked",
     "tags": [
       "part",
       "mechanical"
@@ -5134,7 +5134,7 @@
     "name": "BSC A40-00119-C52-12 USB-C female exterior",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Source-reconstructed open exterior, 18 Mesh entities; source arrays, save-only persistence, views and owned-document closure checked.",
+    "description": "Source-reconstructed open exterior, 18 Mesh entities; source arrays, save-only persistence, views and owned-document closure checked",
     "tags": [
       "part",
       "electronics"
@@ -5151,7 +5151,7 @@
     "name": "SparkFun WRL-00593 SMA connector exterior",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Source-reconstructed open exterior, 10 Mesh entities; exact current arrays, save-only persistence, views and owned-document closure checked.",
+    "description": "Source-reconstructed open exterior, 10 Mesh entities; exact current arrays, save-only persistence, views and owned-document closure checked",
     "tags": [
       "part",
       "electronics",
@@ -5169,7 +5169,7 @@
     "name": "JST SM04B-SRSS-TB Qwiic connector exterior",
     "subject": "Electronics",
     "kind": "part",
-    "description": "Source-reconstructed open exterior, 17 Mesh entities; exact current arrays, save-only persistence, views and owned-document closure checked.",
+    "description": "Source-reconstructed open exterior, 17 Mesh entities; exact current arrays, save-only persistence, views and owned-document closure checked",
     "tags": [
       "part",
       "electronics",
@@ -5187,7 +5187,7 @@
     "name": "SparkFun NEO-F9P receiver with connector exteriors",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Source carrier/module plus USB-C, SMA and two Qwiic connector exteriors; 31 solids, 62 Mesh occurrences; source geometry, save-only persistence, views and closure checked. Installation coordinate sheet; exact Eagle mount centres and source connector registrations.",
+    "description": "Source carrier/module plus USB-C, SMA and two Qwiic connector exteriors; 31 solids, 62 Mesh occurrences; source geometry, save-only persistence, views and closure checked. Installation coordinate sheet; exact Eagle mount centres and source connector registrations",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -5206,7 +5206,7 @@
     "name": "Pico spring source-trimmed exterior",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Twelve open source-face meshes, 162,592 vertices and 311,646 triangles; exact source arrays, save-only persistence, current-record views and closure checked.",
+    "description": "Twelve open source-face meshes, 162,592 vertices and 311,646 triangles; exact source arrays, save-only persistence, current-record views and closure checked",
     "tags": [
       "part",
       "mechanical"
@@ -5223,7 +5223,7 @@
     "name": "Pico left gearmotor and sprocket source group",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Left drive pair reusing libraries 270 and 271. Two roots and 19 solid occurrences. Exact source geometry, source placement, saved drawing and four views checked.",
+    "description": "Left drive pair reusing libraries 270 and 271. Two roots and 19 solid occurrences. Exact source geometry, source placement, saved drawing and four views checked",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5240,7 +5240,7 @@
     "name": "Pico left suspension arm and lower roller source group",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Libraries 274 and 273 at the shared source pose of four left suspension positions. Two roots and two solid occurrences. Exact source geometry, save, four views and closure checked.",
+    "description": "Libraries 274 and 273 at the shared source pose of four left suspension positions. Two roots and two solid occurrences. Exact source geometry, save, four views and closure checked",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -5258,7 +5258,7 @@
     "name": "Pico right gearmotor and sprocket source group",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Six right geared motor and thirteen right drive sprocket solids in manufacturer XYZ coordinates. Source identity, placement, topology, save, four views and closure checked.",
+    "description": "Six right geared motor and thirteen right drive sprocket solids in manufacturer XYZ coordinates. Source identity, placement, topology, save, four views and closure checked",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5275,7 +5275,7 @@
     "name": "Pico right suspension arm and lower roller source group",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Right arm and roller source solids in manufacturer XYZ coordinates, with four exact installation translations. Source geometry, save, four views and closure checked.",
+    "description": "Right arm and roller source solids in manufacturer XYZ coordinates, with four exact installation translations. Source geometry, save, four views and closure checked",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -5293,7 +5293,7 @@
     "name": "Pico upper expansion plate and four hex spacers",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Manufacturer upper plate and four hex spacers at their source positions. Five checked solids, 66 plate openings and the source cap-to-plate separation. Save, four views and closure checked.",
+    "description": "Manufacturer upper plate and four hex spacers at their source positions. Five checked solids, 66 plate openings and the source cap-to-plate separation. Save, four views and closure checked",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5310,7 +5310,7 @@
     "name": "Pico lower formed plate and side carriers",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Manufacturer lower formed plate and separately handed side carriers at their source positions. Three checked solids with 565 source faces. Save, four views and closure checked.",
+    "description": "Manufacturer lower formed plate and separately handed side carriers at their source positions. Three checked solids with 565 source faces. Save, four views and closure checked",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5327,7 +5327,7 @@
     "name": "Pico two spring trimmed exterior installation",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Two source spring placements share one stored definition from library 292. Twelve checked open Mesh records and 24 placed occurrences. Source arrays, poses, save, four views and closure checked.",
+    "description": "Two source spring placements share one stored definition from library 292. Twelve checked open Mesh records and 24 placed occurrences. Source arrays, poses, save, four views and closure checked",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5344,7 +5344,7 @@
     "name": "Pico fixed frame and both drive groups",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Upper and lower frame groups and both motor/sprocket pairs reuse libraries 293, 295, 297 and 298. Five placed roots, 46 manufacturer source solids and 4,397 source faces.",
+    "description": "Upper and lower frame groups and both motor/sprocket pairs reuse libraries 293, 295, 297 and 298. Five placed roots, 46 manufacturer source solids and 4,397 source faces",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5361,7 +5361,7 @@
     "name": "Pico frame, drives and lower suspension",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Fixed frame and both drives with eight arm–roller pairs in manufacturer XYZ. Thirteen roots, 50 stored solids, 62 installed solid occurrences and 4,741 source faces.",
+    "description": "Fixed frame and both drives with eight arm–roller pairs in manufacturer XYZ. Thirteen roots, 50 stored solids, 62 installed solid occurrences and 4,741 source faces",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -5379,7 +5379,7 @@
     "name": "Pico frame with guide wheels and upper return rollers",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Library 301 with two guide end wheels and two upper return rollers at the source positions. Sixteen roots, 54 stored solids, 66 installed solid occurrences and 4,861 source faces.",
+    "description": "Library 301 with two guide end wheels and two upper return rollers at the source positions. Sixteen roots, 54 stored solids, 66 installed solid occurrences and 4,861 source faces",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -5397,7 +5397,7 @@
     "name": "Pico eight-spring source visual installation",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Eight source positions share two mesh definitions. Twenty-four stored meshes and 96 placed mesh occurrences. Exact arrays, source placements, save, view and closure checked.",
+    "description": "Eight source positions share two mesh definitions. Twenty-four stored meshes and 96 placed mesh occurrences. Exact arrays, source placements, save, view and closure checked",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5414,7 +5414,7 @@
     "name": "Pico shared-source track loops",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Two placements share 59 stored track-link solids. 118 installed solids and 9,676 faces. Saved readback confirms the signed manufacturer right placement.",
+    "description": "Two placements share 59 stored track-link solids. 118 installed solids and 9,676 faces. Saved readback confirms the signed manufacturer right placement",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5431,7 +5431,7 @@
     "name": "Pico tracked running gear",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Library 302 frame, drives and wheels with both shared-source tracks. Eighteen roots, 113 stored solids, 184 installed solids and 14,537 source faces.",
+    "description": "Library 302 frame, drives and wheels with both shared-source tracks. Eighteen roots, 113 stored solids, 184 installed solids and 14,537 source faces",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5448,7 +5448,7 @@
     "name": "Beitian BT-560 rear mounting interface",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Nominal Ø27.3 mm rear collar reference and 0.4 mm axial seal interface, in the library 281 antenna frame.",
+    "description": "Nominal Ø27.3 mm rear collar reference and 0.4 mm axial seal interface, in the library 281 antenna frame",
     "tags": [
       "standard",
       "interface references",
@@ -5466,7 +5466,7 @@
     "name": "Kee Lite L45-6 nominal tube axes",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Two Ø33.7 mm nominal tube sections with perpendicular axes and 40 mm separation.",
+    "description": "Two Ø33.7 mm nominal tube sections with perpendicular axes and 40 mm separation",
     "tags": [
       "standard",
       "interface references"
@@ -5483,7 +5483,7 @@
     "name": "Pico left tension spring source exterior",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Twelve native face meshes form a closed, outward spring exterior after joining identical vertices. Source arrays, SAVE, views and closure checked.",
+    "description": "Twelve native face meshes form a closed, outward spring exterior after joining identical vertices. Source arrays, SAVE, views and closure checked",
     "tags": [
       "part",
       "mechanical"
@@ -5500,7 +5500,7 @@
     "name": "Pico eight-spring exterior subassembly",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Four library 308 left springs and four retained right springs in the checked chassis frame. Native arrays, eight matrices, SAVE, views and closure checked.",
+    "description": "Four library 308 left springs and four retained right springs in the checked chassis frame. Native arrays, eight matrices, SAVE, views and closure checked",
     "tags": [
       "subassembly",
       "subassemblies"
@@ -5517,7 +5517,7 @@
     "name": "Propow CPN24050 three-dimensional clearance references",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Two checked 306 × 174 mm clearance solids preserve the supplier's 200/220 mm size-field heights.",
+    "description": "Two checked 306 × 174 mm clearance solids preserve the supplier's 200/220 mm size-field heights",
     "tags": [
       "standard",
       "interface references"
@@ -5534,7 +5534,7 @@
     "name": "Yuzuki Avaota-A1 v1.7 board with source connectors",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "309 source-checked board and connector solid instances, including RF1, CN2 and all six DC1 bodies.",
+    "description": "309 source-checked board and connector solid instances, including RF1, CN2 and all six DC1 bodies",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -5553,7 +5553,7 @@
     "name": "Open BTS7960 Mini driver with Mini360 mounting slots",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Checked 21-opening source board face and five preserved terminal locations.",
+    "description": "Checked 21-opening source board face and five preserved terminal locations",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -5572,7 +5572,7 @@
     "name": "Pico HRB 3S 6,000 mAh hard-case clearance",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Source-sized 138 × 46 × 39 mm clearance solid at the tested Pico chassis pose.",
+    "description": "Source-sized 138 × 46 × 39 mm clearance solid at the tested Pico chassis pose",
     "tags": [
       "standard",
       "interface references"
@@ -5589,7 +5589,7 @@
     "name": "Brain Rosmo ORP 28-opening source face",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Complete source opening union in the checked planar mounting-plate face.",
+    "description": "Complete source opening union in the checked planar mounting-plate face",
     "tags": [
       "part",
       "mechanical"
@@ -5606,7 +5606,7 @@
     "name": "Beitian BT-560 joined source skin",
     "subject": "Electronics",
     "kind": "part",
-    "description": "One checked source-traced exterior mesh with an open SMA-J rim.",
+    "description": "One checked source-traced exterior mesh with an open SMA-J rim",
     "tags": [
       "part",
       "electronics"
@@ -5623,7 +5623,7 @@
     "name": "Pico intermediate formed plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Exact Hiwonder body 3037 in manufacturer XYZ, checked as a Pico battery service obstruction.",
+    "description": "Exact Hiwonder body 3037 in manufacturer XYZ, checked as a Pico battery service obstruction",
     "tags": [
       "part",
       "mechanical"
@@ -5640,7 +5640,7 @@
     "name": "Brain board stack vertex envelope",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Checked vertex spans of the five boards and planar ORP face in the saved Brain frame.",
+    "description": "Checked vertex spans of the five boards and planar ORP face in the saved Brain frame",
     "tags": [
       "standard",
       "interface references",
@@ -5658,7 +5658,7 @@
     "name": "Propow CPN24050 220 mm Mini placement envelope",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Exact one-solid source file used by the Mini battery occurrence at its checked placement.",
+    "description": "Exact one-solid source file used by the Mini battery occurrence at its checked placement",
     "tags": [
       "standard",
       "interface references"
@@ -5675,7 +5675,7 @@
     "name": "SparkFun NEO-F9P four-hole ORP mounting witness",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Checked receiver and 28-opening plate with four Ø1.85 mm projected pin outlines.",
+    "description": "Checked receiver and 28-opening plate with four Ø1.85 mm projected pin outlines",
     "tags": [
       "subassembly",
       "subassemblies",
@@ -5693,7 +5693,7 @@
     "name": "Pico HRB 3S 6,000 mAh regular-wrap battery reference",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Source-sized 155 × 48 × 27 mm envelope at the tested interference position.",
+    "description": "Source-sized 155 × 48 × 27 mm envelope at the tested interference position",
     "tags": [
       "standard",
       "interface references",
@@ -5711,7 +5711,7 @@
     "name": "Main Sowbot track straight-run brightness ridges",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Eleven source-photo ridge lines in the existing conditional straight-run track frame.",
+    "description": "Eleven source-photo ridge lines in the existing conditional straight-run track frame",
     "tags": [
       "standard",
       "interface references"
@@ -5728,7 +5728,7 @@
     "name": "Open BTS7960 Mini driver screw-tool entries",
     "subject": "Interface references",
     "kind": "standard",
-    "description": "Six source-matched screw-terminal opening contours in the saved board frame.",
+    "description": "Six source-matched screw-terminal opening contours in the saved board frame",
     "tags": [
       "standard",
       "interface references",
@@ -5747,7 +5747,7 @@
     "name": "Rectangular tube profile fixture",
     "subject": "Mechanical / Stock",
     "kind": "Part",
-    "description": "Original 2D rectangular tube cross-section with a 40 × 20 mm outer profile and 2 mm wall thickness.",
+    "description": "Original 2D rectangular tube cross-section with a 40 × 20 mm outer profile and 2 mm wall thickness",
     "tags": [
       "tube",
       "rectangular tube",
@@ -5770,6 +5770,725 @@
     ],
     "needs_information": true,
     "state": "Original local pilot file.",
-    "file": "tube-profile.dxf"
+    "file": "tube-profile/tube-profile.dxf",
+    "package_assets": [
+      "tube-profile/tube-profile.dxf",
+      "tube-profile/tube-profile.md"
+    ],
+    "previews": [
+      {
+        "file": "tube-profile/profile.png",
+        "thumbnail_file": "tube-profile/thumbnail.png",
+        "view": "Section view",
+        "alt": "Rectangular tube profile showing its outer and inner outlines"
+      }
+    ]
+  },
+  {
+    "id": "assembly-brain-avaota-source-connectors-layout-proposal",
+    "name": "Brain layout proposal with updated Avaota source connectors",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial Brain layout with two Yuzuki Avaota-A1 v1.7 boards carrying RF1, CN2 and DC1 connectors at the retained board placements.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "robot assembly",
+      "Avaota-A1",
+      "RF1 antenna connector",
+      "CN2 audio jack",
+      "DC1 power jack"
+    ],
+    "aliases": [
+      "Sowbot Brain"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-brain-board-layout-proposal",
+    "name": "Brain five-board layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial layout of two Avaota-A1 computers, one LEVIA-H7 controller board and two SparkFun NEO-F9P receivers.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "robot assembly",
+      "Avaota-A1",
+      "LEVIA-H7",
+      "NEO-F9P",
+      "board placement"
+    ],
+    "aliases": [
+      "Sowbot Brain"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-brain-hardware-reference-placement-proposal",
+    "name": "Brain hardware reference placement proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Five-board Brain layout with a planar ORP plate reference, two BT-560 antenna exteriors and a circular switch panel reference.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "robot assembly",
+      "ORP mounting plate",
+      "BT-560",
+      "switch panel",
+      "antenna"
+    ],
+    "aliases": [
+      "Sowbot Brain"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-brain-opposed-sma-layout-proposal",
+    "name": "Brain GNSS receivers with opposed SMA access",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Brain placement proposal with one SparkFun NEO-F9P receiver rotated 180° around its substrate centre so the two SMA connectors face opposite X directions.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "robot assembly",
+      "GNSS",
+      "NEO-F9P",
+      "SMA",
+      "opposed connectors"
+    ],
+    "aliases": [
+      "Sowbot Brain"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-brain-orp-and-antenna-layout-proposal",
+    "name": "Brain layout proposal with corrected ORP plate and joined BT-560 antennas",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Brain placement proposal with a planar Rosmo ORP mounting reference representing 28 source openings and two Beitian BT-560 antenna meshes.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "robot assembly",
+      "Rosmo ORP",
+      "mounting plate",
+      "BT-560",
+      "antenna mesh"
+    ],
+    "aliases": [
+      "Sowbot Brain"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-brain-receiver-exterior-layout-proposal",
+    "name": "Brain receiver-exterior hardware layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Three-tier Brain placement with two updated receiver exteriors. The internal stack bounds cover the five boards and ORP mounting face.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "robot assembly",
+      "GNSS",
+      "NEO-F9P",
+      "board stack",
+      "ORP mounting face"
+    ],
+    "aliases": [
+      "Sowbot Brain"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "internal stack bounds",
+        "value": "106.191 × 100.000 × 63.670 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-brain-stacked-hardware-layout-proposal",
+    "name": "Brain three-tier hardware layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Three-tier Brain proposal. The two Avaota computers occupy separate lower tiers and the receivers and LEVIA controller occupy the upper tier.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "robot assembly",
+      "Avaota-A1",
+      "LEVIA-H7",
+      "GNSS",
+      "board stack"
+    ],
+    "aliases": [
+      "Sowbot Brain"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "proposed represented air gaps",
+        "value": "5 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-main-compact-brain-hardware-layout-proposal",
+    "name": "Main compact Brain hardware layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial Main robot layout with source-visible track patches, six VariCore battery exteriors, two ODrive v3.6 planar outlines and the compact Brain proposal.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "robot assembly",
+      "track patches",
+      "VariCore",
+      "ODrive v3.6",
+      "battery clearance"
+    ],
+    "aliases": [
+      "Sowbot Main"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-main-opposed-sma-layout-proposal",
+    "name": "Main Sowbot layout with opposed GNSS connectors",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Main robot layout with opposed SMA directions on the Brain GNSS receivers and retained battery, controller and track references.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "robot assembly",
+      "GNSS",
+      "SMA",
+      "VariCore",
+      "ODrive v3.6"
+    ],
+    "aliases": [
+      "Sowbot Main"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-main-orp-and-antenna-layout-proposal",
+    "name": "Main Sowbot layout with the corrected ORP plate and BT-560 antennas",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Main robot proposal with a Brain assembly containing the planar Rosmo ORP mounting plate face and two Beitian BT-560 antenna meshes.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "robot assembly",
+      "Rosmo ORP",
+      "BT-560",
+      "antenna mesh",
+      "mounting plate"
+    ],
+    "aliases": [
+      "Sowbot Main"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-main-receiver-exterior-hardware-layout-proposal",
+    "name": "Main receiver-exterior hardware layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial Main layout with the receiver-exterior Brain stage, six VariCore battery exteriors, two planar ODrive v3.6 outlines and source-visible track patches.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "robot assembly",
+      "GNSS",
+      "VariCore",
+      "ODrive v3.6",
+      "track patches"
+    ],
+    "aliases": [
+      "Sowbot Main"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-main-updated-brain-layout-proposal",
+    "name": "Main Sowbot layout with updated Brain",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Main robot proposal with the updated Brain's two Avaota-A1 connector stages, six VariCore VC-1280Na+ battery exteriors, two ODrive v3.6 outlines and a track patch group.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "robot assembly",
+      "Avaota-A1",
+      "VariCore VC-1280Na+",
+      "ODrive v3.6",
+      "track patches"
+    ],
+    "aliases": [
+      "Sowbot Main"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-mini-battery-and-driver-layout-proposal",
+    "name": "Mini Sowbot battery and driver layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Sowbot Mini proposal with an Open BTS7960 driver stage containing a 21-opening source face, a Propow CPN24050 clearance solid, the base reference and the Brain proposal.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "robot assembly",
+      "Open BTS7960",
+      "Propow CPN24050",
+      "driver connector",
+      "battery clearance"
+    ],
+    "aliases": [
+      "Sowbot Mini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "battery clearance solid",
+        "value": "306 × 174 × 220 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-mini-battery-driver-and-brain-layout-proposal",
+    "name": "Mini Sowbot layout with updated Brain, driver and battery clearance",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Mini proposal with the updated Brain's Avaota-A1 connector geometry, the Open BTS7960 driver stage and the Propow CPN24050 clearance solid.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "robot assembly",
+      "Avaota-A1",
+      "Open BTS7960",
+      "Propow CPN24050",
+      "battery clearance"
+    ],
+    "aliases": [
+      "Sowbot Mini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "battery clearance solid",
+        "value": "306 × 174 × 220 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-mini-board-footprint-layout-proposal",
+    "name": "Sowbot Mini footprint and Brain board layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial Mini layout with a closed planar base footprint and the five-board Brain placement proposal.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "robot assembly",
+      "planar footprint",
+      "board placement"
+    ],
+    "aliases": [
+      "Sowbot Mini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "base footprint",
+        "value": "450 × 490 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-mini-compact-brain-hardware-layout-proposal",
+    "name": "Mini compact Brain hardware layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial Mini layout with a planar base, compact Brain, planar Open BTS7960 interface and selected planar Propow CPN24050 battery footprint.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "robot assembly",
+      "planar footprint",
+      "Open BTS7960",
+      "Propow CPN24050",
+      "battery footprint"
+    ],
+    "aliases": [
+      "Sowbot Mini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "base footprint",
+        "value": "450 × 490 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      },
+      {
+        "name": "battery footprint",
+        "value": "306 × 174 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-mini-hardware-battery-envelope-layout-proposal",
+    "name": "Mini Sowbot battery clearance layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Mini proposal replacing the planar battery footprint with a three-dimensional Propow CPN24050 clearance solid and retaining the base, Brain and driver placements.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "robot assembly",
+      "Propow CPN24050",
+      "clearance solid",
+      "Open BTS7960"
+    ],
+    "aliases": [
+      "Sowbot Mini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "battery clearance solid",
+        "value": "306 × 174 × 220 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-mini-hardware-reference-placement-proposal",
+    "name": "Mini hardware reference placement proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial Mini layout with the five-board Brain proposal, planar Open BTS7960 features and a zero-thickness face for the selected battery footprint.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "robot assembly",
+      "Open BTS7960",
+      "planar reference",
+      "battery footprint"
+    ],
+    "aliases": [
+      "Sowbot Mini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "battery footprint",
+        "value": "306 × 174 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-mini-opposed-sma-layout-proposal",
+    "name": "Mini Sowbot layout with opposed GNSS connectors",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Mini installation proposal with opposed SparkFun NEO-F9P SMA directions, a 220 mm battery envelope, Open BTS7960 driver and planar base.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "robot assembly",
+      "GNSS",
+      "NEO-F9P",
+      "SMA",
+      "Open BTS7960"
+    ],
+    "aliases": [
+      "Sowbot Mini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "battery clearance height",
+        "value": "220 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-mini-orp-and-antenna-layout-proposal",
+    "name": "Mini Sowbot layout with the corrected ORP plate and BT-560 antennas",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Mini proposal with a Brain assembly containing the planar Rosmo ORP plate and two Beitian BT-560 antenna meshes.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "robot assembly",
+      "Rosmo ORP",
+      "mounting plate",
+      "BT-560",
+      "antenna mesh"
+    ],
+    "aliases": [
+      "Sowbot Mini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-mini-receiver-exterior-hardware-layout-proposal",
+    "name": "Mini receiver-exterior hardware layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial Mini layout with the updated receiver-exterior Brain, Open BTS7960 connector and face stage, planar base and planar battery footprint.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "robot assembly",
+      "GNSS",
+      "Open BTS7960",
+      "planar footprint",
+      "battery footprint"
+    ],
+    "aliases": [
+      "Sowbot Mini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "base footprint",
+        "value": "450 × 490 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      },
+      {
+        "name": "battery footprint",
+        "value": "306 × 174 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-pico-chassis",
+    "name": "Pico tracked chassis",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Pico tracked chassis with manufacturer-source running gear and eight placed spring references.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Pico",
+      "robot assembly",
+      "Hiwonder",
+      "tracked chassis",
+      "running gear",
+      "spring"
+    ],
+    "aliases": [
+      "Sowbot Pico"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-pico-hardware-source-backed-battery-layout-proposal",
+    "name": "Pico source chassis and central battery-case partial assembly",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial Pico assembly combining a manufacturer-source chassis stage and the central battery-case solid identified in the manufacturer exploded view.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Pico",
+      "robot assembly",
+      "Hiwonder",
+      "tracked chassis",
+      "battery case"
+    ],
+    "aliases": [
+      "Sowbot Pico"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "central case solid",
+        "value": "76.8 × 66.8 × 24 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-pico-hardware-source-twelve-face-spring-battery-layout-proposal",
+    "name": "Pico source chassis with twelve-face spring and central battery-case stage",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial Pico chassis and central battery-case stage. Two supplemental groups of twelve interior spring-face mesh patches represent the coil display surfaces.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Pico",
+      "robot assembly",
+      "Hiwonder",
+      "tracked chassis",
+      "spring mesh",
+      "battery case"
+    ],
+    "aliases": [
+      "Sowbot Pico"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-pico-hrb-service-layout",
+    "name": "Pico HRB battery service layout",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Pico battery service study with the lower frame, HRB clearance solid and two manufacturer-source plates at their recorded positions.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Pico",
+      "robot assembly",
+      "Hiwonder",
+      "HRB",
+      "battery access",
+      "upper expansion plate"
+    ],
+    "aliases": [
+      "Sowbot Pico"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "HRB clearance solid",
+        "value": "138 × 46 × 39 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
+  },
+  {
+    "id": "assembly-pico-lightweight-hrb-bay",
+    "name": "Pico lower-frame and HRB battery clearance layout proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Pico layout with the lower formed plate, left and right side carriers and the HRB hard-case battery clearance solid.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Pico",
+      "robot assembly",
+      "Hiwonder",
+      "HRB",
+      "lower frame",
+      "battery clearance"
+    ],
+    "aliases": [
+      "Sowbot Pico"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "name": "HRB clearance solid",
+        "value": "138 × 46 × 39 mm",
+        "evidence": "represented geometry described in the FERME companion"
+      }
+    ],
+    "needs_information": true,
+    "state": "Catalogue record. CAD download unavailable."
   }
 ]

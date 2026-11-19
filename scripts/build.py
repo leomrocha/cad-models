@@ -1,5 +1,4 @@
 """Build both browser datasets from the same JSON export."""
-import hashlib
 import html
 import json
 import re
@@ -46,7 +45,18 @@ for record in records:
         views.append(dict(url="/" + destination.relative_to(dist).as_posix(), alt=preview["alt"], view=preview["view"]))
     views.sort(key=lambda entry: entry["view"].casefold() != "isometric")
     record["gallery"] = views
-    record["preview"] = views[0] if views else None
+    record["preview"] = views[0].copy() if views else None
+    if views:
+        primary = next(entry for entry in record["previews"] if "/previews/" + entry["file"] == views[0]["url"])
+        if primary.get("thumbnail_file"):
+            relative = Path(primary["thumbnail_file"])
+            source = (preview_source / relative).resolve()
+            if not source.is_relative_to(preview_source) or not source.is_file() or source.suffix.lower() != ".png":
+                raise ValueError(f"Invalid thumbnail for {record['id']}")
+            destination = preview_dist / relative
+            destination.parent.mkdir(parents=True, exist_ok=True)
+            shutil.copyfile(source, destination)
+            record["preview"]["url"] = "/" + destination.relative_to(dist).as_posix()
 
 values = [
     tuple(json.dumps(record[column], ensure_ascii=False) if column in json_fields and record[column] is not None
@@ -127,27 +137,32 @@ home.write_text(home.read_text().replace("<!-- catalogue-tags -->", tag_list))
 def page(title, body):
     return f'<!doctype html><html lang="en"><meta charset="utf-8"><meta name="viewport" content="width=device-width"><title>{html.escape(title)}</title><link rel="stylesheet" href="/style.css"><main><nav><a href="/">Search</a> · <a href="/browse.html">Browse</a> · <a href="/manual.html">Manual</a></nav><h1>{html.escape(title)}</h1>{body}</main></html>'
 
-def make_dxf():
-    pairs = [(0, "SECTION"), (2, "HEADER"), (9, "$ACADVER"), (1, "AC1015"),
-             (9, "$INSUNITS"), (70, 4), (0, "ENDSEC"), (0, "SECTION"), (2, "ENTITIES")]
-    for points in [[(0,0),(40,0),(40,20),(0,20)], [(2,2),(38,2),(38,18),(2,18)]]:
-        pairs.extend([(0,"LWPOLYLINE"), (100,"AcDbEntity"), (8,"0"), (100,"AcDbPolyline"), (90,4), (70,1)])
-        for x, y in points:
-            pairs.extend([(10,x),(20,y)])
-    pairs.extend([(0,"ENDSEC"),(0,"EOF")])
-    return "".join(f"{code}\n{value}\n" for code,value in pairs)
-
 model_dir = dist / "models"
 model_dir.mkdir(exist_ok=True)
 for stale in model_dir.glob("*.html"):
     if stale.stem not in id_set:
         stale.unlink()
+
 downloads = dist / "downloads"
-downloads.mkdir(exist_ok=True)
-dxf = downloads / "tube-profile.dxf"
-dxf.write_text(make_dxf())
-companion = dxf.with_suffix(".md")
-companion.write_text(f"# Rectangular tube profile fixture\n\n2D DXF, mm. Outer profile 40 × 20 mm, wall 2 mm.\n\nSHA-256: {hashlib.sha256(dxf.read_bytes()).hexdigest()}\n\nOriginal pilot geometry. The file is a section profile. A tube length belongs to a separate extrusion.\n")
+if downloads.exists():
+    shutil.rmtree(downloads)
+package_source = Path("data/packages").resolve()
+for record in records:
+    native = record.get("file")
+    assets = record.get("package_assets", [])
+    if not native:
+        continue
+    companion = Path(native).with_suffix(".md").as_posix()
+    if native not in assets or companion not in assets:
+        raise ValueError(f"Model and existing companion must be listed for {record['id']}")
+    for asset in assets:
+        path = Path(asset)
+        source = (package_source / path).resolve()
+        if path.is_absolute() or ".." in path.parts or not source.is_relative_to(package_source) or not source.is_file():
+            raise ValueError(f"Invalid package asset for {record['id']}: {asset}")
+        destination = downloads / path
+        destination.parent.mkdir(parents=True, exist_ok=True)
+        shutil.copyfile(source, destination)
 
 subjects = {}
 for record in records:
@@ -168,8 +183,10 @@ for record in records:
                 text = " · ".join(value.values()) if isinstance(value, dict) else value
                 detail.append(f'<li>{html.escape(text)}</li>')
             detail.append('</ul>')
-    if record.get("file") == dxf.name:
-        detail.append(f'<p><a href="/downloads/{dxf.name}" download>Download DXF</a> · <a href="/downloads/{companion.name}">Companion</a></p>')
+    if record.get("file"):
+        native = html.escape(record["file"], quote=True)
+        markdown = html.escape(Path(record["file"]).with_suffix(".md").as_posix(), quote=True)
+        detail.append(f'<p><a href="/downloads/{native}" download>Download CAD file</a> · <a href="/downloads/{markdown}">Companion</a></p>')
     (model_dir / f'{record["id"]}.html').write_text(page(record["name"], "".join(detail)))
     subjects.setdefault(record["subject"], []).append(record)
 body = []

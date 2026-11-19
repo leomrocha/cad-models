@@ -4,8 +4,8 @@ CAD Models is a searchable catalogue of CAD parts, assemblies, and reference
 drawings. Each entry describes the model and links to available CAD files, preview
 images, and technical companions.
 
-The current index contains 320 entries, including 319 reusable CAD model records
-and the original tube-profile DXF. Each entry lists its available downloads.
+The catalogue includes reusable CAD models and assembly references. Each
+entry shows the files currently available for download.
 
 **[Search the catalogue](https://leomrocha.github.io/cad-models/)**
 · [Browse subjects](https://leomrocha.github.io/cad-models/browse.html)
@@ -46,6 +46,9 @@ and pass `--engine duckdb`. Both engines return JSON. The
 interpret results and share findings.
 
 ## Build and maintain the site
+
+See the [preview workflow](https://leomrocha.github.io/cad-models/preview-workflow.html)
+for model images and search thumbnails.
 
 The Jekyll source and published catalogue assets are in `docs/`.
 Build and preview the site locally with Jekyll and Node.js.

@@ -35,11 +35,13 @@ for record in records:
     record.pop("sources", None)
     record.pop("download", None)
     record.pop("companion", None)
+    record.pop("repo_folder", None)
     file = Path(record.get("file") or "")
     native = (downloads / file).resolve()
     if native.is_relative_to(downloads) and file.suffix.lower() in model_formats and native.is_file():
         path = native.relative_to(dist)
         record["download"] = "/" + path.as_posix()
+        record["repo_folder"] = "/" + path.parent.as_posix()
         companion = path.with_suffix(".md")
         if (dist / companion).is_file():
             record["companion"] = "/" + companion.as_posix()

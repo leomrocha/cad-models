@@ -35,8 +35,9 @@ structure. The maintainer reviews the proposed change.
 5. Include available, redistribution-cleared previews. An isometric thumbnail is
    preferred. Front, side, top, and detail views are also useful. Store PNG,
    JPEG, or WebP files under `data/previews/` and list them in the model's
-   `previews` array with `view`, `file`, and `alt` fields. Models can be listed
-   while preview images are unavailable.
+   `previews` array with `view`, `file`, and `alt` fields. Add `thumbnail_file`
+   for the primary search-card thumbnail. The [preview workflow](https://leomrocha.github.io/cad-models/preview-workflow.html)
+   describes image sizes and review. Models can be listed while images are unavailable.
 
 ## Send a change for review
 

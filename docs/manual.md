@@ -32,6 +32,9 @@ and any documented adaptation instructions.
 
 ## Help improve the catalogue
 
+Follow the [preview workflow]({{ '/preview-workflow.html' | relative_url }})
+when contributing a model image or search thumbnail.
+
 Use the [contribution guide]({{ '/contributing.html' | relative_url }}) to
 report an error, suggest a change, or propose a model or subject. If you want
 to query the catalogue from a script or agent, see the

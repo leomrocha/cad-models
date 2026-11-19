@@ -6,7 +6,9 @@ layout: default
 {% if model.download %}
 {% assign download_parts = model.download | split: '/' %}
 {% capture raw_url %}{{ site.raw_download_base }}{% for segment in download_parts %}{% unless segment == empty %}/{{ segment | url_encode | replace: '+', '%20' }}{% endunless %}{% endfor %}{% endcapture %}
-<p><a href="{{ raw_url | escape }}">Download {{ model.file | split: '.' | last | upcase }} CAD model</a>{% if model.companion %} · <a href="{{ model.companion | relative_url }}">Companion</a>{% endif %}</p>
+{% assign folder_parts = model.repo_folder | split: '/' %}
+{% capture folder_url %}{{ site.model_repo_base }}{% for segment in folder_parts %}{% unless segment == empty %}/{{ segment | url_encode | replace: '+', '%20' }}{% endunless %}{% endfor %}{% endcapture %}
+<p><a href="{{ folder_url | escape }}">Model folder on GitHub</a> · <a href="{{ raw_url | escape }}">Download {{ model.file | split: '.' | last | upcase }} CAD model</a>{% if model.companion %} · <a href="{{ model.companion | relative_url }}">Companion</a>{% endif %}</p>
 {% else %}
 <p>{{ model.state | escape }}</p>
 {% endif %}
