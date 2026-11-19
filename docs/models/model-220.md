@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Tyro Indus1S handheld stop remote"
+title: CAD model
 model_id: model-220
 permalink: /models/model-220.html
 ---

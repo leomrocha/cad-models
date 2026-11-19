@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "LEVIA-H7 board exterior stage"
+title: CAD model
 model_id: model-249
 permalink: /models/model-249.html
 ---

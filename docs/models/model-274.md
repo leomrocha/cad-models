@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Hiwonder Pico manufacturer suspension arm"
+title: CAD model
 model_id: model-274
 permalink: /models/model-274.html
 ---

@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "SKF SY20TF bearing unit"
+title: CAD model
 model_id: model-209
 permalink: /models/model-209.html
 ---

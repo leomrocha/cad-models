@@ -8,7 +8,7 @@ from pathlib import Path
 parser = argparse.ArgumentParser(description=__doc__)
 parser.add_argument("query", nargs="?", default="")
 parser.add_argument("--engine", choices=("sqlite", "duckdb"), default="sqlite")
-parser.add_argument("--data", type=Path, default=Path(__file__).resolve().parents[1] / "dist/data")
+parser.add_argument("--data", type=Path, default=Path(__file__).resolve().parents[1] / "data")
 parser.add_argument("--filter", nargs=2, metavar=("FIELD", "VALUE"), action="append", default=[])
 parser.add_argument("--needs-information", action="store_true")
 parser.add_argument("--limit", type=int, default=20)

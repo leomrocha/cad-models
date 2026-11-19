@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Propow CPN24050 three-dimensional clearance references"
+title: CAD model
 model_id: model-310
 permalink: /models/model-310.html
 ---

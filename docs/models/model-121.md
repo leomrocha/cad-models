@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "M10 deck/lift foot compression sleeve"
+title: CAD model
 model_id: model-121
 permalink: /models/model-121.html
 ---

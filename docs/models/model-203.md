@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Splash stair panel-support plate"
+title: CAD model
 model_id: model-203
 permalink: /models/model-203.html
 ---

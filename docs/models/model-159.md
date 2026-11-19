@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "J lifting short arm nominal section"
+title: CAD model
 model_id: model-159
 permalink: /models/model-159.html
 ---

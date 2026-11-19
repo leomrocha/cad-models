@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Hiwonder Pico source-sampled partial coil exterior"
+title: CAD model
 model_id: model-277
 permalink: /models/model-277.html
 ---

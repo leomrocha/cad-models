@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "BMW elevated tray welded riser pad"
+title: CAD model
 model_id: model-184
 permalink: /models/model-184.html
 ---

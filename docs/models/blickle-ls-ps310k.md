@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Blickle LS-PS310K caster reference"
+title: CAD model
 model_id: blickle-ls-ps310k
 permalink: /models/blickle-ls-ps310k.html
 ---

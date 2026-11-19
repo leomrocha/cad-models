@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Hiwonder Pico manufacturer whole left track loop"
+title: CAD model
 model_id: model-269
 permalink: /models/model-269.html
 ---

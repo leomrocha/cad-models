@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Albright SW80 end-pattern carrier"
+title: CAD model
 model_id: model-193
 permalink: /models/model-193.html
 ---

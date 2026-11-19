@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Altec ALT-SB50RAMBKT bracket"
+title: CAD model
 model_id: model-57
 permalink: /models/model-57.html
 ---

@@ -1,6 +1,5 @@
 """Repair the existing public tube profile in a distinct DXF and compare its entities."""
 import hashlib
-import json
 from collections import Counter
 from pathlib import Path
 import sys
@@ -109,8 +108,6 @@ def run():
         raise AssertionError("Duplicate contour must require clarification")
     assert all(o.dxf.layer=="0" and not o.has_xdata(APP) for o in negative.modelspace())
     assert digest(SOURCE)==original_hash
-    for name, content in [("tube-expected",{"objects":expected}),("tube-reopened",rows)]:
-        (BASE/"results"/(name+".json")).write_text(json.dumps(content,indent=2)+"\n")
     preview(original,"tube-before")
     preview(reopened,"tube-after")
     print("PASS: real original two contours both on layer 0; separately selectable named layers after repair; all vertices/widths/bulges/closed flags/normals/elevations/units unchanged; ambiguous duplicate refused; repeat semantic equality; original SHA-256",original_hash)

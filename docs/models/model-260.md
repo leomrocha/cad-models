@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Open BTS7960 XH three-pin source connector"
+title: CAD model
 model_id: model-260
 permalink: /models/model-260.html
 ---

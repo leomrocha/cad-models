@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "SOW MAIN C02 OPEN PCB"
+title: CAD model
 model_id: model-238
 permalink: /models/model-238.html
 ---

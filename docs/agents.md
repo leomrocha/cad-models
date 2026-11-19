@@ -7,13 +7,13 @@ permalink: /agents.html
 ## Search the published catalogue data
 
 Use the [repository checkout](https://github.com/leomrocha/cad-models) and run
-the read-only Python command from its root. The SQLite database in `docs/data`
+the read-only Python command from its root. The SQLite database in `data`
 can be queried as soon as the repository is available locally.
 
 ```sh
-python scripts/search.py --data docs/data 'LS-PS310K'
-python scripts/search.py --data docs/data --filter tags caster --limit 10
-python scripts/search.py --data docs/data --needs-information --limit 10
+python scripts/search.py --data data 'LS-PS310K'
+python scripts/search.py --data data --filter tags caster --limit 10
+python scripts/search.py --data data --needs-information --limit 10
 ```
 
 Use `--engine duckdb` with an interpreter that has the project's DuckDB

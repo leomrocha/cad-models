@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Hiwonder Pico manufacturer lower formed plate"
+title: CAD model
 model_id: model-266
 permalink: /models/model-266.html
 ---

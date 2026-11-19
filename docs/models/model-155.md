@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Front/rear S doubler upper support tab"
+title: CAD model
 model_id: model-155
 permalink: /models/model-155.html
 ---

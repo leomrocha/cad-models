@@ -36,8 +36,8 @@ Run these commands from the repository root. SQLite uses Python's standard
 library and searches the database already included in the checkout.
 
 ```sh
-python scripts/search.py --data docs/data 'LS-PS310K'
-python scripts/search.py --data docs/data --filter tags caster --limit 10
+python scripts/search.py --data data 'LS-PS310K'
+python scripts/search.py --data data --filter tags caster --limit 10
 ```
 
 For DuckDB, use an interpreter with the dependencies from `requirements.txt`
@@ -54,7 +54,7 @@ link directly to the tracked files on `raw.githubusercontent.com`.
 See the [preview workflow](https://leomrocha.github.io/cad-models/preview-workflow.html)
 for model images and search thumbnails.
 
-The Jekyll source and published catalogue assets are in `docs/`.
+The Jekyll site source is in `docs/`.
 Build and preview the site locally with Jekyll and Node.js.
 
 ```sh
@@ -63,19 +63,18 @@ CATALOGUE_ROOT=_site node scripts/serve.mjs
 ```
 
 Open <http://127.0.0.1:8339>. Edit the user-facing Markdown in `docs/`.
-Edit the root `CONTRIBUTING.md` for changes to the published contribution guide.
+The site links to the repository contribution guide.
 
-For changes to catalogue data or browser assets, refresh the generated files
+For changes to catalogue records, refresh the generated indexes and model routes
 from the repository root, then run the Jekyll build again.
 
 ```sh
-npm ci
 python -m venv .venv
 .venv/bin/pip install -r requirements.txt
-node scripts/export.mjs
 .venv/bin/python scripts/build.py
 python scripts/sync-docs.py
 ```
 
 The model metadata starts in `data/pilot.json`. The sync command updates
-the Jekyll model entries, search assets, and contribution guide.
+the Jekyll model routes. The catalogue JSON, SQLite, and Parquet files live in
+`data/`. The browser loads them directly from the repository.

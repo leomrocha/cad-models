@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Blickle LS-VLE250K caster reference"
+title: CAD model
 model_id: model-2
 permalink: /models/model-2.html
 ---

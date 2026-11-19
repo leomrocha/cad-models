@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Caster arm triangular brace"
+title: CAD model
 model_id: model-146
 permalink: /models/model-146.html
 ---

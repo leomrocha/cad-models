@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "SOW BRAIN C02 PCB"
+title: CAD model
 model_id: model-229
 permalink: /models/model-229.html
 ---

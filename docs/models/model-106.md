@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Motenergy ME0907 motor"
+title: CAD model
 model_id: model-106
 permalink: /models/model-106.html
 ---

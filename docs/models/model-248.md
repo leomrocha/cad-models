@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Pico Hiwonder battery pack-size reference"
+title: CAD model
 model_id: model-248
 permalink: /models/model-248.html
 ---

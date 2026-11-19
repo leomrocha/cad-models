@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Pico left gearmotor and sprocket source group"
+title: CAD model
 model_id: model-293
 permalink: /models/model-293.html
 ---

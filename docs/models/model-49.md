@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "side lifting supports j3f"
+title: CAD model
 model_id: model-49
 permalink: /models/model-49.html
 ---

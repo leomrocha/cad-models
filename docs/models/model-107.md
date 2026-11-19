@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "neugart ngv064 wheel 160"
+title: CAD model
 model_id: model-107
 permalink: /models/model-107.html
 ---

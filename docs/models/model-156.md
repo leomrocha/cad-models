@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Front/rear S lower attachment cheek"
+title: CAD model
 model_id: model-156
 permalink: /models/model-156.html
 ---

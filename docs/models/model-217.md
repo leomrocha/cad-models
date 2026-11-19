@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "sumitomo smartris driver ch52308"
+title: CAD model
 model_id: model-217
 permalink: /models/model-217.html
 ---

@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Open BTS7960 Mini driver screw-tool entries"
+title: CAD model
 model_id: model-322
 permalink: /models/model-322.html
 ---

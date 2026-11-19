@@ -1,4 +1,4 @@
-import {pageSizes, search} from './engine.mjs?v=5';
+import {pageSizes, search} from './engine.mjs?v=6';
 const $ = id => document.getElementById(id);
 function readState(url) {
   const params = url.searchParams;
@@ -36,7 +36,7 @@ const pagers = [...document.querySelectorAll('.pagination')];
 let worker;
 let generation = 0;
 function sqlite(request, args) {
-  worker ??= new Worker(new URL('./sqlite-worker.mjs?v=5', import.meta.url), {type:'module'});
+  worker ??= new Worker(new URL('./sqlite-worker.mjs?v=6', import.meta.url), {type:'module'});
   return new Promise((resolve, reject) => {
     function cleanup() {
       worker.removeEventListener('message', receive);
@@ -134,15 +134,14 @@ $('engine').addEventListener('change', newSearch);
 $('page-size').addEventListener('change', () => {
   render({...active, pageSize: Number($('page-size').value), page: 1}, 'pushState');
 });
-for (const selector of document.querySelectorAll('#search-tags [data-tag]')) {
-  selector.addEventListener('click', event => {
-    if (!plainClick(event)) return;
-    event.preventDefault();
-    $('field').value = 'tags';
-    $('value').value = selector.dataset.tag;
-    newSearch();
-  });
-}
+$('search-tags').addEventListener('click', event => {
+  const selector = event.target.closest('[data-tag]');
+  if (!selector || !plainClick(event)) return;
+  event.preventDefault();
+  $('field').value = 'tags';
+  $('value').value = selector.dataset.tag;
+  newSearch();
+});
 for (const pager of pagers) {
   pager.addEventListener('click', event => {
     const button = event.target.closest('button[data-page]');

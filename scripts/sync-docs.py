@@ -1,14 +1,12 @@
-"""Refresh generated Jekyll data, model entries and static assets from dist."""
+"""Refresh stable Jekyll model routes from the standalone catalogue."""
 import json
-import shutil
 from pathlib import Path
 
 from catalogue_urls import FOLDER_BASE, RAW_BASE, repository_path
 
 root = Path(__file__).resolve().parents[1]
-dist = root / "dist"
 docs = root / "docs"
-records = json.loads((dist / "data/catalogue.json").read_text())
+records = json.loads((root / "data/catalogue.json").read_text())
 for record in records:
     if not record.get("file"):
         continue
@@ -23,14 +21,6 @@ for record in records:
         if view and view["url"] not in images:
             raise ValueError(f"Invalid repository image for {record['id']}")
 
-for name in ("data", "vendor"):
-    source, target = dist / name, docs / name
-    if target.exists():
-        shutil.rmtree(target)
-    if source.is_dir():
-        shutil.copytree(source, target)
-for name in ("app.mjs", "sqlite-worker.mjs", "engine.mjs", "style.css"):
-    shutil.copyfile(dist / name, docs / name)
 model_dir = docs / "models"
 model_dir.mkdir(exist_ok=True)
 ids = {record["id"] for record in records}
@@ -39,18 +29,8 @@ for stale in model_dir.glob("*.md"):
         stale.unlink()
 for record in records:
     model_id = record["id"]
-    title = json.dumps(record["name"], ensure_ascii=False)
     entry = model_dir / f"{model_id}.md"
     entry.write_text(
-        f"---\n# Generated catalogue entry\nlayout: model\ntitle: {title}\n"
+        f"---\n# Generated catalogue entry\nlayout: model\ntitle: CAD model\n"
         f"model_id: {model_id}\npermalink: /models/{model_id}.html\n---\n"
     )
-
-metadata = docs / "_data"
-metadata.mkdir(exist_ok=True)
-(metadata / "catalogue.json").write_text(json.dumps(records, ensure_ascii=False, indent=2) + "\n")
-guide = (root / "CONTRIBUTING.md").read_text()
-(docs / "contributing.md").write_text(
-    "---\nlayout: default\ntitle: Contribute to CAD Models\npermalink: /contributing.html\n---\n\n"
-    + guide.removeprefix("# Contribute to CAD Models\n\n")
-)

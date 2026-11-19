@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "SparkFun NEO-F9P four-hole ORP mounting witness"
+title: CAD model
 model_id: model-319
 permalink: /models/model-319.html
 ---

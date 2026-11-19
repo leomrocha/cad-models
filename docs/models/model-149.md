@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Lower-cheek brace, unclipped"
+title: CAD model
 model_id: model-149
 permalink: /models/model-149.html
 ---

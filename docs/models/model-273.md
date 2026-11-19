@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Hiwonder Pico manufacturer lower load roller"
+title: CAD model
 model_id: model-273
 permalink: /models/model-273.html
 ---

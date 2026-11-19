@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Holybro Pixhawk6C hardware"
+title: CAD model
 model_id: model-84
 permalink: /models/model-84.html
 ---

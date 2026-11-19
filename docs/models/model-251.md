@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Avaota-A1 v1.7 installation substrate"
+title: CAD model
 model_id: model-251
 permalink: /models/model-251.html
 ---

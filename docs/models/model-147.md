@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Caster arm brace with primary-spacer relief"
+title: CAD model
 model_id: model-147
 permalink: /models/model-147.html
 ---

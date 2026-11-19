@@ -67,7 +67,11 @@ def main():
             checks[name]=receipt
         assert len(checks)==7
         positive=json.loads(invoke(sys.executable,str(tool),str(expected),str(BASE/"results/joint-reopened.json")).stdout)
-        repair=json.loads(invoke(sys.executable,str(tool),str(BASE/"results/tube-expected.json"),str(BASE/"results/tube-reopened.json")).stdout)
+        from tube_repair import TARGET, inventory
+        import ezdxf
+        tube_observed = tmp / "tube-reopened.json"
+        tube_observed.write_text(json.dumps(inventory(ezdxf.readfile(TARGET))))
+        repair=json.loads(invoke(sys.executable,str(tool),str(BASE/"results/tube-expected.json"),str(tube_observed)).stdout)
         fixture=opt.format_skill/"fixtures/inventory.json"
         planner=opt.format_skill/"scripts/routes.py"
         args=[sys.executable,str(planner),str(fixture),"--connection","workshop-fixture",

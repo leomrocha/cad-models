@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Caster angle-setting pin, structural-S proposal"
+title: CAD model
 model_id: model-66
 permalink: /models/model-66.html
 ---

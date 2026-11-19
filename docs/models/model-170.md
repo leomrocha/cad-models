@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Bearing beam compression sleeve"
+title: CAD model
 model_id: model-170
 permalink: /models/model-170.html
 ---

@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Splash stair top-clamp foot"
+title: CAD model
 model_id: model-199
 permalink: /models/model-199.html
 ---

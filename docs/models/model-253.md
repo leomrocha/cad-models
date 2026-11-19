@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Open BTS7960 Mini source installation drawing"
+title: CAD model
 model_id: model-253
 permalink: /models/model-253.html
 ---

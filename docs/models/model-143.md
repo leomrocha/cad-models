@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Caster setting side spacer"
+title: CAD model
 model_id: model-143
 permalink: /models/model-143.html
 ---

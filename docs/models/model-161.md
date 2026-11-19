@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "J lifting tab"
+title: CAD model
 model_id: model-161
 permalink: /models/model-161.html
 ---

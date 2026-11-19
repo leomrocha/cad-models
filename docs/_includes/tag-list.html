@@ -1,6 +1,1 @@
-{% assign tags = site.data.catalogue | map: 'tags' | join: '|' | split: '|' | uniq | sort_natural %}
-<ul class="tag-list" aria-label="Catalogue tags">
-  {% for tag in tags %}
-  <li><a href="{{ '/' | relative_url }}?tag={{ tag | url_encode }}" data-tag="{{ tag | escape }}">{{ tag | escape }}</a></li>
-  {% endfor %}
-</ul>
+<ul class="tag-list" aria-label="Catalogue tags" data-catalogue-tags data-search-url="{{ '/' | relative_url }}"></ul>

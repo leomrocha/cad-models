@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Avaota-A1 v1.7 computer installation exterior"
+title: CAD model
 model_id: model-252
 permalink: /models/model-252.html
 ---

@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "LEVIA U11 source placed complete connector"
+title: CAD model
 model_id: model-222
 permalink: /models/model-222.html
 ---

@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "front attachment lower cheeks and mast s"
+title: CAD model
 model_id: model-33
 permalink: /models/model-33.html
 ---

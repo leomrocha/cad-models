@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "LEVIA USB1 source placed complete connector"
+title: CAD model
 model_id: model-224
 permalink: /models/model-224.html
 ---

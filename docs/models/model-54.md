@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "sumitomo pro l adapter interface"
+title: CAD model
 model_id: model-54
 permalink: /models/model-54.html
 ---

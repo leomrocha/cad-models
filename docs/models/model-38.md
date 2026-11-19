@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "leaf layered bank and nominal rod hardware"
+title: CAD model
 model_id: model-38
 permalink: /models/model-38.html
 ---

@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "CPC-T5008 cable lug"
+title: CAD model
 model_id: model-80
 permalink: /models/model-80.html
 ---

@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Motenergy right fixed motor backbone"
+title: CAD model
 model_id: model-116
 permalink: /models/model-116.html
 ---

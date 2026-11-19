@@ -2,7 +2,7 @@ import {createServer} from 'node:http';
 import {createReadStream, statSync} from 'node:fs';
 import {extname, resolve, sep} from 'node:path';
 
-const root = resolve(process.env.CATALOGUE_ROOT || 'dist');
+const root = resolve(process.env.CATALOGUE_ROOT || '_site');
 const base = (process.env.CATALOGUE_BASE || '').replace(/\/$/, '');
 const types = {'.html':'text/html', '.mjs':'text/javascript', '.js':'text/javascript', '.css':'text/css', '.wasm':'application/wasm', '.json':'application/json', '.md':'text/plain'};
 createServer((req, res) => {

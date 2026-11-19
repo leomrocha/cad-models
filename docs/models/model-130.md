@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Caster clevis cheek for 250 mm wheel"
+title: CAD model
 model_id: model-130
 permalink: /models/model-130.html
 ---

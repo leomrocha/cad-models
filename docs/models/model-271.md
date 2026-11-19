@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Hiwonder Pico manufacturer drive sprocket assembly"
+title: CAD model
 model_id: model-271
 permalink: /models/model-271.html
 ---

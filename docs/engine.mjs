@@ -1,3 +1,4 @@
+import {dataURL} from './catalogue.mjs';
 const quote = value => "'" + value.replaceAll("'", "''") + "'";
 const tokens = text => text.toLowerCase().match(/[\p{L}\p{N}]+/gu) || [];
 const esc = text => text.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
@@ -6,7 +7,7 @@ const choices = new Set(['subject', 'kind', 'tags', 'materials', 'standards', 'd
 async function sqliteEngine() {
   const {default: init} = await import('./vendor/sqlite/index.mjs');
   const sqlite = await init();
-  const response = await fetch('./data/catalogue.sqlite');
+  const response = await fetch(dataURL('catalogue.sqlite'));
   if (!response.ok) throw new Error('SQLite download failed');
   const bytes = new Uint8Array(await response.arrayBuffer());
   const db = new sqlite.oo1.DB();
@@ -21,7 +22,9 @@ async function duckEngine() {
   const db = new duck.AsyncDuckDB(new duck.VoidLogger(), worker);
   await db.instantiate(new URL('./vendor/duckdb/duckdb-eh.wasm', location.href).href);
   for (const name of ['catalogue', 'facets']) {
-    await db.registerFileURL(name + '.parquet', new URL('./data/' + name + '.parquet', location.href).href, duck.DuckDBDataProtocol.HTTP, false);
+    const response = await fetch(dataURL(name + '.parquet'));
+    if (!response.ok) throw new Error('Parquet download failed: ' + name);
+    await db.registerFileBuffer(name + '.parquet', new Uint8Array(await response.arrayBuffer()));
   }
   const conn = await db.connect();
   await conn.query("CREATE VIEW models AS SELECT * FROM read_parquet('catalogue.parquet')");

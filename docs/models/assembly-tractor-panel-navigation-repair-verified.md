@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Panel navigation repair, first verified geometry iteration"
+title: CAD model
 model_id: assembly-tractor-panel-navigation-repair-verified
 permalink: /models/assembly-tractor-panel-navigation-repair-verified.html
 ---

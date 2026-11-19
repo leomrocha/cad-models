@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "splash stair right forward four piece"
+title: CAD model
 model_id: model-53
 permalink: /models/model-53.html
 ---

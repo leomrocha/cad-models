@@ -10,13 +10,5 @@ permalink: /browse.html
 
 ## Browse by subject
 
-{% assign subjects = site.data.catalogue | group_by: 'subject' | sort: 'name' %}
-{% for subject in subjects %}
-<h3>{{ subject.name | escape }}</h3>
-<ul>
-  {% for model in subject.items %}
-  {% assign path = '/models/' | append: model.id | append: '.html' %}
-  <li><a href="{{ path | relative_url }}">{{ model.name | escape }}</a></li>
-  {% endfor %}
-</ul>
-{% endfor %}
+<div id="catalogue-subjects" data-model-url="{{ '/models/' | relative_url }}" aria-live="polite"></div>
+<script type="module" src="{{ '/catalogue.mjs' | relative_url }}"></script>

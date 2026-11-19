@@ -28,21 +28,18 @@ with tempfile.TemporaryDirectory(dir=ROOT/"_local") as tmp:
     data=build/"data"
     data.mkdir()
     (data/"pilot.json").write_text(json.dumps(entries))
-    for item in ("src","node_modules","CONTRIBUTING.md"):
-        (build/item).symlink_to(ROOT/item)
-    subprocess.run(["node",str(ROOT/"scripts/export.mjs")],cwd=build,check=True)
     subprocess.run([sys.executable,str(ROOT/"scripts/build.py")],cwd=build,check=True)
     queries={}
     for engine in ("sqlite","duckdb"):
         for query,expected in (("draft-body","draft-body"),("draft-joint","draft-joint"),
                                ("plain-washer-10p5-20-2","plain-washer-10p5-20-2")):
             cmd=[sys.executable,str(ROOT/"scripts/search.py"),"--engine",engine,
-                 "--data",str(build/"dist/data"),query]
+                 "--data",str(data),query]
             hits=json.loads(subprocess.check_output(cmd,cwd=ROOT))
             assert any(r["id"]==expected for r in hits),(engine,query,hits)
             queries[engine+" "+query]=[r["id"] for r in hits]
         material_cmd=[sys.executable,str(ROOT/"scripts/search.py"),"--engine",engine,
-                      "--data",str(build/"dist/data"),"--filter","materials","steel"]
+                      "--data",str(data),"--filter","materials","steel"]
         assert json.loads(subprocess.check_output(material_cmd,cwd=ROOT)) == []
         queries[engine+" material=steel"]=[]
     (BASE/"results/catalogue.json").write_text(json.dumps(queries,indent=2)+"\n")

@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "sumitomo eco m ch52578"
+title: CAD model
 model_id: model-211
 permalink: /models/model-211.html
 ---

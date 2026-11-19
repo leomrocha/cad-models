@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "J Kelly carrier upright"
+title: CAD model
 model_id: model-189
 permalink: /models/model-189.html
 ---

@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "SOW BRAIN LEVIA CONNECTOR CENTRAL construction"
+title: CAD model
 model_id: model-231
 permalink: /models/model-231.html
 ---

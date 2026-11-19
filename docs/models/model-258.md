@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Kee Lite L45-6 supplier dimensional reference"
+title: CAD model
 model_id: model-258
 permalink: /models/model-258.html
 ---

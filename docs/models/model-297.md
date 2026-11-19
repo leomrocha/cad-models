@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Pico upper expansion plate and four hex spacers"
+title: CAD model
 model_id: model-297
 permalink: /models/model-297.html
 ---

@@ -16,8 +16,7 @@ permalink: /manual.html
    defaults to 20 and also offers 50 or 100.
 3. To return to the full catalogue, clear the search field, select **Any**
    for the filter, and select **Search**.
-   [Browse subjects]({{ '/browse.html' | relative_url }}) lists the catalogue
-   by subject and works without browser search.
+   [Browse subjects]({{ '/browse.html' | relative_url }}) loads the standalone catalogue and lists models by subject.
 
 ## Read an entry and download files
 

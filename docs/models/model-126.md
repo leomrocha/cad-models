@@ -1,7 +1,7 @@
 ---
 # Generated catalogue entry
 layout: model
-title: "Recessed captive deck cup"
+title: CAD model
 model_id: model-126
 permalink: /models/model-126.html
 ---
