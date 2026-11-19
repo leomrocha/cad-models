@@ -9196,17 +9196,47 @@
     "name": "Pico lower plate front flange partial exterior",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Partial source-calibrated lower front flange; 101.58 mm width, source 2 mm thickness; saved/reopened closed native solid checked",
+    "description": "Partial closed front-flange solid reconstructed from the source image. Documented width 101.58 mm and source thickness 2 mm.",
     "tags": [
       "part",
-      "mechanical"
+      "mechanical",
+      "Sowbot",
+      "pico",
+      "partial stage",
+      "plate",
+      "Pico lower plate",
+      "front flange"
     ],
     "aliases": [],
     "materials": null,
     "standards": null,
     "dimensions": null,
     "needs_information": true,
-    "state": "Catalogue record. CAD download unavailable."
+    "state": "CAD file available",
+    "file": "models/assemblies/sowbot/pico/parts/pico-lower-plate-front-flange-partial-exterior/pico-lower-plate-front-flange-partial-exterior.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/pico/parts/pico-lower-plate-front-flange-partial-exterior/pico-lower-plate-front-flange-partial-exterior.dwg",
+      "models/assemblies/sowbot/pico/parts/pico-lower-plate-front-flange-partial-exterior/pico-lower-plate-front-flange-partial-exterior.md",
+      "models/assemblies/sowbot/pico/parts/pico-lower-plate-front-flange-partial-exterior/pico-lower-plate-front-flange-partial-exterior-isometric.png",
+      "models/assemblies/sowbot/pico/parts/pico-lower-plate-front-flange-partial-exterior/pico-lower-plate-front-flange-partial-exterior-YZ.png"
+    ],
+    "previews": [
+      {
+        "file": "model-263/view-1.png",
+        "view": "Isometric",
+        "alt": "Pico lower plate front flange partial exterior — Isometric",
+        "thumbnail_file": "model-263/thumbnail.png"
+      },
+      {
+        "file": "model-263/view-2.png",
+        "view": "YZ view",
+        "alt": "Pico lower plate front flange partial exterior — YZ view"
+      }
+    ],
+    "category_path": "assemblies/sowbot/pico/parts",
+    "system": "sowbot",
+    "variant": "pico",
+    "model_references": []
   },
   {
     "id": "model-264",
@@ -10804,17 +10834,49 @@
     "name": "Pico intermediate formed plate",
     "subject": "Mechanical",
     "kind": "part",
-    "description": "Exact Hiwonder body 3037 in manufacturer XYZ, checked as a Pico battery service obstruction",
+    "description": "Checked manufacturer body 3037 used as a Pico battery-service obstruction.",
     "tags": [
       "part",
-      "mechanical"
+      "mechanical",
+      "Sowbot",
+      "pico",
+      "partial stage",
+      "plate"
     ],
     "aliases": [],
     "materials": null,
     "standards": null,
     "dimensions": null,
     "needs_information": true,
-    "state": "Catalogue record. CAD download unavailable."
+    "state": "CAD file available",
+    "file": "models/assemblies/sowbot/pico/parts/pico-intermediate-formed-plate/pico-intermediate-formed-plate.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/pico/parts/pico-intermediate-formed-plate/pico-intermediate-formed-plate.dwg",
+      "models/assemblies/sowbot/pico/parts/pico-intermediate-formed-plate/pico-intermediate-formed-plate.md",
+      "models/assemblies/sowbot/pico/parts/pico-intermediate-formed-plate/pico-intermediate-formed-plate-isometric.png",
+      "models/assemblies/sowbot/pico/parts/pico-intermediate-formed-plate/pico-intermediate-formed-plate-dimensioned.png"
+    ],
+    "previews": [
+      {
+        "file": "model-316/view-1.png",
+        "view": "Isometric",
+        "alt": "Pico intermediate formed plate — Isometric",
+        "thumbnail_file": "model-316/thumbnail.png"
+      },
+      {
+        "file": "model-316/view-2.png",
+        "view": "Dimensioned view",
+        "alt": "Pico intermediate formed plate — Dimensioned view"
+      }
+    ],
+    "category_path": "assemblies/sowbot/pico/parts",
+    "system": "sowbot",
+    "variant": "pico",
+    "model_references": [
+      "model-265",
+      "model-266",
+      "model-313"
+    ]
   },
   {
     "id": "model-317",
@@ -12087,5 +12149,569 @@
         "thumbnail_file": "assembly-pico-lightweight-hrb-bay/thumbnail.png"
       }
     ]
+  },
+  {
+    "id": "assembly-main-chassis-visible-track-source-partial-stage",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Main chassis source-visible track partial stage",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Partial assembly with two source-visible track surface occurrences.",
+    "tags": [
+      "Sowbot",
+      "main",
+      "partial stage"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/sowbot/main/subassemblies/main-chassis-visible-track-source-partial-stage/main-chassis-visible-track-source-partial-stage.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/subassemblies/main-chassis-visible-track-source-partial-stage/main-chassis-visible-track-source-partial-stage.dwg",
+      "models/assemblies/sowbot/main/subassemblies/main-chassis-visible-track-source-partial-stage/main-chassis-visible-track-source-partial-stage.md",
+      "models/assemblies/sowbot/main/subassemblies/main-chassis-visible-track-source-partial-stage/main-chassis-visible-track-source-partial-stage-isometric.png",
+      "models/assemblies/sowbot/main/subassemblies/main-chassis-visible-track-source-partial-stage/main-chassis-visible-track-source-partial-stage-XY.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-main-chassis-visible-track-source-partial-stage/view-1.png",
+        "view": "Isometric",
+        "alt": "Main chassis source-visible track partial stage — Isometric",
+        "thumbnail_file": "assembly-main-chassis-visible-track-source-partial-stage/thumbnail.png"
+      },
+      {
+        "file": "assembly-main-chassis-visible-track-source-partial-stage/view-2.png",
+        "view": "XY view",
+        "alt": "Main chassis source-visible track partial stage — XY view"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/subassemblies",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [
+      "model-280"
+    ]
+  },
+  {
+    "id": "assembly-main-hardware-placement-proposal-partial-stage",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Main Sowbot hardware placement proposal, partial source stage",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Partial source-based proposal for hardware placement in the Main Sowbot.",
+    "tags": [
+      "Sowbot",
+      "main",
+      "partial stage"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/sowbot/main/layouts/main-hardware-placement-proposal-partial-stage/main-hardware-placement-proposal-partial-stage.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/layouts/main-hardware-placement-proposal-partial-stage/main-hardware-placement-proposal-partial-stage.dwg",
+      "models/assemblies/sowbot/main/layouts/main-hardware-placement-proposal-partial-stage/main-hardware-placement-proposal-partial-stage.md",
+      "models/assemblies/sowbot/main/layouts/main-hardware-placement-proposal-partial-stage/main-hardware-placement-proposal-partial-stage-isometric.png",
+      "models/assemblies/sowbot/main/layouts/main-hardware-placement-proposal-partial-stage/main-hardware-placement-proposal-partial-stage-XY.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-main-hardware-placement-proposal-partial-stage/view-1.png",
+        "view": "Isometric",
+        "alt": "Main Sowbot hardware placement proposal, partial source stage — Isometric",
+        "thumbnail_file": "assembly-main-hardware-placement-proposal-partial-stage/thumbnail.png"
+      },
+      {
+        "file": "assembly-main-hardware-placement-proposal-partial-stage/view-2.png",
+        "view": "XY view",
+        "alt": "Main Sowbot hardware placement proposal, partial source stage — XY view"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/layouts",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [
+      "assembly-brain-board-layout-proposal",
+      "assembly-main-chassis-visible-track-source-partial-stage",
+      "model-282",
+      "model-283"
+    ]
+  },
+  {
+    "id": "assembly-pico-chassis-manufacturer-source-partial-stage",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Pico manufacturer source-placement partial chassis",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Partial Pico chassis assembly with checked manufacturer geometry and placements.",
+    "tags": [
+      "Sowbot",
+      "pico",
+      "partial stage"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/sowbot/pico/subassemblies/pico-chassis-manufacturer-source-partial-stage/pico-chassis-manufacturer-source-partial-stage.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/pico/subassemblies/pico-chassis-manufacturer-source-partial-stage/pico-chassis-manufacturer-source-partial-stage.dwg",
+      "models/assemblies/sowbot/pico/subassemblies/pico-chassis-manufacturer-source-partial-stage/pico-chassis-manufacturer-source-partial-stage.md",
+      "models/assemblies/sowbot/pico/subassemblies/pico-chassis-manufacturer-source-partial-stage/pico-chassis-manufacturer-source-partial-stage-isometric.png",
+      "models/assemblies/sowbot/pico/subassemblies/pico-chassis-manufacturer-source-partial-stage/pico-chassis-manufacturer-source-partial-stage-XY.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-pico-chassis-manufacturer-source-partial-stage/view-1.png",
+        "view": "Isometric",
+        "alt": "Pico manufacturer source-placement partial chassis — Isometric",
+        "thumbnail_file": "assembly-pico-chassis-manufacturer-source-partial-stage/thumbnail.png"
+      },
+      {
+        "file": "assembly-pico-chassis-manufacturer-source-partial-stage/view-2.png",
+        "view": "XY view",
+        "alt": "Pico manufacturer source-placement partial chassis — XY view"
+      }
+    ],
+    "category_path": "assemblies/sowbot/pico/subassemblies",
+    "system": "sowbot",
+    "variant": "pico",
+    "model_references": [
+      "assembly-pico-expansion-plate-spacer-partial-stage"
+    ]
+  },
+  {
+    "id": "assembly-pico-chassis-source-trimmed-spring-partial-stage",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Pico chassis source-trimmed spring partial stage",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Saved partial chassis checkpoint for the trimmed spring revision. Existing twelve-face springs remain in the saved geometry.",
+    "tags": [
+      "Sowbot",
+      "pico",
+      "partial stage",
+      "spring"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/sowbot/pico/subassemblies/pico-chassis-source-trimmed-spring-partial-stage/pico-chassis-source-trimmed-spring-partial-stage.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/pico/subassemblies/pico-chassis-source-trimmed-spring-partial-stage/pico-chassis-source-trimmed-spring-partial-stage.dwg",
+      "models/assemblies/sowbot/pico/subassemblies/pico-chassis-source-trimmed-spring-partial-stage/pico-chassis-source-trimmed-spring-partial-stage.md"
+    ],
+    "previews": [],
+    "category_path": "assemblies/sowbot/pico/subassemblies",
+    "system": "sowbot",
+    "variant": "pico",
+    "model_references": [
+      "assembly-pico-chassis-source-twelve-face-spring-partial-stage"
+    ]
+  },
+  {
+    "id": "assembly-pico-chassis-source-twelve-face-spring-partial-stage",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Pico chassis with twelve-face spring interior supplements",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Saved partial chassis with twelve-face spring interior supplements. The companion identifies the separate historical revision.",
+    "tags": [
+      "Sowbot",
+      "pico",
+      "partial stage",
+      "spring"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/sowbot/pico/subassemblies/pico-chassis-source-twelve-face-spring-partial-stage/pico-chassis-source-twelve-face-spring-partial-stage.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/pico/subassemblies/pico-chassis-source-twelve-face-spring-partial-stage/pico-chassis-source-twelve-face-spring-partial-stage.dwg",
+      "models/assemblies/sowbot/pico/subassemblies/pico-chassis-source-twelve-face-spring-partial-stage/pico-chassis-source-twelve-face-spring-partial-stage.md"
+    ],
+    "previews": [],
+    "category_path": "assemblies/sowbot/pico/subassemblies",
+    "system": "sowbot",
+    "variant": "pico",
+    "model_references": [
+      "assembly-pico-chassis",
+      "assembly-pico-chassis-manufacturer-source-partial-stage",
+      "assembly-pico-expansion-plate-spacer-partial-stage",
+      "model-287"
+    ]
+  },
+  {
+    "id": "assembly-pico-expansion-plate-spacer-partial-stage",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Pico expansion plate and four spacer hypotheses, partial stage",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Partial assembly with a registered expansion plate and four proposed spacer positions.",
+    "tags": [
+      "Sowbot",
+      "pico",
+      "partial stage",
+      "plate"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/sowbot/pico/subassemblies/pico-expansion-plate-spacer-partial-stage/pico-expansion-plate-spacer-partial-stage.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/pico/subassemblies/pico-expansion-plate-spacer-partial-stage/pico-expansion-plate-spacer-partial-stage.dwg",
+      "models/assemblies/sowbot/pico/subassemblies/pico-expansion-plate-spacer-partial-stage/pico-expansion-plate-spacer-partial-stage.md",
+      "models/assemblies/sowbot/pico/subassemblies/pico-expansion-plate-spacer-partial-stage/pico-expansion-plate-spacer-partial-stage-isometric.png",
+      "models/assemblies/sowbot/pico/subassemblies/pico-expansion-plate-spacer-partial-stage/pico-expansion-plate-spacer-partial-stage-XY.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-pico-expansion-plate-spacer-partial-stage/view-1.png",
+        "view": "Isometric",
+        "alt": "Pico expansion plate and four spacer hypotheses, partial stage — Isometric",
+        "thumbnail_file": "assembly-pico-expansion-plate-spacer-partial-stage/thumbnail.png"
+      },
+      {
+        "file": "assembly-pico-expansion-plate-spacer-partial-stage/view-2.png",
+        "view": "XY view",
+        "alt": "Pico expansion plate and four spacer hypotheses, partial stage — XY view"
+      }
+    ],
+    "category_path": "assemblies/sowbot/pico/subassemblies",
+    "system": "sowbot",
+    "variant": "pico",
+    "model_references": [
+      "model-256",
+      "model-262"
+    ]
+  },
+  {
+    "id": "assembly-tractor-fixed-receiver-rails",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Fixed deck receiver rails",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Navigation validation assembly with two ledges and eight receiver rails. Tractor design remains a discussion proposal.",
+    "tags": [
+      "Tractor",
+      "two-wheel",
+      "validation"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/fixed-receiver-rails/fixed-receiver-rails.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/fixed-receiver-rails/fixed-receiver-rails.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/fixed-receiver-rails/fixed-receiver-rails.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/fixed-receiver-rails/fixed-receiver-rails-iso.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fixed-receiver-rails/fixed-receiver-rails-front.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-tractor-fixed-receiver-rails/view-1.png",
+        "view": "Isometric",
+        "alt": "Fixed deck receiver rails — Isometric",
+        "thumbnail_file": "assembly-tractor-fixed-receiver-rails/thumbnail.png"
+      },
+      {
+        "file": "assembly-tractor-fixed-receiver-rails/view-2.png",
+        "view": "Front view",
+        "alt": "Fixed deck receiver rails — Front view"
+      }
+    ],
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "system": "tractor",
+    "variant": "two-wheel",
+    "model_references": []
+  },
+  {
+    "id": "assembly-tractor-left-drive-cartridge",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Left ME0907 motor and moving adjustment plate",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Navigation validation subassembly with two source models in their documented left-side placement. Tractor design remains a discussion proposal.",
+    "tags": [
+      "Tractor",
+      "two-wheel",
+      "validation",
+      "plate"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/left-drive-cartridge/left-drive-cartridge.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/left-drive-cartridge/left-drive-cartridge.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/left-drive-cartridge/left-drive-cartridge.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/left-drive-cartridge/left-drive-cartridge-iso.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/left-drive-cartridge/left-drive-cartridge-front.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-tractor-left-drive-cartridge/view-1.png",
+        "view": "Isometric",
+        "alt": "Left ME0907 motor and moving adjustment plate — Isometric",
+        "thumbnail_file": "assembly-tractor-left-drive-cartridge/thumbnail.png"
+      },
+      {
+        "file": "assembly-tractor-left-drive-cartridge/view-2.png",
+        "view": "Front view",
+        "alt": "Left ME0907 motor and moving adjustment plate — Front view"
+      }
+    ],
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "system": "tractor",
+    "variant": "two-wheel",
+    "model_references": []
+  },
+  {
+    "id": "assembly-tractor-panel-navigation-compatible",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Panel navigation repair, source-compatible iteration",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Separately saved navigation validation revision with independent panel and four cup selections. Tractor design remains a discussion proposal.",
+    "tags": [
+      "Tractor",
+      "two-wheel",
+      "validation"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/panel-navigation-compatible/panel-navigation-compatible.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/panel-navigation-compatible/panel-navigation-compatible.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/panel-navigation-compatible/panel-navigation-compatible.md"
+    ],
+    "previews": [],
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "system": "tractor",
+    "variant": "two-wheel",
+    "model_references": [
+      "model-22"
+    ]
+  },
+  {
+    "id": "assembly-tractor-panel-navigation-repair-verified",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Panel navigation repair, first verified geometry iteration",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "First verified navigation repair iteration for the recessed panel and four cups. Tractor design remains a discussion proposal.",
+    "tags": [
+      "Tractor",
+      "two-wheel",
+      "validation"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/panel-navigation-repair-verified/panel-navigation-repair-verified.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/panel-navigation-repair-verified/panel-navigation-repair-verified.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/panel-navigation-repair-verified/panel-navigation-repair-verified.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/panel-navigation-repair-verified/panel-repair-after.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/panel-navigation-repair-verified/panel-repair-selection.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-tractor-panel-navigation-repair-verified/view-1.png",
+        "view": "Isometric",
+        "alt": "Panel navigation repair, first verified geometry iteration — Isometric",
+        "thumbnail_file": "assembly-tractor-panel-navigation-repair-verified/thumbnail.png"
+      },
+      {
+        "file": "assembly-tractor-panel-navigation-repair-verified/view-2.png",
+        "view": "Cup selection",
+        "alt": "Panel navigation repair, first verified geometry iteration — Cup selection"
+      }
+    ],
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "system": "tractor",
+    "variant": "two-wheel",
+    "model_references": [
+      "assembly-tractor-panel-navigation-compatible",
+      "model-22"
+    ]
+  },
+  {
+    "id": "assembly-tractor-service-access-live-06",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Tractor service access joint, recorded assembly build",
+    "subject": "Tractor assemblies",
+    "kind": "assembly",
+    "description": "Native model from the recorded validation build for the tractor service access joint.",
+    "tags": [
+      "Tractor",
+      "two-wheel",
+      "validation",
+      "service access"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/tractor/two-wheel/layouts/service-access-live-06/service-access-live-06.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/layouts/service-access-live-06/service-access-live-06.dwg",
+      "models/assemblies/tractor/two-wheel/layouts/service-access-live-06/service-access-live-06.md"
+    ],
+    "previews": [],
+    "category_path": "assemblies/tractor/two-wheel/layouts",
+    "system": "tractor",
+    "variant": "two-wheel",
+    "model_references": [
+      "assembly-tractor-service-access-joint"
+    ]
+  },
+  {
+    "id": "assembly-tractor-removable-deck-access",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Removable upper deck access set",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Navigation validation subassembly with one seam beam and two panel instances. Tractor design remains a discussion proposal.",
+    "tags": [
+      "Tractor",
+      "two-wheel",
+      "validation"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/removable-deck-access/removable-deck-access.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/removable-deck-access/removable-deck-access.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/removable-deck-access/removable-deck-access.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/removable-deck-access/removable-deck-access-iso.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/removable-deck-access/removable-deck-access-front.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-tractor-removable-deck-access/view-1.png",
+        "view": "Isometric",
+        "alt": "Removable upper deck access set — Isometric",
+        "thumbnail_file": "assembly-tractor-removable-deck-access/thumbnail.png"
+      },
+      {
+        "file": "assembly-tractor-removable-deck-access/view-2.png",
+        "view": "Front view",
+        "alt": "Removable upper deck access set — Front view"
+      }
+    ],
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "system": "tractor",
+    "variant": "two-wheel",
+    "model_references": []
+  },
+  {
+    "id": "assembly-tractor-service-access-integration",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Deck and left-drive service-access layout",
+    "subject": "Tractor assemblies",
+    "kind": "assembly",
+    "description": "Five-root navigation validation layout for deck access and the moving left drive. Tractor design remains a discussion proposal.",
+    "tags": [
+      "Tractor",
+      "two-wheel",
+      "validation",
+      "service access"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/tractor/two-wheel/layouts/service-access-integration/service-access-integration.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/layouts/service-access-integration/service-access-integration.dwg",
+      "models/assemblies/tractor/two-wheel/layouts/service-access-integration/service-access-integration.md",
+      "models/assemblies/tractor/two-wheel/layouts/service-access-integration/service-access-integration-iso.png",
+      "models/assemblies/tractor/two-wheel/layouts/service-access-integration/service-access-integration-front.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-tractor-service-access-integration/view-1.png",
+        "view": "Isometric",
+        "alt": "Deck and left-drive service-access layout — Isometric",
+        "thumbnail_file": "assembly-tractor-service-access-integration/thumbnail.png"
+      },
+      {
+        "file": "assembly-tractor-service-access-integration/view-2.png",
+        "view": "Front view",
+        "alt": "Deck and left-drive service-access layout — Front view"
+      }
+    ],
+    "category_path": "assemblies/tractor/two-wheel/layouts",
+    "system": "tractor",
+    "variant": "two-wheel",
+    "model_references": []
+  },
+  {
+    "id": "assembly-tractor-service-access-joint",
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "name": "Deck access, left drive and one drilled-foot clamp joint",
+    "subject": "Tractor assemblies",
+    "kind": "assembly",
+    "description": "Navigation validation layout for the deck, left drive and one drilled-foot clamp joint. Tractor design remains a discussion proposal.",
+    "tags": [
+      "Tractor",
+      "two-wheel",
+      "validation"
+    ],
+    "state": "CAD file available",
+    "file": "models/assemblies/tractor/two-wheel/layouts/service-access-joint/service-access-joint.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/layouts/service-access-joint/service-access-joint.dwg",
+      "models/assemblies/tractor/two-wheel/layouts/service-access-joint/service-access-joint.md",
+      "models/assemblies/tractor/two-wheel/layouts/service-access-joint/service-access-joint-iso.png",
+      "models/assemblies/tractor/two-wheel/layouts/service-access-joint/service-access-layer-sheet.png"
+    ],
+    "previews": [
+      {
+        "file": "assembly-tractor-service-access-joint/view-1.png",
+        "view": "Isometric",
+        "alt": "Deck access, left drive and one drilled-foot clamp joint — Isometric",
+        "thumbnail_file": "assembly-tractor-service-access-joint/thumbnail.png"
+      },
+      {
+        "file": "assembly-tractor-service-access-joint/view-2.png",
+        "view": "Four-view drawing",
+        "alt": "Deck access, left drive and one drilled-foot clamp joint — Four-view drawing"
+      }
+    ],
+    "category_path": "assemblies/tractor/two-wheel/layouts",
+    "system": "tractor",
+    "variant": "two-wheel",
+    "model_references": []
   }
 ]
