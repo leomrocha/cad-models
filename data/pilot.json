@@ -11022,7 +11022,7 @@
     "name": "Pico HRB battery service layout",
     "subject": "Robot assemblies",
     "kind": "assembly",
-    "description": "Pico battery service study with the lower frame, HRB clearance solid and two manufacturer-source plates at their recorded positions.",
+    "description": "Pico HRB battery service layout at the installed pose, with separate geometry-derived views of intermediate plate access and battery removal.",
     "tags": [
       "Sowbot",
       "Sowbot Pico",
@@ -11053,7 +11053,9 @@
       "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/view-1.png",
       "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/thumbnail.png",
       "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/pico-hrb-service-path.png",
-      "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/pico-hrb-service-layout-isometric.png"
+      "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/pico-hrb-service-layout-isometric.png",
+      "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/pico-hrb-intermediate-plate-endpoint.png",
+      "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/pico-hrb-battery-endpoint.png"
     ],
     "previews": [
       {
@@ -11061,6 +11063,16 @@
         "view": "Isometric",
         "alt": "Pico HRB battery service layout — Isometric",
         "thumbnail_file": "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/pico-hrb-intermediate-plate-endpoint.png",
+        "view": "Intermediate plate access",
+        "alt": "Intermediate plate raised 42.544 mm after removal of the upper expansion plate"
+      },
+      {
+        "file": "models/assemblies/sowbot/pico/layouts/pico-hrb-service-layout/pico-hrb-battery-endpoint.png",
+        "view": "Battery removal",
+        "alt": "Battery clearance envelope raised 88.995 mm after both plates are removed"
       }
     ],
     "category_path": "assemblies/sowbot/pico/layouts"
