@@ -24,7 +24,7 @@
 ## References
 
 1. [Previous source-trimmed spring stage, library 292](<../pico-tension-spring-source-trimmed-exterior-stage/pico-tension-spring-source-trimmed-exterior-stage.md>).
-2. [Eight source spring placements, library 303](<../../subassemblies/pico-eight-spring-source-visual-installation/pico-eight-spring-source-visual-installation.md>).
+2. Eight source spring placements, library 303 (earlier revision `model-303`; [current catalogue revision](<../../subassemblies/pico-eight-spring-closed-source-placement/pico-eight-spring-closed-source-placement.md>)).
 
 ## Sources — online
 

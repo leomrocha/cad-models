@@ -22,7 +22,7 @@ The interface uses the model 281 frame in millimetres. The origin is the rear ho
 
 ## References
 
-1. [BT-560 exterior, library 281](<../../../electronics/components/beitian-bt560-raster-exterior-stage/beitian-bt560-raster-exterior-stage.md>).
+1. BT-560 exterior, library 281 (earlier revision `model-281`; [current catalogue revision](<../../../electronics/components/beitian-bt560-joined-source-skin/beitian-bt560-joined-source-skin.md>)).
 2. [Rear collar and axial seal view](<beitian-bt560-rear-mounting-interface-reference.png>).
 
 ## Sources — online

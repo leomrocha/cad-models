@@ -2,7 +2,7 @@
 
 The current [28-opening face, library 314](<../../../../../mechanical-parts/components/brain-orp-mounting-plate-28-opening-source-face/brain-orp-mounting-plate-28-opening-source-face.md>) incorporates the 39 holes nested in the original ORP footprint. The source map below records the earlier ten-opening libraries. Complete source map.
 
-Model 32, SOW-BRAIN-C06. This register locates the ten openings in the ORP mounting plate source pattern for interface IF-003. The saved analytic pattern is library 254. The faceted source face is library 285. [Analytic pattern](<../../interface-references/brain-mounting-plate-source-pattern-reference/brain-mounting-plate-source-pattern-reference.md>) [Open source face](<../../parts/brain-mounting-plate-source-open-face/brain-mounting-plate-source-open-face.md>)
+Model 32, SOW-BRAIN-C06. This register locates the ten openings in the ORP mounting plate source pattern for interface IF-003. The saved analytic pattern is library 254. The faceted source face is library 285. [Analytic pattern](<../../interface-references/brain-mounting-plate-source-pattern-reference/brain-mounting-plate-source-pattern-reference.md>) Open source face (earlier revision `model-285`; [current catalogue revision](<../../../../../mechanical-parts/components/brain-orp-mounting-plate-28-opening-source-face/brain-orp-mounting-plate-28-opening-source-face.md>))
 
 All coordinates and dimensions below are in millimetres, in the library XY frame at Z = 0. The origin is the plate centre. From EasyEDA coordinates, X = 0.254 × (source X − 4216.85) and Y = 0.254 × (3177.15 − source Y). The outline is 99.9998 × 99.9998 mm with a 3.499993 mm corner radius. The source-derived circle grid pitch is 19.99996 mm. EasyEDA ORP source, revision `1ff7250ebd4c4571b7af0292bb667b55`
 
@@ -57,4 +57,4 @@ ORP-02 includes the two overlapping non-plated cutout contours below, two distin
 
 Three nonjoining source outline tracks are retained in library 254 as separate curves. The register is a planar source interface for the existing plate geometry.
 
-The ten sampled union bounds were matched one-to-one to the ten inner loops independently derived from the recorded native Mesh triangles. The maximum absolute difference across X and Y extrema was 0.001989 mm. Library 285’s source faceting chord error bound was 0.002 mm. [Open-face source and checks](<../../parts/brain-mounting-plate-source-open-face/brain-mounting-plate-source-open-face.md>)
+The ten sampled union bounds were matched one-to-one to the ten inner loops independently derived from the recorded native Mesh triangles. The maximum absolute difference across X and Y extrema was 0.001989 mm. Library 285’s source faceting chord error bound was 0.002 mm. Open-face source and checks (earlier revision `model-285`; [current catalogue revision](<../../../../../mechanical-parts/components/brain-orp-mounting-plate-28-opening-source-face/brain-orp-mounting-plate-28-opening-source-face.md>))

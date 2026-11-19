@@ -30,5 +30,4 @@
 
 ## References
 
-1. [Existing receiver carrier/module source stage](<../../components/sparkfun-neo-f9p-carrier-module-stage/sparkfun-neo-f9p-carrier-module-stage.md>).
-2. Project execution evidence: FERME source job, conversion, layer-table recovery, native recipe and SAVE/current-array receipts are retained at ``. This directory records the project execution and runtime.
+1. Existing receiver carrier/module source stage (earlier revision `model-250`; [current catalogue revision](<../../../assemblies/reusable/subassemblies/sparkfun-neo-f9p-source-connector-exterior-stage/sparkfun-neo-f9p-source-connector-exterior-stage.md>)).

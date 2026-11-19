@@ -47,4 +47,4 @@ The chassis member above uses Git object `7d903f045ff594681c09ff26116361ede089d6
 1. Manufacturer source Pico chassis partial stage companion.
 2. [Hiwonder manufacturer central battery-case geometry — exploded-view interpretation companion](<../../../../../electronics/batteries/hiwonder-manufacturer-central-battery-case-source-stage/hiwonder-manufacturer-central-battery-case-source-stage.md>).
 3. Current source/SAVE/geometry/cleanup recipe.
-4. [Preserved earlier Pico source stage](<../pico-hardware-source-backed-battery-layout-proposal/pico-hardware-source-backed-battery-layout-proposal.md>).
+4. Preserved earlier Pico source stage (earlier revision `assembly-pico-hardware-source-backed-battery-layout-proposal`; [current catalogue revision](<pico-hardware-source-twelve-face-spring-battery-layout-proposal.md>)).

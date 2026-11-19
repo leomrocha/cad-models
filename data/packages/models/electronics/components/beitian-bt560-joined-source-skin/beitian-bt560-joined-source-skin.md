@@ -26,5 +26,5 @@
 
 ## References
 
-1. [Library 281 original traced exterior and calibration](<../beitian-bt560-raster-exterior-stage/beitian-bt560-raster-exterior-stage.md>).
+1. Library 281 original traced exterior and calibration (earlier revision `model-281`; [current catalogue revision](<beitian-bt560-joined-source-skin.md>)).
 2. [Library 306 rear mounting-interface datums](<../../../interface-references/mechanical/beitian-bt560-rear-mounting-interface-reference/beitian-bt560-rear-mounting-interface-reference.md>).

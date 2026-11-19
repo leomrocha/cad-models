@@ -24,7 +24,7 @@
 
 ## Earlier ten-opening model
 
-The following calculations use the earlier ten-opening ORP plate face and its Brain receiver-exterior layout. [Previous saved root transforms](<../brain-receiver-exterior-layout-proposal/brain-receiver-exterior-layout-proposal.md>).
+The following calculations use the earlier ten-opening ORP plate face and its Brain receiver-exterior layout. Previous saved root transforms (earlier revision `assembly-brain-receiver-exterior-layout-proposal`; [current catalogue revision](<brain-opposed-sma-layout-proposal.md>)).
 
 | Board occurrence | Features checked | Closest feature and plate opening | Minimum XY separation bound (mm) | Board substrate datum above plate face (mm) |
 | --- | ---: | --- | ---: | ---: |
@@ -62,6 +62,6 @@ Calculation and source verification model: gpt-6.2-sol.
 
 ### Populated board CAD projections
 
-1. **Avaota-A1 computer:** The two bare-board positions using aperture references 14775 and 15485 put the saved HR911130A RJ45 connector outline beyond the rounded ORP plate. The 0° position has a source CAD point 1.033 mm outside. The 180° position has a source CAD point 0.997 mm outside. The other two positions use 14779 and 15481. Both keep the sampled populated CAD points at least 0.0125 mm inside the plate outline. One uses a 0° rotation, translation (−49.998576, −36.134568) mm and ORP-01/ORP-07. The other uses 180°, translation (49.998576, 36.172136) mm and ORP-10/ORP-06. The Avaota check includes 288 retained solids and uses endpoints for 3,560 unsupported native trims. [Saved computer CAD and source qualifications](<../../../../reusable/subassemblies/avaota-a1-computer-exterior-stage/avaota-a1-computer-exterior-stage.md>).
+1. **Avaota-A1 computer:** The two bare-board positions using aperture references 14775 and 15485 put the saved HR911130A RJ45 connector outline beyond the rounded ORP plate. The 0° position has a source CAD point 1.033 mm outside. The 180° position has a source CAD point 0.997 mm outside. The other two positions use 14779 and 15481. Both keep the sampled populated CAD points at least 0.0125 mm inside the plate outline. One uses a 0° rotation, translation (−49.998576, −36.134568) mm and ORP-01/ORP-07. The other uses 180°, translation (49.998576, 36.172136) mm and ORP-10/ORP-06. The Avaota check includes 288 retained solids and uses endpoints for 3,560 unsupported native trims. Saved computer CAD and source qualifications (earlier revision `model-252`; [current catalogue revision](<../../../../reusable/subassemblies/avaota-a1-v17-board-source-connectors/avaota-a1-v17-board-source-connectors.md>)).
 2. **SparkFun NEO-F9P receiver:** The populated CAD points at the ORP-04/ORP-09 position lie at least 22.205 mm inside the rounded plate outline. The projection includes samples from 31 retained solids and the exact vertices of 62 connector meshes. [Saved receiver CAD and source qualifications](<../../../../reusable/subassemblies/sparkfun-neo-f9p-source-connector-exterior-stage/sparkfun-neo-f9p-source-connector-exterior-stage.md>).
 3. **Check basis:** The calculated distances are to the source rounded plate outline in plan view. The two boards are checked independently at the previously calculated aperture positions. Actual calculation model unavailable. CAD points, transforms, geometry counts and source hashes.

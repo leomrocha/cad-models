@@ -43,12 +43,11 @@
 ## References — library
 
 1. [Original source-native spring](<../pico-tension-spring-manufacturer-source/pico-tension-spring-manufacturer-source.md>), library 275.
-2. [Single source-face patch](<../pico-tension-spring-source-sampled-coil-patch/pico-tension-spring-source-sampled-coil-patch.md>), library 277.
-3. [Twelve source-face interiors](<../pico-tension-spring-source-twelve-face-interior-stage/pico-tension-spring-source-twelve-face-interior-stage.md>), library 287.
+2. Single source-face patch (earlier revision `model-277`; [current catalogue revision](<../pico-left-spring-closed-source-exterior/pico-left-spring-closed-source-exterior.md>)), library 277.
+3. Twelve source-face interiors (earlier revision `model-287`; [current catalogue revision](<pico-tension-spring-source-trimmed-exterior-stage.md>)), library 287.
 
 ## Project execution evidence
 
-Retained caller recipe and source pins: `local/work/sowbot/model-19-trim-boundary-continuation/native-stage/` and its sibling `hard-numerical-resolution/` within the FERME project. These are project execution evidence.
 
 ## Current-record views
 

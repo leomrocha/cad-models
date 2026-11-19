@@ -38,8 +38,8 @@ All occurrence matrices are `[[1,0,0,X],[0,1,0,Y],[0,0,1,Z],[0,0,0,1]]`; transla
 
 ## References — library and project
 
-1. [Planar perforated plate — library 262](<../../parts/pico-upper-plate-planar-perforated-faceted-stage/pico-upper-plate-planar-perforated-faceted-stage.md>).
-2. [Spacer exterior hypothesis — library 256](<../../parts/pico-plate-support-spacer-raster-exterior/pico-plate-support-spacer-raster-exterior.md>).
+1. Planar perforated plate — library 262 (earlier revision `model-262`; [current catalogue revision](<../../parts/pico-upper-expansion-plate-manufacturer-source/pico-upper-expansion-plate-manufacturer-source.md>)).
+2. Spacer exterior hypothesis — library 256 (earlier revision `model-256`; [current catalogue revision](<../../parts/pico-spacer-manufacturer-source/pico-spacer-manufacturer-source.md>)).
 3. [Isometric boundary view](<view-1.png>).
 4. 65-opening drawing overlay.
 5. Photograph registration overlay.

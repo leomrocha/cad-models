@@ -9,7 +9,7 @@
 ## Technical specification
 
 1. **Outline** 99.9998 × 99.9998 mm in the original plate-centred XY frame. Source corner radius is 3.499993 mm.
-2. **Openings** The union of 70 source records forms 28 connected opening regions. The records include 39 explicit holes within the ORP footprint, five board-level holes, 24 layer-10 circles and two non-plated cutout contours. The native face preserves the earlier perimeter and includes 18 more distinct openings than the [earlier face, library 285](<../../../assemblies/sowbot/brain/parts/brain-mounting-plate-source-open-face/brain-mounting-plate-source-open-face.md>).
+2. **Openings** The union of 70 source records forms 28 connected opening regions. The records include 39 explicit holes within the ORP footprint, five board-level holes, 24 layer-10 circles and two non-plated cutout contours. The native face preserves the earlier perimeter and includes 18 more distinct openings than the earlier face, library 285 (earlier revision `model-285`; [current catalogue revision](<brain-orp-mounting-plate-28-opening-source-face.md>)).
 3. **Material face** One connected Mesh, 2,051 vertices, 2,105 triangles, 28 inner loops and Euler characteristic −27. Arc profiles use a maximum chord error of 0.002 mm. The face represents the mounting pattern at zero thickness.
 
 ## Verification

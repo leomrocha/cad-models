@@ -43,5 +43,3 @@
 2. Existing runtime: `PYTHONPATH=/tmp/3dmodeling-native-reader`; native helpers from the installed cad-ocs-engineering skill. Python numpy/ezdxf build the source-pinned DXF intermediate. Conversion changes are retained in `job.json`; source originals remain unchanged.
 
 1. [Top-facing isometric saved-record view](<varicore-vc1280na-photo-exterior-stage-top-isometric.png>).
-
-1. Original photo provenance, project-relative: `local/research/sowbot/sources/hardware-execution/remaining-hardware-acquisition/pass-4/main-battery-aliexpress-photo-3.png`; SHA-256 `93eea7ec9a31ca1bc56d619d45b816481b041eb6e2afdd073c8c6a685d4f72e8`. Manufacturer size and electrical claims retain their separate manufacturer-page attribution.

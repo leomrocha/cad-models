@@ -42,4 +42,4 @@ The bounded shaded native check used Gouraud Shaded, Front and ZOOM EXTENTS; its
 
 ## Partial coil display recovery
 
-[Library 277 source-sampled partial coil exterior](<../pico-tension-spring-source-sampled-coil-patch/pico-tension-spring-source-sampled-coil-patch.md>) displays the sampled interior of source face 18547 in the native viewport. This separate open faceted stage retains measured trim-inversion and sampled approximation errors. The original source-native DWG and its failed exact-coil display evidence remain preserved.
+Library 277 source-sampled partial coil exterior (earlier revision `model-277`; [current catalogue revision](<../pico-left-spring-closed-source-exterior/pico-left-spring-closed-source-exterior.md>)) displays the sampled interior of source face 18547 in the native viewport. This separate open faceted stage retains measured trim-inversion and sampled approximation errors. The original source-native DWG and its failed exact-coil display evidence remain preserved.

@@ -1,11 +1,6 @@
 # Local planning, source inventories, and benchmark work
 /_local/
 
-# FERME-specific project assemblies
-/models/nano-tractor/assemblies/
-/models/sowbot/assemblies/
-/models/tractor/assemblies/
-
 # Python bytecode, environments, test caches, and build output
 __pycache__/
 *.py[cod]

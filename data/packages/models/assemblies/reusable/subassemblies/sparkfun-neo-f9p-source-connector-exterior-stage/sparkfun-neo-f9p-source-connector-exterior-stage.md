@@ -42,7 +42,7 @@
 
 ## References
 
-1. [SparkFun NEO-F9P carrier/module source stage companion](<../../../../electronics/components/sparkfun-neo-f9p-carrier-module-stage/sparkfun-neo-f9p-carrier-module-stage.md>).
+1. SparkFun NEO-F9P carrier/module source stage companion (earlier revision `model-250`; [current catalogue revision](<sparkfun-neo-f9p-source-connector-exterior-stage.md>)).
 2. [BSC A40-00119-C52-12 RevA USB-C female exterior — J3 companion](<../../../../electronics/connectors/bsc-a40-00119-c52-12-usb-c-exterior-stage/bsc-a40-00119-c52-12-usb-c-exterior-stage.md>).
 3. [ChangHong SMA-02-101-TGG RevA femalePCBedge SMA exteriorstage — J1 companion](<../../../../electronics/components/sparkfun-wrl00593-sma-exterior-stage/sparkfun-wrl00593-sma-exterior-stage.md>).
 4. [JST SM04B-SRSS-TB(LF)(SN) black horizontal Qwiic exteriorstage — J2 companion](<../../../../electronics/connectors/jst-sm04b-srss-qwiic-exterior-stage/jst-sm04b-srss-qwiic-exterior-stage.md>).

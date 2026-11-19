@@ -19,9 +19,13 @@
 ## References
 
 1. [Brain opposed-SMA source CAD](<../../../brain/layouts/brain-opposed-sma-layout-proposal/brain-opposed-sma-layout-proposal.md>).
-2. [Prior Main layout](<../main-orp-and-antenna-layout-proposal/main-orp-and-antenna-layout-proposal.md>).
+2. Prior Main layout (earlier revision `assembly-main-orp-and-antenna-layout-proposal`; [current catalogue revision](<main-opposed-sma-layout-proposal.md>)).
 
 ## Sources — online
 
 1. Sowbot hardware configuration.
 2. SparkFun NEO-F9P carrier.
+
+## Retained layout context
+
+The previous revision used the planar 28-opening ORP reference and BT-560 antenna skins in the Brain assembly. The retained Main model preserves the six VariCore battery exteriors, two ODrive outlines and track patch placements. Clearance evidence applies to the represented surfaces and the selected probe.

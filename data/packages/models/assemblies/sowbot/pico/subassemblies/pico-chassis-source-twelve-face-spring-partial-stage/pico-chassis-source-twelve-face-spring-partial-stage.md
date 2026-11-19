@@ -84,5 +84,5 @@
 
 3. Earlier plate/spacer hypothesis assembly: [preserved partial stage](<../pico-expansion-plate-spacer-partial-stage/pico-expansion-plate-spacer-partial-stage.md>).
 
-4. [Source twelve-face spring stage](<../../parts/pico-tension-spring-source-twelve-face-interior-stage/pico-tension-spring-source-twelve-face-interior-stage.md>).
-5. [Preserved previous source chassis](<../pico-chassis-manufacturer-source-partial-stage/pico-chassis-manufacturer-source-partial-stage.md>).
+4. Source twelve-face spring stage (earlier revision `model-287`; [current catalogue revision](<../../parts/pico-tension-spring-source-trimmed-exterior-stage/pico-tension-spring-source-trimmed-exterior-stage.md>)).
+5. Preserved previous source chassis (earlier revision `assembly-pico-chassis-manufacturer-source-partial-stage`; [current catalogue revision](<../../layouts/pico-chassis/pico-chassis.md>)).

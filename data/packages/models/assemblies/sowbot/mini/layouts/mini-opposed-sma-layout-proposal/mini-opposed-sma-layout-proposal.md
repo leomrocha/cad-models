@@ -19,9 +19,13 @@
 ## References
 
 1. [Brain opposed-SMA source CAD](<../../../brain/layouts/brain-opposed-sma-layout-proposal/brain-opposed-sma-layout-proposal.md>).
-2. [Prior Mini layout](<../mini-orp-and-antenna-layout-proposal/mini-orp-and-antenna-layout-proposal.md>).
+2. Prior Mini layout (earlier revision `assembly-mini-orp-and-antenna-layout-proposal`; [current catalogue revision](<mini-opposed-sma-layout-proposal.md>)).
 
 ## Sources — online
 
 1. Sowbot hardware configuration.
 2. SparkFun NEO-F9P carrier.
+
+## Retained layout context
+
+The previous revision used the planar 28-opening ORP plate and BT-560 antenna skins in the Brain assembly. The retained Mini model preserves the planar base, 220 mm Propow battery envelope and Mini driver placement. The battery model is a clearance envelope.

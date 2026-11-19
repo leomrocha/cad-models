@@ -22,10 +22,18 @@
 
 ## References
 
-1. [Parent Brain layout](<../brain-orp-and-antenna-layout-proposal/brain-orp-and-antenna-layout-proposal.md>).
+1. Parent Brain layout (earlier revision `assembly-brain-orp-and-antenna-layout-proposal`; [current catalogue revision](<brain-opposed-sma-layout-proposal.md>)).
 2. [Library 291 SparkFun NEO-F9P receiver](<../../../../reusable/subassemblies/sparkfun-neo-f9p-source-connector-exterior-stage/sparkfun-neo-f9p-source-connector-exterior-stage.md>).
 
 ## Sources — online
 
 1. Sowbot Brain hardware configuration.
 2. SparkFun NEO-F9P carrier.
+
+[ORP technical reference from the parallel-SMA layout](<brain-board-to-plate-registration.md>) (previous board pose).
+
+[ORP technical reference from the parallel-SMA layout](<brain-mounting-plate-source-interface.md>) (previous board pose).
+
+## Retained layout context
+
+The previous revision used a 28-opening Rosmo ORP planar source face and two joined Beitian BT-560 antenna skins. This revision preserves those roots. The previous parallel-SMA pose obstructed the lower-X straight probe. The former board-to-plate measurements remain source-specific in the companion technical notes.

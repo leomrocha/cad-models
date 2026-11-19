@@ -23,7 +23,7 @@
 ## References
 
 1. [Left spring exterior, library 308](<../../parts/pico-left-spring-closed-source-exterior/pico-left-spring-closed-source-exterior.md>).
-2. [Right spring definition and earlier eight placements, library 303](<../pico-eight-spring-source-visual-installation/pico-eight-spring-source-visual-installation.md>).
+2. Right spring definition and earlier eight placements, library 303 (earlier revision `model-303`; [current catalogue revision](<pico-eight-spring-closed-source-placement.md>)).
 
 ## Sources — online
 

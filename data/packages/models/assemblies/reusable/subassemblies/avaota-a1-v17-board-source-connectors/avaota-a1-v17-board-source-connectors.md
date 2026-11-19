@@ -9,7 +9,7 @@
 ## Technical specification
 
 1. **Frame** Original v1.7 manufacturer STEP axes and origin, in millimetres. The substrate bottom is Z = 0 and top is Z = 1.183202 mm.
-2. **Base** The 288 placed solids from the [earlier board stage, library 252](<../avaota-a1-computer-exterior-stage/avaota-a1-computer-exterior-stage.md>) supply the board and the earlier interfaces.
+2. **Base** The 288 placed solids from the earlier board stage, library 252 (earlier revision `model-252`; [current catalogue revision](<avaota-a1-v17-board-source-connectors.md>)) supply the board and the earlier interfaces.
 3. **RF1 antenna connector** BAT WIRELESS BWIPX-1-001E, STEP product 711544, 14 solids.
 4. **CN2 audio jack** XKB Connectivity PJ-327A0-SMT, STEP product 724472, one solid.
 5. **DC1 barrel power jack** XUNPU DC-044A-A200, STEP product 142254, six solids. The five original imported body IDs are 151757, 152917, 155111, 155779 and 156401. The recovered housing is body 142283.

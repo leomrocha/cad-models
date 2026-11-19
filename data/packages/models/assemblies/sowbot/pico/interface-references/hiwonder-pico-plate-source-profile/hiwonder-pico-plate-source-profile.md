@@ -12,7 +12,7 @@
 2. **Checks:** native save/reopen, profile count, closed profiles, millimetre units and XY extents PASS.
 3. **Drawing review:** model-derived profile image inspected.
 4. **Document closure:** both owned drawing documents closed; pre-existing documents preserved.
-5. **Plan role:** These corrected profiles supply the [saved perforated planar 3D mesh](<../../parts/pico-upper-plate-planar-perforated-faceted-stage/pico-upper-plate-planar-perforated-faceted-stage.md>). Earlier native cutting attempts returned “the selected object no longer exists” and “the selected topology could not be cut safely”; their plate blank, cutter solids and failed-state DWG remain retained in the execution records.
+5. **Plan role:** These corrected profiles supply the saved perforated planar 3D mesh (earlier revision `model-262`; [current catalogue revision](<../../parts/pico-upper-expansion-plate-manufacturer-source/pico-upper-expansion-plate-manufacturer-source.md>)). Earlier native cutting attempts returned “the selected object no longer exists” and “the selected topology could not be cut safely”; their plate blank, cutter solids and failed-state DWG remain retained in the execution records.
 
 ## References — library
 
