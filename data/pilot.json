@@ -17336,5 +17336,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p06m06250-blickle-ls-vle250k-mounting-interface",
+    "name": "Blickle LS-VLE250K mounting interface and support plate",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Blickle LS-VLE250K wheel and mounting reference seated under the exact project support plate at its proposed mount datum. Four nominal Ø14 mm axes align.",
+    "tags": [
+      "tractor",
+      "caster",
+      "mounting interface",
+      "LS-VLE250K",
+      "support plate",
+      "P06M06250"
+    ],
+    "aliases": [
+      "Blickle LS-VLE250K mounting interface and support plate",
+      "p06m06250-blickle-ls-vle250k-mounting-interface"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "P06M06250",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-VLE250K mounting interface and support plate, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-VLE250K mounting interface and support plate, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-VLE250K mounting interface and support plate, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-VLE250K mounting interface and support plate, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/p06m06250-blickle-ls-vle250k-mounting-interface.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06250-blickle-ls-vle250k-mounting-interface/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "c017-blickle-ls-vle250k-dimensional-reference",
+        "sha256": "2df72a3682959e79cb7edee202dfe7f6ed582980904bbd21884bebf5f15f171c",
+        "revision": 1,
+        "dependency": "embedded",
+        "occurrences": [
+          "Caster wheel and mounting reference"
+        ]
+      },
+      {
+        "id": "model-144",
+        "sha256": "ae9fb8b4771afbc5169f6fe9a19b466355d985fa746bfda6850218f0e17fb208",
+        "revision": null,
+        "dependency": "embedded",
+        "occurrences": [
+          "Caster head support plate"
+        ]
+      }
+    ]
   }
 ]
