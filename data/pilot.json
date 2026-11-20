@@ -39129,5 +39129,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p01j650fk-j3f-foot-and-kelly-passage-rail",
+    "name": "J3f raised rail with foot and Kelly carrier passages",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "650 mm J3f rail with eight deck-foot passages and two Kelly carrier clamp passages through both sidewalls.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "raised rail",
+      "Kelly",
+      "mounting passages"
+    ],
+    "aliases": [
+      "J3f raised rail with foot and Kelly carrier passages",
+      "p01j650fk-j3f-foot-and-kelly-passage-rail"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/rails",
+    "variant": "p01j650fk-j3f-foot-and-kelly-passage-rail",
+    "file": "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail-XY.png",
+        "view": "Plan",
+        "alt": "J3f raised rail with foot and Kelly carrier passages, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f raised rail with foot and Kelly carrier passages, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail-YZ.png",
+        "view": "End",
+        "alt": "J3f raised rail with foot and Kelly carrier passages, end"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f raised rail with foot and Kelly carrier passages, isometric",
+        "thumbnail_file": "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail-XY.png",
+      "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail-XZ.png",
+      "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail-YZ.png",
+      "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail-top-isometric.png",
+      "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail.dwg",
+      "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/p01j650fk-j3f-foot-and-kelly-passage-rail.md",
+      "models/mechanical/chassis/rails/p01j650fk-j3f-foot-and-kelly-passage-rail/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-113",
+        "revision": null,
+        "sha256": "0cb6cca426a4c6f583069f166405e0c80af4bab7cbdcaabd6e3f67b06cc72d81",
+        "dependency": "derived",
+        "occurrences": [
+          "Raised J frame longitudinal rail stock"
+        ]
+      }
+    ]
   }
 ]
