@@ -24185,5 +24185,68 @@
         ]
       }
     ]
+  },
+  {
+    "id": "victron-shelf-transverse-support-angle-450-mm",
+    "name": "Victron 450 mm transverse shelf support angle",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "450 mm cut of nominal 30 × 30 × 3 mm angle supporting a battery shelf and two restraint posts.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery restraint",
+      "shelf support angle"
+    ],
+    "aliases": [
+      "Victron 450 mm transverse shelf support angle",
+      "victron-shelf-transverse-support-angle-450-mm"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "victron-shelf-transverse-support-angle-450-mm",
+    "file": "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm-XY.png",
+        "view": "Plan",
+        "alt": "Victron 450 mm transverse shelf support angle, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron 450 mm transverse shelf support angle, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm-YZ.png",
+        "view": "End",
+        "alt": "Victron 450 mm transverse shelf support angle, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron 450 mm transverse shelf support angle, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/thumbnail.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm-XY.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm-XZ.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm-YZ.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm.dwg",
+      "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm.md"
+    ],
+    "sources": []
   }
 ]
