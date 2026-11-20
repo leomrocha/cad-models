@@ -24742,5 +24742,110 @@
       "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-frame-seat-carrier",
+    "name": "Victron frame seat carrier on the Structural S lower chassis",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two seat crossbars, four risers and four drilled flange seat tabs on the lower tractor frame.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery shelf",
+      "frame seat",
+      "subassembly"
+    ],
+    "aliases": [
+      "Victron frame seat carrier on the Structural S lower chassis",
+      "victron-frame-seat-carrier"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-frame-seat-carrier",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier-XY.png",
+        "view": "Plan",
+        "alt": "Victron frame seat carrier on the Structural S lower chassis, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron frame seat carrier on the Structural S lower chassis, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier-YZ.png",
+        "view": "End",
+        "alt": "Victron frame seat carrier on the Structural S lower chassis, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron frame seat carrier on the Structural S lower chassis, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-frame-seat-carrier/victron-frame-seat-carrier.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "structural-s-lower-chassis-frame",
+        "revision": 1,
+        "sha256": "4f455311da878278610730e443f084df6fa012204faf7f1152405d66104b94bc",
+        "dependency": "embedded",
+        "occurrences": [
+          "Structural S lower frame"
+        ]
+      },
+      {
+        "id": "victron-frame-seat-crossbar",
+        "revision": 1,
+        "sha256": "9a22d710398bd6647447b9d50080aa0d1db2ca8275ece1822f1c24f5deedaaa6",
+        "dependency": "embedded",
+        "occurrences": [
+          "Seat crossbar X -77.8",
+          "Seat crossbar X 247.8"
+        ]
+      },
+      {
+        "id": "victron-frame-flange-seat-riser",
+        "revision": 1,
+        "sha256": "91d43254c6a4dc21bde61a1148e858c1f82777b842b9822791ddb34bb38e3343",
+        "dependency": "embedded",
+        "occurrences": [
+          "Seat riser at X -97.8, Y -78.4",
+          "Seat riser at X 267.8, Y -78.4",
+          "Seat riser at X -97.8, Y 113.2",
+          "Seat riser at X 267.8, Y 113.2"
+        ]
+      },
+      {
+        "id": "victron-frame-flange-seat-tab",
+        "revision": 1,
+        "sha256": "0f5c7c7e8af40151ec31977425cc674a9b80f161785870ff51ef6ef61e265619",
+        "dependency": "embedded",
+        "occurrences": [
+          "Seat tab at X -97.8, Y -78.4",
+          "Seat tab at X 267.8, Y -78.4",
+          "Seat tab at X -97.8, Y 113.2",
+          "Seat tab at X 267.8, Y 113.2"
+        ]
+      }
+    ]
   }
 ]
