@@ -27916,5 +27916,126 @@
         "url": "https://cdn.standards.iteh.ai/samples/72585/1179998ddd594550a909d6e13c416f3e/ISO-4017-2022.pdf"
       }
     ]
+  },
+  {
+    "id": "c017-blickle-ls-vle250k-m06-installed-mount",
+    "name": "Blickle LS-VLE250K caster installation and M06 mounting hardware",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "LS-VLE250K fitted caster, tractor support plate and four M12×40 mounting screw stacks.",
+    "tags": [
+      "caster",
+      "Blickle",
+      "ls-vle250k",
+      "M06",
+      "installed mount",
+      "M12"
+    ],
+    "aliases": [
+      "Blickle LS-VLE250K caster installation and M06 mounting hardware",
+      "c017-blickle-ls-vle250k-m06-installed-mount"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "c017-blickle-ls-vle250k-m06-installed-mount",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-VLE250K caster installation and M06 mounting hardware, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-VLE250K caster installation and M06 mounting hardware, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-VLE250K caster installation and M06 mounting hardware, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-VLE250K caster installation and M06 mounting hardware, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/c017-blickle-ls-vle250k-m06-installed-mount.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-m06-installed-mount/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "c017-blickle-ls-vle250k-external-caster-fit-assembly",
+        "revision": 1,
+        "sha256": "27174128bfd266bd3ef6b564cafa347af08663670187f54e8b704bbc5260f9a6",
+        "dependency": "embedded",
+        "occurrences": [
+          "Caster external fit assembly"
+        ]
+      },
+      {
+        "id": "model-144",
+        "revision": null,
+        "sha256": "ae9fb8b4771afbc5169f6fe9a19b466355d985fa746bfda6850218f0e17fb208",
+        "dependency": "embedded",
+        "occurrences": [
+          "Tractor head support plate"
+        ]
+      },
+      {
+        "id": "c162-iso-4017-m12x40-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "6ceb98b4ad7a8a9de02ad451226aa814cc72f9de81b39261f0c16943ae949929",
+        "dependency": "embedded",
+        "occurrences": [
+          "Screw 1",
+          "Screw 2",
+          "Screw 3",
+          "Screw 4"
+        ]
+      },
+      {
+        "id": "model-103",
+        "revision": null,
+        "sha256": "9bcf114bd9a02bf28c208dd50d21f9cb56e104f169c71a44e1d1250c7be1269e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Lower washer 1",
+          "Upper washer 1",
+          "Lower washer 2",
+          "Upper washer 2",
+          "Lower washer 3",
+          "Upper washer 3",
+          "Lower washer 4",
+          "Upper washer 4"
+        ]
+      },
+      {
+        "id": "c159-din-985-m12-nylon-insert-nut-proposed-class-10",
+        "revision": 1,
+        "sha256": "4ddd7f643a84141dfb78561c8ad029231633d7a192f6abf60c9c0fc95acfbfa5",
+        "dependency": "embedded",
+        "occurrences": [
+          "Nut 1",
+          "Nut 2",
+          "Nut 3",
+          "Nut 4"
+        ]
+      }
+    ]
   }
 ]
