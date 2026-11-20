@@ -22968,5 +22968,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p20vxshoe-victron-outboard-hood-mounting-shoe",
+    "name": "Victron outboard terminal hood angle mounting shoe",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed 17 mm cut of nominal 30 × 30 × 3 mm steel angle for the outboard Victron hood foot. Two Ø4.5 mm holes are spaced 10 mm apart in the flange.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "terminal cover",
+      "angle shoe",
+      "outboard mounting reference"
+    ],
+    "aliases": [
+      "Victron outboard terminal hood angle mounting shoe",
+      "p20vxshoe-victron-outboard-hood-mounting-shoe"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20vxshoe-victron-outboard-hood-mounting-shoe",
+    "file": "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe-XY.png",
+        "view": "Plan",
+        "alt": "Victron outboard terminal hood angle mounting shoe, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron outboard terminal hood angle mounting shoe, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe-YZ.png",
+        "view": "End",
+        "alt": "Victron outboard terminal hood angle mounting shoe, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron outboard terminal hood angle mounting shoe, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe-XY.png",
+      "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe.dwg",
+      "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/p20vxshoe-victron-outboard-hood-mounting-shoe.md",
+      "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
