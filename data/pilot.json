@@ -25687,5 +25687,68 @@
         ]
       }
     ]
+  },
+  {
+    "id": "caster-arm-brace-4p5-mm-cheek-clearance",
+    "name": "Caster arm brace with primary-spacer relief and cheek clearance",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "4.5 mm triangular caster brace with a radius-16 mm primary-spacer relief.",
+    "tags": [
+      "tractor",
+      "caster",
+      "brace",
+      "support"
+    ],
+    "aliases": [
+      "Caster arm brace with primary-spacer relief and cheek clearance",
+      "caster-arm-brace-4p5-mm-cheek-clearance"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "caster-arm-brace-4p5-mm-cheek-clearance",
+    "file": "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance-XY.png",
+        "view": "Plan",
+        "alt": "Caster arm brace with primary-spacer relief and cheek clearance, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance-XZ.png",
+        "view": "Elevation",
+        "alt": "Caster arm brace with primary-spacer relief and cheek clearance, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance-YZ.png",
+        "view": "End",
+        "alt": "Caster arm brace with primary-spacer relief and cheek clearance, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Caster arm brace with primary-spacer relief and cheek clearance, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance-XY.png",
+      "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance-XZ.png",
+      "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance-YZ.png",
+      "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance.dwg",
+      "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/caster-arm-brace-4p5-mm-cheek-clearance.md",
+      "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
