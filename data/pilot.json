@@ -24678,5 +24678,69 @@
       "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-frame-seat-crossbar",
+    "name": "Victron frame seat transverse crossbar",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Undrilled 340 mm cut of nominal 20 × 20 × 2 mm square hollow section.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery shelf",
+      "crossbar",
+      "square hollow section"
+    ],
+    "aliases": [
+      "Victron frame seat transverse crossbar",
+      "victron-frame-seat-crossbar"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "victron-frame-seat-crossbar",
+    "file": "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar-XY.png",
+        "view": "Plan",
+        "alt": "Victron frame seat transverse crossbar, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron frame seat transverse crossbar, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar-YZ.png",
+        "view": "End",
+        "alt": "Victron frame seat transverse crossbar, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron frame seat transverse crossbar, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/thumbnail.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar-XY.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar-XZ.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar-YZ.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar.dwg",
+      "models/mechanical/chassis/battery-supports/victron-frame-seat-crossbar/victron-frame-seat-crossbar.md"
+    ],
+    "sources": []
   }
 ]
