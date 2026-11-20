@@ -22200,5 +22200,65 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p20cleaf-leaf-terminal-cover-reference",
+    "name": "Leaf terminal cover at the reference terminal plane",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Leaf six-module terminal hood at the reference terminal plane n = 162 mm. The proposed 3 mm polymer roof and walls have four 20 × 20 mm mounting ears with Ø4.5 mm bores.",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "terminal cover",
+      "reference hood",
+      "battery"
+    ],
+    "aliases": [
+      "Leaf terminal cover at the reference terminal plane",
+      "p20cleaf-leaf-terminal-cover-reference"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20cleaf-leaf-terminal-cover-reference",
+    "file": "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference-XY.png",
+        "view": "Plan",
+        "alt": "Leaf terminal cover at the reference terminal plane, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf terminal cover at the reference terminal plane, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference-YZ.png",
+        "view": "End",
+        "alt": "Leaf terminal cover at the reference terminal plane, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf terminal cover at the reference terminal plane, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference-XY.png",
+      "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference.dwg",
+      "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/p20cleaf-leaf-terminal-cover-reference.md",
+      "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
