@@ -22621,5 +22621,64 @@
       "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p20vup-victron-hood-shelf-supported-post",
+    "name": "Victron terminal hood insulating support post",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Victron terminal hood insulating support post. Proposed insulating part, 10 × 10 × 7 mm, with 1 Ø4.5 mm through bore.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "terminal cover",
+      "insulating support"
+    ],
+    "aliases": [
+      "Victron terminal hood insulating support post",
+      "p20vup-victron-hood-shelf-supported-post"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20vup-victron-hood-shelf-supported-post",
+    "file": "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post-XY.png",
+        "view": "Plan",
+        "alt": "Victron terminal hood insulating support post, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron terminal hood insulating support post, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post-YZ.png",
+        "view": "End",
+        "alt": "Victron terminal hood insulating support post, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron terminal hood insulating support post, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post-XY.png",
+      "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post.dwg",
+      "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/p20vup-victron-hood-shelf-supported-post.md",
+      "models/mechanical/chassis/battery-supports/p20vup-victron-hood-shelf-supported-post/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
