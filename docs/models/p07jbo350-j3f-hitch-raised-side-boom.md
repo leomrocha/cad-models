@@ -1,0 +1,7 @@
+---
+# Generated catalogue entry
+layout: model
+title: CAD model
+model_id: p07jbo350-j3f-hitch-raised-side-boom
+permalink: /models/p07jbo350-j3f-hitch-raised-side-boom.html
+---
