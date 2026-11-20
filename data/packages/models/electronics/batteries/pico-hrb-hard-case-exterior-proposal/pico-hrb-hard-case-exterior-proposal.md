@@ -23,6 +23,10 @@ OpenCADStudio verified the current geometry at revision 434. The final save veri
 - [Isometric](pico-hrb-hard-case-exterior-proposal-isometric.png), plot generated from CAD boundary geometry.
 - [Upper isometric](pico-hrb-hard-case-exterior-proposal-top-isometric.png), plot generated from CAD boundary geometry.
 
+## CAD references
+
+- [Pico HRB 3S 6,000 mAh hard-case clearance](../../../assemblies/sowbot/pico/interface-references/hrb-3s-6000mah-hard-case-pico-clearance/hrb-3s-6000mah-hard-case-pico-clearance.md), derived geometry, CAD SHA-256 `f78aebc41ff25fd707143ef87b2652d1d5dcab2eb86edfa93542ee1004075329`. The checked hard-case clearance reference supplies the 138 × 46 × 39 mm case envelope and Pico placement.
+
 ## Technical sources
 
 - [Source reference](https://sowbot.co.uk/hardware/)

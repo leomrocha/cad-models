@@ -12776,7 +12776,15 @@
     "category_path": "electronics/batteries",
     "system": "sowbot",
     "variant": "pico",
-    "model_references": [],
+    "model_references": [
+      {
+        "id": "model-313",
+        "revision": null,
+        "sha256": "f78aebc41ff25fd707143ef87b2652d1d5dcab2eb86edfa93542ee1004075329",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
     "sources": [
       {
         "title": "Source reference",
