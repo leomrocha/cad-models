@@ -12775,5 +12775,81 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-brain-orp-mounting-plate-source-profile-proposal",
+    "name": "Rosmo ORP Brain mounting plate — installation proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Exact source-registered exterior and 28 internal openings are carried forward as the checked source boundary mesh. The proposed 2.5 mm thickness extends below Z = 0. The represented thickness range is 1.6–3.0 mm.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "part",
+      "installation proposal",
+      "Rosmo ORP",
+      "mounting plate",
+      "28 openings",
+      "PCB supports"
+    ],
+    "aliases": [
+      "Rosmo ORP Brain mounting plate",
+      "brain-orp-mounting-plate-source-profile-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal.dwg",
+    "package_assets": [
+      "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal.dwg",
+      "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal.md",
+      "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-XY.png",
+      "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-XZ.png",
+      "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-YZ.png",
+      "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-isometric.png",
+      "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-top-isometric.png",
+      "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-XY.png",
+        "view": "XY plan",
+        "alt": "Rosmo ORP Brain mounting plate — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Rosmo ORP Brain mounting plate — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-YZ.png",
+        "view": "YZ end",
+        "alt": "Rosmo ORP Brain mounting plate — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-isometric.png",
+        "view": "Isometric",
+        "alt": "Rosmo ORP Brain mounting plate — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical-parts/components/brain-orp-mounting-plate-source-profile-proposal/brain-orp-mounting-plate-source-profile-proposal-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Rosmo ORP Brain mounting plate — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "mechanical-parts/components",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
