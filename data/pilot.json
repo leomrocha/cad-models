@@ -20974,5 +20974,68 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p04cap-deck-upright-ledge-bridge-cap",
+    "name": "Deck upright ledge bridge cap",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Steel deck upright bridge cap, 60 × 70 × 3 mm. The 70 mm direction extends the upright contact plane outboard to the ledge.",
+    "tags": [
+      "tractor",
+      "deck",
+      "bridge cap",
+      "steel plate"
+    ],
+    "aliases": [
+      "Deck upright ledge bridge cap",
+      "p04cap-deck-upright-ledge-bridge-cap"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/deck",
+    "variant": "P04CAP",
+    "file": "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap-XY.png",
+        "view": "Plan",
+        "alt": "Deck upright ledge bridge cap, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap-XZ.png",
+        "view": "Elevation",
+        "alt": "Deck upright ledge bridge cap, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap-YZ.png",
+        "view": "End",
+        "alt": "Deck upright ledge bridge cap, end"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Deck upright ledge bridge cap, isometric",
+        "thumbnail_file": "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap-XY.png",
+      "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap-XZ.png",
+      "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap-YZ.png",
+      "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap-top-isometric.png",
+      "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap.dwg",
+      "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/p04cap-deck-upright-ledge-bridge-cap.md",
+      "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
