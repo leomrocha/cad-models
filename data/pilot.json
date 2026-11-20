@@ -11948,5 +11948,141 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "assembly-main-chassis-reconstructed-assembly-proposal",
+    "name": "Main Sowbot reconstructed tracked chassis — assembly proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "Eleven physical occurrences. Two carriers, two track loops, three removable crossmembers, two reducers and two manufacturer-source D6374 motors.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "assembly",
+      "installation proposal",
+      "tracked chassis",
+      "track loops",
+      "crossmembers",
+      "D6374"
+    ],
+    "aliases": [
+      "Main Sowbot reconstructed tracked chassis",
+      "main-chassis-reconstructed-assembly-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal.dwg",
+      "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal.md",
+      "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-XY.png",
+      "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-XZ.png",
+      "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-YZ.png",
+      "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-isometric.png",
+      "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-top-isometric.png",
+      "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-XY.png",
+        "view": "XY plan",
+        "alt": "Main Sowbot reconstructed tracked chassis — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Main Sowbot reconstructed tracked chassis — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-YZ.png",
+        "view": "YZ end",
+        "alt": "Main Sowbot reconstructed tracked chassis — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-isometric.png",
+        "view": "Isometric",
+        "alt": "Main Sowbot reconstructed tracked chassis — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/layouts/main-chassis-reconstructed-assembly-proposal/main-chassis-reconstructed-assembly-proposal-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Main Sowbot reconstructed tracked chassis — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/layouts",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [
+      {
+        "id": "sowbot-main-left-carrier-reconstruction",
+        "revision": 1,
+        "sha256": "1c7daf9cb6d36ef6d2096bf8b08b165e0f7f89c1948d1e502f08f8625ab006e4",
+        "dependency": "embedded",
+        "occurrences": [
+          "frame-left"
+        ]
+      },
+      {
+        "id": "sowbot-main-right-carrier-reconstruction",
+        "revision": 1,
+        "sha256": "1f7c200df7f0fd71e4d7286e83b7292b40b6474f9147973f8d873339fe8fa881",
+        "dependency": "embedded",
+        "occurrences": [
+          "frame-right"
+        ]
+      },
+      {
+        "id": "sowbot-main-track-loop-reconstruction",
+        "revision": 1,
+        "sha256": "025fdb9065ad07f7e47bf509b7d7a370ba4288cc81b7f804b246894525a5220a",
+        "dependency": "embedded",
+        "occurrences": [
+          "track-left",
+          "track-right"
+        ]
+      },
+      {
+        "id": "sowbot-main-crossmember-reconstruction",
+        "revision": 1,
+        "sha256": "291f49f3d946ff6a5a2bb2eee01699879005f86a28b1305fbc7c244540da3ad9",
+        "dependency": "embedded",
+        "occurrences": [
+          "crossmember-front",
+          "crossmember-removable-middle",
+          "crossmember-rear"
+        ]
+      },
+      {
+        "id": "sowbot-main-reducer-reconstruction",
+        "revision": 2,
+        "sha256": "988a33d062110b5bc31b9695879d16f06e60cd01f967a1710081ede2d45dfae2",
+        "dependency": "embedded",
+        "occurrences": [
+          "reducer-left",
+          "reducer-right"
+        ]
+      },
+      {
+        "id": "model-244",
+        "revision": null,
+        "sha256": "4e1d5d250367d32e1ec3c890f83bb885b950b12c868a25c09b2a1c329c6714e7",
+        "dependency": "embedded",
+        "occurrences": [
+          "motor-left",
+          "motor-right"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
