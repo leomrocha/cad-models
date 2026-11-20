@@ -22421,5 +22421,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "leaf-layered-bank-cover-clearance",
+    "name": "Leaf layered bank and terminal cover clearance",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two layered Nissan Leaf cassettes with nominal clamp hardware, the common floor and paired terminal covers. Terminal contact faces and cover-shell clearance are checked in the bank frame.",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "battery bank",
+      "terminal cover",
+      "clearance"
+    ],
+    "aliases": [
+      "Leaf layered bank and terminal cover clearance",
+      "leaf-layered-bank-cover-clearance"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "leaf-layered-bank-cover-clearance",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance-XY.png",
+        "view": "Plan",
+        "alt": "Leaf layered bank and terminal cover clearance, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf layered bank and terminal cover clearance, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance-YZ.png",
+        "view": "End",
+        "alt": "Leaf layered bank and terminal cover clearance, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf layered bank and terminal cover clearance, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/leaf-layered-bank-cover-clearance.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-layered-bank-cover-clearance/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-38",
+        "revision": null,
+        "sha256": "92b46ecb65bb64d68e3d5f8e20f8842d4b7bd74d36a31360f758351e4f19185d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Layered bank with floor rails and nominal clamp hardware"
+        ]
+      },
+      {
+        "id": "leaf-paired-reference-terminal-covers",
+        "revision": 1,
+        "sha256": "3ca5bf2016aa1aca6408dda1878c88bd7e5516c55dc62399f83c38b9c9769b55",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired reference covers and supports"
+        ]
+      }
+    ]
   }
 ]
