@@ -23032,5 +23032,86 @@
       "models/mechanical/chassis/battery-supports/p20vxshoe-victron-outboard-hood-mounting-shoe/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-hood-outboard-shoe-installation",
+    "name": "Victron hood outboard extensions on independent angle shoes",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Victron reference hoods with paired outboard brackets and their separate angle shoes. Four checked screw axes join the 3 mm bracket feet and 3 mm shoe flanges.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "terminal cover",
+      "angle shoe",
+      "mounting reference"
+    ],
+    "aliases": [
+      "Victron hood outboard extensions on independent angle shoes",
+      "victron-hood-outboard-shoe-installation"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-hood-outboard-shoe-installation",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation-XY.png",
+        "view": "Plan",
+        "alt": "Victron hood outboard extensions on independent angle shoes, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron hood outboard extensions on independent angle shoes, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation-YZ.png",
+        "view": "End",
+        "alt": "Victron hood outboard extensions on independent angle shoes, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron hood outboard extensions on independent angle shoes, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-outboard-shoe-installation/victron-hood-outboard-shoe-installation.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "victron-hoods-with-outboard-shelf-extensions",
+        "revision": 1,
+        "sha256": "43569d92698e73fc91d5832a16f000d73188a24f22e8cca3d1e488ba7019d7e0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired hoods and outboard shelf extensions"
+        ]
+      },
+      {
+        "id": "p20vxshoe-victron-outboard-hood-mounting-shoe",
+        "revision": 1,
+        "sha256": "4ff2413aba208f2178a04fef887ca3fb3a84216f37b79fe22483d0675e0fce0b",
+        "dependency": "embedded",
+        "occurrences": [
+          "left outboard mounting shoe",
+          "right outboard mounting shoe"
+        ]
+      }
+    ]
   }
 ]
