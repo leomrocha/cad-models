@@ -34021,5 +34021,113 @@
         "occurrences": []
       }
     ]
+  },
+  {
+    "id": "j4-keyed-wheel-flange-relieved-installation-30mm",
+    "name": "J4 keyed Knott wheel flange with relieved washer for 30 mm shaft",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 30 mm keyed shaft, Knott wheel flange, outer washer and nominal M10 × 25 retainer at the checked installed positions.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel end",
+      "Knott",
+      "shaft key",
+      "retainer"
+    ],
+    "aliases": [
+      "J4 keyed Knott wheel flange with relieved washer for 30 mm shaft",
+      "j4-keyed-wheel-flange-relieved-installation-30mm"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-keyed-wheel-flange-relieved-installation-30mm",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm-XY.png",
+        "view": "Plan",
+        "alt": "J4 keyed Knott wheel flange with relieved washer for 30 mm shaft, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 keyed Knott wheel flange with relieved washer for 30 mm shaft, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm-YZ.png",
+        "view": "End",
+        "alt": "J4 keyed Knott wheel flange with relieved washer for 30 mm shaft, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 keyed Knott wheel flange with relieved washer for 30 mm shaft, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/j4-keyed-wheel-flange-relieved-installation-30mm.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-relieved-installation-30mm/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p12j430-j4-30mm-keyed-wheel-shaft",
+        "revision": 1,
+        "sha256": "b180072c7d02c3f654f0178b722b2ae3e9802a270f4d89a00dc170d70b688ab4",
+        "dependency": "embedded",
+        "occurrences": [
+          "Keyed wheel shaft"
+        ]
+      },
+      {
+        "id": "p14j430-j4-wheel-flange-30mm-bore",
+        "revision": 1,
+        "sha256": "20a5963d431f7f95a75f48e16fa109ded7d21fe7a9340b6fcf7cef4ca3a1a4fb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Knott wheel flange"
+        ]
+      },
+      {
+        "id": "j4-8x7x40-round-ended-wheel-shaft-key",
+        "revision": 1,
+        "sha256": "3c2a74f8c9783ae1b38c670f3308fdc73bcf967f7416b20c5388363786d6d675",
+        "dependency": "embedded",
+        "occurrences": [
+          "Wheel flange key"
+        ]
+      },
+      {
+        "id": "j4-relieved-outer-wheel-retainer-washer",
+        "revision": 1,
+        "sha256": "a74d76d8da83aa2d72da19684364e8440a206519ff8d240e9c7a77923eeb82da",
+        "dependency": "embedded",
+        "occurrences": [
+          "Outboard end washer"
+        ]
+      },
+      {
+        "id": "j4-m10x25-outer-wheel-retainer-screw",
+        "revision": 1,
+        "sha256": "926003aab2ea5610f368bc9b63a9ef8869d59d10fe18c555c8bfd3a6a02f3fb0",
+        "dependency": "embedded",
+        "occurrences": [
+          "M10 outer retainer screw"
+        ]
+      }
+    ]
   }
 ]
