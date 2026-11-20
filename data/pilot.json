@@ -24486,5 +24486,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "victron-frame-flange-seat-tab",
+    "name": "Victron frame flange seat tab",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "37 × 18 × 6 mm flange seat tab with one Ø8.5 mm through hole.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery shelf",
+      "frame seat",
+      "seat-tab"
+    ],
+    "aliases": [
+      "Victron frame flange seat tab",
+      "victron-frame-flange-seat-tab"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "victron-frame-flange-seat-tab",
+    "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab-XY.png",
+        "view": "Plan",
+        "alt": "Victron frame flange seat tab, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron frame flange seat tab, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab-YZ.png",
+        "view": "End",
+        "alt": "Victron frame flange seat tab, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron frame flange seat tab, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/thumbnail.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab-XY.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab-XZ.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab-YZ.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab.dwg",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab.md"
+    ],
+    "sources": []
   }
 ]
