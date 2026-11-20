@@ -34681,5 +34681,65 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p16mtj4-j4-guard-mount-weld-envelope",
+    "name": "J4 guard mount 1 mm fillet weld envelope",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Triangular 1 mm-leg nominal weld envelope for the J4 upper guard mounting flange.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chain guard",
+      "mounting flange",
+      "weld envelope"
+    ],
+    "aliases": [
+      "J4 guard mount 1 mm fillet weld envelope",
+      "p16mtj4-j4-guard-mount-weld-envelope"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "p16mtj4-j4-guard-mount-weld-envelope",
+    "file": "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope-XY.png",
+        "view": "Plan",
+        "alt": "J4 guard mount 1 mm fillet weld envelope, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 guard mount 1 mm fillet weld envelope, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope-YZ.png",
+        "view": "End",
+        "alt": "J4 guard mount 1 mm fillet weld envelope, end"
+      },
+      {
+        "file": "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 guard mount 1 mm fillet weld envelope, isometric",
+        "thumbnail_file": "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope-XY.png",
+      "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope-XZ.png",
+      "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope-YZ.png",
+      "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope-top-isometric.png",
+      "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope.dwg",
+      "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/p16mtj4-j4-guard-mount-weld-envelope.md",
+      "models/mechanical/guards/p16mtj4-j4-guard-mount-weld-envelope/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
