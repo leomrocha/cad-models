@@ -12162,7 +12162,22 @@
     "category_path": "electronics/components",
     "system": "sowbot",
     "variant": "brain",
-    "model_references": [],
+    "model_references": [
+      {
+        "id": "model-251",
+        "revision": null,
+        "sha256": "63673fe6db5a19989ca45015be168578d733db7fddccaef1bb9dfc6305eef28e",
+        "dependency": "derived",
+        "occurrences": []
+      },
+      {
+        "id": "model-311",
+        "revision": null,
+        "sha256": "99627762af6f0a796268cf33389a5ffd8ce8f6dfbcd0a1c155ae735ff3f28911",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
     "sources": [
       {
         "title": "Avaota-A1 hardware v1.7 manufacturer STEP",
