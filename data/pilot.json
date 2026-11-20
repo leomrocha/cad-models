@@ -17060,5 +17060,127 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24s04b-j-splash-panels-with-lower-hardware",
+    "name": "J splash-panel assembly with S04B lower hardware",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Paired tractor splash panels, rails, clamps and fourteen edge trim cuts, with six lower joints. Each joint has an M6 × 16 screw, one outboard washer and a locknut.",
+    "tags": [
+      "tractor",
+      "splash panel",
+      "crossbar",
+      "compression sleeve",
+      "subassembly",
+      "S03T",
+      "S04B",
+      "rail clamp",
+      "lower fastener",
+      "edge protector"
+    ],
+    "aliases": [
+      "J splash-panel assembly with S04B lower hardware",
+      "p24s04b-j-splash-panels-with-lower-hardware"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "P24S04B",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware-XY.png",
+        "view": "Plan",
+        "alt": "J splash-panel assembly with S04B lower hardware, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware-XZ.png",
+        "view": "Elevation",
+        "alt": "J splash-panel assembly with S04B lower hardware, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware-YZ.png",
+        "view": "End",
+        "alt": "J splash-panel assembly with S04B lower hardware, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J splash-panel assembly with S04B lower hardware, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/p24s04b-j-splash-panels-with-lower-hardware.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s04b-j-splash-panels-with-lower-hardware/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24s03tct-j-splash-panels-rail-clamps-and-edge-trims",
+        "revision": 1,
+        "sha256": "5a4f96248dd821afc7d2ca83c0c868e83f6e7c1970a01b604c91065fd21378ea",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired splash-panel and rail installation"
+        ]
+      },
+      {
+        "id": "model-70",
+        "revision": null,
+        "sha256": "0c8ca6b61cd26be2cc79642bab28684f302d798740ce33cab4da2479defd7a13",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left X-220 Screw under-head seat",
+          "Left X+0 Screw under-head seat",
+          "Left X+220 Screw under-head seat",
+          "Right X-220 Screw under-head seat",
+          "Right X+0 Screw under-head seat",
+          "Right X+220 Screw under-head seat"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left X-220 Washer inner bearing seat",
+          "Left X+0 Washer inner bearing seat",
+          "Left X+220 Washer inner bearing seat",
+          "Right X-220 Washer inner bearing seat",
+          "Right X+0 Washer inner bearing seat",
+          "Right X+220 Washer inner bearing seat"
+        ]
+      },
+      {
+        "id": "model-77",
+        "revision": null,
+        "sha256": "b005197d6d63b19d28d1785191f25a1a7a8a07068289550796644a12ed197e08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left X-220 Nut inner bearing seat",
+          "Left X+0 Nut inner bearing seat",
+          "Left X+220 Nut inner bearing seat",
+          "Right X-220 Nut inner bearing seat",
+          "Right X+0 Nut inner bearing seat",
+          "Right X+220 Nut inner bearing seat"
+        ]
+      }
+    ]
   }
 ]
