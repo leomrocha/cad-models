@@ -11873,5 +11873,80 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-main-reducer-reconstruction",
+    "name": "Main Sowbot reducer exterior — installation proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Housing, motor mating face and separate Ø32 mm output shaft. Ø10.7 mm input relief and eight Ø4.5 mm mounting passages.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "part",
+      "installation proposal",
+      "gear reducer",
+      "D6374",
+      "tracked chassis"
+    ],
+    "aliases": [
+      "Main Sowbot reducer exterior",
+      "main-reducer-reconstruction-r2"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 2,
+    "file": "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2.dwg",
+      "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2.md",
+      "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-XY.png",
+      "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-XZ.png",
+      "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-YZ.png",
+      "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-top-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-XY.png",
+        "view": "XY plan",
+        "alt": "Main Sowbot reducer exterior — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Main Sowbot reducer exterior — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-YZ.png",
+        "view": "YZ end",
+        "alt": "Main Sowbot reducer exterior — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-isometric.png",
+        "view": "Isometric",
+        "alt": "Main Sowbot reducer exterior — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-reducer-reconstruction-r2/main-reducer-reconstruction-r2-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Main Sowbot reducer exterior — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/parts",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
