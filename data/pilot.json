@@ -16863,5 +16863,77 @@
         "url": "https://www.emka.com/fileadmin/catalog/catalog_downloads/pdf/en/Ingenious_Locking_Technology_for_Mobile_Homes_Buses_Trailers_01-2024_EN.pdf#page=131"
       }
     ]
+  },
+  {
+    "id": "p24ts-j-side-trim-cut",
+    "name": "J splash-panel side edge trim",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "135 mm square-ended edge protector for the tractor splash-panel installation. The single solid represents the estimated installed outline of EMKA 1010-12.",
+    "tags": [
+      "tractor",
+      "splash panel",
+      "edge protector",
+      "EMKA 1010-12",
+      "P24TS"
+    ],
+    "aliases": [
+      "J splash-panel side edge trim",
+      "p24ts-j-side-trim-cut"
+    ],
+    "materials": [
+      {
+        "name": "EPDM"
+      },
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "P24TS",
+    "file": "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut-XY.png",
+        "view": "Plan",
+        "alt": "J splash-panel side edge trim, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut-XZ.png",
+        "view": "Elevation",
+        "alt": "J splash-panel side edge trim, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut-YZ.png",
+        "view": "End",
+        "alt": "J splash-panel side edge trim, end"
+      },
+      {
+        "file": "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J splash-panel side edge trim, isometric",
+        "thumbnail_file": "models/mechanical/chassis/p24ts-j-side-trim-cut/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut-XY.png",
+      "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut-XZ.png",
+      "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut-YZ.png",
+      "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut-top-isometric.png",
+      "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut.dwg",
+      "models/mechanical/chassis/p24ts-j-side-trim-cut/p24ts-j-side-trim-cut.md",
+      "models/mechanical/chassis/p24ts-j-side-trim-cut/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "EMKA catalogue T3-510, profile 1010-12, PDF page 131",
+        "url": "https://www.emka.com/fileadmin/catalog/catalog_downloads/pdf/en/Ingenious_Locking_Technology_for_Mobile_Homes_Buses_Trailers_01-2024_EN.pdf#page=131"
+      }
+    ]
   }
 ]
