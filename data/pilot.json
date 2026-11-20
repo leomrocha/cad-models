@@ -19047,5 +19047,112 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-25-bearing-hangers",
+    "name": "J4 25 mm rear bearing hanger assembly",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 25 mm branch rear bearing hanger preview assembly. Four lower cantilevers, four rear posts and four upper links placed on the checked bearing support group.",
+    "tags": [
+      "tractor",
+      "J4",
+      "SKF",
+      "bearing hanger",
+      "j4-25-bearing-hangers"
+    ],
+    "aliases": [
+      "J4 25 mm rear bearing hanger assembly",
+      "j4-25-bearing-hangers"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-25-bearing-hangers",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers-XY.png",
+        "view": "Plan",
+        "alt": "J4 25 mm rear bearing hanger assembly, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 25 mm rear bearing hanger assembly, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers-YZ.png",
+        "view": "End",
+        "alt": "J4 25 mm rear bearing hanger assembly, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 25 mm rear bearing hanger assembly, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/j4-25-bearing-hangers.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-25-bearing-support-placements",
+        "revision": 1,
+        "sha256": "29bd5d21e78c3c9664e2b9514a4775ebfa4a456c91143232511af229a43b0e33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Checked SKF bearing and plate placements"
+        ]
+      },
+      {
+        "id": "p13j425bar-j4-solid-lower-cantilever-25-branch",
+        "revision": 1,
+        "sha256": "e3ba18ca3b92c413330bcb524864185032b5627fcf464e10a8efe7b70d4f7bf7",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer bar",
+          "Right inner bar",
+          "Left inner bar",
+          "Left outer bar"
+        ]
+      },
+      {
+        "id": "p13j425post-j4-hanger-post-25-bearing-branch",
+        "revision": 1,
+        "sha256": "3c05e549935e819ada9467dfda60be72bcabd7cb45cc1d0e1fdb62d19a511eb6",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer post",
+          "Right inner post",
+          "Left inner post",
+          "Left outer post"
+        ]
+      },
+      {
+        "id": "p13j4top-j4-upper-bearing-hanger-link",
+        "revision": 1,
+        "sha256": "6dcde35e884d38c3de376f124947791070ef33378eb3b93c57a74df54be3dd56",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer link",
+          "Right inner link",
+          "Left inner link",
+          "Left outer link"
+        ]
+      }
+    ]
   }
 ]
