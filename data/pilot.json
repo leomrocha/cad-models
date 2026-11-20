@@ -17182,5 +17182,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c016-blickle-ls-ps310k-dimensional-reference",
+    "name": "Blickle LS-PS310K wheel and mounting reference",
+    "subject": "Interface references",
+    "kind": "standard",
+    "description": "Manufacturer-dimensioned 300 × 100 mm wheel envelope and 160 × 120 mm mounting pattern with four Ø14 mm circles. The mount plane is 355 mm above ground.",
+    "tags": [
+      "caster",
+      "Blickle",
+      "LS-PS310K",
+      "wheel envelope",
+      "mounting pattern",
+      "C016"
+    ],
+    "aliases": [
+      "Blickle LS-PS310K wheel and mounting reference",
+      "c016-blickle-ls-ps310k-dimensional-reference"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked manufacturer-dimensioned reference",
+    "category_path": "interface-references/wheels-and-tyres",
+    "variant": "C016",
+    "file": "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference.dwg",
+    "previews": [
+      {
+        "file": "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-PS310K wheel and mounting reference, plan"
+      },
+      {
+        "file": "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-PS310K wheel and mounting reference, elevation"
+      },
+      {
+        "file": "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-PS310K wheel and mounting reference, end"
+      },
+      {
+        "file": "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-PS310K wheel and mounting reference, isometric",
+        "thumbnail_file": "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference-XY.png",
+      "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference-XZ.png",
+      "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference-YZ.png",
+      "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference-top-isometric.png",
+      "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference.dwg",
+      "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/c016-blickle-ls-ps310k-dimensional-reference.md",
+      "models/interface-references/wheels-and-tyres/c016-blickle-ls-ps310k-dimensional-reference/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Blickle G16 Chapter 4, LS-PS310K, PDF page 8",
+        "url": "https://www.blickle.us/en-us/-/media/project/blickle/global-web/service/mediathek/katalogkapitel/pdf-dokumente/en/g16-chapter-4.pdf?fh=b52be283e2be767ebc501c5b60e4be6a#page=8"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "blickle-ls-ps310k",
+        "revision": null,
+        "sha256": "e7ce5d746305fc6386e0a60c6a1696e6ed55663836cd0266d87c545496c287d6",
+        "dependency": "derived",
+        "occurrences": [
+          "dimensioned-reference"
+        ]
+      }
+    ]
   }
 ]
