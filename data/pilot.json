@@ -11573,5 +11573,80 @@
     "system": "tractor",
     "variant": "two-wheel",
     "model_references": []
+  },
+  {
+    "id": "sowbot-main-left-carrier-reconstruction",
+    "name": "Main Sowbot left side carrier — installation proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "10 mm plate with bored axle interfaces and 60 × 56 mm crossmember stations.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "part",
+      "installation proposal",
+      "side carrier",
+      "tracked chassis",
+      "axle"
+    ],
+    "aliases": [
+      "Main Sowbot left side carrier",
+      "main-left-carrier-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction.dwg",
+      "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction.md",
+      "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-XY.png",
+      "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-XZ.png",
+      "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-YZ.png",
+      "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-top-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "Main Sowbot left side carrier — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Main Sowbot left side carrier — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "Main Sowbot left side carrier — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "Main Sowbot left side carrier — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-left-carrier-reconstruction/main-left-carrier-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Main Sowbot left side carrier — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/parts",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
