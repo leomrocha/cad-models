@@ -34601,5 +34601,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-wheel-end-and-hanger-fit-30mm",
+    "name": "J4 30 mm paired wheel ends and fastened hanger fit",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Paired 30 mm J4 wheel ends fitted to the fastened bearing hangers.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel shafts",
+      "bearing hangers",
+      "SKF datums"
+    ],
+    "aliases": [
+      "J4 30 mm paired wheel ends and fastened hanger fit",
+      "j4-wheel-end-and-hanger-fit-30mm"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-wheel-end-and-hanger-fit-30mm",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm-XY.png",
+        "view": "Plan",
+        "alt": "J4 30 mm paired wheel ends and fastened hanger fit, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 30 mm paired wheel ends and fastened hanger fit, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm-YZ.png",
+        "view": "End",
+        "alt": "J4 30 mm paired wheel ends and fastened hanger fit, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 30 mm paired wheel ends and fastened hanger fit, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/j4-wheel-end-and-hanger-fit-30mm.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-30mm/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-paired-wheel-ends-30mm",
+        "revision": 1,
+        "sha256": "7d0dd4919509e03e5285b87b68103fc74112833c41436a2f68a8254ebee7a58f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired wheel ends"
+        ]
+      },
+      {
+        "id": "j4-30-bearing-hangers-j04-stack",
+        "revision": 1,
+        "sha256": "968e3298c604dc4a73dd0a88461b805b92aceb158a4fadfbaca92bda844ea35f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Fastened bearing hangers"
+        ]
+      }
+    ]
   }
 ]
