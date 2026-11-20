@@ -16358,5 +16358,81 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24jsrl-j-left-splash-top-wall-rail",
+    "name": "J S03T left splash top-wall rail",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "One 650 mm raised-frame steel rail, 40 × 40 mm nominal hollow section with 3 mm walls. Three Ø6.6 mm screw passages and six Ø3 mm plug-weld apertures pass through the upper wall.",
+    "tags": [
+      "tractor",
+      "splash panel",
+      "S03T",
+      "raised frame rail",
+      "machined tube",
+      "P24JSRL"
+    ],
+    "aliases": [
+      "J S03T left splash top-wall rail",
+      "p24jsrl-j-left-splash-top-wall-rail"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "P24JSRL",
+    "file": "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail-XY.png",
+        "view": "Plan",
+        "alt": "J S03T left splash top-wall rail, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail-XZ.png",
+        "view": "Elevation",
+        "alt": "J S03T left splash top-wall rail, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail-YZ.png",
+        "view": "End",
+        "alt": "J S03T left splash top-wall rail, end"
+      },
+      {
+        "file": "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J S03T left splash top-wall rail, isometric",
+        "thumbnail_file": "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail-XY.png",
+      "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail-XZ.png",
+      "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail-YZ.png",
+      "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail-top-isometric.png",
+      "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail.dwg",
+      "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/p24jsrl-j-left-splash-top-wall-rail.md",
+      "models/mechanical/chassis/p24jsrl-j-left-splash-top-wall-rail/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-112",
+        "revision": null,
+        "dependency": "derived",
+        "sha256": "f27495f31ba3f9cce1f41654f612c2934f13e11a46a779067e3840149de0fdad",
+        "occurrences": [
+          "stock-rail"
+        ]
+      }
+    ]
   }
 ]
