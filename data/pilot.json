@@ -37794,5 +37794,130 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-30mm-right-wheel-stack-with-keyed-sprocket-hub",
+    "name": "J4 right 30 mm wheel stack with keyed sprocket hub blank",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 right wheel-end stack for a 30 mm shaft, with a keyed sprocket carrier hub blank and retained spacer.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel stack",
+      "sprocket hub blank",
+      "right"
+    ],
+    "aliases": [
+      "J4 right 30 mm wheel stack with keyed sprocket hub blank",
+      "j4-30mm-right-wheel-stack-with-keyed-sprocket-hub"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-30mm-right-wheel-stack-with-keyed-sprocket-hub",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub-XY.png",
+        "view": "Plan",
+        "alt": "J4 right 30 mm wheel stack with keyed sprocket hub blank, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 right 30 mm wheel stack with keyed sprocket hub blank, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub-YZ.png",
+        "view": "End",
+        "alt": "J4 right 30 mm wheel stack with keyed sprocket hub blank, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 right 30 mm wheel stack with keyed sprocket hub blank, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-right-wheel-stack-with-keyed-sprocket-hub/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-keyed-wheel-flange-relieved-installation-30mm",
+        "revision": 1,
+        "sha256": "c92ddc682c57fa0858bffcef07efb7768e966a516f2b54873947cb14f3b713c0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right wheel end"
+        ]
+      },
+      {
+        "id": "p12j4ew-j4-inner-shaft-end-washer",
+        "revision": 1,
+        "sha256": "ece0884ffd2f99627b90b5e1b1a1521948a514a805af38c796b4f3755d3a5a96",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right inner end washer"
+        ]
+      },
+      {
+        "id": "c160-iso-10642-m8x20-inner-retainer-screw",
+        "revision": 1,
+        "sha256": "a1ce80fcb7445aa5fda596a8e41a1f1220e069aea0bb552485677dd3c86b8534",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right inner retainer screw"
+        ]
+      },
+      {
+        "id": "p12j4sp30-j4-inner-bearing-spacer-30",
+        "revision": 1,
+        "sha256": "c00948f5fc18bb73cc808b3d14d668fdad483e5e25fc9774163c6403e10baa8d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right inner bearing spacer"
+        ]
+      },
+      {
+        "id": "model-169",
+        "revision": null,
+        "sha256": "97c787d0774cd2820d9582ecb8e7ab1e2092f4e58c0b74272c1483569a2940c2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right sprocket to wheel spacer"
+        ]
+      },
+      {
+        "id": "p12j4c30-j4-sprocket-carrier-keyed-hub-blank",
+        "revision": 1,
+        "sha256": "734778c43fe15ff31e18e71a392b7fc0aa977aa9ad597ada9bd76d8b05967c6e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Sprocket hub blank"
+        ]
+      },
+      {
+        "id": "j4-8x7x40-round-ended-wheel-shaft-key",
+        "revision": 1,
+        "sha256": "3c2a74f8c9783ae1b38c670f3308fdc73bcf967f7416b20c5388363786d6d675",
+        "dependency": "embedded",
+        "occurrences": [
+          "Sprocket hub key"
+        ]
+      }
+    ]
   }
 ]
