@@ -23388,5 +23388,66 @@
       "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "c095r-victron-rear-shelf-contact-pad",
+    "name": "Victron rear shelf contact pad",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Victron rear shelf contact pad. Proposed 240 × 6 × 2 mm pad on a flat main-case bearing face.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "BAT524110620",
+      "battery shelf",
+      "contact pad",
+      "rear"
+    ],
+    "aliases": [
+      "Victron rear shelf contact pad",
+      "c095r-victron-rear-shelf-contact-pad"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "c095r-victron-rear-shelf-contact-pad",
+    "file": "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad-XY.png",
+        "view": "Plan",
+        "alt": "Victron rear shelf contact pad, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron rear shelf contact pad, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad-YZ.png",
+        "view": "End",
+        "alt": "Victron rear shelf contact pad, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron rear shelf contact pad, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad-XY.png",
+      "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad-XZ.png",
+      "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad-YZ.png",
+      "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad.dwg",
+      "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/c095r-victron-rear-shelf-contact-pad.md",
+      "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
