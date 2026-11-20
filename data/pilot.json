@@ -19865,5 +19865,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p15j4u-j4-brake-mounting-upstand",
+    "name": "J4 brake mounting upstand",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 parking-brake mounting upstand. The proposed steel plate measures 50 × 60 × 8 mm with four Ø9 mm through holes at 25 × 35 mm centres.",
+    "tags": [
+      "tractor",
+      "J4",
+      "parking brake",
+      "caliper mounting",
+      "steel plate"
+    ],
+    "aliases": [
+      "J4 brake mounting upstand",
+      "p15j4u-j4-brake-mounting-upstand"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/brake-supports",
+    "variant": "P15J4U",
+    "file": "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand-XY.png",
+        "view": "Plan",
+        "alt": "J4 brake mounting upstand, plan"
+      },
+      {
+        "file": "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 brake mounting upstand, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand-YZ.png",
+        "view": "End",
+        "alt": "J4 brake mounting upstand, end"
+      },
+      {
+        "file": "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 brake mounting upstand, isometric",
+        "thumbnail_file": "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand-XY.png",
+      "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand-XZ.png",
+      "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand-YZ.png",
+      "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand-top-isometric.png",
+      "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand.dwg",
+      "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/p15j4u-j4-brake-mounting-upstand.md",
+      "models/mechanical/drive/brake-supports/p15j4u-j4-brake-mounting-upstand/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
