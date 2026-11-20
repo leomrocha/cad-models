@@ -20339,5 +20339,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p07ou-hitch-frame-rear-outrigger",
+    "name": "Structural S hitch frame rear outrigger",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Structural S hitch frame rear outrigger. Nominal 40 × 40 × 3 mm square steel tube with a 600 mm cut length and two open ends.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "hitch",
+      "square steel tube",
+      "P07OU"
+    ],
+    "aliases": [
+      "Structural S hitch frame rear outrigger",
+      "p07ou-hitch-frame-rear-outrigger"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "P07OU",
+    "file": "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger-XY.png",
+        "view": "Plan",
+        "alt": "Structural S hitch frame rear outrigger, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S hitch frame rear outrigger, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger-YZ.png",
+        "view": "End",
+        "alt": "Structural S hitch frame rear outrigger, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S hitch frame rear outrigger, isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger-XY.png",
+      "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger-XZ.png",
+      "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger-YZ.png",
+      "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger-top-isometric.png",
+      "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger.dwg",
+      "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/p07ou-hitch-frame-rear-outrigger.md",
+      "models/mechanical/chassis/hitch/p07ou-hitch-frame-rear-outrigger/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-159",
+        "revision": null,
+        "sha256": "eff79ccdee729311f7e011e6909594575ec648f981493be22a14c0d728d44f6f",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal square tube section"
+        ]
+      }
+    ]
   }
 ]
