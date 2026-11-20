@@ -19407,5 +19407,78 @@
         "url": "https://eshop.boellhoff.de/out/media/pdf/ISO_10642_Stahl_10.9___en.pdf"
       }
     ]
+  },
+  {
+    "id": "c159-din-985-m12-nylon-insert-nut-proposed-class-10",
+    "name": "DIN 985 M12 nylon-insert nut nominal reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal M12 nylon-insert nut envelope. Across flats is 19 mm and total height is 12 mm.",
+    "tags": [
+      "tractor",
+      "fastener",
+      "DIN 985",
+      "C159"
+    ],
+    "aliases": [
+      "DIN 985 M12 nylon-insert nut nominal reference",
+      "c159-din-985-m12-nylon-insert-nut-proposed-class-10"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": [
+      {
+        "designation": "DIN 985",
+        "relationship": "Nominal fastener reference dimensions"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical-parts/fasteners/nuts",
+    "variant": "C159",
+    "file": "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10-XY.png",
+        "view": "Plan",
+        "alt": "DIN 985 M12 nylon-insert nut nominal reference, plan"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10-XZ.png",
+        "view": "Elevation",
+        "alt": "DIN 985 M12 nylon-insert nut nominal reference, elevation"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10-YZ.png",
+        "view": "End",
+        "alt": "DIN 985 M12 nylon-insert nut nominal reference, end"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10-top-isometric.png",
+        "view": "Isometric",
+        "alt": "DIN 985 M12 nylon-insert nut nominal reference, isometric",
+        "thumbnail_file": "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10-XY.png",
+      "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10-XZ.png",
+      "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10-YZ.png",
+      "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10-top-isometric.png",
+      "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10.dwg",
+      "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/c159-din-985-m12-nylon-insert-nut-proposed-class-10.md",
+      "models/mechanical-parts/fasteners/nuts/c159-din-985-m12-nylon-insert-nut-proposed-class-10/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "DIN 985 dimensional reference",
+        "url": "https://hbsfasteners.nl/standards/din-985"
+      }
+    ]
   }
 ]
