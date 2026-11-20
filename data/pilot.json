@@ -23821,5 +23821,68 @@
       "models/mechanical/chassis/battery-supports/p20hvp-victron-restraint-bridge-angle-post/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p20hvcap-victron-restraint-bridge-post-cap",
+    "name": "Victron restraint bridge drilled post cap",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "30 × 30 × 3 mm restraint post cap with one centred Ø8.5 mm bore.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery restraint",
+      "mounting cap"
+    ],
+    "aliases": [
+      "Victron restraint bridge drilled post cap",
+      "p20hvcap-victron-restraint-bridge-post-cap"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20hvcap-victron-restraint-bridge-post-cap",
+    "file": "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap-XY.png",
+        "view": "Plan",
+        "alt": "Victron restraint bridge drilled post cap, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron restraint bridge drilled post cap, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap-YZ.png",
+        "view": "End",
+        "alt": "Victron restraint bridge drilled post cap, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron restraint bridge drilled post cap, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap-XY.png",
+      "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap.dwg",
+      "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/p20hvcap-victron-restraint-bridge-post-cap.md",
+      "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
