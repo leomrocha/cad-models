@@ -13709,5 +13709,76 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-main-joined-deck-and-controller-ears",
+    "name": "Main deck with front extension and controller ears — installation proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Joined 6 mm deck with front Brain mounting extension and two controller support ears. In the Main chassis frame, the deck spans X −118 to 810 mm, Y 15 to 750 mm and Z 1 to 7 mm.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "part",
+      "installation proposal",
+      "deck",
+      "controller ears",
+      "front extension",
+      "tracked chassis"
+    ],
+    "aliases": [
+      "Main deck with front extension and controller ears",
+      "main-joined-deck-and-controller-ears-r2"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 2,
+    "file": "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2.dwg",
+      "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2.md",
+      "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-XY.png",
+      "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-XZ.png",
+      "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-YZ.png",
+      "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-top-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-XY.png",
+        "view": "XY plan",
+        "alt": "Main deck with front extension and controller ears — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Main deck with front extension and controller ears — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-YZ.png",
+        "view": "YZ end",
+        "alt": "Main deck with front extension and controller ears — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-isometric.png",
+        "view": "Isometric",
+        "alt": "Main deck with front extension and controller ears — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-joined-deck-and-controller-ears-r2/main-joined-deck-and-controller-ears-r2-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Main deck with front extension and controller ears — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/parts",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [],
+    "sources": []
   }
 ]
