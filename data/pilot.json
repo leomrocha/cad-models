@@ -40058,5 +40058,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-kelly-bmw-tray-recessed-deck-300mm-caster",
+    "name": "J3f chassis with Kelly controllers, BMW raised tray and 300 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Kelly-equipped J3f chassis with BMW i3 94 Ah raised battery tray and 300 mm caster.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "Kelly",
+      "BMW i3",
+      "battery tray",
+      "chassis"
+    ],
+    "aliases": [
+      "J3f chassis with Kelly controllers, BMW raised tray and 300 mm caster",
+      "j3f-kelly-bmw-tray-recessed-deck-300mm-caster"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-kelly-bmw-tray-recessed-deck-300mm-caster",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster-XY.png",
+        "view": "Plan",
+        "alt": "J3f chassis with Kelly controllers, BMW raised tray and 300 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f chassis with Kelly controllers, BMW raised tray and 300 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster-YZ.png",
+        "view": "End",
+        "alt": "J3f chassis with Kelly controllers, BMW raised tray and 300 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f chassis with Kelly controllers, BMW raised tray and 300 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/j3f-kelly-bmw-tray-recessed-deck-300mm-caster.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-bmw-tray-recessed-deck-300mm-caster/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j3f-recessed-deck-kelly-outboard-300mm-caster",
+        "revision": 1,
+        "sha256": "c669e55630d1da61189492b6ac5d6d52e5f522f3009fe9db25907467d5560b24",
+        "dependency": "embedded",
+        "occurrences": [
+          "Kelly equipped chassis"
+        ]
+      },
+      {
+        "id": "p18jr3-bmw-raised-tray-installation",
+        "revision": 4,
+        "sha256": "18936f1338f554bc54dd7ea318ada6748a4459adad6a1ab85ac688fb369b1706",
+        "dependency": "embedded",
+        "occurrences": [
+          "BMW raised tray and supports"
+        ]
+      }
+    ]
   }
 ]
