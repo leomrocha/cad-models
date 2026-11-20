@@ -39204,5 +39204,100 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-raised-frame-with-kelly-passage-rails",
+    "name": "J3f raised frame with Kelly carrier passages",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J3f raised-frame core with two foot and Kelly carrier passage rails and the retained three crossmembers.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "Kelly",
+      "chassis",
+      "raised frame"
+    ],
+    "aliases": [
+      "J3f raised frame with Kelly carrier passages",
+      "j3f-raised-frame-with-kelly-passage-rails"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-raised-frame-with-kelly-passage-rails",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails-XY.png",
+        "view": "Plan",
+        "alt": "J3f raised frame with Kelly carrier passages, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f raised frame with Kelly carrier passages, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails-YZ.png",
+        "view": "End",
+        "alt": "J3f raised frame with Kelly carrier passages, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f raised frame with Kelly carrier passages, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/j3f-raised-frame-with-kelly-passage-rails.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-raised-frame-with-kelly-passage-rails/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p01j650fk-j3f-foot-and-kelly-passage-rail",
+        "revision": 1,
+        "sha256": "632d564574ffc0b88263d76efc0ac7b0619ddf791c21197cd277cc0a777900a9",
+        "dependency": "embedded",
+        "occurrences": [
+          "P01J650FK — Left raised longitudinal rail",
+          "P01J650FK — Right raised longitudinal rail"
+        ]
+      },
+      {
+        "id": "model-114",
+        "revision": null,
+        "sha256": "f2cd4fdf0b6f1c7b2ddc58fbbe1f9680c92ecac4fee7365acececf92c55104c2",
+        "dependency": "embedded",
+        "occurrences": [
+          "P02 — Rear crossmember",
+          "P02 — Middle crossmember"
+        ]
+      },
+      {
+        "id": "model-115",
+        "revision": null,
+        "sha256": "cb2075536d1391cbae7ffd5a4b1cd9ac47f711adad08933f1a2d14a025140e0e",
+        "dependency": "embedded",
+        "occurrences": [
+          "P02JF — Narrow front crossmember"
+        ]
+      }
+    ]
   }
 ]
