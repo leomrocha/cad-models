@@ -33615,5 +33615,65 @@
         "occurrences": []
       }
     ]
+  },
+  {
+    "id": "j4-8x7x40-round-ended-wheel-shaft-key",
+    "name": "J4 8 × 7 × 40 mm round-ended wheel shaft key",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal parallel key, 8 × 7 × 40 mm with R4 ends.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel shaft",
+      "retainer",
+      "parallel key"
+    ],
+    "aliases": [
+      "J4 8 × 7 × 40 mm round-ended wheel shaft key",
+      "j4-8x7x40-round-ended-wheel-shaft-key"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/shaft-keys",
+    "variant": "j4-8x7x40-round-ended-wheel-shaft-key",
+    "file": "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key-XY.png",
+        "view": "Plan",
+        "alt": "J4 8 × 7 × 40 mm round-ended wheel shaft key, plan"
+      },
+      {
+        "file": "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 8 × 7 × 40 mm round-ended wheel shaft key, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key-YZ.png",
+        "view": "End",
+        "alt": "J4 8 × 7 × 40 mm round-ended wheel shaft key, end"
+      },
+      {
+        "file": "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 8 × 7 × 40 mm round-ended wheel shaft key, isometric",
+        "thumbnail_file": "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key-XY.png",
+      "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key-XZ.png",
+      "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key-YZ.png",
+      "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key-top-isometric.png",
+      "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key.dwg",
+      "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/j4-8x7x40-round-ended-wheel-shaft-key.md",
+      "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
