@@ -18524,5 +18524,79 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p13j4bar-j4-solid-lower-bearing-cantilever",
+    "name": "J4 lower bearing cantilever, 30 mm shaft",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 30 mm branch lower bearing cantilever. The steel bar measures 258 × 40 × 25 mm with two Ø14 mm through bores. The two proposed 90° seats have an Ø26.88 mm mouth and 6.44 mm depth.",
+    "tags": [
+      "tractor",
+      "J4",
+      "bearing cantilever",
+      "P13J4BAR"
+    ],
+    "aliases": [
+      "J4 lower bearing cantilever, 30 mm shaft",
+      "p13j4bar-j4-solid-lower-bearing-cantilever"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/bearing-supports",
+    "variant": "P13J4BAR",
+    "file": "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever-XY.png",
+        "view": "Plan",
+        "alt": "J4 lower bearing cantilever, 30 mm shaft, plan"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 lower bearing cantilever, 30 mm shaft, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever-YZ.png",
+        "view": "End",
+        "alt": "J4 lower bearing cantilever, 30 mm shaft, end"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 lower bearing cantilever, 30 mm shaft, isometric",
+        "thumbnail_file": "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever-XY.png",
+      "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever-XZ.png",
+      "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever-YZ.png",
+      "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever-top-isometric.png",
+      "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever.dwg",
+      "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/p13j4bar-j4-solid-lower-bearing-cantilever.md",
+      "models/mechanical/drive/bearing-supports/p13j4bar-j4-solid-lower-bearing-cantilever/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-172",
+        "revision": null,
+        "sha256": "8dc54c551aceaf10354a3f3ca7db41b2b6cc3424d5753da34a99f958d29bcd7f",
+        "dependency": "derived",
+        "occurrences": [
+          "Bearing support plate bore datum"
+        ]
+      }
+    ]
   }
 ]
