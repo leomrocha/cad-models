@@ -32275,5 +32275,163 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-motenergy-chassis-recessed-deck-250mm-caster",
+    "name": "J3f chassis with recessed deck and 250 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J3f chassis with recessed deck, lifting supports, two ME0907 motors, front and rear attachment mounts, H390 hitch frame and 250 mm caster.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "ME0907",
+      "deck",
+      "lifting supports",
+      "caster",
+      "H390",
+      "chassis"
+    ],
+    "aliases": [
+      "J3f chassis with recessed deck and 250 mm caster",
+      "j3f-motenergy-chassis-recessed-deck-250mm-caster"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-motenergy-chassis-recessed-deck-250mm-caster",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster-XY.png",
+        "view": "Plan",
+        "alt": "J3f chassis with recessed deck and 250 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f chassis with recessed deck and 250 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster-YZ.png",
+        "view": "End",
+        "alt": "J3f chassis with recessed deck and 250 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f chassis with recessed deck and 250 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/j3f-motenergy-chassis-recessed-deck-250mm-caster.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-recessed-deck-250mm-caster/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-20",
+        "revision": null,
+        "sha256": "50e2fa29034972022b85dbb60f6f4353f0ce538f7ff0bc80becabfb602b19a69",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised frame with recessed deck and lifting supports"
+        ]
+      },
+      {
+        "id": "j3f-caster-250-50mm-rearward-mount-installation",
+        "revision": 1,
+        "sha256": "9ecd7e9aedcc49982bb1cc6cad773468c042855eb72ba01d6701f9b782fbb631",
+        "dependency": "embedded",
+        "occurrences": [
+          "250 mm relocated caster installation"
+        ]
+      },
+      {
+        "id": "j-h390-hitch-tube-frame",
+        "revision": 1,
+        "sha256": "118eac7030caa5d2736e7ce076c18df7cbc9d9ede7ae0c4bf401fce15d2bc6d8",
+        "dependency": "embedded",
+        "occurrences": [
+          "H390 hitch tube frame"
+        ]
+      },
+      {
+        "id": "model-28",
+        "revision": null,
+        "sha256": "5062b0627c5a814a0637f2a0251d237581966f84fb3b6b4bed2d5532af09286b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Front root-relieved attachment"
+        ]
+      },
+      {
+        "id": "model-158",
+        "revision": null,
+        "sha256": "7f5f03daf38e2cad3eb16d5aa31c53aa04b0f188d59654d9b4c5a4e32927921d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Front upper attachment carrier",
+          "Rear upper attachment carrier"
+        ]
+      },
+      {
+        "id": "model-46",
+        "revision": null,
+        "sha256": "828d62f5fc33551997417dddd90aeb630a94a3922c4eb1b1eb53b41ebc7fa6fa",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear root-relieved attachment"
+        ]
+      },
+      {
+        "id": "model-117",
+        "revision": null,
+        "sha256": "443e1946dd6c2d0cd2b13aaac2fd9557978827ad51e72ac45c7a242f98e800c2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left fixed motor backbone"
+        ]
+      },
+      {
+        "id": "model-116",
+        "revision": null,
+        "sha256": "675373e05f38ce8f8be5975ec8cdb113ad80d19074953c8898453bb3a24b2d52",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right fixed motor backbone"
+        ]
+      },
+      {
+        "id": "model-163",
+        "revision": null,
+        "sha256": "f827eb64e7139e3fff878ea40afd75c065449eba8b7e5f59f21cfe49f2058270",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left moving motor plate",
+          "Right moving motor plate"
+        ]
+      },
+      {
+        "id": "model-106",
+        "revision": null,
+        "sha256": "6c9c1505c3beb528b10cb27c5a2af0406c16e00a2f766cfaa27bed8c132d1a33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Motenergy ME0907 motor",
+          "Right Motenergy ME0907 motor"
+        ]
+      }
+    ]
   }
 ]
