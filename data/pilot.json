@@ -17576,10 +17576,10 @@
   },
   {
     "id": "p18jr3-bmw-raised-tray-installation",
-    "name": "BMW i3 raised J tray with R3 supports and dielectric layer",
+    "name": "BMW i3 raised J tray with R3 supports and reference shield",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Raised BMW i3 94 Ah module reconstruction with its four shield uprights, the drilled tray floor and the 14-piece R3-relieved support group. The 0.25 mm dielectric layer follows the reconstructed base and mounting tabs.",
+    "description": "Raised BMW i3 94 Ah module reconstruction with its four shield uprights, the drilled tray floor and the 14-piece R3-relieved support group. The 0.25 mm dielectric layer follows the reconstructed base and mounting tabs. The nominal Nlive150 shield seats on four independent uprights.",
     "tags": [
       "tractor",
       "BMW i3 94 Ah",
@@ -17597,7 +17597,7 @@
     "standards": null,
     "dimensions": null,
     "needs_information": false,
-    "revision": 2,
+    "revision": 3,
     "state": "Discussion construction proposal",
     "category_path": "assemblies/tractor/two-wheel/subassemblies",
     "variant": "P18JR3",
@@ -17606,22 +17606,22 @@
       {
         "file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/p18jr3-bmw-raised-tray-installation-XY.png",
         "view": "Plan",
-        "alt": "BMW i3 raised J tray with R3 supports and dielectric layer, plan"
+        "alt": "BMW i3 raised J tray with R3 supports and reference shield, plan"
       },
       {
         "file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/p18jr3-bmw-raised-tray-installation-XZ.png",
         "view": "Elevation",
-        "alt": "BMW i3 raised J tray with R3 supports and dielectric layer, elevation"
+        "alt": "BMW i3 raised J tray with R3 supports and reference shield, elevation"
       },
       {
         "file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/p18jr3-bmw-raised-tray-installation-YZ.png",
         "view": "End",
-        "alt": "BMW i3 raised J tray with R3 supports and dielectric layer, end"
+        "alt": "BMW i3 raised J tray with R3 supports and reference shield, end"
       },
       {
         "file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/p18jr3-bmw-raised-tray-installation-top-isometric.png",
         "view": "Isometric",
-        "alt": "BMW i3 raised J tray with R3 supports and dielectric layer, isometric",
+        "alt": "BMW i3 raised J tray with R3 supports and reference shield, isometric",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/thumbnail.png"
       }
     ],
@@ -17670,6 +17670,15 @@
         "dependency": "embedded",
         "occurrences": [
           "BMW tray dielectric contact layer"
+        ]
+      },
+      {
+        "id": "p20cbmw-bmw-terminal-shield-nlive150",
+        "revision": 1,
+        "sha256": "cc391f9c0475734ca30392afda2033db70a12a5bfe2755c92af948d08e90418f",
+        "dependency": "embedded",
+        "occurrences": [
+          "BMW terminal shield, nominal Nlive150"
         ]
       }
     ]

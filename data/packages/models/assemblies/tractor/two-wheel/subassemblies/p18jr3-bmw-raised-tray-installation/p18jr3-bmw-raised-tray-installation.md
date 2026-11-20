@@ -1,10 +1,10 @@
-# BMW i3 raised J tray with R3 supports and dielectric layer
+# BMW i3 raised J tray with R3 supports and reference shield
 
-**Catalogue draft ID** `p18jr3-bmw-raised-tray-installation`. Revision 2.
+**Catalogue draft ID** `p18jr3-bmw-raised-tray-installation`. Revision 3.
 
 **Design status** Discussion construction proposal.
 
-[Native DWG 2018](p18jr3-bmw-raised-tray-installation.dwg), SHA-256 `92d9ed049eb07e9d77e138882e0454fecd88c35da0f9a9b2bd3b2c1e1fa82a64`.
+[Native DWG 2018](p18jr3-bmw-raised-tray-installation.dwg), SHA-256 `b94ac7adc4227919af1f686de72a18c4f625fe1891e91788b8a79db27e9cf96a`.
 
 ## Geometry
 
@@ -22,9 +22,15 @@ Both tray rails meet the floor underside at Z = 575 mm. The floor top and four u
 
 - [BMW i3 94 Ah tray dielectric contact layer](../../../../../mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer.md), one instance, SHA-256 `4bb8f7d66a3f1b21e32793280022bb218af430a7b8ab8ba2d4fb46fb34941838`.
 
+- [BMW terminal shield for the Nlive150 reference](../../../../../mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150.md), one instance, SHA-256 `cc391f9c0475734ca30392afda2033db70a12a5bfe2755c92af948d08e90418f`.
+
+## Installed nominal shield
+
+The four Ø4.5 mm shield-ear bores match the source upright axes at Z = 738.25 mm. The roof underside is 10 mm above the reconstructed OEM cover. The side opening follows the checked cable projection for the nominal 150 mm reference height. The separate dielectric layer remains installed.
+
 ## Checks
 
-OpenCADStudio verified the reference geometry at revision 4617. The final DWG save verified its hash and recorded zero dropped objects.
+OpenCADStudio verified the reference geometry at revision 4802. The final DWG save verified its hash and recorded zero dropped objects.
 
 ## Views
 
