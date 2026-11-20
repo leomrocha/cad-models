@@ -13851,5 +13851,145 @@
     "variant": "main",
     "model_references": [],
     "sources": []
+  },
+  {
+    "id": "assembly-main-sowbot-reconstructed-hardware-layout-proposal",
+    "name": "Main Sowbot reconstructed hardware installation — assembly proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "The model contains the verified Main chassis subassembly and counts its two ODrive D6374 motors there. Six VariCore cases retain the saved XY arrangement and sit at Z = 7 mm on the nominal deck.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "assembly",
+      "installation proposal",
+      "tracked chassis",
+      "battery installation",
+      "electronics installation"
+    ],
+    "aliases": [
+      "Main Sowbot reconstructed hardware installation",
+      "main-sowbot-reconstructed-hardware-layout-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal.dwg",
+      "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal.md",
+      "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal-XY.png",
+      "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal-XZ.png",
+      "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal-YZ.png",
+      "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal-top-isometric.png",
+      "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal-XY.png",
+        "view": "XY plan",
+        "alt": "Main Sowbot reconstructed hardware installation — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Main Sowbot reconstructed hardware installation — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal-YZ.png",
+        "view": "YZ end",
+        "alt": "Main Sowbot reconstructed hardware installation — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/main-sowbot-reconstructed-hardware-layout-proposal-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Main Sowbot reconstructed hardware installation — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/main/layouts/main-sowbot-reconstructed-hardware-layout-proposal/thumbnail.png"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/layouts",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [
+      {
+        "id": "assembly-main-chassis-reconstructed-assembly-proposal",
+        "revision": 1,
+        "sha256": "4b691a1df2a334c57b268c7506ddbe2af287e8f77ae7ecd51e68455a32710c5c",
+        "dependency": "embedded",
+        "occurrences": [
+          "MAIN-CHASSIS"
+        ]
+      },
+      {
+        "id": "sowbot-main-joined-deck-and-controller-ears",
+        "revision": 2,
+        "sha256": "0a4b9848f5708a57ab405913ebd2c95614d400a8114ed2ba397dd9107b76467c",
+        "dependency": "embedded",
+        "occurrences": [
+          "MAIN-DECK"
+        ]
+      },
+      {
+        "id": "assembly-main-deck-tube-and-controller-supports",
+        "revision": 2,
+        "sha256": "5c73959c413097abcd56557c631edf55d203ab98516ff64426d2ce768392f1af",
+        "dependency": "embedded",
+        "occurrences": [
+          "MAIN-DECK-SUPPORTS"
+        ]
+      },
+      {
+        "id": "sowbot-varicore-vc1280na-exterior-reconstruction",
+        "revision": 1,
+        "sha256": "412c23bc45061d98866ad877e0f1c6efa025111466be1bc56bf737151d0ae06a",
+        "dependency": "embedded",
+        "occurrences": [
+          "BATTERY-1",
+          "BATTERY-2",
+          "BATTERY-3",
+          "BATTERY-4",
+          "BATTERY-5",
+          "BATTERY-6"
+        ]
+      },
+      {
+        "id": "sowbot-odrive-v36-installation-reconstruction",
+        "revision": 1,
+        "sha256": "87fbf335f1211c0378ed7d50155de053ff2ab19f4d737df99b7db14688c862ec",
+        "dependency": "embedded",
+        "occurrences": [
+          "ODRIVE-1",
+          "ODRIVE-2"
+        ]
+      },
+      {
+        "id": "assembly-brain-populated-split-tier-installation-proposal",
+        "revision": 1,
+        "sha256": "f70c7bca8714163edd93bc0e84b332d4fb01d0ca89cbaa6631eba633da4ac36c",
+        "dependency": "embedded",
+        "occurrences": [
+          "BRAIN"
+        ]
+      },
+      {
+        "id": "sowbot-kee-lite-l45-6-exterior-reconstruction",
+        "revision": 1,
+        "sha256": "f30c52fc567fe9951c08df183c8a1f8c75125c159f846c009354cd6154d3ac58",
+        "dependency": "embedded",
+        "occurrences": [
+          "KEE-LITE-1",
+          "KEE-LITE-2"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
