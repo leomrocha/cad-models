@@ -12699,5 +12699,81 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-pico-usb-charger-exterior-proposal",
+    "name": "Pico USB charger service accessory — installation proposal",
+    "subject": "Electronics",
+    "kind": "part",
+    "description": "The compact standalone trial case is 52 × 25 × 16 mm. The design envelope ranges are 43–70 mm length, 19–32 mm width and 12–23 mm height. The Hiwonder 12.6 V bundle charger is separately identified.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Pico",
+      "part",
+      "installation proposal",
+      "USB charger",
+      "USB-A",
+      "balance connector",
+      "service accessory"
+    ],
+    "aliases": [
+      "Pico USB charger service accessory",
+      "pico-usb-charger-exterior-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal.dwg",
+    "package_assets": [
+      "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal.dwg",
+      "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal.md",
+      "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-XY.png",
+      "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-XZ.png",
+      "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-YZ.png",
+      "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-isometric.png",
+      "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-top-isometric.png",
+      "models/electronics/components/pico-usb-charger-exterior-proposal/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-XY.png",
+        "view": "XY plan",
+        "alt": "Pico USB charger service accessory — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Pico USB charger service accessory — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-YZ.png",
+        "view": "YZ end",
+        "alt": "Pico USB charger service accessory — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-isometric.png",
+        "view": "Isometric",
+        "alt": "Pico USB charger service accessory — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/electronics/components/pico-usb-charger-exterior-proposal/thumbnail.png"
+      },
+      {
+        "file": "models/electronics/components/pico-usb-charger-exterior-proposal/pico-usb-charger-exterior-proposal-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Pico USB charger service accessory — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "electronics/components",
+    "system": "sowbot",
+    "variant": "pico",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Source reference",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
