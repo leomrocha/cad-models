@@ -39887,5 +39887,95 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-recessed-deck-kelly-outboard-300mm-caster",
+    "name": "J3f recessed-deck chassis with Kelly controllers and 300 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J3f chassis with recessed deck, 300 mm caster, Motenergy motors and Kelly outboard carrier geometry.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "Kelly",
+      "chassis",
+      "recessed deck",
+      "Motenergy"
+    ],
+    "aliases": [
+      "J3f recessed-deck chassis with Kelly controllers and 300 mm caster",
+      "j3f-recessed-deck-kelly-outboard-300mm-caster"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-recessed-deck-kelly-outboard-300mm-caster",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster-XY.png",
+        "view": "Plan",
+        "alt": "J3f recessed-deck chassis with Kelly controllers and 300 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f recessed-deck chassis with Kelly controllers and 300 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster-YZ.png",
+        "view": "End",
+        "alt": "J3f recessed-deck chassis with Kelly controllers and 300 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f recessed-deck chassis with Kelly controllers and 300 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/j3f-recessed-deck-kelly-outboard-300mm-caster.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-recessed-deck-kelly-outboard-300mm-caster/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j3f-motenergy-chassis-outboard-foot-fasteners-300mm-caster",
+        "revision": 1,
+        "sha256": "5c7a0b3ad4c741b1edfc56c90bfab0c07f232d1bd8f762111c7a7b33561daa4e",
+        "dependency": "derived",
+        "occurrences": [
+          "Checked recessed deck chassis"
+        ]
+      },
+      {
+        "id": "j3f-raised-frame-with-kelly-passage-rails",
+        "revision": 1,
+        "sha256": "5a08e4d221dea8e10e636c24be7ca90526d7cc401954e85599802e5e5525950a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised frame with Kelly passages"
+        ]
+      },
+      {
+        "id": "j3f-kelly-controller-pair-with-four-outboard-clamps",
+        "revision": 1,
+        "sha256": "95165f7630e9f423f07a9f8b70f0a32b8c33c137f7580a274e3ad9bf90616793",
+        "dependency": "derived",
+        "occurrences": [
+          "Kelly controllers and outboard clamps"
+        ]
+      }
+    ]
   }
 ]
