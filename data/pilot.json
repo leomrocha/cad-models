@@ -25385,5 +25385,136 @@
       "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-service-hatch-installed",
+    "name": "Victron service hatch with fitted rails and twelve removable fasteners",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Fixed deck, removable cover and two removable rails with twelve M6 × 16 screws and twelve washers.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "deck",
+      "battery service",
+      "hatch",
+      "subassembly"
+    ],
+    "aliases": [
+      "Victron service hatch with fitted rails and twelve removable fasteners",
+      "victron-service-hatch-installed"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-service-hatch-installed",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed-XY.png",
+        "view": "Plan",
+        "alt": "Victron service hatch with fitted rails and twelve removable fasteners, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron service hatch with fitted rails and twelve removable fasteners, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed-YZ.png",
+        "view": "End",
+        "alt": "Victron service hatch with fitted rails and twelve removable fasteners, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron service hatch with fitted rails and twelve removable fasteners, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-service-hatch-installed/victron-service-hatch-installed.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "victron-service-hatch-fixed-deck",
+        "revision": 1,
+        "sha256": "83743f7f66604800257e5e5d11cbf2c3ee21e6386da75076e2f852c63d40aff3",
+        "dependency": "embedded",
+        "occurrences": [
+          "Fixed deck"
+        ]
+      },
+      {
+        "id": "victron-service-hatch-removable-cover",
+        "revision": 1,
+        "sha256": "67e718174880d267b60a7c1bc06b02c41623349b60b79c309e14d3677856799b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Removable hatch cover"
+        ]
+      },
+      {
+        "id": "victron-service-hatch-support-rail",
+        "revision": 1,
+        "sha256": "859c8f94df7fb7d3a59508bc78b1dbde1d33f634923e22b01565e6985ef8d983",
+        "dependency": "embedded",
+        "occurrences": [
+          "Removable rail Y -132",
+          "Removable rail Y 132"
+        ]
+      },
+      {
+        "id": "model-70",
+        "revision": null,
+        "sha256": "0c8ca6b61cd26be2cc79642bab28684f302d798740ce33cab4da2479defd7a13",
+        "dependency": "embedded",
+        "occurrences": [
+          "M6 × 16 screw at deck X -68, Y -139.5",
+          "M6 × 16 screw at deck X 67, Y -139.5",
+          "M6 × 16 screw at deck X 202, Y -139.5",
+          "M6 × 16 screw at cover X -68, Y -124.5",
+          "M6 × 16 screw at cover X 67, Y -124.5",
+          "M6 × 16 screw at cover X 202, Y -124.5",
+          "M6 × 16 screw at deck X -68, Y 139.5",
+          "M6 × 16 screw at deck X 67, Y 139.5",
+          "M6 × 16 screw at deck X 202, Y 139.5",
+          "M6 × 16 screw at cover X -68, Y 124.5",
+          "M6 × 16 screw at cover X 67, Y 124.5",
+          "M6 × 16 screw at cover X 202, Y 124.5"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "M6 washer at deck X -68, Y -139.5",
+          "M6 washer at deck X 67, Y -139.5",
+          "M6 washer at deck X 202, Y -139.5",
+          "M6 washer at cover X -68, Y -124.5",
+          "M6 washer at cover X 67, Y -124.5",
+          "M6 washer at cover X 202, Y -124.5",
+          "M6 washer at deck X -68, Y 139.5",
+          "M6 washer at deck X 67, Y 139.5",
+          "M6 washer at deck X 202, Y 139.5",
+          "M6 washer at cover X -68, Y 124.5",
+          "M6 washer at cover X 67, Y 124.5",
+          "M6 washer at cover X 202, Y 124.5"
+        ]
+      }
+    ]
   }
 ]
