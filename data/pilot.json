@@ -38957,5 +38957,91 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-rear-transverse-top-link-mount",
+    "name": "J3f rear transverse top-link mount",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J3f rear attachment support with two fitted top-link cheeks. The cheeks share a transverse Ø19.5 mm bore axis.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "rear",
+      "attachment support",
+      "top link",
+      "pivot bracket"
+    ],
+    "aliases": [
+      "J3f rear transverse top-link mount",
+      "j3f-rear-transverse-top-link-mount"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-rear-transverse-top-link-mount",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount-XY.png",
+        "view": "Plan",
+        "alt": "J3f rear transverse top-link mount, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f rear transverse top-link mount, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount-YZ.png",
+        "view": "End",
+        "alt": "J3f rear transverse top-link mount, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f rear transverse top-link mount, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/j3f-rear-transverse-top-link-mount.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-rear-transverse-top-link-mount/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j3f-rear-attachment-mount",
+        "revision": 1,
+        "sha256": "27c45089a59fbee9b2b7cb1c15c057ce1269ac1c54c3ee1f9d46b9221d0347c8",
+        "dependency": "embedded",
+        "occurrences": [
+          "Checked raised frame and attachment support"
+        ]
+      },
+      {
+        "id": "j3f-rear-transverse-top-link-cheek",
+        "revision": 1,
+        "sha256": "9e1327d39c0f3c972145c4030ae3c0067b29033710a09e6cd98c0dce8ef54328",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left pin cheek",
+          "Right pin cheek"
+        ]
+      }
+    ]
   }
 ]
