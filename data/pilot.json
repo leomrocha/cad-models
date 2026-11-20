@@ -12238,5 +12238,81 @@
         "url": "https://www.beitian.com/en/sys-pd/1151.html"
       }
     ]
+  },
+  {
+    "id": "sowbot-brain-power-board-installation-reconstruction",
+    "name": "Sowbot original power regulation board — installation proposal",
+    "subject": "Electronics",
+    "kind": "part",
+    "description": "The original power-board raster supplies four aperture and connector landmarks. The inferred 5.08 mm screw-terminal pitch gives the proposed 98.49 mm nominal square board with the estimated size range 96.60–98.91 mm. Board thickness is proposed as 1.6 mm with range 1.4–2.0 mm.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "part",
+      "installation proposal",
+      "power regulation",
+      "PCB",
+      "connector envelope",
+      "USB-A"
+    ],
+    "aliases": [
+      "Sowbot original power regulation board",
+      "brain-power-board-installation-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction.dwg",
+    "package_assets": [
+      "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction.dwg",
+      "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction.md",
+      "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-XY.png",
+      "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-XZ.png",
+      "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-YZ.png",
+      "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-isometric.png",
+      "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-top-isometric.png",
+      "models/electronics/components/brain-power-board-installation-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "Sowbot original power regulation board — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Sowbot original power regulation board — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "Sowbot original power regulation board — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "Sowbot original power regulation board — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/electronics/components/brain-power-board-installation-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/electronics/components/brain-power-board-installation-reconstruction/brain-power-board-installation-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Sowbot original power regulation board — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "electronics/components",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Source reference",
+        "url": "https://oshwlab.com/rosmo/pcb12v-reroute"
+      }
+    ]
   }
 ]
