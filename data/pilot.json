@@ -21201,5 +21201,95 @@
         ]
       }
     ]
+  },
+  {
+    "id": "structural-s-front-attachment-mount",
+    "name": "Structural S front attachment mount, root-relieved brace proposal",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Structural S front chassis-side attachment support. The root-relieved braces and proposed upper pivot carrier fit the lower chassis.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "front",
+      "attachment support",
+      "root-relief",
+      "subassembly"
+    ],
+    "aliases": [
+      "Structural S front attachment mount, root-relieved brace proposal",
+      "structural-s-front-attachment-mount"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "structural-s-front-attachment-mount",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount-XY.png",
+        "view": "Plan",
+        "alt": "Structural S front attachment mount, root-relieved brace proposal, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S front attachment mount, root-relieved brace proposal, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount-YZ.png",
+        "view": "End",
+        "alt": "Structural S front attachment mount, root-relieved brace proposal, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S front attachment mount, root-relieved brace proposal, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/structural-s-front-attachment-mount.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-front-attachment-mount/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "structural-s-lower-chassis-frame",
+        "revision": 1,
+        "sha256": "4f455311da878278610730e443f084df6fa012204faf7f1152405d66104b94bc",
+        "dependency": "embedded",
+        "occurrences": [
+          "Structural S lower chassis"
+        ]
+      },
+      {
+        "id": "model-29",
+        "revision": null,
+        "sha256": "dd34b95de0d609ba0b72e97bea86b9d6cc1b4efa9c34364bd778577235e34eaa",
+        "dependency": "embedded",
+        "occurrences": [
+          "Front root-relieved attachment support"
+        ]
+      },
+      {
+        "id": "model-158",
+        "revision": null,
+        "sha256": "7f5f03daf38e2cad3eb16d5aa31c53aa04b0f188d59654d9b4c5a4e32927921d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Front upper chassis pivot carrier"
+        ]
+      }
+    ]
   }
 ]
