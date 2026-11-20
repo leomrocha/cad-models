@@ -31960,5 +31960,162 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-motenergy-chassis-with-relocated-300mm-caster",
+    "name": "J3f Motenergy chassis with rearward 300 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J3f raised frame with both Motenergy ME0907 motor references, attachment mounts, H390 hitch tubes and relocated 300 mm caster.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "ME0907",
+      "caster",
+      "H390",
+      "attachment mounts",
+      "chassis"
+    ],
+    "aliases": [
+      "J3f Motenergy chassis with rearward 300 mm caster",
+      "j3f-motenergy-chassis-with-relocated-300mm-caster"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-motenergy-chassis-with-relocated-300mm-caster",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster-XY.png",
+        "view": "Plan",
+        "alt": "J3f Motenergy chassis with rearward 300 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Motenergy chassis with rearward 300 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster-YZ.png",
+        "view": "End",
+        "alt": "J3f Motenergy chassis with rearward 300 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Motenergy chassis with rearward 300 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/j3f-motenergy-chassis-with-relocated-300mm-caster.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-motenergy-chassis-with-relocated-300mm-caster/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-26",
+        "revision": null,
+        "sha256": "5ab966631d0bc4bb9df46d19f1e42100e8b2c55c59a63114b3dd25a7c023ac9f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised frame core"
+        ]
+      },
+      {
+        "id": "j3f-caster-300-50mm-rearward-mount-installation",
+        "revision": 1,
+        "sha256": "c2449f3d60e12a8535c6eaa26d16c9e28547dd398e4ed95deedcf3374f1857e4",
+        "dependency": "embedded",
+        "occurrences": [
+          "300 mm relocated caster installation"
+        ]
+      },
+      {
+        "id": "j3f-h390-hitch-frame-55mm-rearward-crossbar",
+        "revision": 1,
+        "sha256": "cd5e452e6ecdb11c1048f6aebf0efead225e62e7c1aeeaa1f97654bc1fd26b6c",
+        "dependency": "embedded",
+        "occurrences": [
+          "H390 hitch tube frame"
+        ]
+      },
+      {
+        "id": "model-28",
+        "revision": null,
+        "sha256": "5062b0627c5a814a0637f2a0251d237581966f84fb3b6b4bed2d5532af09286b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Front root-relieved attachment"
+        ]
+      },
+      {
+        "id": "model-158",
+        "revision": null,
+        "sha256": "7f5f03daf38e2cad3eb16d5aa31c53aa04b0f188d59654d9b4c5a4e32927921d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Front upper attachment carrier",
+          "Rear upper attachment carrier"
+        ]
+      },
+      {
+        "id": "model-46",
+        "revision": null,
+        "sha256": "828d62f5fc33551997417dddd90aeb630a94a3922c4eb1b1eb53b41ebc7fa6fa",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear root-relieved attachment"
+        ]
+      },
+      {
+        "id": "model-117",
+        "revision": null,
+        "sha256": "443e1946dd6c2d0cd2b13aaac2fd9557978827ad51e72ac45c7a242f98e800c2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left fixed motor backbone"
+        ]
+      },
+      {
+        "id": "model-116",
+        "revision": null,
+        "sha256": "675373e05f38ce8f8be5975ec8cdb113ad80d19074953c8898453bb3a24b2d52",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right fixed motor backbone"
+        ]
+      },
+      {
+        "id": "model-163",
+        "revision": null,
+        "sha256": "f827eb64e7139e3fff878ea40afd75c065449eba8b7e5f59f21cfe49f2058270",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left moving motor plate",
+          "Right moving motor plate"
+        ]
+      },
+      {
+        "id": "model-106",
+        "revision": null,
+        "sha256": "6c9c1505c3beb528b10cb27c5a2af0406c16e00a2f766cfaa27bed8c132d1a33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Motenergy ME0907 motor",
+          "Right Motenergy ME0907 motor"
+        ]
+      }
+    ]
   }
 ]
