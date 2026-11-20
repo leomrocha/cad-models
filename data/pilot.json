@@ -22739,5 +22739,89 @@
       "models/mechanical/chassis/battery-supports/p20cvic-victron-terminal-cover-reference/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-paired-reference-terminal-hoods",
+    "name": "Victron paired terminal hoods and insulating posts",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two Victron terminal hoods on four insulating posts at 220.2 mm source STEP terminal pitch. All four support seats and bore axes share the nominal n = 30 mm plane.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "terminal cover",
+      "insulating post",
+      "reference layout"
+    ],
+    "aliases": [
+      "Victron paired terminal hoods and insulating posts",
+      "victron-paired-reference-terminal-hoods"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-paired-reference-terminal-hoods",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods-XY.png",
+        "view": "Plan",
+        "alt": "Victron paired terminal hoods and insulating posts, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron paired terminal hoods and insulating posts, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods-YZ.png",
+        "view": "End",
+        "alt": "Victron paired terminal hoods and insulating posts, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron paired terminal hoods and insulating posts, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-paired-reference-terminal-hoods/victron-paired-reference-terminal-hoods.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p20vup-victron-hood-shelf-supported-post",
+        "revision": 1,
+        "sha256": "cba2a18f16b2a1804acd2c265e24d8279bbc442eaf94e0c50ad0209422673d59",
+        "dependency": "embedded",
+        "occurrences": [
+          "left hood left insulating post",
+          "left hood right insulating post",
+          "right hood left insulating post",
+          "right hood right insulating post"
+        ]
+      },
+      {
+        "id": "p20cvic-victron-terminal-cover-reference",
+        "revision": 1,
+        "sha256": "88fc63179200ea60b781d288571e40be967297bfcc857fee5d98739d0467064a",
+        "dependency": "embedded",
+        "occurrences": [
+          "left post hood",
+          "right post hood"
+        ]
+      }
+    ]
   }
 ]
