@@ -29909,5 +29909,81 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p05jdp39-j4-caster-bridge-drop",
+    "name": "J4 caster bridge drop post, 39 mm",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 caster bridge drop post, 39 mm. Nominal 30 × 30 × 3 mm square steel tube with a 39 mm cut length and two open ends.",
+    "tags": [
+      "tractor",
+      "J4",
+      "caster",
+      "bridge drop post",
+      "square steel tube",
+      "p05jdp39-j4-caster-bridge-drop"
+    ],
+    "aliases": [
+      "J4 caster bridge drop post, 39 mm",
+      "p05jdp39-j4-caster-bridge-drop"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "p05jdp39-j4-caster-bridge-drop",
+    "file": "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop-XY.png",
+        "view": "Plan",
+        "alt": "J4 caster bridge drop post, 39 mm, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 caster bridge drop post, 39 mm, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop-YZ.png",
+        "view": "End",
+        "alt": "J4 caster bridge drop post, 39 mm, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 caster bridge drop post, 39 mm, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop-XY.png",
+      "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop-XZ.png",
+      "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop-YZ.png",
+      "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop.dwg",
+      "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/p05jdp39-j4-caster-bridge-drop.md",
+      "models/mechanical/chassis/caster-supports/p05jdp39-j4-caster-bridge-drop/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-138",
+        "revision": null,
+        "sha256": "f02cad5c6aa2d50abc4010cf8d1dea8f333ea10b207933206cf6e892316f8a0c",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal tube section"
+        ]
+      }
+    ]
   }
 ]
