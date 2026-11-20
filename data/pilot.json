@@ -22066,5 +22066,139 @@
       "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-negative-u/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "leaf-cassette-cover-support-pair",
+    "name": "Leaf two-cassette terminal cover support frames",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Paired Nissan Leaf cassette terminal cover support frames. Four uprights, four extension brackets, eight bridges and eight insulating blocks.",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "terminal cover",
+      "cassette",
+      "subassembly"
+    ],
+    "aliases": [
+      "Leaf two-cassette terminal cover support frames",
+      "leaf-cassette-cover-support-pair"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "leaf-cassette-cover-support-pair",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair-XY.png",
+        "view": "Plan",
+        "alt": "Leaf two-cassette terminal cover support frames, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf two-cassette terminal cover support frames, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair-YZ.png",
+        "view": "End",
+        "alt": "Leaf two-cassette terminal cover support frames, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf two-cassette terminal cover support frames, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/leaf-cassette-cover-support-pair.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cassette-cover-support-pair/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p20lup-leaf-hood-upright-positive-u",
+        "revision": 1,
+        "sha256": "ce8888e624285f24407b7468e436cab741893d4f2ce93bbdba310d219e9d423e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Cassette -133, side +1, positive-u",
+          "Cassette +133, side +1, positive-u"
+        ]
+      },
+      {
+        "id": "p20lup-leaf-hood-upright-negative-u",
+        "revision": 1,
+        "sha256": "990e8826303f180cb5b6d82449e6b15d4815cf6a3aa1d8248273e4c5675fe8fd",
+        "dependency": "embedded",
+        "occurrences": [
+          "Cassette -133, side -1, negative-u",
+          "Cassette +133, side -1, negative-u"
+        ]
+      },
+      {
+        "id": "p20lxt-leaf-hood-cassette-extension-bracket",
+        "revision": 1,
+        "sha256": "699b96113ceef49d4959be78af8aacdbdc5d3080e579bd4809557c9f82e223e0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Cassette -133, side -1, outboard",
+          "Cassette +133, side +1, outboard"
+        ]
+      },
+      {
+        "id": "p20lxti-leaf-hood-inner-cassette-extension-bracket",
+        "revision": 1,
+        "sha256": "ddd943526d5323a4d1d5317e58f462ad5063a3e87fdb324d55e621e0a0c70707",
+        "dependency": "embedded",
+        "occurrences": [
+          "Cassette -133, side +1, inner",
+          "Cassette +133, side -1, inner"
+        ]
+      },
+      {
+        "id": "p20lbr-leaf-hood-support-bridge",
+        "revision": 1,
+        "sha256": "8a8f8134e0fdb285c2c12e2e505786e068bff02c9d794fe6a6017415d8eb8088",
+        "dependency": "embedded",
+        "occurrences": [
+          "Cassette -133, side -1, bridge V10",
+          "Cassette -133, side -1, bridge V194",
+          "Cassette -133, side +1, bridge V10",
+          "Cassette -133, side +1, bridge V194",
+          "Cassette +133, side -1, bridge V10",
+          "Cassette +133, side -1, bridge V194",
+          "Cassette +133, side +1, bridge V10",
+          "Cassette +133, side +1, bridge V194"
+        ]
+      },
+      {
+        "id": "p20lbl-leaf-hood-insulating-support-block",
+        "revision": 1,
+        "sha256": "d40e2ee16e872692862cc9c23787a78e814fe805ceca7a2806b3deb0331dced6",
+        "dependency": "embedded",
+        "occurrences": [
+          "Cassette -133, side -1, block V10",
+          "Cassette -133, side -1, block V194",
+          "Cassette -133, side +1, block V10",
+          "Cassette -133, side +1, block V194",
+          "Cassette +133, side -1, block V10",
+          "Cassette +133, side -1, block V194",
+          "Cassette +133, side +1, block V10",
+          "Cassette +133, side +1, block V194"
+        ]
+      }
+    ]
   }
 ]
