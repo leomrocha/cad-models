@@ -24,6 +24,11 @@ OpenCADStudio verified the current geometry at revision 415. The final save veri
 - [Isometric](propow-cpn24050-installation-reconstruction-isometric.png), plot generated from CAD boundary geometry.
 - [Upper isometric](propow-cpn24050-installation-reconstruction-top-isometric.png), plot generated from CAD boundary geometry.
 
+## CAD references
+
+- [Propow CPN24050 three-dimensional clearance references](../../../interface-references/mechanical/propow-cpn24050-size-field-envelopes/propow-cpn24050-size-field-envelopes.md), derived geometry, CAD SHA-256 `03b2af173b90db3fb42654a53c4fab8388457a0028008c38e61837f1886f2768`. The source size-field envelopes supply the separate 200 mm case and 220 mm overall height fields.
+- [Propow CPN24050 220 mm Mini placement envelope](../../../interface-references/mechanical/propow-cpn24050-220mm-source-selection/propow-cpn24050-220mm-source-selection.md), derived geometry, CAD SHA-256 `7cf2bb95e21603bfcfa77e786d0604c7721d9f7527203ab0811c17583674197c`. The selected 220 mm placement envelope supplies the installed coordinate frame and footprint.
+
 ## Technical sources
 
 - [Source reference](https://sowbot.co.uk/hardware/)

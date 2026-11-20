@@ -12684,7 +12684,22 @@
     "category_path": "electronics/batteries",
     "system": "sowbot",
     "variant": "mini",
-    "model_references": [],
+    "model_references": [
+      {
+        "id": "model-310",
+        "revision": null,
+        "sha256": "03b2af173b90db3fb42654a53c4fab8388457a0028008c38e61837f1886f2768",
+        "dependency": "derived",
+        "occurrences": []
+      },
+      {
+        "id": "model-318",
+        "revision": null,
+        "sha256": "7cf2bb95e21603bfcfa77e786d0604c7721d9f7527203ab0811c17583674197c",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
     "sources": [
       {
         "title": "Source reference",
