@@ -33952,5 +33952,74 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-relieved-outer-wheel-retainer-washer",
+    "name": "J4 relieved outer wheel retainer washer",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 Ø50 × 5 mm retaining washer with a Ø30.4 mm underside relief 0.5 mm deep.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel end",
+      "washer",
+      "shaft clearance"
+    ],
+    "aliases": [
+      "J4 relieved outer wheel retainer washer",
+      "j4-relieved-outer-wheel-retainer-washer"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/bearing-spacers",
+    "variant": "j4-relieved-outer-wheel-retainer-washer",
+    "file": "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer-XY.png",
+        "view": "Plan",
+        "alt": "J4 relieved outer wheel retainer washer, plan"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 relieved outer wheel retainer washer, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer-YZ.png",
+        "view": "End",
+        "alt": "J4 relieved outer wheel retainer washer, end"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 relieved outer wheel retainer washer, isometric",
+        "thumbnail_file": "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer-XY.png",
+      "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer-XZ.png",
+      "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer-YZ.png",
+      "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer-top-isometric.png",
+      "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer.dwg",
+      "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/j4-relieved-outer-wheel-retainer-washer.md",
+      "models/mechanical/drive/bearing-spacers/j4-relieved-outer-wheel-retainer-washer/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p12j4ow-j4-outer-shaft-end-washer",
+        "revision": 1,
+        "sha256": "ae3a416c84bf8b44552b004c8749ed7c4282fd1703e26cf4ded266bc5ed5543f",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ]
   }
 ]
