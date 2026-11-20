@@ -26959,5 +26959,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c017-blickle-ls-vle250k-wheel-body-fit",
+    "name": "Blickle LS-VLE250K wheel body fit proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Exterior wheel fit solid with a Ø20 mm bore and 75 mm hub length.",
+    "tags": [
+      "caster",
+      "Blickle",
+      "ls-vle250k",
+      "wheel-body",
+      "fit proposal"
+    ],
+    "aliases": [
+      "Blickle LS-VLE250K wheel body fit proposal",
+      "c017-blickle-ls-vle250k-wheel-body-fit"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "c017-blickle-ls-vle250k-wheel-body-fit",
+    "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-VLE250K wheel body fit proposal, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-VLE250K wheel body fit proposal, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-VLE250K wheel body fit proposal, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-VLE250K wheel body fit proposal, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit-XY.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit-XZ.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit-YZ.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit.dwg",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/c017-blickle-ls-vle250k-wheel-body-fit.md",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-wheel-body-fit/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Blickle G16, exact model row and family illustration, PDF page 12",
+        "url": "https://www.blickle.us/en-us/-/media/project/blickle/global-web/services/mediathek/katalogkapitel/pdf-dokumente/en/g16-chapter-4.pdf?fh=b52be283e2be767ebc501c5b60e4be6a#page=12"
+      },
+      {
+        "title": "Blickle VLE 250/20-75K wheel-family specification",
+        "url": "https://www.blickle.com/wheels-castors/standard-range/super-elastic-solid-rubber-wheels-castors/super-elastic-solid-rubber-wheels-castors-vle-series"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "c017-blickle-ls-vle250k-dimensional-reference",
+        "revision": 1,
+        "sha256": "2df72a3682959e79cb7edee202dfe7f6ed582980904bbd21884bebf5f15f171c",
+        "dependency": "reference",
+        "occurrences": [
+          "Manufacturer wheel and mounting reference"
+        ]
+      }
+    ]
   }
 ]
