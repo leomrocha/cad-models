@@ -17259,5 +17259,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c017-blickle-ls-vle250k-dimensional-reference",
+    "name": "Blickle LS-VLE250K wheel and mounting reference",
+    "subject": "Interface references",
+    "kind": "standard",
+    "description": "Manufacturer-dimensioned 250 × 85 mm wheel envelope and 140 × 105 mm mounting pattern with four Ø14 mm circles. The mount plane is 305 mm above ground.",
+    "tags": [
+      "caster",
+      "Blickle",
+      "LS-VLE250K",
+      "wheel envelope",
+      "mounting pattern",
+      "C017"
+    ],
+    "aliases": [
+      "Blickle LS-VLE250K wheel and mounting reference",
+      "c017-blickle-ls-vle250k-dimensional-reference"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked manufacturer-dimensioned reference",
+    "category_path": "interface-references/wheels-and-tyres",
+    "variant": "C017",
+    "file": "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference.dwg",
+    "previews": [
+      {
+        "file": "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-VLE250K wheel and mounting reference, plan"
+      },
+      {
+        "file": "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-VLE250K wheel and mounting reference, elevation"
+      },
+      {
+        "file": "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-VLE250K wheel and mounting reference, end"
+      },
+      {
+        "file": "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-VLE250K wheel and mounting reference, isometric",
+        "thumbnail_file": "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference-XY.png",
+      "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference-XZ.png",
+      "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference-YZ.png",
+      "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference-top-isometric.png",
+      "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference.dwg",
+      "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/c017-blickle-ls-vle250k-dimensional-reference.md",
+      "models/interface-references/wheels-and-tyres/c017-blickle-ls-vle250k-dimensional-reference/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Blickle G16 Chapter 4, LS-VLE250K, PDF page 12",
+        "url": "https://www.blickle.us/en-us/-/media/project/blickle/global-web/service/mediathek/katalogkapitel/pdf-dokumente/en/g16-chapter-4.pdf?fh=b52be283e2be767ebc501c5b60e4be6a#page=12"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-2",
+        "revision": null,
+        "sha256": "b97efbbcb90ba2cbf06e01edef732e255f3c8c33bb23db0c86d3fe12c90d4253",
+        "dependency": "derived",
+        "occurrences": [
+          "dimensioned-reference"
+        ]
+      }
+    ]
   }
 ]
