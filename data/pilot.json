@@ -15581,5 +15581,76 @@
         "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
       }
     ]
+  },
+  {
+    "id": "iso730-categories-3n-3-rear-travel-reference",
+    "name": "ISO 730 Categories 3N and 3 rear linkage travel gauges",
+    "subject": "Interface references",
+    "kind": "standard",
+    "description": "Separate native CAD gauges for rear linkage lift and adjustment. Minimum powered movement 735 mm. Minimum transport height 1065 mm.",
+    "tags": [
+      "standard",
+      "rear attachment",
+      "three-point linkage",
+      "travel gauge",
+      "category 3N",
+      "category 3"
+    ],
+    "aliases": [
+      "ISO 730 Categories 3N and 3 rear linkage travel gauges",
+      "iso730-categories-3n-3-rear-travel-reference"
+    ],
+    "materials": null,
+    "standards": [
+      {
+        "designation": "ISO 730:2009+A1:2014",
+        "relationship": "Linkage lift, travel and mast adjustment"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked nominal interface reference",
+    "category_path": "interface-references/mechanical",
+    "variant": "3",
+    "file": "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference.dwg",
+    "previews": [
+      {
+        "file": "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference-XY.png",
+        "view": "Plan",
+        "alt": "ISO 730 Categories 3N and 3 rear linkage travel gauges, plan"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "ISO 730 Categories 3N and 3 rear linkage travel gauges, elevation"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference-YZ.png",
+        "view": "End",
+        "alt": "ISO 730 Categories 3N and 3 rear linkage travel gauges, end"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "ISO 730 Categories 3N and 3 rear linkage travel gauges, isometric",
+        "thumbnail_file": "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference-XY.png",
+      "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference-XZ.png",
+      "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference-YZ.png",
+      "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference-top-isometric.png",
+      "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference.dwg",
+      "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/iso730-categories-3n-3-rear-travel-reference.md",
+      "models/interface-references/mechanical/iso730-categories-3n-3-rear-travel-reference/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "ISO 730:2009 with Amendment 1:2014, Table 3 and Clause 3.2.22",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      }
+    ]
   }
 ]
