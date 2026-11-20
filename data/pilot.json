@@ -33355,5 +33355,66 @@
       "models/mechanical/drive/shafts/p12j425-j4-25mm-axial-wheel-shaft/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p14j430-j4-wheel-flange-30mm-bore",
+    "name": "J4 Knott wheel flange for 30 mm shaft",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 flange with a keyed nominal Ø30 mm bore, Knott 4 × 100 mm wheel pattern and recessed outer washer fit.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel flange",
+      "Knott",
+      "4x100",
+      "keyway"
+    ],
+    "aliases": [
+      "J4 Knott wheel flange for 30 mm shaft",
+      "p14j430-j4-wheel-flange-30mm-bore"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/wheel-adapters",
+    "variant": "p14j430-j4-wheel-flange-30mm-bore",
+    "file": "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore-XY.png",
+        "view": "Plan",
+        "alt": "J4 Knott wheel flange for 30 mm shaft, plan"
+      },
+      {
+        "file": "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 Knott wheel flange for 30 mm shaft, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore-YZ.png",
+        "view": "End",
+        "alt": "J4 Knott wheel flange for 30 mm shaft, end"
+      },
+      {
+        "file": "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 Knott wheel flange for 30 mm shaft, isometric",
+        "thumbnail_file": "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore-XY.png",
+      "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore-XZ.png",
+      "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore-YZ.png",
+      "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore-top-isometric.png",
+      "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore.dwg",
+      "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/p14j430-j4-wheel-flange-30mm-bore.md",
+      "models/mechanical/drive/wheel-adapters/p14j430-j4-wheel-flange-30mm-bore/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
