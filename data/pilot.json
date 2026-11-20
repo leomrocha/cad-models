@@ -22562,5 +22562,64 @@
       "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p20vft-victron-hood-support-foot",
+    "name": "Victron terminal hood insulating support foot",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Victron terminal hood insulating support foot. Proposed insulating part, 20 × 20 × 3 mm, with 3 Ø4.5 mm through bores.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "terminal cover",
+      "insulating support"
+    ],
+    "aliases": [
+      "Victron terminal hood insulating support foot",
+      "p20vft-victron-hood-support-foot"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20vft-victron-hood-support-foot",
+    "file": "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot-XY.png",
+        "view": "Plan",
+        "alt": "Victron terminal hood insulating support foot, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron terminal hood insulating support foot, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot-YZ.png",
+        "view": "End",
+        "alt": "Victron terminal hood insulating support foot, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron terminal hood insulating support foot, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot-XY.png",
+      "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot.dwg",
+      "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/p20vft-victron-hood-support-foot.md",
+      "models/mechanical/chassis/battery-supports/p20vft-victron-hood-support-foot/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
