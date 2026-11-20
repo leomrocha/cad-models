@@ -12993,5 +12993,118 @@
     "variant": "brain",
     "model_references": [],
     "sources": []
+  },
+  {
+    "id": "assembly-brain-enclosure-seated-lid-assembly-proposal",
+    "name": "Open Core Brain removable enclosure — assembly proposal",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "The body and lid seat at Z = 26 mm. The proposed hinge lugs interleave with 0.6 mm axial end clearance.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "subassembly",
+      "installation proposal",
+      "enclosure",
+      "removable lid",
+      "hinge",
+      "service lift"
+    ],
+    "aliases": [
+      "Open Core Brain removable enclosure",
+      "brain-enclosure-seated-lid-assembly-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal.dwg",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal.md",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-XY.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-XZ.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-YZ.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-top-isometric.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-lid-lift-115mm-XY.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-lid-lift-115mm-XZ.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-lid-lift-115mm-YZ.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-lid-lift-115mm-top-isometric.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-XY.png",
+        "view": "XY plan",
+        "alt": "Open Core Brain removable enclosure — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Open Core Brain removable enclosure — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-YZ.png",
+        "view": "YZ end",
+        "alt": "Open Core Brain removable enclosure — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Open Core Brain removable enclosure — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-lid-lift-115mm-XY.png",
+        "view": "Service lift +115 mm · XY",
+        "alt": "Open Core Brain removable enclosure — Service lift +115 mm · XY, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-lid-lift-115mm-XZ.png",
+        "view": "Service lift +115 mm · XZ",
+        "alt": "Open Core Brain removable enclosure — Service lift +115 mm · XZ, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-lid-lift-115mm-YZ.png",
+        "view": "Service lift +115 mm · YZ",
+        "alt": "Open Core Brain removable enclosure — Service lift +115 mm · YZ, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-enclosure-seated-lid-assembly-proposal/brain-enclosure-seated-lid-assembly-proposal-lid-lift-115mm-top-isometric.png",
+        "view": "Service lift +115 mm · top-isometric",
+        "alt": "Open Core Brain removable enclosure — Service lift +115 mm · top-isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/brain/subassemblies",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [
+      {
+        "id": "sowbot-brain-enclosure-body-reconstruction-proposal",
+        "revision": 2,
+        "sha256": "668f38c99248fc6f13c0e63921b15141232a5029f1f176b556a41e1d2159d45e",
+        "dependency": "embedded",
+        "occurrences": [
+          "BODY"
+        ]
+      },
+      {
+        "id": "sowbot-brain-enclosure-lid-reconstruction-proposal",
+        "revision": 3,
+        "sha256": "7134a00a68d263f577adbb8809b6fab33d11d945d958cbb6c9ce96b6f90526cc",
+        "dependency": "embedded",
+        "occurrences": [
+          "LID"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
