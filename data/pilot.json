@@ -25947,5 +25947,76 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c020-caster-setting-pin-flat-split-keeper",
+    "name": "Caster setting pin flat split keeper",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Flat split keeper for a Ø3 mm caster pin cross-bore. The model shows the legs spread in the retained position.",
+    "tags": [
+      "tractor",
+      "caster",
+      "pin keeper",
+      "split keeper",
+      "C019"
+    ],
+    "aliases": [
+      "Caster setting pin flat split keeper",
+      "c020-caster-setting-pin-flat-split-keeper"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "c020-caster-setting-pin-flat-split-keeper",
+    "file": "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper-XY.png",
+        "view": "Plan",
+        "alt": "Caster setting pin flat split keeper, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper-XZ.png",
+        "view": "Elevation",
+        "alt": "Caster setting pin flat split keeper, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper-YZ.png",
+        "view": "End",
+        "alt": "Caster setting pin flat split keeper, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Caster setting pin flat split keeper, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper-XY.png",
+      "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper-XZ.png",
+      "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper-YZ.png",
+      "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper.dwg",
+      "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/c020-caster-setting-pin-flat-split-keeper.md",
+      "models/mechanical/chassis/caster-supports/c020-caster-setting-pin-flat-split-keeper/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-66",
+        "revision": null,
+        "sha256": "9595fd9089bd1037263358af8cc86585cb1ee516d9487281681f51c5111f10a6",
+        "dependency": "reference",
+        "occurrences": [
+          "C019 mating pin"
+        ]
+      }
+    ]
   }
 ]
