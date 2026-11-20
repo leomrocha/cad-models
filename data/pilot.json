@@ -15292,5 +15292,83 @@
         "url": "https://www.iso.org/obp/ui/#iso:std:iso:8759:-3:ed-1:v1:en"
       }
     ]
+  },
+  {
+    "id": "iso8759-1-type-4-front-pto-guard-reference",
+    "name": "ISO 8759-1 front PTO type 4 guard clearance reference",
+    "subject": "Interface references",
+    "kind": "standard",
+    "description": "Native 3D lines marking the shield aperture and clearance dimensions. Width p is 360 mm, height m is 150 mm above and below the PTO axis and the forward offset n is 100 mm.",
+    "tags": [
+      "standard",
+      "front attachment",
+      "PTO",
+      "guard clearance",
+      "PTO type 4"
+    ],
+    "aliases": [
+      "ISO 8759-1 front PTO type 4 guard clearance reference",
+      "iso8759-1-type-4-front-pto-guard-reference"
+    ],
+    "materials": null,
+    "standards": [
+      {
+        "designation": "ISO 8759-1:2018",
+        "relationship": "PTO guard clearance datums"
+      },
+      {
+        "designation": "ISO 8759-3:2018",
+        "relationship": "Direction of rotation"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked nominal interface reference",
+    "category_path": "interface-references/mechanical",
+    "variant": "4",
+    "file": "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference.dwg",
+    "previews": [
+      {
+        "file": "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference-XY.png",
+        "view": "Plan",
+        "alt": "ISO 8759-1 front PTO type 4 guard clearance reference, plan"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "ISO 8759-1 front PTO type 4 guard clearance reference, elevation"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference-YZ.png",
+        "view": "End",
+        "alt": "ISO 8759-1 front PTO type 4 guard clearance reference, end"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "ISO 8759-1 front PTO type 4 guard clearance reference, isometric",
+        "thumbnail_file": "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference-XY.png",
+      "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference-XZ.png",
+      "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference-YZ.png",
+      "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference-top-isometric.png",
+      "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference.dwg",
+      "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/iso8759-1-type-4-front-pto-guard-reference.md",
+      "models/interface-references/mechanical/iso8759-1-type-4-front-pto-guard-reference/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "ISO 8759-1:2018, Figure 1 and Table 1",
+        "url": "https://www.iso.org/obp/ui/#iso:std:iso:8759:-1:ed-3:v1:en"
+      },
+      {
+        "title": "ISO 8759-3:2018, Clause 4.2",
+        "url": "https://www.iso.org/obp/ui/#iso:std:iso:8759:-3:ed-1:v1:en"
+      }
+    ]
   }
 ]
