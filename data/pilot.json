@@ -29324,5 +29324,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p06t275-j3f-caster-extended-arm",
+    "name": "J3f caster arm with 70 mm rear extension",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "275 mm caster arm with 50 × 40 × 3 mm box section and two retained-datum transverse sleeve axes.",
+    "tags": [
+      "tractor",
+      "caster",
+      "J3f",
+      "articulation",
+      "extended arm"
+    ],
+    "aliases": [
+      "J3f caster arm with 70 mm rear extension",
+      "p06t275-j3f-caster-extended-arm"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "p06t275-j3f-caster-extended-arm",
+    "file": "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm-XY.png",
+        "view": "Plan",
+        "alt": "J3f caster arm with 70 mm rear extension, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f caster arm with 70 mm rear extension, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm-YZ.png",
+        "view": "End",
+        "alt": "J3f caster arm with 70 mm rear extension, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f caster arm with 70 mm rear extension, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm-XY.png",
+      "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm-XZ.png",
+      "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm-YZ.png",
+      "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm.dwg",
+      "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/p06t275-j3f-caster-extended-arm.md",
+      "models/mechanical/chassis/caster-supports/p06t275-j3f-caster-extended-arm/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-148",
+        "revision": null,
+        "sha256": "61deadc5238c1a9f11ce8edfc1a325d72002a132d31b6477afd824a3166773d3",
+        "dependency": "derived",
+        "occurrences": [
+          "Original 205 mm caster arm"
+        ]
+      }
+    ]
   }
 ]
