@@ -20648,5 +20648,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p07jdp-j-hitch-crossbar-lowering-post",
+    "name": "J hitch crossbar lowering post",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J hitch crossbar lowering post. Nominal 40 × 40 × 3 mm square steel tube with a 70 mm cut length and two open ends.",
+    "tags": [
+      "tractor",
+      "J H390",
+      "hitch",
+      "square steel tube",
+      "P07JDP"
+    ],
+    "aliases": [
+      "J hitch crossbar lowering post",
+      "p07jdp-j-hitch-crossbar-lowering-post"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "P07JDP",
+    "file": "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post-XY.png",
+        "view": "Plan",
+        "alt": "J hitch crossbar lowering post, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post-XZ.png",
+        "view": "Elevation",
+        "alt": "J hitch crossbar lowering post, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post-YZ.png",
+        "view": "End",
+        "alt": "J hitch crossbar lowering post, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J hitch crossbar lowering post, isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post-XY.png",
+      "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post-XZ.png",
+      "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post-YZ.png",
+      "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post-top-isometric.png",
+      "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post.dwg",
+      "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/p07jdp-j-hitch-crossbar-lowering-post.md",
+      "models/mechanical/chassis/hitch/p07jdp-j-hitch-crossbar-lowering-post/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-159",
+        "revision": null,
+        "sha256": "eff79ccdee729311f7e011e6909594575ec648f981493be22a14c0d728d44f6f",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal tube section"
+        ]
+      }
+    ]
   }
 ]
