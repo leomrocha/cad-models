@@ -39443,5 +39443,80 @@
       "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "j3f-kelly-outboard-m6x45-screw-reference",
+    "name": "J3f Kelly outboard M6 × 45 screw reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed nominal M6 × 45 hex-head screw geometry for the J3f outboard carrier joint.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "Kelly",
+      "outboard joint",
+      "screw"
+    ],
+    "aliases": [
+      "J3f Kelly outboard M6 × 45 screw reference",
+      "j3f-kelly-outboard-m6x45-screw-reference"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical-parts/fasteners/screws",
+    "variant": "j3f-kelly-outboard-m6x45-screw-reference",
+    "file": "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference-XY.png",
+        "view": "Plan",
+        "alt": "J3f Kelly outboard M6 × 45 screw reference, plan"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Kelly outboard M6 × 45 screw reference, elevation"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference-YZ.png",
+        "view": "End",
+        "alt": "J3f Kelly outboard M6 × 45 screw reference, end"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Kelly outboard M6 × 45 screw reference, isometric",
+        "thumbnail_file": "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference-XY.png",
+      "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference-XZ.png",
+      "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference-YZ.png",
+      "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference-top-isometric.png",
+      "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference.dwg",
+      "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/j3f-kelly-outboard-m6x45-screw-reference.md",
+      "models/mechanical-parts/fasteners/screws/j3f-kelly-outboard-m6x45-screw-reference/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-72",
+        "revision": null,
+        "sha256": "e26bb9993c71286f008f71b394660e30a33deda82a992d8aeb85feac061c54ec",
+        "dependency": "derived",
+        "occurrences": [
+          "M6 hex-head reference"
+        ]
+      }
+    ]
   }
 ]
