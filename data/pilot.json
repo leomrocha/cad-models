@@ -39518,5 +39518,161 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-kelly-left-rear-outboard-joint-fit",
+    "name": "J3f Kelly left rear outboard joint fit",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Nominal J3f outboard Kelly clamp at the left rear axis, assembled beside the retained Motenergy motor plates.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "Kelly",
+      "outboard joint",
+      "clamp fit"
+    ],
+    "aliases": [
+      "J3f Kelly left rear outboard joint fit",
+      "j3f-kelly-left-rear-outboard-joint-fit"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-kelly-left-rear-outboard-joint-fit",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit-XY.png",
+        "view": "Plan",
+        "alt": "J3f Kelly left rear outboard joint fit, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Kelly left rear outboard joint fit, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit-YZ.png",
+        "view": "End",
+        "alt": "J3f Kelly left rear outboard joint fit, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Kelly left rear outboard joint fit, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/j3f-kelly-left-rear-outboard-joint-fit.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-left-rear-outboard-joint-fit/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p01j650fk-j3f-foot-and-kelly-passage-rail",
+        "revision": 1,
+        "sha256": "632d564574ffc0b88263d76efc0ac7b0619ddf791c21197cd277cc0a777900a9",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left machined rail"
+        ]
+      },
+      {
+        "id": "j3f-kelly-outboard-rail-insert",
+        "revision": 1,
+        "sha256": "69d8cd42b1202be1481d0da482becf6bde4d135f499d5f27e9d5c98271869dc5",
+        "dependency": "embedded",
+        "occurrences": [
+          "Internal rail insert"
+        ]
+      },
+      {
+        "id": "model-192",
+        "revision": null,
+        "sha256": "a162c9155b14cefdb16e9157360203411a592d6f6dfd059bf047a020200c4910",
+        "dependency": "embedded",
+        "occurrences": [
+          "Gap spacer"
+        ]
+      },
+      {
+        "id": "model-189",
+        "revision": null,
+        "sha256": "bc17d38867c7063f4dba4727fa8257ef9978d584011cbf46869af0bf48987688",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left post"
+        ]
+      },
+      {
+        "id": "model-186",
+        "revision": null,
+        "sha256": "081476f9b2c52946a7b811edb1b85fa7b9841a55936831b5168987d8e9e5c4bd",
+        "dependency": "embedded",
+        "occurrences": [
+          "Post sleeve"
+        ]
+      },
+      {
+        "id": "model-188",
+        "revision": null,
+        "sha256": "52824c27923ef18b3b6e9d57cced5588d012be3ea1485cb6c4e9df7ebb561fdf",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left carrier"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Outboard washer"
+        ]
+      },
+      {
+        "id": "j3f-kelly-outboard-m6x45-screw-reference",
+        "revision": 1,
+        "sha256": "f73054d86bb228e0c1189ce7d2ff4f0f47461c4c6fd5b1a2193564c786ea8880",
+        "dependency": "embedded",
+        "occurrences": [
+          "Outboard M6 screw"
+        ]
+      },
+      {
+        "id": "model-117",
+        "revision": null,
+        "sha256": "443e1946dd6c2d0cd2b13aaac2fd9557978827ad51e72ac45c7a242f98e800c2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left fixed motor backbone"
+        ]
+      },
+      {
+        "id": "model-163",
+        "revision": null,
+        "sha256": "f827eb64e7139e3fff878ea40afd75c065449eba8b7e5f59f21cfe49f2058270",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left moving motor plate"
+        ]
+      }
+    ]
   }
 ]
