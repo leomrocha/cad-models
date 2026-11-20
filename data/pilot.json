@@ -25750,5 +25750,68 @@
       "models/mechanical/chassis/caster-supports/caster-arm-brace-4p5-mm-cheek-clearance/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "caster-cheek-web-250-single-piece",
+    "name": "Structural S 250 mm caster single-piece cheek web",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "6 mm single-piece cheek web for the 250 mm caster.",
+    "tags": [
+      "tractor",
+      "caster",
+      "cheek web",
+      "support"
+    ],
+    "aliases": [
+      "Structural S 250 mm caster single-piece cheek web",
+      "caster-cheek-web-250-single-piece"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "caster-cheek-web-250-single-piece",
+    "file": "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece-XY.png",
+        "view": "Plan",
+        "alt": "Structural S 250 mm caster single-piece cheek web, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S 250 mm caster single-piece cheek web, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece-YZ.png",
+        "view": "End",
+        "alt": "Structural S 250 mm caster single-piece cheek web, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S 250 mm caster single-piece cheek web, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece-XY.png",
+      "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece-XZ.png",
+      "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece-YZ.png",
+      "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece.dwg",
+      "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/caster-cheek-web-250-single-piece.md",
+      "models/mechanical/chassis/caster-supports/caster-cheek-web-250-single-piece/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
