@@ -17417,5 +17417,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p06m06300-blickle-ls-ps310k-mounting-interface",
+    "name": "Blickle LS-PS310K mounting interface and support plate",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Blickle LS-PS310K wheel and mounting reference seated under the exact project support plate at its proposed mount datum. Four nominal Ø14 mm axes align.",
+    "tags": [
+      "tractor",
+      "caster",
+      "mounting interface",
+      "LS-PS310K",
+      "support plate",
+      "P06M06300"
+    ],
+    "aliases": [
+      "Blickle LS-PS310K mounting interface and support plate",
+      "p06m06300-blickle-ls-ps310k-mounting-interface"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "P06M06300",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-PS310K mounting interface and support plate, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-PS310K mounting interface and support plate, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-PS310K mounting interface and support plate, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-PS310K mounting interface and support plate, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/p06m06300-blickle-ls-ps310k-mounting-interface.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p06m06300-blickle-ls-ps310k-mounting-interface/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "c016-blickle-ls-ps310k-dimensional-reference",
+        "sha256": "06ad2dd15aa2eca56be5988b31ccfe107c1c75164bca7440b16398585b5ce583",
+        "revision": 1,
+        "dependency": "embedded",
+        "occurrences": [
+          "Caster wheel and mounting reference"
+        ]
+      },
+      {
+        "id": "model-145",
+        "sha256": "80dce46277b85dc2e9ed9d50a87b45d350d769d92198042cd285ebd6bea77eb6",
+        "revision": null,
+        "dependency": "embedded",
+        "occurrences": [
+          "Caster head support plate"
+        ]
+      }
+    ]
   }
 ]
