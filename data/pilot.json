@@ -16935,5 +16935,130 @@
         "url": "https://www.emka.com/fileadmin/catalog/catalog_downloads/pdf/en/Ingenious_Locking_Technology_for_Mobile_Homes_Buses_Trailers_01-2024_EN.pdf#page=131"
       }
     ]
+  },
+  {
+    "id": "p24s03tct-j-splash-panels-rail-clamps-and-edge-trims",
+    "name": "J S03T splash panels, rail clamps and segmented edge trims",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Paired J S03T splash panels with rails, clamps and fourteen square-ended EMKA 1010-12 edge-trim installation envelopes.",
+    "tags": [
+      "tractor",
+      "splash panel",
+      "crossbar",
+      "compression sleeve",
+      "subassembly",
+      "S03T",
+      "rail clamp",
+      "edge protector",
+      "EMKA 1010-12"
+    ],
+    "aliases": [
+      "J S03T splash panels, rail clamps and segmented edge trims",
+      "p24s03tct-j-splash-panels-rail-clamps-and-edge-trims"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "P24S03TCT",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims-XY.png",
+        "view": "Plan",
+        "alt": "J S03T splash panels, rail clamps and segmented edge trims, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims-XZ.png",
+        "view": "Elevation",
+        "alt": "J S03T splash panels, rail clamps and segmented edge trims, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims-YZ.png",
+        "view": "End",
+        "alt": "J S03T splash panels, rail clamps and segmented edge trims, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J S03T splash panels, rail clamps and segmented edge trims, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tct-j-splash-panels-rail-clamps-and-edge-trims/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24s03tc-j-splash-rail-clamp-installation",
+        "revision": 1,
+        "sha256": "37e5cb614ceaadb5d9634403975f856536671d4262adc1c14b0bf10607a52288",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired panels and rail clamps"
+        ]
+      },
+      {
+        "id": "p24ttc-j-central-top-trim-cut",
+        "revision": 1,
+        "sha256": "ad2e6f0b35084d024f46189e180ad89aece477960e8cd86bd2f74fd0bd049eeb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left top centre",
+          "Right top centre"
+        ]
+      },
+      {
+        "id": "p24tto-j-outer-top-trim-cut",
+        "revision": 1,
+        "sha256": "8076c7acb382dab428b757aa692a11361f182319738cc25c48b8016c62619210",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left top negative X",
+          "Left top positive X",
+          "Right top negative X",
+          "Right top positive X"
+        ]
+      },
+      {
+        "id": "p24tb-j-bottom-trim-cut",
+        "revision": 1,
+        "sha256": "f38a82d40aca46806add7e7d9512e136c7dd0ac70576493724e40370de6fdc01",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left bottom negative X",
+          "Left bottom positive X",
+          "Right bottom negative X",
+          "Right bottom positive X"
+        ]
+      },
+      {
+        "id": "p24ts-j-side-trim-cut",
+        "revision": 1,
+        "sha256": "4ea3fcc3d70f36d9fd13c53d25f670e3c9999c9ba874a4293d73a49404aa64d1",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left side negative X",
+          "Left side positive X",
+          "Right side negative X",
+          "Right side positive X"
+        ]
+      }
+    ]
   }
 ]
