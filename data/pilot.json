@@ -20723,5 +20723,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p07jou-j-hitch-lateral-rail-outrigger",
+    "name": "J hitch lateral rail outrigger",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J hitch lateral rail outrigger. Nominal 30 × 40 × 3 mm rectangular steel tube with a 130 mm cut length and two open ends.",
+    "tags": [
+      "tractor",
+      "J H390",
+      "hitch",
+      "rectangular steel tube",
+      "P07JOU"
+    ],
+    "aliases": [
+      "J hitch lateral rail outrigger",
+      "p07jou-j-hitch-lateral-rail-outrigger"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "P07JOU",
+    "file": "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger-XY.png",
+        "view": "Plan",
+        "alt": "J hitch lateral rail outrigger, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger-XZ.png",
+        "view": "Elevation",
+        "alt": "J hitch lateral rail outrigger, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger-YZ.png",
+        "view": "End",
+        "alt": "J hitch lateral rail outrigger, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J hitch lateral rail outrigger, isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger-XY.png",
+      "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger-XZ.png",
+      "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger-YZ.png",
+      "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger-top-isometric.png",
+      "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger.dwg",
+      "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/p07jou-j-hitch-lateral-rail-outrigger.md",
+      "models/mechanical/chassis/hitch/p07jou-j-hitch-lateral-rail-outrigger/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p13j4low-j4-lower-bearing-cantilever",
+        "revision": 1,
+        "sha256": "7ee467ae479472823dc73a80f11ac46d210cd87b49942dc9861d6972a02b3882",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal tube section"
+        ]
+      }
+    ]
   }
 ]
