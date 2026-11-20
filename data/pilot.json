@@ -32591,5 +32591,175 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-eight-foot-hardware-outboard",
+    "name": "J3f eight-foot hardware with four outboard screws",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J3f eight-foot hardware with four outboard screws. Exact-position replacement at the four right front foot axes.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "deck",
+      "outboard foot hardware",
+      "M10"
+    ],
+    "aliases": [
+      "J3f eight-foot hardware with four outboard screws",
+      "j3f-eight-foot-hardware-outboard"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-eight-foot-hardware-outboard",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard-XY.png",
+        "view": "Plan",
+        "alt": "J3f eight-foot hardware with four outboard screws, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f eight-foot hardware with four outboard screws, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard-YZ.png",
+        "view": "End",
+        "alt": "J3f eight-foot hardware with four outboard screws, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f eight-foot hardware with four outboard screws, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/j3f-eight-foot-hardware-outboard.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-eight-foot-hardware-outboard/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-74",
+        "revision": null,
+        "sha256": "2566de7077eecf82827d6cb40361707dd0aa18e1cf79651de2a9851294c30712",
+        "dependency": "embedded",
+        "occurrences": [
+          "C142 — M10×70 screw nominal reference at native handle 85",
+          "C142 — M10×70 screw nominal reference at native handle 9E",
+          "C142 — M10×70 screw nominal reference at native handle B7",
+          "C142 — M10×70 screw nominal reference at native handle D0",
+          "C142 — M10×70 screw nominal reference at native handle E9",
+          "C142 — M10×70 screw nominal reference at native handle 102",
+          "C142 — M10×70 screw nominal reference at native handle 11B",
+          "C142 — M10×70 screw nominal reference at native handle 134",
+          "C142 — M10×70 screw nominal reference at native handle 14D",
+          "C142 — M10×70 screw nominal reference at native handle 166",
+          "C142 — M10×70 screw nominal reference at native handle 1B1",
+          "C142 — M10×70 screw nominal reference at native handle 1CA"
+        ]
+      },
+      {
+        "id": "model-87",
+        "revision": null,
+        "sha256": "bfade862b65daffe40063500e1c9087eac873e8dfff3e900d996dd75aa51c323",
+        "dependency": "embedded",
+        "occurrences": [
+          "C148 — Inboard M10 washer nominal reference at native handle 8A",
+          "C148 — Outboard M10 washer nominal reference at native handle 94",
+          "C148 — Inboard M10 washer nominal reference at native handle A3",
+          "C148 — Outboard M10 washer nominal reference at native handle AD",
+          "C148 — Inboard M10 washer nominal reference at native handle BC",
+          "C148 — Outboard M10 washer nominal reference at native handle C6",
+          "C148 — Inboard M10 washer nominal reference at native handle D5",
+          "C148 — Outboard M10 washer nominal reference at native handle DF",
+          "C148 — Inboard M10 washer nominal reference at native handle EE",
+          "C148 — Outboard M10 washer nominal reference at native handle F8",
+          "C148 — Inboard M10 washer nominal reference at native handle 107",
+          "C148 — Outboard M10 washer nominal reference at native handle 111",
+          "C148 — Inboard M10 washer nominal reference at native handle 120",
+          "C148 — Outboard M10 washer nominal reference at native handle 12A",
+          "C148 — Inboard M10 washer nominal reference at native handle 139",
+          "C148 — Outboard M10 washer nominal reference at native handle 143",
+          "C148 — Inboard M10 washer nominal reference at native handle 152",
+          "C148 — Outboard M10 washer nominal reference at native handle 15C",
+          "C148 — Inboard M10 washer nominal reference at native handle 16B",
+          "C148 — Outboard M10 washer nominal reference at native handle 175",
+          "C148 — Inboard M10 washer nominal reference at native handle 1B6",
+          "C148 — Outboard M10 washer nominal reference at native handle 1C0",
+          "C148 — Inboard M10 washer nominal reference at native handle 1CF",
+          "C148 — Outboard M10 washer nominal reference at native handle 1D9"
+        ]
+      },
+      {
+        "id": "model-121",
+        "revision": null,
+        "sha256": "a9a23cb627b4148f5ff608207e074aa65e90652ab83aebb00de0115f93643ede",
+        "dependency": "embedded",
+        "occurrences": [
+          "P04JCT34 — M10 rail compression sleeve at native handle 8F",
+          "P04JCT34 — M10 rail compression sleeve at native handle A8",
+          "P04JCT34 — M10 rail compression sleeve at native handle C1",
+          "P04JCT34 — M10 rail compression sleeve at native handle DA",
+          "P04JCT34 — M10 rail compression sleeve at native handle F3",
+          "P04JCT34 — M10 rail compression sleeve at native handle 10C",
+          "P04JCT34 — M10 rail compression sleeve at native handle 125",
+          "P04JCT34 — M10 rail compression sleeve at native handle 13E",
+          "P04JCT34 — M10 rail compression sleeve at native handle 157",
+          "P04JCT34 — M10 rail compression sleeve at native handle 170",
+          "P04JCT34 — M10 rail compression sleeve at native handle 1BB",
+          "P04JCT34 — M10 rail compression sleeve at native handle 1D4"
+        ]
+      },
+      {
+        "id": "model-79",
+        "revision": null,
+        "sha256": "a393e75a73a8e4cc1dff911eb72ee76c6bf61cbc50f48bddb097b52746e81d50",
+        "dependency": "embedded",
+        "occurrences": [
+          "C154 — M10 nut nominal reference at native handle 99",
+          "C154 — M10 nut nominal reference at native handle B2",
+          "C154 — M10 nut nominal reference at native handle CB",
+          "C154 — M10 nut nominal reference at native handle E4",
+          "C154 — M10 nut nominal reference at native handle FD",
+          "C154 — M10 nut nominal reference at native handle 116",
+          "C154 — M10 nut nominal reference at native handle 12F",
+          "C154 — M10 nut nominal reference at native handle 148",
+          "C154 — M10 nut nominal reference at native handle 161",
+          "C154 — M10 nut nominal reference at native handle 17A",
+          "C154 — M10 nut nominal reference at native handle 1C5",
+          "C154 — M10 nut nominal reference at native handle 1DE"
+        ]
+      },
+      {
+        "id": "j3f-right-foot-outboard-fastener-installation",
+        "revision": 1,
+        "sha256": "90f270098f131dd8748de5db49db8ab0b048c81abb14073828178ed6ac136ed2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Four outboard screw stacks"
+        ]
+      },
+      {
+        "id": "model-25",
+        "revision": null,
+        "sha256": "a4eb04059c8fe5875b98e9a4c8512711abff39b10d87c0a09d0be9cf0e0a5e13",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ]
   }
 ]
