@@ -20079,5 +20079,115 @@
         ]
       }
     ]
+  },
+  {
+    "id": "structural-s-side-lifting-supports",
+    "name": "Structural S side lifting supports",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Four Structural S side lifting supports. Each uses one stanchion, one horizontal arm, one root doubler and one lifting tab.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "lifting support",
+      "chassis",
+      "subassembly"
+    ],
+    "aliases": [
+      "Structural S side lifting supports",
+      "structural-s-side-lifting-supports"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "structural-s-side-lifting-supports",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports-XY.png",
+        "view": "Plan",
+        "alt": "Structural S side lifting supports, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S side lifting supports, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports-YZ.png",
+        "view": "End",
+        "alt": "Structural S side lifting supports, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S side lifting supports, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/structural-s-side-lifting-supports.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-side-lifting-supports/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p10st-lift-tab-stanchion",
+        "revision": 1,
+        "sha256": "05452f8be8e5cd31b3ebf1d6a52c8ffd0f94d0d0a1d1881826fda0ff4bd01829",
+        "dependency": "embedded",
+        "occurrences": [
+          "rear right stanchion",
+          "rear left stanchion",
+          "front right stanchion",
+          "front left stanchion"
+        ]
+      },
+      {
+        "id": "p10ar-lift-tab-horizontal-arm",
+        "revision": 1,
+        "sha256": "6b7336a425318dfcc503c8b4d5bed4b68449cf76e7b0109d6107433fcf5e00e2",
+        "dependency": "embedded",
+        "occurrences": [
+          "rear right arm",
+          "rear left arm",
+          "front right arm",
+          "front left arm"
+        ]
+      },
+      {
+        "id": "model-162",
+        "revision": null,
+        "sha256": "2f39ac7c65689cdcffb11a1f9c4679b7975ff60b7177afcf0b0d5ad051ff62d3",
+        "dependency": "embedded",
+        "occurrences": [
+          "rear right doubler",
+          "rear left doubler",
+          "front right doubler",
+          "front left doubler"
+        ]
+      },
+      {
+        "id": "model-161",
+        "revision": null,
+        "sha256": "32707443c7df3a1b1dcd3bb520e5fadd9ad2e9e5ec814509f9d8718f1fde4fe0",
+        "dependency": "embedded",
+        "occurrences": [
+          "rear right tab",
+          "rear left tab",
+          "front right tab",
+          "front left tab"
+        ]
+      }
+    ]
   }
 ]
