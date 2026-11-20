@@ -18898,5 +18898,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p13j4low-j4-lower-bearing-cantilever",
+    "name": "J4 hollow lower bearing cantilever, 20 mm shaft",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal 40 × 30 × 3 mm steel tube cut to 233 mm. Two Ø11 mm bores at 97 mm pitch pass through both horizontal walls.",
+    "tags": [
+      "tractor",
+      "J4",
+      "bearing hanger",
+      "hollow tube",
+      "P13J4LOW"
+    ],
+    "aliases": [
+      "J4 hollow lower bearing cantilever, 20 mm shaft",
+      "p13j4low-j4-lower-bearing-cantilever"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/bearing-supports",
+    "variant": "P13J4LOW",
+    "file": "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever-XY.png",
+        "view": "Plan",
+        "alt": "J4 hollow lower bearing cantilever, 20 mm shaft, plan"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 hollow lower bearing cantilever, 20 mm shaft, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever-YZ.png",
+        "view": "End",
+        "alt": "J4 hollow lower bearing cantilever, 20 mm shaft, end"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 hollow lower bearing cantilever, 20 mm shaft, isometric",
+        "thumbnail_file": "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever-XY.png",
+      "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever-XZ.png",
+      "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever-YZ.png",
+      "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever-top-isometric.png",
+      "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever.dwg",
+      "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/p13j4low-j4-lower-bearing-cantilever.md",
+      "models/mechanical/drive/bearing-supports/p13j4low-j4-lower-bearing-cantilever/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-137",
+        "revision": null,
+        "sha256": "6acf9542fd96267b82a6f455b697375189f1c2d936c727db2ac409c6b10b3f28",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal 3 mm wall corner-radius precedent"
+        ]
+      }
+    ]
   }
 ]
