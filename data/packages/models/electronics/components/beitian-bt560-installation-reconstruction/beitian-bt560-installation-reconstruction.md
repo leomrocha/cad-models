@@ -24,6 +24,11 @@ OpenCADStudio verified the current geometry at revision 239. The final save veri
 - [Isometric](beitian-bt560-installation-reconstruction-isometric.png), plot generated from CAD boundary geometry.
 - [Upper isometric](beitian-bt560-installation-reconstruction-top-isometric.png), plot generated from CAD boundary geometry.
 
+## CAD references
+
+- [Beitian BT-560 joined source skin](../beitian-bt560-joined-source-skin/beitian-bt560-joined-source-skin.md), derived geometry, CAD SHA-256 `706883046cce97218936e9ff91febc324dd6ef67157e8d3e7568aa561d98fac1`. The source skin supplies the registered front silhouette and taper.
+- [Beitian BT-560 rear mounting interface](../../../interface-references/mechanical/beitian-bt560-rear-mounting-interface-reference/beitian-bt560-rear-mounting-interface-reference.md), derived geometry, CAD SHA-256 `863d5380d78c5753269d85ab09acb9a2014301ef37684c8905553a9acd9b9910`. The rear mating reference supplies the collar datum and coaxial SMA-J interface.
+
 ## Technical sources
 
 - [Source reference](https://www.beitian.com/en/sys-pd/1151.html)

@@ -12254,7 +12254,22 @@
     "category_path": "electronics/components",
     "system": "sowbot",
     "variant": "brain",
-    "model_references": [],
+    "model_references": [
+      {
+        "id": "model-315",
+        "revision": null,
+        "sha256": "706883046cce97218936e9ff91febc324dd6ef67157e8d3e7568aa561d98fac1",
+        "dependency": "derived",
+        "occurrences": []
+      },
+      {
+        "id": "model-306",
+        "revision": null,
+        "sha256": "863d5380d78c5753269d85ab09acb9a2014301ef37684c8905553a9acd9b9910",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
     "sources": [
       {
         "title": "Source reference",
