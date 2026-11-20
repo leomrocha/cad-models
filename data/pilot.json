@@ -37253,5 +37253,88 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p12j4c25-j4-sprocket-carrier-keyed-hub-blank",
+    "name": "J4 sprocket carrier keyed hub blank for 25 mm shaft",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal keyed cylindrical blank for a J4 sprocket carrier with a Ø25 mm bore.",
+    "tags": [
+      "tractor",
+      "J4",
+      "sprocket carrier",
+      "keyed hub blank"
+    ],
+    "aliases": [
+      "J4 sprocket carrier keyed hub blank for 25 mm shaft",
+      "p12j4c25-j4-sprocket-carrier-keyed-hub-blank"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/sprocket-carriers",
+    "variant": "p12j4c25-j4-sprocket-carrier-keyed-hub-blank",
+    "file": "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank-XY.png",
+        "view": "Plan",
+        "alt": "J4 sprocket carrier keyed hub blank for 25 mm shaft, plan"
+      },
+      {
+        "file": "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 sprocket carrier keyed hub blank for 25 mm shaft, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank-YZ.png",
+        "view": "End",
+        "alt": "J4 sprocket carrier keyed hub blank for 25 mm shaft, end"
+      },
+      {
+        "file": "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 sprocket carrier keyed hub blank for 25 mm shaft, isometric",
+        "thumbnail_file": "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank-XY.png",
+      "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank-XZ.png",
+      "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank-YZ.png",
+      "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank-top-isometric.png",
+      "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank.dwg",
+      "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/p12j4c25-j4-sprocket-carrier-keyed-hub-blank.md",
+      "models/mechanical/drive/sprocket-carriers/p12j4c25-j4-sprocket-carrier-keyed-hub-blank/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p12j425-j4-25mm-keyed-wheel-shaft",
+        "revision": 1,
+        "sha256": "335b51ad6f0080847c2ab14b01d1475ccde0d3d179f43211a951950a9bd4d7b7",
+        "dependency": "linked",
+        "occurrences": [
+          "Mating keyed wheel shaft"
+        ]
+      },
+      {
+        "id": "j4-8x7x40-round-ended-wheel-shaft-key",
+        "revision": 1,
+        "sha256": "3c2a74f8c9783ae1b38c670f3308fdc73bcf967f7416b20c5388363786d6d675",
+        "dependency": "linked",
+        "occurrences": [
+          "Mating rounded-end key"
+        ]
+      }
+    ]
   }
 ]
