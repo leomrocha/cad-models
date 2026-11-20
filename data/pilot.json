@@ -21121,5 +21121,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "structural-s-chassis-with-lifting-supports",
+    "name": "Structural S chassis with lifting supports",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Structural S lower chassis with four side lifting supports fitted to the rail tops. Two embedded subassemblies preserve 21 solid occurrences.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "lower chassis",
+      "lifting support",
+      "subassembly"
+    ],
+    "aliases": [
+      "Structural S chassis with lifting supports",
+      "structural-s-chassis-with-lifting-supports"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "structural-s-chassis-with-lifting-supports",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports-XY.png",
+        "view": "Plan",
+        "alt": "Structural S chassis with lifting supports, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S chassis with lifting supports, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports-YZ.png",
+        "view": "End",
+        "alt": "Structural S chassis with lifting supports, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S chassis with lifting supports, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/structural-s-chassis-with-lifting-supports.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-chassis-with-lifting-supports/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "structural-s-lower-chassis-frame",
+        "revision": 1,
+        "sha256": "4f455311da878278610730e443f084df6fa012204faf7f1152405d66104b94bc",
+        "dependency": "embedded",
+        "occurrences": [
+          "Structural S lower chassis"
+        ]
+      },
+      {
+        "id": "structural-s-side-lifting-supports",
+        "revision": 1,
+        "sha256": "223b3fa21cc8d58ed24102fbe736d22926f9c04d4178cdb501305067354c2d91",
+        "dependency": "embedded",
+        "occurrences": [
+          "Structural S side lifting supports"
+        ]
+      }
+    ]
   }
 ]
