@@ -20004,5 +20004,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p10st-lift-tab-stanchion",
+    "name": "Structural S lifting tab stanchion",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Structural S lifting tab stanchion. Nominal 40 × 40 × 3 mm square steel tube with a 207 mm cut length and two open ends.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "lifting support",
+      "square steel tube",
+      "P10ST"
+    ],
+    "aliases": [
+      "Structural S lifting tab stanchion",
+      "p10st-lift-tab-stanchion"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/lifting-supports",
+    "variant": "P10ST",
+    "file": "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion-XY.png",
+        "view": "Plan",
+        "alt": "Structural S lifting tab stanchion, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S lifting tab stanchion, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion-YZ.png",
+        "view": "End",
+        "alt": "Structural S lifting tab stanchion, end"
+      },
+      {
+        "file": "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S lifting tab stanchion, isometric",
+        "thumbnail_file": "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion-XY.png",
+      "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion-XZ.png",
+      "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion-YZ.png",
+      "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion-top-isometric.png",
+      "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion.dwg",
+      "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/p10st-lift-tab-stanchion.md",
+      "models/mechanical/chassis/lifting-supports/p10st-lift-tab-stanchion/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-159",
+        "revision": null,
+        "sha256": "eff79ccdee729311f7e011e6909594575ec648f981493be22a14c0d728d44f6f",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal square tube section"
+        ]
+      }
+    ]
   }
 ]
