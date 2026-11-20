@@ -21767,5 +21767,64 @@
       "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p20lbl-leaf-hood-insulating-support-block",
+    "name": "Leaf terminal cover insulating support block",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Leaf terminal cover insulating support block. Proposed insulating part, 20 × 20 × 16 mm, with 1 Ø4.5 mm through bore(s).",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "terminal cover",
+      "insulating support"
+    ],
+    "aliases": [
+      "Leaf terminal cover insulating support block",
+      "p20lbl-leaf-hood-insulating-support-block"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "P20LBL",
+    "file": "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block-XY.png",
+        "view": "Plan",
+        "alt": "Leaf terminal cover insulating support block, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf terminal cover insulating support block, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block-YZ.png",
+        "view": "End",
+        "alt": "Leaf terminal cover insulating support block, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf terminal cover insulating support block, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block-XY.png",
+      "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block.dwg",
+      "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/p20lbl-leaf-hood-insulating-support-block.md",
+      "models/mechanical/chassis/battery-supports/p20lbl-leaf-hood-insulating-support-block/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
