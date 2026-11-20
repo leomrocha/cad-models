@@ -21708,5 +21708,64 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p20lbr-leaf-hood-support-bridge",
+    "name": "Leaf terminal cover support bridge",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Leaf terminal cover support bridge. Proposed insulating part, 60 × 20 × 3 mm, with 2 Ø4.5 mm through bore(s).",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "terminal cover",
+      "insulating support"
+    ],
+    "aliases": [
+      "Leaf terminal cover support bridge",
+      "p20lbr-leaf-hood-support-bridge"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "P20LBR",
+    "file": "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge-XY.png",
+        "view": "Plan",
+        "alt": "Leaf terminal cover support bridge, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf terminal cover support bridge, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge-YZ.png",
+        "view": "End",
+        "alt": "Leaf terminal cover support bridge, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf terminal cover support bridge, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge-XY.png",
+      "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge.dwg",
+      "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/p20lbr-leaf-hood-support-bridge.md",
+      "models/mechanical/chassis/battery-supports/p20lbr-leaf-hood-support-bridge/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
