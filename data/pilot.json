@@ -13780,5 +13780,76 @@
     "variant": "main",
     "model_references": [],
     "sources": []
+  },
+  {
+    "id": "assembly-main-deck-tube-and-controller-supports",
+    "name": "Main deck tube and controller supports — installation proposal",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two Ø33.7 mm cross tubes, two posts, two crossmember receiver seats and eight annular standoffs locate the proposed deck and ODrive controller installation. Standoffs extend from Z = 7 to 13 mm.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "subassembly",
+      "installation proposal",
+      "ODrive v3.6",
+      "controller standoffs",
+      "deck tube",
+      "mounting supports"
+    ],
+    "aliases": [
+      "Main deck tube and controller supports",
+      "main-deck-tube-and-controller-supports-r2"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 2,
+    "file": "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2.dwg",
+      "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2.md",
+      "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-XY.png",
+      "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-XZ.png",
+      "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-YZ.png",
+      "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-isometric.png",
+      "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-top-isometric.png",
+      "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-XY.png",
+        "view": "XY plan",
+        "alt": "Main deck tube and controller supports — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Main deck tube and controller supports — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-YZ.png",
+        "view": "YZ end",
+        "alt": "Main deck tube and controller supports — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-isometric.png",
+        "view": "Isometric",
+        "alt": "Main deck tube and controller supports — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/subassemblies/main-deck-tube-and-controller-supports-r2/main-deck-tube-and-controller-supports-r2-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Main deck tube and controller supports — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/subassemblies",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [],
+    "sources": []
   }
 ]
