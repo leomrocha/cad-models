@@ -21561,5 +21561,71 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c001-t539-6pr-tyre-clearance-envelope",
+    "name": "Trelleborg T539 18×8.50-8 6PR tyre clearance envelope",
+    "subject": "Interface references",
+    "kind": "standard",
+    "description": "Maximum manufacturer tolerance clearance solid for Trelleborg T539 18×8.50-8 6PR. The nominal outside diameter is 466 mm ±1.5% and the nominal width is 222 mm ±2%.",
+    "tags": [
+      "tractor",
+      "Trelleborg",
+      "T539",
+      "6PR",
+      "tyre clearance",
+      "wheel envelope"
+    ],
+    "aliases": [
+      "Trelleborg T539 18×8.50-8 6PR tyre clearance envelope",
+      "c001-t539-6pr-tyre-clearance-envelope"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked manufacturer-dimensioned reference",
+    "category_path": "interface-references/wheels-and-tyres",
+    "variant": "C001",
+    "file": "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope.dwg",
+    "previews": [
+      {
+        "file": "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope-XY.png",
+        "view": "Plan",
+        "alt": "Trelleborg T539 18×8.50-8 6PR tyre clearance envelope, plan"
+      },
+      {
+        "file": "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope-XZ.png",
+        "view": "Elevation",
+        "alt": "Trelleborg T539 18×8.50-8 6PR tyre clearance envelope, elevation"
+      },
+      {
+        "file": "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope-YZ.png",
+        "view": "End",
+        "alt": "Trelleborg T539 18×8.50-8 6PR tyre clearance envelope, end"
+      },
+      {
+        "file": "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Trelleborg T539 18×8.50-8 6PR tyre clearance envelope, isometric",
+        "thumbnail_file": "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope-XY.png",
+      "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope-XZ.png",
+      "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope-YZ.png",
+      "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope-top-isometric.png",
+      "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope.dwg",
+      "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/c001-t539-6pr-tyre-clearance-envelope.md",
+      "models/interface-references/wheels-and-tyres/c001-t539-6pr-tyre-clearance-envelope/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Trelleborg Technical Manual, T539 6PR, printed page 221",
+        "url": "https://www.trelleborg-tires.com/-/media/tires-aft/datatsheet/technical-manual/trelleborg-technical-manual-en.pdf?hash=AB0C897622FFD6443624A33BDFA5552E&rev=258948143820400e9a05c5a63b8c7ae0&sc_lang=en#page=111"
+      }
+    ]
   }
 ]
