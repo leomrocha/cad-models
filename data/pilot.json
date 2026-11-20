@@ -27401,5 +27401,132 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c017-blickle-ls-vle250k-external-caster-fit-assembly",
+    "name": "Blickle LS-VLE250K external caster fit assembly",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "LS-VLE250K source-bound external caster fit assembly with nine installed solids.",
+    "tags": [
+      "caster",
+      "Blickle",
+      "ls-vle250k",
+      "external fit",
+      "swivel sweep"
+    ],
+    "aliases": [
+      "Blickle LS-VLE250K external caster fit assembly",
+      "c017-blickle-ls-vle250k-external-caster-fit-assembly"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "c017-blickle-ls-vle250k-external-caster-fit-assembly",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-VLE250K external caster fit assembly, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-VLE250K external caster fit assembly, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-VLE250K external caster fit assembly, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-VLE250K external caster fit assembly, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/c017-blickle-ls-vle250k-external-caster-fit-assembly.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/c017-blickle-ls-vle250k-external-caster-fit-assembly/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "c017-blickle-ls-vle250k-top-plate-fit",
+        "revision": 1,
+        "sha256": "6d150356b97dad62ab317115a81c98e5fc815ec175998f0acffc4534150fc033",
+        "dependency": "embedded",
+        "occurrences": [
+          "Supplier mounting plate"
+        ]
+      },
+      {
+        "id": "c017-blickle-ls-vle250k-swivel-body-fit",
+        "revision": 1,
+        "sha256": "a98212581e5fb33fb39f314a5fd663d05cd4b657325643c3eb129e437aa050fd",
+        "dependency": "embedded",
+        "occurrences": [
+          "Swivel exterior"
+        ]
+      },
+      {
+        "id": "c017-blickle-ls-vle250k-fork-leg-fit",
+        "revision": 1,
+        "sha256": "62a7790df6b7b9c6546a2359411f472dc6343544606a62e329be4a79b4313804",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left fork leg",
+          "Right fork leg"
+        ]
+      },
+      {
+        "id": "c017-blickle-ls-vle250k-wheel-body-fit",
+        "revision": 1,
+        "sha256": "6a2b5485aa29d7be8672b2357d7e81d9951d503d825fceb9a3912d6396796248",
+        "dependency": "embedded",
+        "occurrences": [
+          "Wheel and hub"
+        ]
+      },
+      {
+        "id": "c017-blickle-ls-vle250k-axle-fit",
+        "revision": 1,
+        "sha256": "8c82d4134fa947388ddc41580de51c918e86f06a94d44041ed837c45a4cd3c2c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Headed axle"
+        ]
+      },
+      {
+        "id": "c017-blickle-ls-vle250k-axle-spacer-fit",
+        "revision": 1,
+        "sha256": "1460064446423755fa021150dd38627d630e6a8fd8f484b2094aa7a65fa65a97",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left hub spacer",
+          "Right hub spacer"
+        ]
+      },
+      {
+        "id": "blickle-caster-m20-axle-retaining-nut-fit",
+        "revision": 1,
+        "sha256": "607180a3e0fa69215f9458dfae02753b3bea210a02016ca2eaa2d07f0f8fc171",
+        "dependency": "embedded",
+        "occurrences": [
+          "Axle retaining nut"
+        ]
+      }
+    ]
   }
 ]
