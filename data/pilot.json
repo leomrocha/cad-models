@@ -12545,5 +12545,82 @@
         "url": "https://www.varicore.cn/page96?product_id=117"
       }
     ]
+  },
+  {
+    "id": "sowbot-propow-cpn24050-installation-reconstruction",
+    "name": "Propow CPN24050 24 V 50 Ah battery — installation proposal",
+    "subject": "Electronics",
+    "kind": "part",
+    "description": "Propow CPN24050 listing, CPS24050 gallery marking and 306 × 174 mm footprint identify the 24 V 50 Ah candidate. The reconstructed main case height is 200 mm and proposed post top is 220 mm. The case includes the recessed handle and pictorial hold-down ledge.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "part",
+      "installation proposal",
+      "Propow",
+      "CPN24050",
+      "24 V",
+      "50 Ah",
+      "battery"
+    ],
+    "aliases": [
+      "Propow CPN24050 24 V 50 Ah battery",
+      "propow-cpn24050-installation-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction.dwg",
+    "package_assets": [
+      "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction.dwg",
+      "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction.md",
+      "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-XY.png",
+      "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-XZ.png",
+      "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-YZ.png",
+      "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-isometric.png",
+      "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-top-isometric.png",
+      "models/electronics/batteries/propow-cpn24050-installation-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "Propow CPN24050 24 V 50 Ah battery — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Propow CPN24050 24 V 50 Ah battery — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "Propow CPN24050 24 V 50 Ah battery — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "Propow CPN24050 24 V 50 Ah battery — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/electronics/batteries/propow-cpn24050-installation-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/electronics/batteries/propow-cpn24050-installation-reconstruction/propow-cpn24050-installation-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Propow CPN24050 24 V 50 Ah battery — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "electronics/batteries",
+    "system": "sowbot",
+    "variant": "mini",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Source reference",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
