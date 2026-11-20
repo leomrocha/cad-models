@@ -35973,5 +35973,79 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p13j425b46-j4-left-outer-bearing-cantilever",
+    "name": "J4 widened left outer bearing cantilever, 25 mm shaft",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 25 mm branch lower bearing cantilever. The steel part measures 258 × 46 × 25 mm with two Ø11 mm through bores. The 46 mm width supports the left outer hanger post at nominal Y = 99 mm while the bearing fixings stay at Y = 110 mm.",
+    "tags": [
+      "tractor",
+      "J4",
+      "bearing cantilever",
+      "p13j425b46-j4-left-outer-bearing-cantilever"
+    ],
+    "aliases": [
+      "J4 widened left outer bearing cantilever, 25 mm shaft",
+      "p13j425b46-j4-left-outer-bearing-cantilever"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/bearing-supports",
+    "variant": "p13j425b46-j4-left-outer-bearing-cantilever",
+    "file": "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever-XY.png",
+        "view": "Plan",
+        "alt": "J4 widened left outer bearing cantilever, 25 mm shaft, plan"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 widened left outer bearing cantilever, 25 mm shaft, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever-YZ.png",
+        "view": "End",
+        "alt": "J4 widened left outer bearing cantilever, 25 mm shaft, end"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 widened left outer bearing cantilever, 25 mm shaft, isometric",
+        "thumbnail_file": "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever-XY.png",
+      "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever-XZ.png",
+      "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever-YZ.png",
+      "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever-top-isometric.png",
+      "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever.dwg",
+      "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/p13j425b46-j4-left-outer-bearing-cantilever.md",
+      "models/mechanical/drive/bearing-supports/p13j425b46-j4-left-outer-bearing-cantilever/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p13j425bar-j4-solid-lower-cantilever-25-branch",
+        "revision": 1,
+        "sha256": "e3ba18ca3b92c413330bcb524864185032b5627fcf464e10a8efe7b70d4f7bf7",
+        "dependency": "derived",
+        "occurrences": [
+          "Original lower bearing cantilever"
+        ]
+      }
+    ]
   }
 ]
