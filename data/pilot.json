@@ -12595,7 +12595,15 @@
     "category_path": "electronics/batteries",
     "system": "sowbot",
     "variant": "main",
-    "model_references": [],
+    "model_references": [
+      {
+        "id": "model-282",
+        "revision": null,
+        "sha256": "07b7a363a9d1eaeb1da39c246c406602f95ca2ee44262107be233cffdd898f3e",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
     "sources": [
       {
         "title": "Sowbot hardware",

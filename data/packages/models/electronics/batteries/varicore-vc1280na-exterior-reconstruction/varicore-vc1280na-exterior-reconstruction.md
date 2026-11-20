@@ -24,6 +24,10 @@ OpenCADStudio verified the current geometry at revision 149. The final save veri
 - [Isometric](varicore-vc1280na-exterior-reconstruction-isometric.png), plot generated from CAD boundary geometry.
 - [Upper isometric](varicore-vc1280na-exterior-reconstruction-top-isometric.png), plot generated from CAD boundary geometry.
 
+## CAD references
+
+- [VariCore VC-1280NA photo exterior stage](../varicore-vc1280na-photo-exterior-stage/varicore-vc1280na-photo-exterior-stage.md), derived geometry, CAD SHA-256 `07b7a363a9d1eaeb1da39c246c406602f95ca2ee44262107be233cffdd898f3e`. The calibrated exterior stage supplies the terminal XY axes and profile basis. The proposed case and terminals fit the 220 mm manufacturer height.
+
 ## Technical sources
 
 - [Sowbot hardware](https://sowbot.co.uk/hardware/)
