@@ -22260,5 +22260,86 @@
       "models/mechanical/chassis/battery-supports/p20cleaf-leaf-terminal-cover-reference/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "leaf-paired-reference-terminal-covers",
+    "name": "Leaf two-cassette reference terminal covers on supports",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two Leaf reference terminal covers seated on eight insulating blocks. The assembly preserves the specified case spacing and cover-support frames.",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "terminal cover",
+      "cassette",
+      "reference layout"
+    ],
+    "aliases": [
+      "Leaf two-cassette reference terminal covers on supports",
+      "leaf-paired-reference-terminal-covers"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "leaf-paired-reference-terminal-covers",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers-XY.png",
+        "view": "Plan",
+        "alt": "Leaf two-cassette reference terminal covers on supports, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf two-cassette reference terminal covers on supports, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers-YZ.png",
+        "view": "End",
+        "alt": "Leaf two-cassette reference terminal covers on supports, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf two-cassette reference terminal covers on supports, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/leaf-paired-reference-terminal-covers.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-paired-reference-terminal-covers/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "leaf-cassette-cover-support-pair",
+        "revision": 1,
+        "sha256": "d6aa724b950d20ebb11201969594ad4d4eb4e7ac0994d6015df4486e6c6f7d55",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired cassette cover supports"
+        ]
+      },
+      {
+        "id": "p20cleaf-leaf-terminal-cover-reference",
+        "revision": 1,
+        "sha256": "bcfb2f378929dd0e8c3c50ec4ab3d2b43f0e51b378f85530a36cfb3f0b3c405d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Reference hood at U = -133 mm",
+          "Reference hood at U = +133 mm"
+        ]
+      }
+    ]
   }
 ]
