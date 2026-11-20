@@ -34237,5 +34237,65 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c160-iso-10642-m8x20-inner-retainer-screw",
+    "name": "C160 ISO 10642 M8 × 20 inner retainer screw reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal ISO 10642 M8 × 20 countersunk socket screw for the J4 inner shaft retainer.",
+    "tags": [
+      "tractor",
+      "J4",
+      "M8",
+      "ISO 10642",
+      "countersunk screw"
+    ],
+    "aliases": [
+      "C160 ISO 10642 M8 × 20 inner retainer screw reference",
+      "c160-iso-10642-m8x20-inner-retainer-screw"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical-parts/fasteners",
+    "variant": "c160-iso-10642-m8x20-inner-retainer-screw",
+    "file": "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw-XY.png",
+        "view": "Plan",
+        "alt": "C160 ISO 10642 M8 × 20 inner retainer screw reference, plan"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw-XZ.png",
+        "view": "Elevation",
+        "alt": "C160 ISO 10642 M8 × 20 inner retainer screw reference, elevation"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw-YZ.png",
+        "view": "End",
+        "alt": "C160 ISO 10642 M8 × 20 inner retainer screw reference, end"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw-top-isometric.png",
+        "view": "Isometric",
+        "alt": "C160 ISO 10642 M8 × 20 inner retainer screw reference, isometric",
+        "thumbnail_file": "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw-XY.png",
+      "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw-XZ.png",
+      "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw-YZ.png",
+      "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw-top-isometric.png",
+      "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw.dwg",
+      "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/c160-iso-10642-m8x20-inner-retainer-screw.md",
+      "models/mechanical-parts/fasteners/c160-iso-10642-m8x20-inner-retainer-screw/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
