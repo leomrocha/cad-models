@@ -11941,7 +11941,15 @@
     "category_path": "assemblies/sowbot/main/parts",
     "system": "sowbot",
     "variant": "main",
-    "model_references": [],
+    "model_references": [
+      {
+        "id": "model-244",
+        "revision": null,
+        "sha256": "4e1d5d250367d32e1ec3c890f83bb885b950b12c868a25c09b2a1c329c6714e7",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
     "sources": [
       {
         "title": "Sowbot hardware",

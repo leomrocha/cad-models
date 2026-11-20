@@ -24,6 +24,10 @@ OpenCADStudio verified the current geometry at revision 118. The final save veri
 - [Isometric](main-reducer-reconstruction-r2-isometric.png), plot generated from CAD boundary geometry.
 - [Upper isometric](main-reducer-reconstruction-r2-top-isometric.png), plot generated from CAD boundary geometry.
 
+## CAD references
+
+- [ODrive D6374 manufacturer motor](../../../../../electronics/motors/odrive-d6374-manufacturer-motor/odrive-d6374-manufacturer-motor.md), derived geometry, CAD SHA-256 `4e1d5d250367d32e1ec3c890f83bb885b950b12c868a25c09b2a1c329c6714e7`. The D6374 motor provides the motor mating plane, shaft and eight mounting axes used for the proposed reducer interface.
+
 ## Technical sources
 
 - [Sowbot hardware](https://sowbot.co.uk/hardware/)
