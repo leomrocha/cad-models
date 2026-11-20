@@ -16171,5 +16171,107 @@
       "models/mechanical/chassis/p24jb340-j-splash-central-crossbar-segment/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p24jbs-j-splash-crossbars-and-sleeves",
+    "name": "J splash-panel segmented crossbars and sleeves",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Paired J splash-panel upper supports for the lifting-post arrangement. Four 50 mm outer crossbars, two 340 mm centre crossbars and six 16 mm compression sleeves.",
+    "tags": [
+      "tractor",
+      "splash panel",
+      "crossbar",
+      "compression sleeve",
+      "subassembly"
+    ],
+    "aliases": [
+      "J splash-panel segmented crossbars and sleeves",
+      "p24jbs-j-splash-crossbars-and-sleeves"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "P24JBS",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves-XY.png",
+        "view": "Plan",
+        "alt": "J splash-panel segmented crossbars and sleeves, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves-XZ.png",
+        "view": "Elevation",
+        "alt": "J splash-panel segmented crossbars and sleeves, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves-YZ.png",
+        "view": "End",
+        "alt": "J splash-panel segmented crossbars and sleeves, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J splash-panel segmented crossbars and sleeves, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/p24jbs-j-splash-crossbars-and-sleeves.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24jbs-j-splash-crossbars-and-sleeves/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24jb50-j-splash-outer-crossbar-segment",
+        "revision": 1,
+        "sha256": "d88ecb783e7c6aa58a1832e632a66e9cc00f50936713952fb73580bef1c6e8dd",
+        "dependency": "embedded",
+        "occurrences": [
+          "left-negative-outer-tube",
+          "left-positive-outer-tube",
+          "right-negative-outer-tube",
+          "right-positive-outer-tube"
+        ]
+      },
+      {
+        "id": "p24jb340-j-splash-central-crossbar-segment",
+        "revision": 1,
+        "sha256": "70db103a57359fcf1d640b53228641fa30687ac58cdf6b134f5d6f059d9aff8a",
+        "dependency": "embedded",
+        "occurrences": [
+          "left-centre-tube",
+          "right-centre-tube"
+        ]
+      },
+      {
+        "id": "model-186",
+        "revision": null,
+        "sha256": "081476f9b2c52946a7b811edb1b85fa7b9841a55936831b5168987d8e9e5c4bd",
+        "dependency": "embedded",
+        "occurrences": [
+          "left-negative-outer-sleeve",
+          "left-centre-sleeve",
+          "left-positive-outer-sleeve",
+          "right-negative-outer-sleeve",
+          "right-centre-sleeve",
+          "right-positive-outer-sleeve"
+        ]
+      }
+    ]
   }
 ]
