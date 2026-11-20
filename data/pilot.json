@@ -18364,5 +18364,91 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-30-bearing-support-placements",
+    "name": "J4 30 mm bearing and support plate placements",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Four J4 30 mm SKF mounting references on four checked bearing support plates. The paired slots align with the support plate bores at 117.5 mm pitch. All four shaft datums lie at Z = 233 mm.",
+    "tags": [
+      "tractor",
+      "J4",
+      "SKF",
+      "bearing support plates",
+      "J4-30"
+    ],
+    "aliases": [
+      "J4 30 mm bearing and support plate placements",
+      "j4-30-bearing-support-placements"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "J4-30",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements-XY.png",
+        "view": "Plan",
+        "alt": "J4 30 mm bearing and support plate placements, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 30 mm bearing and support plate placements, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements-YZ.png",
+        "view": "End",
+        "alt": "J4 30 mm bearing and support plate placements, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 30 mm bearing and support plate placements, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/j4-30-bearing-support-placements.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30-bearing-support-placements/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "c123-skf-sy-30-tf-mounting-reference",
+        "revision": 1,
+        "sha256": "9ac03704cbd701cd068927ef68801113b9c1b6c16e880f7ce07046742fe48900",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer SKF bearing reference",
+          "Right inner SKF bearing reference",
+          "Left inner SKF bearing reference",
+          "Left outer SKF bearing reference"
+        ]
+      },
+      {
+        "id": "model-172",
+        "revision": null,
+        "sha256": "8dc54c551aceaf10354a3f3ca7db41b2b6cc3424d5753da34a99f958d29bcd7f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer support plate",
+          "Right inner support plate",
+          "Left inner support plate",
+          "Left outer support plate"
+        ]
+      }
+    ]
   }
 ]
