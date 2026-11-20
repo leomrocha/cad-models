@@ -23999,5 +23999,78 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c127-iso-4017-m8x30-screw-proposed-class-8-8",
+    "name": "ISO 4017 M8 × 30 screw nominal reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal M8 screw envelope with a 30 mm under-head length, a 13 mm across-flats head and a 5.3 mm head height.",
+    "tags": [
+      "tractor",
+      "fastener",
+      "ISO 4017:2022",
+      "c127-iso-4017-m8x30-screw-proposed-class-8-8"
+    ],
+    "aliases": [
+      "ISO 4017 M8 × 30 screw nominal reference",
+      "c127-iso-4017-m8x30-screw-proposed-class-8-8"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": [
+      {
+        "designation": "ISO 4017:2022",
+        "relationship": "Nominal fastener reference dimensions"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical-parts/fasteners/screws",
+    "variant": "c127-iso-4017-m8x30-screw-proposed-class-8-8",
+    "file": "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8-XY.png",
+        "view": "Plan",
+        "alt": "ISO 4017 M8 × 30 screw nominal reference, plan"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8-XZ.png",
+        "view": "Elevation",
+        "alt": "ISO 4017 M8 × 30 screw nominal reference, elevation"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8-YZ.png",
+        "view": "End",
+        "alt": "ISO 4017 M8 × 30 screw nominal reference, end"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8-top-isometric.png",
+        "view": "Isometric",
+        "alt": "ISO 4017 M8 × 30 screw nominal reference, isometric",
+        "thumbnail_file": "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8-XY.png",
+      "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8-XZ.png",
+      "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8-YZ.png",
+      "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8-top-isometric.png",
+      "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8.dwg",
+      "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/c127-iso-4017-m8x30-screw-proposed-class-8-8.md",
+      "models/mechanical-parts/fasteners/screws/c127-iso-4017-m8x30-screw-proposed-class-8-8/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "ISO 4017:2022 dimensional reference",
+        "url": "https://cdn.standards.iteh.ai/samples/72585/1179998ddd594550a909d6e13c416f3e/ISO-4017-2022.pdf"
+      }
+    ]
   }
 ]
