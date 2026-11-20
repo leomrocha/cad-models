@@ -24614,5 +24614,69 @@
       "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-shelf-support-angle-exposed-joints",
+    "name": "Victron shelf support angle with two frame bores",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "450 mm shelf support from nominal 30 × 30 × 3 mm angle stock, with two Ø8.5 mm through bores at 365.6 mm pitch.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery shelf",
+      "support angle",
+      "mounting bores"
+    ],
+    "aliases": [
+      "Victron shelf support angle with two frame bores",
+      "victron-shelf-support-angle-exposed-joints"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "victron-shelf-support-angle-exposed-joints",
+    "file": "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints-XY.png",
+        "view": "Plan",
+        "alt": "Victron shelf support angle with two frame bores, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron shelf support angle with two frame bores, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints-YZ.png",
+        "view": "End",
+        "alt": "Victron shelf support angle with two frame bores, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron shelf support angle with two frame bores, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/thumbnail.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints-XY.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints-XZ.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints-YZ.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints.dwg",
+      "models/mechanical/chassis/battery-supports/victron-shelf-support-angle-exposed-joints/victron-shelf-support-angle-exposed-joints.md"
+    ],
+    "sources": []
   }
 ]
