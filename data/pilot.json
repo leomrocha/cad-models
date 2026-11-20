@@ -12084,5 +12084,82 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-avaota-a1-v17-installation-envelope-proposal",
+    "name": "Yuzuki Avaota-A1 v1.7 computer — installation proposal",
+    "subject": "Electronics",
+    "kind": "part",
+    "description": "The substrate reuses the v1.7 outline, 1.183202438 mm thickness and five perimeter apertures.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "part",
+      "installation proposal",
+      "Avaota-A1",
+      "v1.7",
+      "PCB",
+      "computer",
+      "connector envelope"
+    ],
+    "aliases": [
+      "Yuzuki Avaota-A1 v1.7 computer",
+      "avaota-a1-v17-installation-envelope-proposal-r2"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 2,
+    "file": "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2.dwg",
+    "package_assets": [
+      "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2.dwg",
+      "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2.md",
+      "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-XY.png",
+      "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-XZ.png",
+      "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-YZ.png",
+      "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-isometric.png",
+      "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-top-isometric.png",
+      "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-XY.png",
+        "view": "XY plan",
+        "alt": "Yuzuki Avaota-A1 v1.7 computer — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Yuzuki Avaota-A1 v1.7 computer — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-YZ.png",
+        "view": "YZ end",
+        "alt": "Yuzuki Avaota-A1 v1.7 computer — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-isometric.png",
+        "view": "Isometric",
+        "alt": "Yuzuki Avaota-A1 v1.7 computer — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/thumbnail.png"
+      },
+      {
+        "file": "models/electronics/components/avaota-a1-v17-installation-envelope-proposal-r2/avaota-a1-v17-installation-envelope-proposal-r2-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Yuzuki Avaota-A1 v1.7 computer — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "electronics/components",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Avaota-A1 hardware v1.7 manufacturer STEP",
+        "url": "https://raw.githubusercontent.com/AvaotaSBC/Avaota-A1/master/hardware/v1.7/06_3D/3D_PCB1_2024-08-17.zip"
+      }
+    ]
   }
 ]
