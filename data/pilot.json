@@ -23258,5 +23258,74 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p19v-victron-side-mount-shelf-floor",
+    "name": "Victron side-mount shelf floor reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed 3 mm steel support floor for the side-mounted Victron battery case. The floor follows the drawing-based 341.2 × 234.7 mm case footprint.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "BAT524110620",
+      "battery shelf",
+      "floor reference"
+    ],
+    "aliases": [
+      "Victron side-mount shelf floor reference",
+      "p19v-victron-side-mount-shelf-floor"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p19v-victron-side-mount-shelf-floor",
+    "file": "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor-XY.png",
+        "view": "Plan",
+        "alt": "Victron side-mount shelf floor reference, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron side-mount shelf floor reference, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor-YZ.png",
+        "view": "End",
+        "alt": "Victron side-mount shelf floor reference, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron side-mount shelf floor reference, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor-XY.png",
+      "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor-XZ.png",
+      "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor-YZ.png",
+      "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor.dwg",
+      "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/p19v-victron-side-mount-shelf-floor.md",
+      "models/mechanical/chassis/battery-supports/p19v-victron-side-mount-shelf-floor/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Victron BAT524110620 dimension drawing, Rev02",
+        "url": "https://www.victronenergy.com/upload/documents/LiFePO4-Battery-25.6V100Ah-NG.pdf"
+      }
+    ]
   }
 ]
