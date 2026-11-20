@@ -26018,5 +26018,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p05d-caster-frame-doubler-250-cheek-relief",
+    "name": "Caster frame doubler with 250 mm clevis cheek relief",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "10 mm frame doubler with two open 33 × 9 mm clevis reliefs and four retained Ø13 mm mounting bores.",
+    "tags": [
+      "tractor",
+      "caster",
+      "frame doubler",
+      "cheek relief",
+      "P05D"
+    ],
+    "aliases": [
+      "Caster frame doubler with 250 mm clevis cheek relief",
+      "p05d-caster-frame-doubler-250-cheek-relief"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "p05d-caster-frame-doubler-250-cheek-relief",
+    "file": "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief-XY.png",
+        "view": "Plan",
+        "alt": "Caster frame doubler with 250 mm clevis cheek relief, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief-XZ.png",
+        "view": "Elevation",
+        "alt": "Caster frame doubler with 250 mm clevis cheek relief, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief-YZ.png",
+        "view": "End",
+        "alt": "Caster frame doubler with 250 mm clevis cheek relief, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Caster frame doubler with 250 mm clevis cheek relief, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief-XY.png",
+      "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief-XZ.png",
+      "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief-YZ.png",
+      "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief.dwg",
+      "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/p05d-caster-frame-doubler-250-cheek-relief.md",
+      "models/mechanical/chassis/caster-supports/p05d-caster-frame-doubler-250-cheek-relief/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-133",
+        "revision": null,
+        "sha256": "f1d95f68b341765953fdca8a77c76c4b2c754884fe99e4c6d9841984a4de411b",
+        "dependency": "derived",
+        "occurrences": [
+          "Unmodified 10 mm frame doubler"
+        ]
+      }
+    ]
   }
 ]
