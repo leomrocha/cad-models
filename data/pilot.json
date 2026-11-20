@@ -23176,5 +23176,87 @@
       "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-hood-four-post-mounting-reference",
+    "name": "Victron terminal hoods with four independent post mounts",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two Victron reference terminal hoods on four post mounts. Separate inboard angles leave a 137.2 mm gap between their inner edges.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "terminal cover",
+      "inboard angle",
+      "outboard shoe",
+      "mounting reference"
+    ],
+    "aliases": [
+      "Victron terminal hoods with four independent post mounts",
+      "victron-hood-four-post-mounting-reference"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-hood-four-post-mounting-reference",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference-XY.png",
+        "view": "Plan",
+        "alt": "Victron terminal hoods with four independent post mounts, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron terminal hoods with four independent post mounts, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference-YZ.png",
+        "view": "End",
+        "alt": "Victron terminal hoods with four independent post mounts, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron terminal hoods with four independent post mounts, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hood-four-post-mounting-reference/victron-hood-four-post-mounting-reference.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "victron-hood-outboard-shoe-installation",
+        "revision": 1,
+        "sha256": "ff135940fe1cddc4ae5d9fb4fef93913b17ad8cba16c3163c0c71ca5285d555a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired hoods and outboard mounting shoes"
+        ]
+      },
+      {
+        "id": "p20vishoe-victron-inboard-hood-mounting-angle",
+        "revision": 1,
+        "sha256": "26f4fd3054a327387ee4d14ad576d63049e3d47eedb1b61672608f5f90fc519b",
+        "dependency": "embedded",
+        "occurrences": [
+          "left inboard mounting angle",
+          "right inboard mounting angle"
+        ]
+      }
+    ]
   }
 ]
