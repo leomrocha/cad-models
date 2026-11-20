@@ -25126,5 +25126,69 @@
       "models/mechanical/chassis/deck/victron-structural-s-service-opening-cover/victron-structural-s-service-opening-cover.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-structural-s-service-deck-flat-ledge",
+    "name": "Structural S Victron service deck flat ledge",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Flat 600 × 25 × 3 mm deck ledge with three Ø6.5 mm through bores.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "deck",
+      "side ledge",
+      "mounting bores"
+    ],
+    "aliases": [
+      "Structural S Victron service deck flat ledge",
+      "victron-structural-s-service-deck-flat-ledge"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/deck",
+    "variant": "victron-structural-s-service-deck-flat-ledge",
+    "file": "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge-XY.png",
+        "view": "Plan",
+        "alt": "Structural S Victron service deck flat ledge, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S Victron service deck flat ledge, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge-YZ.png",
+        "view": "End",
+        "alt": "Structural S Victron service deck flat ledge, end"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S Victron service deck flat ledge, isometric",
+        "thumbnail_file": "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/thumbnail.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge-XY.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge-XZ.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge-YZ.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge-top-isometric.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge.dwg",
+      "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge.md"
+    ],
+    "sources": []
   }
 ]
