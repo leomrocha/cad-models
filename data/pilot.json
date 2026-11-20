@@ -14371,5 +14371,75 @@
         "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
       }
     ]
+  },
+  {
+    "id": "iso730-category-4n-rear-implement-reference",
+    "name": "ISO 730 Category 4N rear implement hitch-point interface",
+    "subject": "Interface references",
+    "kind": "standard",
+    "description": "Three nominal pin-interface solids. Lower shoulder span 952 mm, mast height 685 mm, upper pin diameter 45 mm, lower pin diameter 50.8 mm.",
+    "tags": [
+      "standard",
+      "three-point linkage",
+      "rear attachment",
+      "implement hitch",
+      "category 4N"
+    ],
+    "aliases": [
+      "ISO 730 Category 4N",
+      "iso730-category-4n-rear-implement-reference"
+    ],
+    "materials": null,
+    "standards": [
+      {
+        "designation": "ISO 730:2009+A1:2014",
+        "relationship": "Figure 4 and Table 4 nominal implement interface"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked nominal interface reference",
+    "category_path": "interface-references/mechanical",
+    "variant": "4N",
+    "file": "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference.dwg",
+    "previews": [
+      {
+        "file": "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference-XY.png",
+        "view": "Plan",
+        "alt": "ISO 730 Category 4N rear implement hitch-point interface, plan"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "ISO 730 Category 4N rear implement hitch-point interface, elevation"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference-YZ.png",
+        "view": "End",
+        "alt": "ISO 730 Category 4N rear implement hitch-point interface, end"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "ISO 730 Category 4N rear implement hitch-point interface, isometric",
+        "thumbnail_file": "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference-XY.png",
+      "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference-XZ.png",
+      "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference-YZ.png",
+      "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference-top-isometric.png",
+      "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference.dwg",
+      "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/iso730-category-4n-rear-implement-reference.md",
+      "models/interface-references/mechanical/iso730-category-4n-rear-implement-reference/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "ISO 730:2009 with Amendment 1:2014, Figure 4 and Table 4",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      }
+    ]
   }
 ]
