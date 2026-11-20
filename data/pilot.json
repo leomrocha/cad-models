@@ -35873,5 +35873,105 @@
       "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "j4-motenergy-pair-with-relieved-backbones",
+    "name": "J4 Motenergy ME0907 pair with relieved backbones",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two Motenergy ME0907 motors with adjustable plates and both J4 backbones relieved to Z = 308 mm.",
+    "tags": [
+      "tractor",
+      "J4",
+      "Motenergy",
+      "ME0907",
+      "motor mount"
+    ],
+    "aliases": [
+      "J4 Motenergy ME0907 pair with relieved backbones",
+      "j4-motenergy-pair-with-relieved-backbones"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-motenergy-pair-with-relieved-backbones",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones-XY.png",
+        "view": "Plan",
+        "alt": "J4 Motenergy ME0907 pair with relieved backbones, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 Motenergy ME0907 pair with relieved backbones, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones-YZ.png",
+        "view": "End",
+        "alt": "J4 Motenergy ME0907 pair with relieved backbones, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 Motenergy ME0907 pair with relieved backbones, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/j4-motenergy-pair-with-relieved-backbones.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-relieved-backbones/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p03jin-j4-relieved-left-motor-backbone",
+        "revision": 1,
+        "sha256": "6afcdb83ffb199d9864e1997086ccf0601e5bc3cc9929081c103222e840ac059",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left fixed motor backbone"
+        ]
+      },
+      {
+        "id": "p03jbr-j4-relieved-right-motor-backbone",
+        "revision": 1,
+        "sha256": "faab7e6913a007675f6f5f55632d888b8f2bd9b3b1f2c41e73d7159e2d364ab0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right fixed motor backbone"
+        ]
+      },
+      {
+        "id": "model-163",
+        "revision": null,
+        "sha256": "f827eb64e7139e3fff878ea40afd75c065449eba8b7e5f59f21cfe49f2058270",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left moving motor plate",
+          "Right moving motor plate"
+        ]
+      },
+      {
+        "id": "model-106",
+        "revision": null,
+        "sha256": "6c9c1505c3beb528b10cb27c5a2af0406c16e00a2f766cfaa27bed8c132d1a33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Motenergy ME0907 motor",
+          "Right Motenergy ME0907 motor"
+        ]
+      }
+    ]
   }
 ]
