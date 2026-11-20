@@ -25516,5 +25516,176 @@
         ]
       }
     ]
+  },
+  {
+    "id": "victron-structural-s-deck-installation",
+    "name": "Victron service deck mounted on the Structural S lower chassis",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Structural S lower frame, Victron battery support and removable service hatch on four uprights and two flat ledges, with six deck-to-ledge M6 joints.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "deck",
+      "battery service",
+      "installation"
+    ],
+    "aliases": [
+      "Victron service deck mounted on the Structural S lower chassis",
+      "victron-structural-s-deck-installation"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-structural-s-deck-installation",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation-XY.png",
+        "view": "Plan",
+        "alt": "Victron service deck mounted on the Structural S lower chassis, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron service deck mounted on the Structural S lower chassis, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation-YZ.png",
+        "view": "End",
+        "alt": "Victron service deck mounted on the Structural S lower chassis, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron service deck mounted on the Structural S lower chassis, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-structural-s-deck-installation/victron-structural-s-deck-installation.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "victron-single-shelf-frame-installation",
+        "revision": 1,
+        "sha256": "c90ca6520efdcf0ca715dcfa10f9f612eeb00a11271995371fdabe83b238e39b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Lower frame and battery support"
+        ]
+      },
+      {
+        "id": "structural-s-side-lifting-supports",
+        "revision": 1,
+        "sha256": "223b3fa21cc8d58ed24102fbe736d22926f9c04d4178cdb501305067354c2d91",
+        "dependency": "embedded",
+        "occurrences": [
+          "Retained lifting supports"
+        ]
+      },
+      {
+        "id": "victron-service-hatch-installed",
+        "revision": 1,
+        "sha256": "8fdb629ea8edc647155d51ff185a1d17d55096b2135dd0815189f741c6c4cfff",
+        "dependency": "embedded",
+        "occurrences": [
+          "Hatch and removable rail hardware"
+        ]
+      },
+      {
+        "id": "p04up-deck-upright-s",
+        "revision": 1,
+        "sha256": "668824b23041ae1e4a5295468a8bdc9588420d49a7f5733dcd36ce4b5bee04cf",
+        "dependency": "embedded",
+        "occurrences": [
+          "Deck upright at X -270, Y -150",
+          "Deck upright at X -270, Y 150",
+          "Deck upright at X 270, Y -150",
+          "Deck upright at X 270, Y 150"
+        ]
+      },
+      {
+        "id": "p04cap-deck-upright-ledge-bridge-cap",
+        "revision": 1,
+        "sha256": "df1730869618767e1657cecd19b729f7b3458c26edf7a986b0cd5f48641154eb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Bridge cap at X -270, Y -150",
+          "Bridge cap at X -270, Y 150",
+          "Bridge cap at X 270, Y -150",
+          "Bridge cap at X 270, Y 150"
+        ]
+      },
+      {
+        "id": "victron-structural-s-service-deck-flat-ledge",
+        "revision": 1,
+        "sha256": "48fa07be2e478c417266e1dd374fb56853dfd836005498bef91f7a36cd848520",
+        "dependency": "embedded",
+        "occurrences": [
+          "Flat ledge at Y -187.5",
+          "Flat ledge at Y 187.5"
+        ]
+      },
+      {
+        "id": "iso-4017-m6x20",
+        "revision": null,
+        "sha256": "32dcc1ddeecddfa8687901a913f6a6aa1e6cb574c311daa8cc1f59ebc896eb4d",
+        "dependency": "embedded",
+        "occurrences": [
+          "M6 × 20 ledge screw at X -210, Y -187.5",
+          "M6 × 20 ledge screw at X 0, Y -187.5",
+          "M6 × 20 ledge screw at X 210, Y -187.5",
+          "M6 × 20 ledge screw at X -210, Y 187.5",
+          "M6 × 20 ledge screw at X 0, Y 187.5",
+          "M6 × 20 ledge screw at X 210, Y 187.5"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Upper ledge washer at X -210, Y -187.5",
+          "Lower ledge washer at X -210, Y -187.5",
+          "Upper ledge washer at X 0, Y -187.5",
+          "Lower ledge washer at X 0, Y -187.5",
+          "Upper ledge washer at X 210, Y -187.5",
+          "Lower ledge washer at X 210, Y -187.5",
+          "Upper ledge washer at X -210, Y 187.5",
+          "Lower ledge washer at X -210, Y 187.5",
+          "Upper ledge washer at X 0, Y 187.5",
+          "Lower ledge washer at X 0, Y 187.5",
+          "Upper ledge washer at X 210, Y 187.5",
+          "Lower ledge washer at X 210, Y 187.5"
+        ]
+      },
+      {
+        "id": "model-77",
+        "revision": null,
+        "sha256": "b005197d6d63b19d28d1785191f25a1a7a8a07068289550796644a12ed197e08",
+        "dependency": "embedded",
+        "occurrences": [
+          "M6 ledge locknut at X -210, Y -187.5",
+          "M6 ledge locknut at X 0, Y -187.5",
+          "M6 ledge locknut at X 210, Y -187.5",
+          "M6 ledge locknut at X -210, Y 187.5",
+          "M6 ledge locknut at X 0, Y 187.5",
+          "M6 ledge locknut at X 210, Y 187.5"
+        ]
+      }
+    ]
   }
 ]
