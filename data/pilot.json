@@ -33844,5 +33844,113 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-keyed-wheel-flange-installation-25mm",
+    "name": "J4 keyed Knott wheel flange installation for 25 mm shaft",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 25 mm keyed shaft, Knott wheel flange, outer washer and nominal M10 × 25 retainer at the checked installed positions.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel end",
+      "Knott",
+      "shaft key",
+      "retainer"
+    ],
+    "aliases": [
+      "J4 keyed Knott wheel flange installation for 25 mm shaft",
+      "j4-keyed-wheel-flange-installation-25mm"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-keyed-wheel-flange-installation-25mm",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm-XY.png",
+        "view": "Plan",
+        "alt": "J4 keyed Knott wheel flange installation for 25 mm shaft, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 keyed Knott wheel flange installation for 25 mm shaft, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm-YZ.png",
+        "view": "End",
+        "alt": "J4 keyed Knott wheel flange installation for 25 mm shaft, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 keyed Knott wheel flange installation for 25 mm shaft, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/j4-keyed-wheel-flange-installation-25mm.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-keyed-wheel-flange-installation-25mm/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p12j425-j4-25mm-keyed-wheel-shaft",
+        "revision": 1,
+        "sha256": "335b51ad6f0080847c2ab14b01d1475ccde0d3d179f43211a951950a9bd4d7b7",
+        "dependency": "embedded",
+        "occurrences": [
+          "Keyed wheel shaft"
+        ]
+      },
+      {
+        "id": "p14j425-j4-wheel-flange-25mm-bore",
+        "revision": 1,
+        "sha256": "6c48b1a71eccf4ade1dfe82bdfd99e62de073f8fd66067f2b235d8061a8a99db",
+        "dependency": "embedded",
+        "occurrences": [
+          "Knott wheel flange"
+        ]
+      },
+      {
+        "id": "j4-8x7x40-round-ended-wheel-shaft-key",
+        "revision": 1,
+        "sha256": "3c2a74f8c9783ae1b38c670f3308fdc73bcf967f7416b20c5388363786d6d675",
+        "dependency": "embedded",
+        "occurrences": [
+          "Wheel flange key"
+        ]
+      },
+      {
+        "id": "p12j4ow-j4-outer-shaft-end-washer",
+        "revision": 1,
+        "sha256": "ae3a416c84bf8b44552b004c8749ed7c4282fd1703e26cf4ded266bc5ed5543f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Outboard end washer"
+        ]
+      },
+      {
+        "id": "j4-m10x25-outer-wheel-retainer-screw",
+        "revision": 1,
+        "sha256": "926003aab2ea5610f368bc9b63a9ef8869d59d10fe18c555c8bfd3a6a02f3fb0",
+        "dependency": "embedded",
+        "occurrences": [
+          "M10 outer retainer screw"
+        ]
+      }
+    ]
   }
 ]
