@@ -11798,5 +11798,80 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-main-crossmember-reconstruction",
+    "name": "Main Sowbot crossmember — installation proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "745 mm span, 40 × 36 × 4 mm box section, 7 mm end flanges and four Ø9 mm bores per flange.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "part",
+      "installation proposal",
+      "crossmember",
+      "end flange",
+      "tracked chassis"
+    ],
+    "aliases": [
+      "Main Sowbot crossmember",
+      "main-crossmember-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction.dwg",
+      "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction.md",
+      "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-XY.png",
+      "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-XZ.png",
+      "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-YZ.png",
+      "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-top-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "Main Sowbot crossmember — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Main Sowbot crossmember — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "Main Sowbot crossmember — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "Main Sowbot crossmember — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-crossmember-reconstruction/main-crossmember-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Main Sowbot crossmember — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/parts",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
