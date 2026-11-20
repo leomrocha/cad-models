@@ -23884,5 +23884,120 @@
       "models/mechanical/chassis/battery-supports/p20hvcap-victron-restraint-bridge-post-cap/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-420-pitch-restraint-and-posts",
+    "name": "Victron 420 mm restraint bridges and four capped posts",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two removable Victron restraint bridges on four capped angle posts. Three upper pads seat on the main-case contact planes.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery restraint",
+      "mounting posts",
+      "420 mm pitch"
+    ],
+    "aliases": [
+      "Victron 420 mm restraint bridges and four capped posts",
+      "victron-420-pitch-restraint-and-posts"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-420-pitch-restraint-and-posts",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts-XY.png",
+        "view": "Plan",
+        "alt": "Victron 420 mm restraint bridges and four capped posts, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron 420 mm restraint bridges and four capped posts, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts-YZ.png",
+        "view": "End",
+        "alt": "Victron 420 mm restraint bridges and four capped posts, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron 420 mm restraint bridges and four capped posts, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-420-pitch-restraint-and-posts/victron-420-pitch-restraint-and-posts.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p20hvbr-victron-restraint-bridge-420-mm-pitch",
+        "revision": 1,
+        "sha256": "e2a580ea6490a146a1893a549dfaf88ce05c33c84aee115a7de43c015f962eeb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Terminal-side bridge",
+          "Rear bridge"
+        ]
+      },
+      {
+        "id": "c095f-victron-front-shelf-contact-pad",
+        "revision": 1,
+        "sha256": "43059a6c5813ea77ac3b2cff311423f7676adf271c7c91237726ecde7d79b038",
+        "dependency": "embedded",
+        "occurrences": [
+          "left terminal-side foot",
+          "right terminal-side foot"
+        ]
+      },
+      {
+        "id": "c095r-victron-rear-shelf-contact-pad",
+        "revision": 1,
+        "sha256": "c6394099f8ccbb65c7eef0cc02a0ae29e7e9da56312a107367dcc9b9a3231f5a",
+        "dependency": "embedded",
+        "occurrences": [
+          "rear bearing rib"
+        ]
+      },
+      {
+        "id": "p20hvp-victron-restraint-bridge-angle-post",
+        "revision": 1,
+        "sha256": "b1a37cd897b6c6c4d28dc04c6911f23b7002e6b7f3adf9e639202e7979088f08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Terminal side left angle post",
+          "Terminal side right angle post",
+          "Rear side left angle post",
+          "Rear side right angle post"
+        ]
+      },
+      {
+        "id": "p20hvcap-victron-restraint-bridge-post-cap",
+        "revision": 1,
+        "sha256": "73ca5b24e2eff82be2b9b0430073228c7c5d2b6f1734081087d10fd5a54f07ce",
+        "dependency": "embedded",
+        "occurrences": [
+          "Terminal side left drilled cap",
+          "Terminal side right drilled cap",
+          "Rear side left drilled cap",
+          "Rear side right drilled cap"
+        ]
+      }
+    ]
   }
 ]
