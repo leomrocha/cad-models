@@ -30088,5 +30088,108 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-caster-300-stepped-tie-bridge",
+    "name": "J4 300 mm caster stepped-tie bridge",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 300 mm caster bridge with a stepped upper tie, two 39 mm drop tubes, two bridge tubes and four root plates.",
+    "tags": [
+      "tractor",
+      "J4",
+      "caster",
+      "stepped tie",
+      "bridge support"
+    ],
+    "aliases": [
+      "J4 300 mm caster stepped-tie bridge",
+      "j4-caster-300-stepped-tie-bridge"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-caster-300-stepped-tie-bridge",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge-XY.png",
+        "view": "Plan",
+        "alt": "J4 300 mm caster stepped-tie bridge, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 300 mm caster stepped-tie bridge, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge-YZ.png",
+        "view": "End",
+        "alt": "J4 300 mm caster stepped-tie bridge, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 300 mm caster stepped-tie bridge, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/j4-caster-300-stepped-tie-bridge.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-300-stepped-tie-bridge/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-134",
+        "revision": null,
+        "sha256": "8fa9ed8cb308c1249b367009b6cc3f7dfa88ad1f18b748d847cbafe202b7de13",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left rearward bridge tube",
+          "Right rearward bridge tube"
+        ]
+      },
+      {
+        "id": "model-139",
+        "revision": null,
+        "sha256": "2a1adf6bd4879c0e3d7031d8c1c25a1b875ba3dd6c5ee4e43fab4d8c4fd594f7",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left outer welded root plate",
+          "Left inner welded root plate",
+          "Right inner welded root plate",
+          "Right outer welded root plate"
+        ]
+      },
+      {
+        "id": "p05jdp39-j4-caster-bridge-drop",
+        "revision": 1,
+        "sha256": "ee54470b7e560744a987dc22d439b76589ff220460d79b162ff326051ed43810",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left bridge drop tube",
+          "Right bridge drop tube"
+        ]
+      },
+      {
+        "id": "p05jct8-j4-stepped-caster-upper-tie",
+        "revision": 1,
+        "sha256": "c6964e5616f0ec5dc50dc69517af4aa628b6eabb83a6346240f76348d9534fcc",
+        "dependency": "embedded",
+        "occurrences": [
+          "Stepped upper tie"
+        ]
+      }
+    ]
   }
 ]
