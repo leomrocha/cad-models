@@ -22823,5 +22823,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p20vxt-victron-hood-external-shelf-extension",
+    "name": "Victron terminal hood outboard shelf extension reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "20 mm wide, 3 mm thick Victron terminal hood extension with two R3 inside bends. One Ø4.5 mm bore seats the insulating post and two Ø4.5 mm bores fasten the shelf foot.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "terminal cover",
+      "shelf extension",
+      "outboard reference"
+    ],
+    "aliases": [
+      "Victron terminal hood outboard shelf extension reference",
+      "p20vxt-victron-hood-external-shelf-extension"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20vxt-victron-hood-external-shelf-extension",
+    "file": "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension-XY.png",
+        "view": "Plan",
+        "alt": "Victron terminal hood outboard shelf extension reference, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron terminal hood outboard shelf extension reference, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension-YZ.png",
+        "view": "End",
+        "alt": "Victron terminal hood outboard shelf extension reference, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron terminal hood outboard shelf extension reference, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension-XY.png",
+      "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension.dwg",
+      "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/p20vxt-victron-hood-external-shelf-extension.md",
+      "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
