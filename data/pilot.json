@@ -13190,5 +13190,75 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-kee-lite-l45-6-exterior-reconstruction",
+    "name": "Kee Lite L45-6 crossover fitting — installation proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "90° crossover on Ø33.7 mm tube. 44 mm front collar and 40 mm axis offset from the supplier dimensions. Proposed Ø34.4 mm through bores.",
+    "tags": [
+      "Sowbot",
+      "part",
+      "installation proposal",
+      "Kee Lite",
+      "L45-6",
+      "crossover",
+      "tube fitting"
+    ],
+    "aliases": [
+      "Kee Lite L45-6 crossover fitting",
+      "kee-lite-l45-6-exterior-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction.dwg",
+    "package_assets": [
+      "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction.dwg",
+      "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction.md",
+      "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-XY.png",
+      "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-XZ.png",
+      "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-YZ.png",
+      "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-isometric.png",
+      "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-top-isometric.png",
+      "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "Kee Lite L45-6 crossover fitting — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Kee Lite L45-6 crossover fitting — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "Kee Lite L45-6 crossover fitting — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "Kee Lite L45-6 crossover fitting — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical-parts/components/kee-lite-l45-6-exterior-reconstruction/kee-lite-l45-6-exterior-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Kee Lite L45-6 crossover fitting — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "mechanical-parts/components",
+    "system": "sowbot",
+    "variant": null,
+    "model_references": [],
+    "sources": []
   }
 ]
