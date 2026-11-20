@@ -17753,5 +17753,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p20cbmw-bmw-terminal-shield-nlive150",
+    "name": "BMW terminal shield for the Nlive150 reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Removable BMW module shield for the nominal 150 mm live-height reference. It has a 397 × 322 mm roof, four 20 × 20 mm ears and a cable opening through one skirt.",
+    "tags": [
+      "tractor",
+      "BMW i3 94 Ah",
+      "terminal shield",
+      "Nlive150",
+      "P20CBMW"
+    ],
+    "aliases": [
+      "BMW terminal shield for the Nlive150 reference",
+      "p20cbmw-bmw-terminal-shield-nlive150"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "P20CBMW",
+    "file": "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150-XY.png",
+        "view": "Plan",
+        "alt": "BMW terminal shield for the Nlive150 reference, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW terminal shield for the Nlive150 reference, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150-YZ.png",
+        "view": "End",
+        "alt": "BMW terminal shield for the Nlive150 reference, end"
+      },
+      {
+        "file": "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW terminal shield for the Nlive150 reference, isometric",
+        "thumbnail_file": "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150-XY.png",
+      "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150-XZ.png",
+      "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150-YZ.png",
+      "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150-top-isometric.png",
+      "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150.dwg",
+      "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/p20cbmw-bmw-terminal-shield-nlive150.md",
+      "models/mechanical/guards/p20cbmw-bmw-terminal-shield-nlive150/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-64",
+        "revision": null,
+        "sha256": "95404b6f6410cf73dffd875f34d33959afcc8d6c99a7cb8506f0e694b6589e2c",
+        "dependency": "derived",
+        "occurrences": [
+          "Cable and case reference"
+        ]
+      },
+      {
+        "id": "model-185",
+        "revision": null,
+        "sha256": "6917d788dc1ec284733f91efad6467eb0de387285a9044969e1880f243886bc5",
+        "dependency": "derived",
+        "occurrences": [
+          "Independent upright hole datum"
+        ]
+      }
+    ]
   }
 ]
