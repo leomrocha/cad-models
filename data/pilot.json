@@ -12622,5 +12622,82 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-pico-hrb-hard-case-exterior-proposal",
+    "name": "Pico HRB 3S 11.1 V 6,000 mAh hard-case battery — installation proposal",
+    "subject": "Electronics",
+    "kind": "part",
+    "description": "The proposal retains the prior hard-case seller envelope 138 × 46 × 39 mm in the saved Pico frame. The short-end lead-exit interpretation follows the related regular-wrap photo.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Pico",
+      "part",
+      "installation proposal",
+      "HRB",
+      "3S",
+      "11.1 V",
+      "6000 mAh",
+      "hard-case battery"
+    ],
+    "aliases": [
+      "Pico HRB 3S 11.1 V 6,000 mAh hard-case battery",
+      "pico-hrb-hard-case-exterior-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal.dwg",
+    "package_assets": [
+      "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal.dwg",
+      "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal.md",
+      "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-XY.png",
+      "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-XZ.png",
+      "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-YZ.png",
+      "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-isometric.png",
+      "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-top-isometric.png",
+      "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-XY.png",
+        "view": "XY plan",
+        "alt": "Pico HRB 3S 11.1 V 6,000 mAh hard-case battery — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Pico HRB 3S 11.1 V 6,000 mAh hard-case battery — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-YZ.png",
+        "view": "YZ end",
+        "alt": "Pico HRB 3S 11.1 V 6,000 mAh hard-case battery — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-isometric.png",
+        "view": "Isometric",
+        "alt": "Pico HRB 3S 11.1 V 6,000 mAh hard-case battery — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/thumbnail.png"
+      },
+      {
+        "file": "models/electronics/batteries/pico-hrb-hard-case-exterior-proposal/pico-hrb-hard-case-exterior-proposal-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Pico HRB 3S 11.1 V 6,000 mAh hard-case battery — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "electronics/batteries",
+    "system": "sowbot",
+    "variant": "pico",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Source reference",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
