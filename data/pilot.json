@@ -15723,5 +15723,69 @@
         "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
       }
     ]
+  },
+  {
+    "id": "p16j4sw-j4-guard-common-sidewall-sheet",
+    "name": "J4 guard common sidewall sheet",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed steel guards use this individual flat sheet, 1.5 × 29.3 × 391.798685 mm along X, Y and Z.",
+    "tags": [
+      "guard",
+      "tractor",
+      "sheet steel",
+      "J4",
+      "P16J4SW"
+    ],
+    "aliases": [
+      "J4 guard common sidewall sheet",
+      "p16j4sw-j4-guard-common-sidewall-sheet"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "P16J4SW",
+    "file": "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet-XY.png",
+        "view": "Plan",
+        "alt": "J4 guard common sidewall sheet, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 guard common sidewall sheet, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet-YZ.png",
+        "view": "End",
+        "alt": "J4 guard common sidewall sheet, end"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 guard common sidewall sheet, isometric",
+        "thumbnail_file": "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet-XY.png",
+      "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet-XZ.png",
+      "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet-YZ.png",
+      "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet-top-isometric.png",
+      "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet.dwg",
+      "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/p16j4sw-j4-guard-common-sidewall-sheet.md",
+      "models/mechanical/guards/p16j4sw-j4-guard-common-sidewall-sheet/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
