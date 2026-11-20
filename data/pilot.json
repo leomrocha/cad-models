@@ -17498,5 +17498,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p18bmw-j-bmw-i3-94ah-tray-floor",
+    "name": "BMW i3 94 Ah raised J tray floor",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "430 × 330 × 3 mm steel tray floor with four Ø8.5 mm through holes at 397.5 × 278 mm spacing. The raised J floor spans Z = 575–578 mm.",
+    "tags": [
+      "tractor",
+      "battery tray",
+      "BMW i3 94 Ah",
+      "raised frame",
+      "P18BMW"
+    ],
+    "aliases": [
+      "BMW i3 94 Ah raised J tray floor",
+      "p18bmw-j-bmw-i3-94ah-tray-floor"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "P18BMW",
+    "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor-XY.png",
+        "view": "Plan",
+        "alt": "BMW i3 94 Ah raised J tray floor, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW i3 94 Ah raised J tray floor, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor-YZ.png",
+        "view": "End",
+        "alt": "BMW i3 94 Ah raised J tray floor, end"
+      },
+      {
+        "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW i3 94 Ah raised J tray floor, isometric",
+        "thumbnail_file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor-XY.png",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor-XZ.png",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor-YZ.png",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor-top-isometric.png",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor.dwg",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/p18bmw-j-bmw-i3-94ah-tray-floor.md",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-64",
+        "revision": null,
+        "dependency": "derived",
+        "sha256": "95404b6f6410cf73dffd875f34d33959afcc8d6c99a7cb8506f0e694b6589e2c",
+        "occurrences": [
+          "mounting-hole-template"
+        ]
+      }
+    ]
   }
 ]
