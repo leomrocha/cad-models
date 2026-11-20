@@ -35031,5 +35031,113 @@
         "url": "https://cdn.standards.iteh.ai/samples/72585/1179998ddd594550a909d6e13c416f3e/ISO-4017-2022.pdf"
       }
     ]
+  },
+  {
+    "id": "j4-a07-guard-flange-rail-fastener-stack",
+    "name": "J4 A07 upper guard flange and rail fastener stack",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "One A07 upper chain-guard flange with matching sleeve, screw, washers and locknut.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chain guard",
+      "rail hardware",
+      "A07 joint"
+    ],
+    "aliases": [
+      "J4 A07 upper guard flange and rail fastener stack",
+      "j4-a07-guard-flange-rail-fastener-stack"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-a07-guard-flange-rail-fastener-stack",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack-XY.png",
+        "view": "Plan",
+        "alt": "J4 A07 upper guard flange and rail fastener stack, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 A07 upper guard flange and rail fastener stack, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack-YZ.png",
+        "view": "End",
+        "alt": "J4 A07 upper guard flange and rail fastener stack, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 A07 upper guard flange and rail fastener stack, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/j4-a07-guard-flange-rail-fastener-stack.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-guard-flange-rail-fastener-stack/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p16mtj4-j4-upper-welded-guard-mount-flange",
+        "revision": 1,
+        "sha256": "c84cabe3b907fed2665a3e393b7ff07671f6f73904cbff11a1b07edf4468ccd8",
+        "dependency": "embedded",
+        "occurrences": [
+          "Welded guard flange"
+        ]
+      },
+      {
+        "id": "model-187",
+        "revision": null,
+        "sha256": "5cdb33e56fea83e7adf5df809bb23ebb7ded8032b0692beb564e2c670025161f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Compression sleeve"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Lower washer",
+          "Upper washer"
+        ]
+      },
+      {
+        "id": "c129-iso-4017-m6x55-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "016e29607e1b47d4b421a292483d4435c9d83aea8c51581507d39679c57bb386",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rail screw"
+        ]
+      },
+      {
+        "id": "model-77",
+        "revision": null,
+        "sha256": "b005197d6d63b19d28d1785191f25a1a7a8a07068289550796644a12ed197e08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Locknut"
+        ]
+      }
+    ]
   }
 ]
