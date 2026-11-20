@@ -18212,5 +18212,71 @@
         "url": "https://www.skf.com/binaries/pub12/Images/0901d196802a2b8f-13728-EN-Y-bearing-and-Y-b-units_tcm_12-129182.pdf#page=124"
       }
     ]
+  },
+  {
+    "id": "c123-skf-sy-30-tf-mounting-reference",
+    "name": "SKF SY 30 TF nominal mounting reference",
+    "subject": "Interface references",
+    "kind": "standard",
+    "description": "Nominal SKF mounting datum and catalogue envelope 152 × 40 × 82.5 mm. Two 23.5 × 14 mm oblong slots have 117.5 mm centre spacing. The shaft axis is 42.9 mm above the mounting plane.",
+    "tags": [
+      "SKF",
+      "SKF SY 30 TF",
+      "pillow block",
+      "bearing mounting reference",
+      "tractor",
+      "C123"
+    ],
+    "aliases": [
+      "SKF SY 30 TF nominal mounting reference",
+      "c123-skf-sy-30-tf-mounting-reference"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked manufacturer-dimensioned reference",
+    "category_path": "interface-references/mechanical",
+    "variant": "C123",
+    "file": "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference.dwg",
+    "previews": [
+      {
+        "file": "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference-XY.png",
+        "view": "Plan",
+        "alt": "SKF SY 30 TF nominal mounting reference, plan"
+      },
+      {
+        "file": "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "SKF SY 30 TF nominal mounting reference, elevation"
+      },
+      {
+        "file": "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference-YZ.png",
+        "view": "End",
+        "alt": "SKF SY 30 TF nominal mounting reference, end"
+      },
+      {
+        "file": "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "SKF SY 30 TF nominal mounting reference, isometric",
+        "thumbnail_file": "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference-XY.png",
+      "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference-XZ.png",
+      "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference-YZ.png",
+      "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference-top-isometric.png",
+      "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference.dwg",
+      "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/c123-skf-sy-30-tf-mounting-reference.md",
+      "models/interface-references/mechanical/c123-skf-sy-30-tf-mounting-reference/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "SKF Y-bearings and Y-bearing units, 13728 EN, printed pp. 122–123",
+        "url": "https://www.skf.com/binaries/pub12/Images/0901d196802a2b8f-13728-EN-Y-bearing-and-Y-b-units_tcm_12-129182.pdf#page=124"
+      }
+    ]
   }
 ]
