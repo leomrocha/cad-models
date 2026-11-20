@@ -22887,5 +22887,86 @@
       "models/mechanical/chassis/battery-supports/p20vxt-victron-hood-external-shelf-extension/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-hoods-with-outboard-shelf-extensions",
+    "name": "Victron terminal hoods with outboard shelf extensions",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Victron reference hoods and support posts with two checked outboard shelf extensions. The four shelf-bore centres sit 14.6 mm beyond the proposed reference boundary.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "terminal cover",
+      "shelf extension",
+      "mounting reference"
+    ],
+    "aliases": [
+      "Victron terminal hoods with outboard shelf extensions",
+      "victron-hoods-with-outboard-shelf-extensions"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-hoods-with-outboard-shelf-extensions",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions-XY.png",
+        "view": "Plan",
+        "alt": "Victron terminal hoods with outboard shelf extensions, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron terminal hoods with outboard shelf extensions, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions-YZ.png",
+        "view": "End",
+        "alt": "Victron terminal hoods with outboard shelf extensions, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron terminal hoods with outboard shelf extensions, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-hoods-with-outboard-shelf-extensions/victron-hoods-with-outboard-shelf-extensions.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "victron-paired-reference-terminal-hoods",
+        "revision": 1,
+        "sha256": "4c7f77463e1577e3c71a7761ecf0d0539c3c43d1a40782bdcf27d791b0ad2565",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired reference hoods and four insulating posts"
+        ]
+      },
+      {
+        "id": "p20vxt-victron-hood-external-shelf-extension",
+        "revision": 1,
+        "sha256": "9ed82c7a3753804d05ebf390d5733329ea08421b2b4779a2dbb0a7962de9e1ff",
+        "dependency": "embedded",
+        "occurrences": [
+          "left outboard shelf extension",
+          "right outboard shelf extension"
+        ]
+      }
+    ]
   }
 ]
