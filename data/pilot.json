@@ -36758,5 +36758,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post",
+    "name": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers with shifted left post",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Raised J4 frame fitted to the 25 mm wheel-end and hanger proposal.",
+    "tags": [
+      "tractor",
+      "J4",
+      "raised frame",
+      "chain guard",
+      "hanger fit"
+    ],
+    "aliases": [
+      "J4 raised frame and guard mounts with 25 mm wheel ends and hangers with shifted left post",
+      "j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post-XY.png",
+        "view": "Plan",
+        "alt": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers with shifted left post, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers with shifted left post, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post-YZ.png",
+        "view": "End",
+        "alt": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers with shifted left post, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers with shifted left post, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers-shifted-left-post/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-raised-frame-with-installed-guard-rail-joints",
+        "revision": 1,
+        "sha256": "a3a98df8d59bc703ef80347cf9cc22e8598e3dc4c4a73d13e5d5fe15fcf908ab",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised frame and guard mounts"
+        ]
+      },
+      {
+        "id": "j4-wheel-end-and-hanger-fit-25mm-shifted-left-post",
+        "revision": 1,
+        "sha256": "d83a7c9f201e8af69ecefa211a21b89bfc6c1980f38f3993a4c3637ba121231e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired wheel ends and fastened hangers"
+        ]
+      }
+    ]
   }
 ]
