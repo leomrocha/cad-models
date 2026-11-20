@@ -12421,7 +12421,15 @@
     "category_path": "electronics/components",
     "system": "sowbot",
     "variant": "main",
-    "model_references": [],
+    "model_references": [
+      {
+        "id": "model-283",
+        "revision": null,
+        "sha256": "ea06fee77de0dc0e196a6521bb397a76531db4418699aafdcf6cc8eeac35547a",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
     "sources": [
       {
         "title": "Source reference",

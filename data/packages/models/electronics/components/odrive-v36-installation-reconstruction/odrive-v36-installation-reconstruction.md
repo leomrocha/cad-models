@@ -23,6 +23,10 @@ OpenCADStudio verified the current geometry at revision 331. The final save veri
 - [Isometric](odrive-v36-installation-reconstruction-isometric.png), plot generated from CAD boundary geometry.
 - [Upper isometric](odrive-v36-installation-reconstruction-top-isometric.png), plot generated from CAD boundary geometry.
 
+## CAD references
+
+- [ODrive v3.6 manufacturer size reference](../odrive-v36-135x50-source-dimension-reference/odrive-v36-135x50-source-dimension-reference.md), derived geometry, CAD SHA-256 `ea06fee77de0dc0e196a6521bb397a76531db4418699aafdcf6cc8eeac35547a`. The exact manufacturer footprint reference supplies the 135 × 50 mm substrate outline.
+
 ## Technical sources
 
 - [Source reference](https://docs.odriverobotics.com/v/latest/hardware/odrive-comparison.html)
