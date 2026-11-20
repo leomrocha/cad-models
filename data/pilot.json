@@ -21946,5 +21946,65 @@
       "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p20lup-leaf-hood-upright-positive-u",
+    "name": "Leaf terminal cover upright, positive u side",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Leaf terminal cover upright, positive u side. The proposed 3 mm formed support strip is 20 mm wide. Two Ø4.5 mm holes pass through the foot and two pass through the bridge mounting leg.",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "terminal cover",
+      "formed upright",
+      "positive-u"
+    ],
+    "aliases": [
+      "Leaf terminal cover upright, positive u side",
+      "p20lup-leaf-hood-upright-positive-u"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20lup-leaf-hood-upright-positive-u",
+    "file": "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u-XY.png",
+        "view": "Plan",
+        "alt": "Leaf terminal cover upright, positive u side, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf terminal cover upright, positive u side, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u-YZ.png",
+        "view": "End",
+        "alt": "Leaf terminal cover upright, positive u side, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf terminal cover upright, positive u side, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u-XY.png",
+      "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u.dwg",
+      "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/p20lup-leaf-hood-upright-positive-u.md",
+      "models/mechanical/chassis/battery-supports/p20lup-leaf-hood-upright-positive-u/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
