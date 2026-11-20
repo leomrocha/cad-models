@@ -17576,10 +17576,10 @@
   },
   {
     "id": "p18jr3-bmw-raised-tray-installation",
-    "name": "BMW i3 raised J tray with R3 supports and reference shield",
+    "name": "BMW i3 raised J tray with reference shield and upper fasteners",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "Raised BMW i3 94 Ah module reconstruction with its four shield uprights, the drilled tray floor and the 14-piece R3-relieved support group. The 0.25 mm dielectric layer follows the reconstructed base and mounting tabs. The nominal Nlive150 shield seats on four independent uprights.",
+    "description": "Raised BMW i3 94 Ah module reconstruction with its four shield uprights, the drilled tray floor and the 14-piece R3-relieved support group. The 0.25 mm dielectric layer follows the reconstructed base and mounting tabs. The nominal Nlive150 shield seats on four independent uprights. Four M4 screw stacks secure the nominal shield to its upper upright seats.",
     "tags": [
       "tractor",
       "BMW i3 94 Ah",
@@ -17597,7 +17597,7 @@
     "standards": null,
     "dimensions": null,
     "needs_information": false,
-    "revision": 3,
+    "revision": 4,
     "state": "Discussion construction proposal",
     "category_path": "assemblies/tractor/two-wheel/subassemblies",
     "variant": "P18JR3",
@@ -17606,22 +17606,22 @@
       {
         "file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/p18jr3-bmw-raised-tray-installation-XY.png",
         "view": "Plan",
-        "alt": "BMW i3 raised J tray with R3 supports and reference shield, plan"
+        "alt": "BMW i3 raised J tray with reference shield and upper fasteners, plan"
       },
       {
         "file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/p18jr3-bmw-raised-tray-installation-XZ.png",
         "view": "Elevation",
-        "alt": "BMW i3 raised J tray with R3 supports and reference shield, elevation"
+        "alt": "BMW i3 raised J tray with reference shield and upper fasteners, elevation"
       },
       {
         "file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/p18jr3-bmw-raised-tray-installation-YZ.png",
         "view": "End",
-        "alt": "BMW i3 raised J tray with R3 supports and reference shield, end"
+        "alt": "BMW i3 raised J tray with reference shield and upper fasteners, end"
       },
       {
         "file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/p18jr3-bmw-raised-tray-installation-top-isometric.png",
         "view": "Isometric",
-        "alt": "BMW i3 raised J tray with R3 supports and reference shield, isometric",
+        "alt": "BMW i3 raised J tray with reference shield and upper fasteners, isometric",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p18jr3-bmw-raised-tray-installation/thumbnail.png"
       }
     ],
@@ -17679,6 +17679,46 @@
         "dependency": "embedded",
         "occurrences": [
           "BMW terminal shield, nominal Nlive150"
+        ]
+      },
+      {
+        "id": "model-73",
+        "revision": null,
+        "sha256": "ac406ecf71abc8a438fe2b05da0039b6ab297e65debb5483a024d6424cdcdd93",
+        "dependency": "embedded",
+        "occurrences": [
+          "right rear M4 x 16 screw",
+          "left rear M4 x 16 screw",
+          "right front M4 x 16 screw",
+          "left front M4 x 16 screw"
+        ]
+      },
+      {
+        "id": "model-88",
+        "revision": null,
+        "sha256": "82c8bfae0411486bf95807b11f7cd235c1d6af3a40b3e88fc3a6a5658fca8575",
+        "dependency": "embedded",
+        "occurrences": [
+          "right rear upper M4 washer",
+          "right rear lower M4 washer",
+          "left rear upper M4 washer",
+          "left rear lower M4 washer",
+          "right front upper M4 washer",
+          "right front lower M4 washer",
+          "left front upper M4 washer",
+          "left front lower M4 washer"
+        ]
+      },
+      {
+        "id": "model-76",
+        "revision": null,
+        "sha256": "214a38ab471d60c7ee6fa4b4e3d2274ffa8b27b5a866c9cd05ad0fffc66c9058",
+        "dependency": "embedded",
+        "occurrences": [
+          "right rear M4 nylon-insert nut",
+          "left rear M4 nylon-insert nut",
+          "right front M4 nylon-insert nut",
+          "left front M4 nylon-insert nut"
         ]
       }
     ]

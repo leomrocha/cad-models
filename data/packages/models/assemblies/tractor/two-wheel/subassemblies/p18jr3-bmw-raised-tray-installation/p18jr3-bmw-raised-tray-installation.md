@@ -1,10 +1,10 @@
-# BMW i3 raised J tray with R3 supports and reference shield
+# BMW i3 raised J tray with reference shield and upper fasteners
 
-**Catalogue draft ID** `p18jr3-bmw-raised-tray-installation`. Revision 3.
+**Catalogue draft ID** `p18jr3-bmw-raised-tray-installation`. Revision 4.
 
 **Design status** Discussion construction proposal.
 
-[Native DWG 2018](p18jr3-bmw-raised-tray-installation.dwg), SHA-256 `b94ac7adc4227919af1f686de72a18c4f625fe1891e91788b8a79db27e9cf96a`.
+[Native DWG 2018](p18jr3-bmw-raised-tray-installation.dwg), SHA-256 `18936f1338f554bc54dd7ea318ada6748a4459adad6a1ab85ac688fb369b1706`.
 
 ## Geometry
 
@@ -28,9 +28,17 @@ Both tray rails meet the floor underside at Z = 575 mm. The floor top and four u
 
 The four Ø4.5 mm shield-ear bores match the source upright axes at Z = 738.25 mm. The roof underside is 10 mm above the reconstructed OEM cover. The side opening follows the checked cable projection for the nominal 150 mm reference height. The separate dielectric layer remains installed.
 
+## Upper shield fasteners
+
+Four M4 × 16 screws, eight plain washers and four nylon-insert nuts form the upper shield joints. The nominal solid grip is 6 mm and the nominal modeled tip projection beyond each nut is 3.4 mm. The fastener assembly represents the nominal seating geometry.
+
+- [ISO4017 M4x16 screw nominal reference](../../../../../mechanical-parts/fasteners/screws/c135-iso-4017-m4x16-screw-proposed-class-8-8/c135-iso-4017-m4x16-screw-proposed-class-8-8.md), 4 instances, SHA-256 `ac406ecf71abc8a438fe2b05da0039b6ab297e65debb5483a024d6424cdcdd93`.
+- [ISO 7089 M4 plain washer, proposed 200 HV](../../../../../mechanical-parts/fasteners/washers/iso7089-m4-washer-4p3x9x0p8-reference/iso7089-m4-washer-4p3x9x0p8-reference.md), 8 instances, SHA-256 `82c8bfae0411486bf95807b11f7cd235c1d6af3a40b3e88fc3a6a5658fca8575`.
+- [DIN985 M4 nominal nut reference](../../../../../mechanical-parts/fasteners/nuts/c150-din-985-m4-nylon-insert-nut-proposed-class-8/c150-din-985-m4-nylon-insert-nut-proposed-class-8.md), 4 instances, SHA-256 `214a38ab471d60c7ee6fa4b4e3d2274ffa8b27b5a866c9cd05ad0fffc66c9058`.
+
 ## Checks
 
-OpenCADStudio verified the reference geometry at revision 4802. The final DWG save verified its hash and recorded zero dropped objects.
+OpenCADStudio verified the reference geometry at revision 4984. The final DWG save verified its hash and recorded zero dropped objects.
 
 ## Views
 
