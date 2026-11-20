@@ -39379,5 +39379,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-kelly-outboard-rail-insert",
+    "name": "J3f Kelly outboard threaded rail insert",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed 30 × 24 × 15 mm J3f rail insert with a 13 mm blind M6 thread envelope.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "Kelly",
+      "outboard joint",
+      "block"
+    ],
+    "aliases": [
+      "J3f Kelly outboard threaded rail insert",
+      "j3f-kelly-outboard-rail-insert"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/attachment-supports",
+    "variant": "j3f-kelly-outboard-rail-insert",
+    "file": "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert-XY.png",
+        "view": "Plan",
+        "alt": "J3f Kelly outboard threaded rail insert, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Kelly outboard threaded rail insert, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert-YZ.png",
+        "view": "End",
+        "alt": "J3f Kelly outboard threaded rail insert, end"
+      },
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Kelly outboard threaded rail insert, isometric",
+        "thumbnail_file": "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert-XY.png",
+      "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert-XZ.png",
+      "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert-YZ.png",
+      "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert-top-isometric.png",
+      "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert.dwg",
+      "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/j3f-kelly-outboard-rail-insert.md",
+      "models/mechanical/chassis/attachment-supports/j3f-kelly-outboard-rail-insert/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
