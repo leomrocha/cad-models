@@ -35325,5 +35325,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-frame-guard-rails-and-25mm-wheel-hangers",
+    "name": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Raised J4 frame fitted to the 25 mm wheel-end and hanger proposal.",
+    "tags": [
+      "tractor",
+      "J4",
+      "raised frame",
+      "chain guard",
+      "hanger fit"
+    ],
+    "aliases": [
+      "J4 raised frame and guard mounts with 25 mm wheel ends and hangers",
+      "j4-frame-guard-rails-and-25mm-wheel-hangers"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-frame-guard-rails-and-25mm-wheel-hangers",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers-XY.png",
+        "view": "Plan",
+        "alt": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers-YZ.png",
+        "view": "End",
+        "alt": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 raised frame and guard mounts with 25 mm wheel ends and hangers, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/j4-frame-guard-rails-and-25mm-wheel-hangers.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-frame-guard-rails-and-25mm-wheel-hangers/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-raised-frame-with-installed-guard-rail-joints",
+        "revision": 1,
+        "sha256": "a3a98df8d59bc703ef80347cf9cc22e8598e3dc4c4a73d13e5d5fe15fcf908ab",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised frame and guard mounts"
+        ]
+      },
+      {
+        "id": "j4-wheel-end-and-hanger-fit-25mm",
+        "revision": 1,
+        "sha256": "c6ee16633de60218d2a38fc27aa7db5fb3caeee4ea1026d92340ba73a8c31875",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired wheel ends and fastened hangers"
+        ]
+      }
+    ]
   }
 ]
