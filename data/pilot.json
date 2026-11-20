@@ -39043,5 +39043,91 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-kls7240n-v121-pair-on-carriers",
+    "name": "J3f Kelly KLS7240N V1.21 controller references on carriers",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two Kelly KLS7240N V1.21 projected-clearance controller references seated on the J3f carrier and nominal clamp group.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "Kelly",
+      "KLS7240N",
+      "controller carrier"
+    ],
+    "aliases": [
+      "J3f Kelly KLS7240N V1.21 controller references on carriers",
+      "j3f-kls7240n-v121-pair-on-carriers"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-kls7240n-v121-pair-on-carriers",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers-XY.png",
+        "view": "Plan",
+        "alt": "J3f Kelly KLS7240N V1.21 controller references on carriers, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Kelly KLS7240N V1.21 controller references on carriers, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers-YZ.png",
+        "view": "End",
+        "alt": "J3f Kelly KLS7240N V1.21 controller references on carriers, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Kelly KLS7240N V1.21 controller references on carriers, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/j3f-kls7240n-v121-pair-on-carriers.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kls7240n-v121-pair-on-carriers/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Kelly KLS-N V1.21 manual, Figure 7",
+        "url": "https://media.kellycontroller.com/new/Kelly-Jaguar-series-KLS-NUserManual.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-36",
+        "revision": null,
+        "sha256": "4199ae8a672dcc83b502bcf20695eebb2fc54af960371badf8e99e05f553fd08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Carriers, posts and clamp hardware"
+        ]
+      },
+      {
+        "id": "model-99",
+        "revision": null,
+        "sha256": "e9fea9989c2d7000313339da2198439b396b05c165727356a0707ef1715c3e29",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Kelly KLS7240N V1.21",
+          "Right Kelly KLS7240N V1.21"
+        ]
+      }
+    ]
   }
 ]
