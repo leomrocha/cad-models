@@ -14823,5 +14823,83 @@
         "url": "https://www.iso.org/standard/69785.html"
       }
     ]
+  },
+  {
+    "id": "iso8759-4-category-3n-front-linkage-reference",
+    "name": "ISO 8759-4 Category 3N front transport linkage reference",
+    "subject": "Interface references",
+    "kind": "standard",
+    "description": "Nominal pin-interface solids. Lower shoulder span 825 mm, mast height 685 mm, upper pin diameter 31.75 mm, lower pin diameter 36.6 mm. Transport pitch limit poses at 8° and 12° and a 250 mm tyre-clearance datum.",
+    "tags": [
+      "standard",
+      "three-point linkage",
+      "front attachment",
+      "implement hitch",
+      "category 3N"
+    ],
+    "aliases": [
+      "ISO 8759-4 Category 3N front transport linkage reference",
+      "iso8759-4-category-3n-front-linkage-reference"
+    ],
+    "materials": null,
+    "standards": [
+      {
+        "designation": "ISO 730:2009+A1:2014",
+        "relationship": "Figure 4 and Table 4 nominal implement interface"
+      },
+      {
+        "designation": "ISO 8759-4:2018",
+        "relationship": "Clause 4 transport pitch and clearance"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked nominal interface reference",
+    "category_path": "interface-references/mechanical",
+    "variant": "3N",
+    "file": "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference.dwg",
+    "previews": [
+      {
+        "file": "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference-XY.png",
+        "view": "Plan",
+        "alt": "ISO 8759-4 Category 3N front transport linkage reference, plan"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "ISO 8759-4 Category 3N front transport linkage reference, elevation"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference-YZ.png",
+        "view": "End",
+        "alt": "ISO 8759-4 Category 3N front transport linkage reference, end"
+      },
+      {
+        "file": "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "ISO 8759-4 Category 3N front transport linkage reference, isometric",
+        "thumbnail_file": "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference-XY.png",
+      "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference-XZ.png",
+      "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference-YZ.png",
+      "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference-top-isometric.png",
+      "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference.dwg",
+      "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/iso8759-4-category-3n-front-linkage-reference.md",
+      "models/interface-references/mechanical/iso8759-4-category-3n-front-linkage-reference/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "ISO 730:2009 with Amendment 1:2014, Figure 4 and Table 4",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      },
+      {
+        "title": "ISO 8759-4:2018, Clause 4",
+        "url": "https://www.iso.org/standard/69785.html"
+      }
+    ]
   }
 ]
