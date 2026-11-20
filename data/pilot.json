@@ -13517,5 +13517,75 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "assembly-mini-driver-supports-proposal",
+    "name": "Mini Open BTS7960 driver supports — installation proposal",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Four Ø5 mm support sockets rise 10.4 mm above the platform. Their axes follow the Open BTS7960 Mini board's 63.246 × 31.75 mm mounting pattern in the trial layout.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "subassembly",
+      "installation proposal",
+      "Open BTS7960 Mini",
+      "motor driver",
+      "mounting supports"
+    ],
+    "aliases": [
+      "Mini Open BTS7960 driver supports",
+      "mini-driver-supports-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal.dwg",
+      "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal.md",
+      "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-XY.png",
+      "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-XZ.png",
+      "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-YZ.png",
+      "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-isometric.png",
+      "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-top-isometric.png",
+      "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-XY.png",
+        "view": "XY plan",
+        "alt": "Mini Open BTS7960 driver supports — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Mini Open BTS7960 driver supports — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-YZ.png",
+        "view": "YZ end",
+        "alt": "Mini Open BTS7960 driver supports — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-isometric.png",
+        "view": "Isometric",
+        "alt": "Mini Open BTS7960 driver supports — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/mini/subassemblies/mini-driver-supports-proposal/mini-driver-supports-proposal-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Mini Open BTS7960 driver supports — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/mini/subassemblies",
+    "system": "sowbot",
+    "variant": "mini",
+    "model_references": [],
+    "sources": []
   }
 ]
