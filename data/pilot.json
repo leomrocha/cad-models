@@ -30547,5 +30547,188 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-caster-250-60mm-rearward-head-installation",
+    "name": "J4 250 mm caster with 60 mm rearward head",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 250 mm caster, mounted at zero tilt with both pins.",
+    "tags": [
+      "tractor",
+      "caster",
+      "j4",
+      "raised frame",
+      "installed support"
+    ],
+    "aliases": [
+      "J4 250 mm caster with 60 mm rearward head",
+      "j4-caster-250-60mm-rearward-head-installation"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-caster-250-60mm-rearward-head-installation",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation-XY.png",
+        "view": "Plan",
+        "alt": "J4 250 mm caster with 60 mm rearward head, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 250 mm caster with 60 mm rearward head, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation-YZ.png",
+        "view": "End",
+        "alt": "J4 250 mm caster with 60 mm rearward head, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 250 mm caster with 60 mm rearward head, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/j4-caster-250-60mm-rearward-head-installation.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-caster-250-60mm-rearward-head-installation/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p06t265-j3f-caster-extended-arm",
+        "revision": 1,
+        "sha256": "346888683b887ada5d85369a54ac6c6a012a31bbcd0847bfb7a82c4d0549b61e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Caster arm box member"
+        ]
+      },
+      {
+        "id": "model-140",
+        "revision": null,
+        "sha256": "0a29ef9b1e658c6c8287a54b02e3a5f05f09d7930b0a90a94bcff7268ff1ac93",
+        "dependency": "embedded",
+        "occurrences": [
+          "Primary sleeve"
+        ]
+      },
+      {
+        "id": "model-142",
+        "revision": null,
+        "sha256": "b1b101bbfe1b6f3a62c3ebe94bd0d612107b0e426651f078417ea4e358f2d452",
+        "dependency": "embedded",
+        "occurrences": [
+          "Setting sleeve"
+        ]
+      },
+      {
+        "id": "model-141",
+        "revision": null,
+        "sha256": "7964e95888946f606d649dc10b691972911688254d44ee03c35a97b950e920cc",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Primary spacer",
+          "Right Primary spacer"
+        ]
+      },
+      {
+        "id": "model-143",
+        "revision": null,
+        "sha256": "3af59bb69a575cb66498467425e2937ac121e5771ccf76a7fa72472c5af77fff",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Setting spacer",
+          "Right Setting spacer"
+        ]
+      },
+      {
+        "id": "caster-arm-brace-4p5-mm-cheek-clearance",
+        "revision": 1,
+        "sha256": "e1de808120b4cb7fbfd20d2c9f8c33cb9c8284fe8512788a21a87d71c2c98aeb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left relieved brace",
+          "Right relieved brace"
+        ]
+      },
+      {
+        "id": "c017-blickle-ls-vle250k-m06-installed-mount",
+        "revision": 1,
+        "sha256": "1ca4f461546d1ccfb842a514aec14ae3745661e36427f6e2495efc40b12adae1",
+        "dependency": "embedded",
+        "occurrences": [
+          "Installed M06 caster and head plate"
+        ]
+      },
+      {
+        "id": "model-130",
+        "revision": null,
+        "sha256": "6810fd89439e6aaec20cf7819336a9f4f3f91dd73dfea3e28afbb392b8f072c3",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left clevis cheek",
+          "Right clevis cheek"
+        ]
+      },
+      {
+        "id": "model-65",
+        "revision": null,
+        "sha256": "d446683f7bc1e8d8edb5cddf7e842cb9f291b0488777e9c0b1812307c546f783",
+        "dependency": "embedded",
+        "occurrences": [
+          "Primary pin"
+        ]
+      },
+      {
+        "id": "c020-caster-primary-pin-flat-split-keeper",
+        "revision": 1,
+        "sha256": "4aed25d1efb9c2123ec47b5830d7df36715a482792c0897158b496bf67a77d79",
+        "dependency": "embedded",
+        "occurrences": [
+          "Primary pin keeper"
+        ]
+      },
+      {
+        "id": "model-66",
+        "revision": null,
+        "sha256": "9595fd9089bd1037263358af8cc86585cb1ee516d9487281681f51c5111f10a6",
+        "dependency": "embedded",
+        "occurrences": [
+          "Setting pin"
+        ]
+      },
+      {
+        "id": "c020-caster-setting-pin-flat-split-keeper",
+        "revision": 1,
+        "sha256": "e4978119ee4de080f065f3a8981ab6c02c8221860eba0529e8914e6f8148a25f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Setting pin keeper"
+        ]
+      },
+      {
+        "id": "j4-caster-250-stepped-tie-bridge",
+        "revision": 1,
+        "sha256": "4d63463ddf5dc7d302e6279df292fa6a62afa817be573b94ddd8807e9f7c48f7",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised caster support"
+        ]
+      }
+    ]
   }
 ]
