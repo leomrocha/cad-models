@@ -31694,5 +31694,88 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-caster-300-50mm-rearward-upper-support",
+    "name": "J3f 300 mm caster upper support moved 50 mm rearward",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J3f 300 mm caster mount with its upper tie translated 50 mm rearward and four existing drop tubes at revised rail stations.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "caster",
+      "upper tie",
+      "bridge drop"
+    ],
+    "aliases": [
+      "J3f 300 mm caster upper support moved 50 mm rearward",
+      "j3f-caster-300-50mm-rearward-upper-support"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-caster-300-50mm-rearward-upper-support",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support-XY.png",
+        "view": "Plan",
+        "alt": "J3f 300 mm caster upper support moved 50 mm rearward, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f 300 mm caster upper support moved 50 mm rearward, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support-YZ.png",
+        "view": "End",
+        "alt": "J3f 300 mm caster upper support moved 50 mm rearward, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f 300 mm caster upper support moved 50 mm rearward, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/j3f-caster-300-50mm-rearward-upper-support.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-caster-300-50mm-rearward-upper-support/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-136",
+        "revision": null,
+        "sha256": "5a5468271ed29d60ea5c9bc08861ee4e9cda53e5c48405b6b508428ccbf11f97",
+        "dependency": "embedded",
+        "occurrences": [
+          "Upper clevis tie"
+        ]
+      },
+      {
+        "id": "model-138",
+        "revision": null,
+        "sha256": "f02cad5c6aa2d50abc4010cf8d1dea8f333ea10b207933206cf6e892316f8a0c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right rear drop tube",
+          "Left rear drop tube",
+          "Right front drop tube",
+          "Left front drop tube"
+        ]
+      }
+    ]
   }
 ]
