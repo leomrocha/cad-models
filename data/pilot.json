@@ -22341,5 +22341,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "leaf-cover-floor-mounting-reference",
+    "name": "Leaf cassette floor and cover mounting reference",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Nissan Leaf cassette floor and paired covers in the bank frame. Two proposed outboard cover bores overlap the existing stud openings.",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "cassette floor",
+      "terminal cover",
+      "mounting clearance"
+    ],
+    "aliases": [
+      "Leaf cassette floor and cover mounting reference",
+      "leaf-cover-floor-mounting-reference"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "leaf-cover-floor-mounting-reference",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference-XY.png",
+        "view": "Plan",
+        "alt": "Leaf cassette floor and cover mounting reference, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf cassette floor and cover mounting reference, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference-YZ.png",
+        "view": "End",
+        "alt": "Leaf cassette floor and cover mounting reference, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf cassette floor and cover mounting reference, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/leaf-cover-floor-mounting-reference.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/leaf-cover-floor-mounting-reference/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-37",
+        "revision": null,
+        "sha256": "fb3411718c2e33f494a75d803406049fdb5172e99afb36b52fa09b6cd119b3fb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Common cassette floor and four rails"
+        ]
+      },
+      {
+        "id": "leaf-paired-reference-terminal-covers",
+        "revision": 1,
+        "sha256": "3ca5bf2016aa1aca6408dda1878c88bd7e5516c55dc62399f83c38b9c9769b55",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired reference covers and supports"
+        ]
+      }
+    ]
   }
 ]
