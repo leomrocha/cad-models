@@ -13332,5 +13332,190 @@
     "variant": "brain",
     "model_references": [],
     "sources": []
+  },
+  {
+    "id": "assembly-brain-populated-split-tier-installation-proposal",
+    "name": "Open Core Brain populated split-tier assembly — assembly proposal",
+    "subject": "Robot assemblies",
+    "kind": "assembly",
+    "description": "The body carries the exact-profile 28-opening ORP plate, two Avaota computers, two source SparkFun receivers with opposed SMA openings, one source LEVIA control board, the estimated original power board and separate attachment supports.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "assembly",
+      "installation proposal",
+      "electronics enclosure",
+      "electronics installation",
+      "service access"
+    ],
+    "aliases": [
+      "Open Core Brain populated split-tier assembly",
+      "brain-populated-split-tier-installation-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal.dwg",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal.md",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-XY.png",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-XZ.png",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-YZ.png",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-top-isometric.png",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-lid-lift-115mm-XY.png",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-lid-lift-115mm-XZ.png",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-lid-lift-115mm-YZ.png",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-lid-lift-115mm-top-isometric.png",
+      "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-XY.png",
+        "view": "XY plan",
+        "alt": "Open Core Brain populated split-tier assembly — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Open Core Brain populated split-tier assembly — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-YZ.png",
+        "view": "YZ end",
+        "alt": "Open Core Brain populated split-tier assembly — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Open Core Brain populated split-tier assembly — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-lid-lift-115mm-XY.png",
+        "view": "Service lift +115 mm · XY",
+        "alt": "Open Core Brain populated split-tier assembly — Service lift +115 mm · XY, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-lid-lift-115mm-XZ.png",
+        "view": "Service lift +115 mm · XZ",
+        "alt": "Open Core Brain populated split-tier assembly — Service lift +115 mm · XZ, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-lid-lift-115mm-YZ.png",
+        "view": "Service lift +115 mm · YZ",
+        "alt": "Open Core Brain populated split-tier assembly — Service lift +115 mm · YZ, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/layouts/brain-populated-split-tier-installation-proposal/brain-populated-split-tier-installation-proposal-lid-lift-115mm-top-isometric.png",
+        "view": "Service lift +115 mm · top-isometric",
+        "alt": "Open Core Brain populated split-tier assembly — Service lift +115 mm · top-isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/brain/layouts",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [
+      {
+        "id": "assembly-brain-opposed-sma-layout-proposal",
+        "revision": null,
+        "sha256": "d26c6f86f5a3e8d6431ec9681ce22ca3733803f1597c7282d13154a3d1910198",
+        "dependency": "derived",
+        "occurrences": []
+      },
+      {
+        "id": "assembly-brain-enclosure-seated-lid-assembly-proposal",
+        "revision": 1,
+        "sha256": "9e0d7442e4a6dcdb874a591d962fac7f1c5900bb9194ba90d2fac8baf3d5e7c8",
+        "dependency": "embedded",
+        "occurrences": [
+          "ENCLOSURE-CLOSED"
+        ]
+      },
+      {
+        "id": "assembly-brain-installation-supports-proposal",
+        "revision": 1,
+        "sha256": "d28965310481459906f800c6754c789b7210931cfea0dba1bf4102f265d791ab",
+        "dependency": "embedded",
+        "occurrences": [
+          "MOUNTING-SUPPORTS"
+        ]
+      },
+      {
+        "id": "sowbot-brain-orp-mounting-plate-source-profile-proposal",
+        "revision": 1,
+        "sha256": "13552d7ce70edab40c2ad9f0502bdcb4dbe01f05161a4b42fcafb85e9456ecca",
+        "dependency": "embedded",
+        "occurrences": [
+          "SOW-BRAIN-C06-1"
+        ]
+      },
+      {
+        "id": "sowbot-avaota-a1-v17-installation-envelope-proposal",
+        "revision": 2,
+        "sha256": "83728dbaef0b1ce0aa0e3b2c567b41722aa3b1c83ba84765a90292742e24b7ac",
+        "dependency": "embedded",
+        "occurrences": [
+          "SOW-BRAIN-C01-1",
+          "SOW-BRAIN-C01-2"
+        ]
+      },
+      {
+        "id": "model-291",
+        "revision": null,
+        "sha256": "f76f6d8de63f91dc101b36226b1d3973e737cd48b7669bfe2037b8d162c7747e",
+        "dependency": "embedded",
+        "occurrences": [
+          "SOW-BRAIN-C03-F9P-1",
+          "SOW-BRAIN-C03-F9P-2"
+        ]
+      },
+      {
+        "id": "model-249",
+        "revision": null,
+        "sha256": "fa1cc46d5326ef9edf11cdc8d5b4454032bc9b467fc6bd8b1c5537bb983aa8c7",
+        "dependency": "embedded",
+        "occurrences": [
+          "SOW-BRAIN-C02-1"
+        ]
+      },
+      {
+        "id": "sowbot-brain-power-board-installation-reconstruction",
+        "revision": 1,
+        "sha256": "d489e258bf75bef1b2883a3f54a4104ecdf6df5487b9d246c0cd1d78989b7466",
+        "dependency": "embedded",
+        "occurrences": [
+          "SOW-BRAIN-C05-1"
+        ]
+      },
+      {
+        "id": "sowbot-physical-estop-22mm-installation-reconstruction",
+        "revision": 1,
+        "sha256": "101c0635453048e0fc8a9f0ac2f7864cccb7d283855d01d91a1d978233209023",
+        "dependency": "embedded",
+        "occurrences": [
+          "SOW-BRAIN-C08-1"
+        ]
+      },
+      {
+        "id": "sowbot-beitian-bt560-installation-reconstruction",
+        "revision": 1,
+        "sha256": "10cbaf920743217c1c398a62118b4babdeea3a885f72b1529089be02c0941454",
+        "dependency": "embedded",
+        "occurrences": [
+          "SOW-BRAIN-C04-1",
+          "SOW-BRAIN-C04-2"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
