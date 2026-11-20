@@ -19727,5 +19727,143 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-20-bearing-hangers",
+    "name": "J4 20 mm rear bearing hanger assembly",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Four retained SKF SY20TF bearing reconstructions on four J4 hanger stations, with separate bearing plates, hollow lower tubes, rear posts, upper links and eight internal compression sleeves.",
+    "tags": [
+      "tractor",
+      "J4",
+      "SKF SY20TF",
+      "bearing hanger",
+      "compression sleeve"
+    ],
+    "aliases": [
+      "J4 20 mm rear bearing hanger assembly",
+      "j4-20-bearing-hangers"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-20-bearing-hangers",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers-XY.png",
+        "view": "Plan",
+        "alt": "J4 20 mm rear bearing hanger assembly, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 20 mm rear bearing hanger assembly, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers-YZ.png",
+        "view": "End",
+        "alt": "J4 20 mm rear bearing hanger assembly, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 20 mm rear bearing hanger assembly, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/j4-20-bearing-hangers.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-20-bearing-hangers/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-209",
+        "revision": null,
+        "sha256": "94dd235468e260ba90537fd4dffc664e20f9c64460a25ad7786170c8d991d91c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer SKF bearing",
+          "Right inner SKF bearing",
+          "Left inner SKF bearing",
+          "Left outer SKF bearing"
+        ]
+      },
+      {
+        "id": "model-170",
+        "revision": null,
+        "sha256": "3147f6c0e4ebd02d13d1eed7b320b91788463e6dbb04b5a135c9878dc5285cdb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer sleeve X -48.5",
+          "Right outer sleeve X 48.5",
+          "Right inner sleeve X -48.5",
+          "Right inner sleeve X 48.5",
+          "Left inner sleeve X -48.5",
+          "Left inner sleeve X 48.5",
+          "Left outer sleeve X -48.5",
+          "Left outer sleeve X 48.5"
+        ]
+      },
+      {
+        "id": "p13j4pl-j4-inverted-bearing-support-plate",
+        "revision": 1,
+        "sha256": "115204ad78c7e25c9eaee4348580685a78436dc138355d1ae6c67ac7a2868e71",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer plate",
+          "Right inner plate",
+          "Left inner plate",
+          "Left outer plate"
+        ]
+      },
+      {
+        "id": "p13j4low-j4-lower-bearing-cantilever",
+        "revision": 1,
+        "sha256": "7ee467ae479472823dc73a80f11ac46d210cd87b49942dc9861d6972a02b3882",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer bar",
+          "Right inner bar",
+          "Left inner bar",
+          "Left outer bar"
+        ]
+      },
+      {
+        "id": "p13j4post-j4-rear-bearing-hanger-post",
+        "revision": 1,
+        "sha256": "302f6f08e97080fc5da8953f61c8754abf7eba6d407193007d84eec4dff380e0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer post",
+          "Right inner post",
+          "Left inner post",
+          "Left outer post"
+        ]
+      },
+      {
+        "id": "p13j4top-j4-upper-bearing-hanger-link",
+        "revision": 1,
+        "sha256": "6dcde35e884d38c3de376f124947791070ef33378eb3b93c57a74df54be3dd56",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer link",
+          "Right inner link",
+          "Left inner link",
+          "Left outer link"
+        ]
+      }
+    ]
   }
 ]
