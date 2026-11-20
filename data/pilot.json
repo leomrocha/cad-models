@@ -16273,5 +16273,90 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24s03t-j-splash-panels-and-mounts",
+    "name": "J S03T splash panels, upper crossbars and lower stair supports",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Paired J S03T splash-panel assembly with the notched panels, six lower stair supports, six segmented upper crossbars and six compression sleeves.",
+    "tags": [
+      "tractor",
+      "splash panel",
+      "crossbar",
+      "compression sleeve",
+      "subassembly",
+      "S03T"
+    ],
+    "aliases": [
+      "J S03T splash panels, upper crossbars and lower stair supports",
+      "p24s03t-j-splash-panels-and-mounts"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "P24S03T",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts-XY.png",
+        "view": "Plan",
+        "alt": "J S03T splash panels, upper crossbars and lower stair supports, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts-XZ.png",
+        "view": "Elevation",
+        "alt": "J S03T splash panels, upper crossbars and lower stair supports, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts-YZ.png",
+        "view": "End",
+        "alt": "J S03T splash panels, upper crossbars and lower stair supports, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J S03T splash panels, upper crossbars and lower stair supports, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/p24s03t-j-splash-panels-and-mounts.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03t-j-splash-panels-and-mounts/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-50",
+        "revision": null,
+        "dependency": "embedded",
+        "sha256": "ed4c406b419b9934440c62104343004e2f3bb3d01cf9a40bf5cd6f5d35c81158",
+        "occurrences": [
+          "panels-and-stairs"
+        ]
+      },
+      {
+        "id": "p24jbs-j-splash-crossbars-and-sleeves",
+        "revision": 1,
+        "dependency": "embedded",
+        "sha256": "b3e94fa82792147564911a4b341aec2494ba533d9ba1c44ea3c64435e9d6fdb7",
+        "occurrences": [
+          "upper-crossbars-and-sleeves"
+        ]
+      }
+    ]
   }
 ]
