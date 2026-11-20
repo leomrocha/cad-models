@@ -17882,5 +17882,79 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p12j4ew-j4-inner-shaft-end-washer",
+    "name": "J4 inner shaft-end washer",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 shaft retainer washer with Ø40 mm outside diameter, Ø9 mm bore and 7 mm thickness. The nominal 90° screw seat is Ø18.25 mm at the opening and 4.625 mm deep.",
+    "tags": [
+      "tractor",
+      "shaft-end retainer",
+      "washer",
+      "J4",
+      "P12J4EW"
+    ],
+    "aliases": [
+      "J4 inner shaft-end washer",
+      "p12j4ew-j4-inner-shaft-end-washer"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": [
+      {
+        "designation": "DIN 74:2003-04",
+        "relationship": "Nominal Type F M8 countersink"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/fasteners/washers",
+    "variant": "P12J4EW",
+    "file": "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer-XY.png",
+        "view": "Plan",
+        "alt": "J4 inner shaft-end washer, plan"
+      },
+      {
+        "file": "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 inner shaft-end washer, elevation"
+      },
+      {
+        "file": "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer-YZ.png",
+        "view": "End",
+        "alt": "J4 inner shaft-end washer, end"
+      },
+      {
+        "file": "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 inner shaft-end washer, isometric",
+        "thumbnail_file": "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer-XY.png",
+      "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer-XZ.png",
+      "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer-YZ.png",
+      "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer-top-isometric.png",
+      "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer.dwg",
+      "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/p12j4ew-j4-inner-shaft-end-washer.md",
+      "models/mechanical/fasteners/washers/p12j4ew-j4-inner-shaft-end-washer/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "DIN 74:2003-04 Table 3, Type F",
+        "url": "https://api.pageplace.de/preview/DT0400.9783410274964_A35868027/preview-9783410274964_A35868027.pdf"
+      }
+    ]
   }
 ]
