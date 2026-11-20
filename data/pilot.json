@@ -19334,5 +19334,78 @@
         "url": "https://cdn.standards.iteh.ai/samples/72585/1179998ddd594550a909d6e13c416f3e/ISO-4017-2022.pdf"
       }
     ]
+  },
+  {
+    "id": "c126-iso-10642-m12x70-screw-proposed-class-10-9",
+    "name": "ISO 10642 M12 × 70 countersunk screw reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal M12 countersunk screw envelope. Overall length is 70 mm, physical head diameter is 24.81 mm, and the reference cone is 90 degrees.",
+    "tags": [
+      "tractor",
+      "fastener",
+      "ISO 10642",
+      "C126"
+    ],
+    "aliases": [
+      "ISO 10642 M12 × 70 countersunk screw reference",
+      "c126-iso-10642-m12x70-screw-proposed-class-10-9"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": [
+      {
+        "designation": "ISO 10642",
+        "relationship": "Nominal fastener reference dimensions"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical-parts/fasteners/screws",
+    "variant": "C126",
+    "file": "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9-XY.png",
+        "view": "Plan",
+        "alt": "ISO 10642 M12 × 70 countersunk screw reference, plan"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9-XZ.png",
+        "view": "Elevation",
+        "alt": "ISO 10642 M12 × 70 countersunk screw reference, elevation"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9-YZ.png",
+        "view": "End",
+        "alt": "ISO 10642 M12 × 70 countersunk screw reference, end"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9-top-isometric.png",
+        "view": "Isometric",
+        "alt": "ISO 10642 M12 × 70 countersunk screw reference, isometric",
+        "thumbnail_file": "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9-XY.png",
+      "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9-XZ.png",
+      "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9-YZ.png",
+      "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9-top-isometric.png",
+      "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9.dwg",
+      "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/c126-iso-10642-m12x70-screw-proposed-class-10-9.md",
+      "models/mechanical-parts/fasteners/screws/c126-iso-10642-m12x70-screw-proposed-class-10-9/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "ISO 10642 dimensional reference",
+        "url": "https://eshop.boellhoff.de/out/media/pdf/ISO_10642_Stahl_10.9___en.pdf"
+      }
+    ]
   }
 ]
