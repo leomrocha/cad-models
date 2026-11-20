@@ -35665,5 +35665,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-raised-frame-with-30mm-hangers-and-motors",
+    "name": "J4 raised frame with Motenergy motors and 30 mm wheel ends",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 raised frame, Motenergy mounts and 30 mm wheel ends in a checked interference study.",
+    "tags": [
+      "tractor",
+      "J4",
+      "Motenergy",
+      "ME0907",
+      "motor mount"
+    ],
+    "aliases": [
+      "J4 raised frame with Motenergy motors and 30 mm wheel ends",
+      "j4-raised-frame-with-30mm-hangers-and-motors"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-raised-frame-with-30mm-hangers-and-motors",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors-XY.png",
+        "view": "Plan",
+        "alt": "J4 raised frame with Motenergy motors and 30 mm wheel ends, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 raised frame with Motenergy motors and 30 mm wheel ends, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors-YZ.png",
+        "view": "End",
+        "alt": "J4 raised frame with Motenergy motors and 30 mm wheel ends, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 raised frame with Motenergy motors and 30 mm wheel ends, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/j4-raised-frame-with-30mm-hangers-and-motors.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-with-30mm-hangers-and-motors/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-frame-guard-rails-and-30mm-wheel-hangers",
+        "revision": 1,
+        "sha256": "8f116828c832c3291d09896ff3e6921c2ec51114d72774e79c3802976d2817a8",
+        "dependency": "embedded",
+        "occurrences": [
+          "J4 frame, wheel ends and hanger fit"
+        ]
+      },
+      {
+        "id": "j4-motenergy-pair-and-adjustment-plates",
+        "revision": 1,
+        "sha256": "15ab43104af370a83d7ad02e847c9f7389b860bd9775298d663c1945d8a00471",
+        "dependency": "embedded",
+        "occurrences": [
+          "Motenergy motor and adjustment-plate pair"
+        ]
+      }
+    ]
   }
 ]
