@@ -35139,5 +35139,101 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-eight-guard-flanges-with-rails",
+    "name": "J4 eight upper chain-guard flange joints on raised rails",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Both machined J4 longitudinal rails with eight A07 chain-guard flange joints.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chain guard",
+      "rail hardware",
+      "A07 joint"
+    ],
+    "aliases": [
+      "J4 eight upper chain-guard flange joints on raised rails",
+      "j4-eight-guard-flanges-with-rails"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-eight-guard-flanges-with-rails",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails-XY.png",
+        "view": "Plan",
+        "alt": "J4 eight upper chain-guard flange joints on raised rails, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 eight upper chain-guard flange joints on raised rails, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails-YZ.png",
+        "view": "End",
+        "alt": "J4 eight upper chain-guard flange joints on raised rails, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 eight upper chain-guard flange joints on raised rails, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/j4-eight-guard-flanges-with-rails.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-guard-flanges-with-rails/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p01j650-j4-left-guard-passage-rail",
+        "revision": 1,
+        "sha256": "f6fffdaffb2de343207a8c669e53e337549849841900baa53e5794814753e9de",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left raised rail"
+        ]
+      },
+      {
+        "id": "p01j650-j4-right-guard-passage-rail",
+        "revision": 1,
+        "sha256": "d68d79ad25b53d164851138d5cd290d52002ae6ad792589ace519a24f6259637",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right raised rail"
+        ]
+      },
+      {
+        "id": "j4-a07-guard-flange-rail-fastener-stack",
+        "revision": 1,
+        "sha256": "7671b2be4459dbfe1f0d72bc3b5140365caef512d095d8e13920270f0bffe59c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left flange joint at X -110",
+          "Left flange joint at X -40",
+          "Left flange joint at X 40",
+          "Left flange joint at X 110",
+          "Right flange joint at X -110",
+          "Right flange joint at X 0",
+          "Right flange joint at X 110",
+          "Right flange joint at X 210"
+        ]
+      }
+    ]
   }
 ]
