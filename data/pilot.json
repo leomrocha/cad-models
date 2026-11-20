@@ -33675,5 +33675,66 @@
       "models/mechanical/drive/shaft-keys/j4-8x7x40-round-ended-wheel-shaft-key/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "j4-m10x25-outer-wheel-retainer-screw",
+    "name": "J4 M10 × 25 outer wheel retainer screw reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal M10 × 25 hex-head screw proposal for the J4 outboard retaining stack.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel shaft",
+      "retainer",
+      "M10",
+      "fastener"
+    ],
+    "aliases": [
+      "J4 M10 × 25 outer wheel retainer screw reference",
+      "j4-m10x25-outer-wheel-retainer-screw"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical-parts/fasteners",
+    "variant": "j4-m10x25-outer-wheel-retainer-screw",
+    "file": "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw-XY.png",
+        "view": "Plan",
+        "alt": "J4 M10 × 25 outer wheel retainer screw reference, plan"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 M10 × 25 outer wheel retainer screw reference, elevation"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw-YZ.png",
+        "view": "End",
+        "alt": "J4 M10 × 25 outer wheel retainer screw reference, end"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 M10 × 25 outer wheel retainer screw reference, isometric",
+        "thumbnail_file": "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw-XY.png",
+      "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw-XZ.png",
+      "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw-YZ.png",
+      "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw-top-isometric.png",
+      "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw.dwg",
+      "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/j4-m10x25-outer-wheel-retainer-screw.md",
+      "models/mechanical-parts/fasteners/j4-m10x25-outer-wheel-retainer-screw/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
