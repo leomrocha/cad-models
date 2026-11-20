@@ -21037,5 +21037,89 @@
       "models/mechanical/chassis/deck/p04cap-deck-upright-ledge-bridge-cap/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "structural-s-lower-chassis-frame",
+    "name": "Structural S lower chassis frame",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Structural S lower chassis with two 600 mm rails and three 260 mm crossmembers. The five nominal 40 × 40 × 3 mm hollow sections form a 600 × 340 mm frame.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "lower chassis",
+      "crossmembers",
+      "square steel tube",
+      "subassembly"
+    ],
+    "aliases": [
+      "Structural S lower chassis frame",
+      "structural-s-lower-chassis-frame"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "structural-s-lower-chassis-frame",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame-XY.png",
+        "view": "Plan",
+        "alt": "Structural S lower chassis frame, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S lower chassis frame, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame-YZ.png",
+        "view": "End",
+        "alt": "Structural S lower chassis frame, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S lower chassis frame, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/structural-s-lower-chassis-frame.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-lower-chassis-frame/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-111",
+        "revision": null,
+        "sha256": "e7bd8c78f2bd07126b170becccc9475d9b9c80becde387d458dc048c2c755e90",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right longitudinal rail",
+          "Left longitudinal rail"
+        ]
+      },
+      {
+        "id": "model-114",
+        "revision": null,
+        "sha256": "f2cd4fdf0b6f1c7b2ddc58fbbe1f9680c92ecac4fee7365acececf92c55104c2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear crossmember",
+          "Middle crossmember",
+          "Front crossmember"
+        ]
+      }
+    ]
   }
 ]
