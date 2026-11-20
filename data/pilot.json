@@ -18146,5 +18146,71 @@
       "models/mechanical/drive/bearing-spacers/p12j4sp30-j4-inner-bearing-spacer-30/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "c122-skf-sy-25-tf-mounting-reference",
+    "name": "SKF SY 25 TF nominal mounting reference",
+    "subject": "Interface references",
+    "kind": "standard",
+    "description": "Nominal SKF mounting datum and catalogue envelope 130 × 36 × 70.5 mm. Two 19.5 × 11.5 mm oblong slots have 102 mm centre spacing. The shaft axis is 36.5 mm above the mounting plane.",
+    "tags": [
+      "SKF",
+      "SKF SY 25 TF",
+      "pillow block",
+      "bearing mounting reference",
+      "tractor",
+      "C122"
+    ],
+    "aliases": [
+      "SKF SY 25 TF nominal mounting reference",
+      "c122-skf-sy-25-tf-mounting-reference"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked manufacturer-dimensioned reference",
+    "category_path": "interface-references/mechanical",
+    "variant": "C122",
+    "file": "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference.dwg",
+    "previews": [
+      {
+        "file": "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference-XY.png",
+        "view": "Plan",
+        "alt": "SKF SY 25 TF nominal mounting reference, plan"
+      },
+      {
+        "file": "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference-XZ.png",
+        "view": "Elevation",
+        "alt": "SKF SY 25 TF nominal mounting reference, elevation"
+      },
+      {
+        "file": "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference-YZ.png",
+        "view": "End",
+        "alt": "SKF SY 25 TF nominal mounting reference, end"
+      },
+      {
+        "file": "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference-top-isometric.png",
+        "view": "Isometric",
+        "alt": "SKF SY 25 TF nominal mounting reference, isometric",
+        "thumbnail_file": "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference-XY.png",
+      "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference-XZ.png",
+      "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference-YZ.png",
+      "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference-top-isometric.png",
+      "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference.dwg",
+      "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/c122-skf-sy-25-tf-mounting-reference.md",
+      "models/interface-references/mechanical/c122-skf-sy-25-tf-mounting-reference/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "SKF Y-bearings and Y-bearing units, 13728 EN, printed pp. 122–123",
+        "url": "https://www.skf.com/binaries/pub12/Images/0901d196802a2b8f-13728-EN-Y-bearing-and-Y-b-units_tcm_12-129182.pdf#page=124"
+      }
+    ]
   }
 ]
