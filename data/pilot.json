@@ -12161,5 +12161,82 @@
         "url": "https://raw.githubusercontent.com/AvaotaSBC/Avaota-A1/master/hardware/v1.7/06_3D/3D_PCB1_2024-08-17.zip"
       }
     ]
+  },
+  {
+    "id": "sowbot-beitian-bt560-installation-reconstruction",
+    "name": "Beitian BT-560 GNSS antenna — installation proposal",
+    "subject": "Electronics",
+    "kind": "part",
+    "description": "The January 2023 revision 5.53 drawing specifies the 58.6 mm body length, Ø25.0 mm main barrel, Ø27.3 mm collar and 16.1 mm collar span, each ±0.3 mm.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "part",
+      "installation proposal",
+      "Beitian",
+      "BT-560",
+      "GNSS",
+      "SMA-J",
+      "antenna"
+    ],
+    "aliases": [
+      "Beitian BT-560 GNSS antenna",
+      "beitian-bt560-installation-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction.dwg",
+    "package_assets": [
+      "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction.dwg",
+      "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction.md",
+      "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-XY.png",
+      "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-XZ.png",
+      "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-YZ.png",
+      "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-isometric.png",
+      "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-top-isometric.png",
+      "models/electronics/components/beitian-bt560-installation-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "Beitian BT-560 GNSS antenna — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Beitian BT-560 GNSS antenna — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "Beitian BT-560 GNSS antenna — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "Beitian BT-560 GNSS antenna — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/electronics/components/beitian-bt560-installation-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/electronics/components/beitian-bt560-installation-reconstruction/beitian-bt560-installation-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Beitian BT-560 GNSS antenna — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "electronics/components",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Source reference",
+        "url": "https://www.beitian.com/en/sys-pd/1151.html"
+      }
+    ]
   }
 ]
