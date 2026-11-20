@@ -24847,5 +24847,156 @@
         ]
       }
     ]
+  },
+  {
+    "id": "victron-single-shelf-frame-installation",
+    "name": "Victron single supported shelf fastened to the Structural S chassis",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Padded Victron battery shelf and upper restraint mounted to the Structural S lower frame with two drilled support angles and four M8 flange joints.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery shelf",
+      "frame joints",
+      "installation"
+    ],
+    "aliases": [
+      "Victron single supported shelf fastened to the Structural S chassis",
+      "victron-single-shelf-frame-installation"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-single-shelf-frame-installation",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation-XY.png",
+        "view": "Plan",
+        "alt": "Victron single supported shelf fastened to the Structural S chassis, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron single supported shelf fastened to the Structural S chassis, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation-YZ.png",
+        "view": "End",
+        "alt": "Victron single supported shelf fastened to the Structural S chassis, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron single supported shelf fastened to the Structural S chassis, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-single-shelf-frame-installation/victron-single-shelf-frame-installation.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "victron-frame-seat-carrier",
+        "revision": 1,
+        "sha256": "12f7ceb44b3e71df4c067de3e82c632abfc4f1da91efa498c62e08f2f1a286d9",
+        "dependency": "embedded",
+        "occurrences": [
+          "Structural S frame and checked seat carrier"
+        ]
+      },
+      {
+        "id": "victron-shelf-with-three-bearing-pads",
+        "revision": 1,
+        "sha256": "e8f0af05edc58cab348e2a00054690dca13eb1e86e7d58bf14f47a0cce40e45a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Padded battery shelf"
+        ]
+      },
+      {
+        "id": "victron-b07-restraint-fastener-installation",
+        "revision": 1,
+        "sha256": "6a605f69a3836956bddc80110b1e586c95f3e68508d302f720032de6f2012ae4",
+        "dependency": "embedded",
+        "occurrences": [
+          "Upper restraint and B07 hardware"
+        ]
+      },
+      {
+        "id": "victron-shelf-support-angle-exposed-joints",
+        "revision": 1,
+        "sha256": "2509aa50af9d58b5bcfdbab3050a1274147b2161a7528326617c4bf3bb725579",
+        "dependency": "embedded",
+        "occurrences": [
+          "Drilled shelf angle Y -78.4",
+          "Drilled shelf angle Y 113.2"
+        ]
+      },
+      {
+        "id": "victron-restraint-post-base-plate",
+        "revision": 1,
+        "sha256": "a696cc5ef3761bb4f46b529de598f4ea461b3bc32ffe79d0552f19b508372500",
+        "dependency": "embedded",
+        "occurrences": [
+          "Post base plate X -125, Y -78.4",
+          "Post base plate X 295, Y -78.4",
+          "Post base plate X -125, Y 113.2",
+          "Post base plate X 295, Y 113.2"
+        ]
+      },
+      {
+        "id": "c127-iso-4017-m8x30-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "08591e1eda4ff310a886908e4cae407d287378af51d30190c087cf30a803bb2d",
+        "dependency": "embedded",
+        "occurrences": [
+          "M8 × 30 screw at X -97.8, Y -78.4",
+          "M8 × 30 screw at X 267.8, Y -78.4",
+          "M8 × 30 screw at X -97.8, Y 113.2",
+          "M8 × 30 screw at X 267.8, Y 113.2"
+        ]
+      },
+      {
+        "id": "model-91",
+        "revision": null,
+        "sha256": "533eb9e8cd7f67ab3e4f3fdebdd2294d990d9d7a60e17067ed4a6e74602581e5",
+        "dependency": "embedded",
+        "occurrences": [
+          "Upper washer at X -97.8, Y -78.4",
+          "Lower washer at X -97.8, Y -78.4",
+          "Upper washer at X 267.8, Y -78.4",
+          "Lower washer at X 267.8, Y -78.4",
+          "Upper washer at X -97.8, Y 113.2",
+          "Lower washer at X -97.8, Y 113.2",
+          "Upper washer at X 267.8, Y 113.2",
+          "Lower washer at X 267.8, Y 113.2"
+        ]
+      },
+      {
+        "id": "model-78",
+        "revision": null,
+        "sha256": "f1c0db1417a3afad9cabf855b33e49fd6088925b41e4f428a4039006ed754019",
+        "dependency": "embedded",
+        "occurrences": [
+          "M8 locknut at X -97.8, Y -78.4",
+          "M8 locknut at X 267.8, Y -78.4",
+          "M8 locknut at X -97.8, Y 113.2",
+          "M8 locknut at X 267.8, Y 113.2"
+        ]
+      }
+    ]
   }
 ]
