@@ -39299,5 +39299,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-kelly-controller-pair-installed-on-raised-frame",
+    "name": "J3f Kelly controller pair installed on raised frame",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two KLS7240N V1.21 projected-clearance references and their steel carrier assemblies on a drilled J3f frame core.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "Kelly",
+      "controller carrier",
+      "installed electronics"
+    ],
+    "aliases": [
+      "J3f Kelly controller pair installed on raised frame",
+      "j3f-kelly-controller-pair-installed-on-raised-frame"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-kelly-controller-pair-installed-on-raised-frame",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame-XY.png",
+        "view": "Plan",
+        "alt": "J3f Kelly controller pair installed on raised frame, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Kelly controller pair installed on raised frame, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame-YZ.png",
+        "view": "End",
+        "alt": "J3f Kelly controller pair installed on raised frame, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Kelly controller pair installed on raised frame, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/j3f-kelly-controller-pair-installed-on-raised-frame.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-kelly-controller-pair-installed-on-raised-frame/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j3f-raised-frame-with-kelly-passage-rails",
+        "revision": 1,
+        "sha256": "5a08e4d221dea8e10e636c24be7ca90526d7cc401954e85599802e5e5525950a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised frame"
+        ]
+      },
+      {
+        "id": "j3f-kls7240n-v121-pair-on-carriers",
+        "revision": 1,
+        "sha256": "9bdfab83edd0580a77b70c42105651fb427d6b5611a0ff0f5b621387355d8f8d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Controller pair"
+        ]
+      }
+    ]
   }
 ]
