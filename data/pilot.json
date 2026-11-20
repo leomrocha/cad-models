@@ -24072,5 +24072,118 @@
         "url": "https://cdn.standards.iteh.ai/samples/72585/1179998ddd594550a909d6e13c416f3e/ISO-4017-2022.pdf"
       }
     ]
+  },
+  {
+    "id": "victron-b07-restraint-fastener-installation",
+    "name": "Victron 420 mm capped restraint with B07 fasteners",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Victron battery restraint with four M8 × 30 screws, eight ISO 7089 M8 washers and four DIN 985 M8 locknut nominal references at the bridge-to-cap joints.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery restraint",
+      "ISO 4017",
+      "ISO 7089",
+      "DIN 985",
+      "M8"
+    ],
+    "aliases": [
+      "Victron 420 mm capped restraint with B07 fasteners",
+      "victron-b07-restraint-fastener-installation"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-b07-restraint-fastener-installation",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation-XY.png",
+        "view": "Plan",
+        "alt": "Victron 420 mm capped restraint with B07 fasteners, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron 420 mm capped restraint with B07 fasteners, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation-YZ.png",
+        "view": "End",
+        "alt": "Victron 420 mm capped restraint with B07 fasteners, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron 420 mm capped restraint with B07 fasteners, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-b07-restraint-fastener-installation/victron-b07-restraint-fastener-installation.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "victron-420-pitch-restraint-and-posts",
+        "revision": 1,
+        "sha256": "49ad145db48c161b9390a8fc8ec367b3b76a75bfbdeb73693daced3f5207f2b0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Checked Victron bridge and capped post assembly"
+        ]
+      },
+      {
+        "id": "c127-iso-4017-m8x30-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "08591e1eda4ff310a886908e4cae407d287378af51d30190c087cf30a803bb2d",
+        "dependency": "embedded",
+        "occurrences": [
+          "M8 x 30 screw at X -210, Y -78.4",
+          "M8 x 30 screw at X 210, Y -78.4",
+          "M8 x 30 screw at X -210, Y 113.2",
+          "M8 x 30 screw at X 210, Y 113.2"
+        ]
+      },
+      {
+        "id": "model-91",
+        "revision": null,
+        "sha256": "533eb9e8cd7f67ab3e4f3fdebdd2294d990d9d7a60e17067ed4a6e74602581e5",
+        "dependency": "embedded",
+        "occurrences": [
+          "upper washer at X -210, Y -78.4",
+          "lower washer at X -210, Y -78.4",
+          "upper washer at X 210, Y -78.4",
+          "lower washer at X 210, Y -78.4",
+          "upper washer at X -210, Y 113.2",
+          "lower washer at X -210, Y 113.2",
+          "upper washer at X 210, Y 113.2",
+          "lower washer at X 210, Y 113.2"
+        ]
+      },
+      {
+        "id": "model-78",
+        "revision": null,
+        "sha256": "f1c0db1417a3afad9cabf855b33e49fd6088925b41e4f428a4039006ed754019",
+        "dependency": "embedded",
+        "occurrences": [
+          "M8 locknut at X -210, Y -78.4",
+          "M8 locknut at X 210, Y -78.4",
+          "M8 locknut at X -210, Y 113.2",
+          "M8 locknut at X 210, Y 113.2"
+        ]
+      }
+    ]
   }
 ]
