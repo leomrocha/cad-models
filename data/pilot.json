@@ -16043,5 +16043,69 @@
       "models/mechanical/guards/p16j4rmr-j4-guard-outboard-rim/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p24jb50-j-splash-outer-crossbar-segment",
+    "name": "J splash outer crossbar segment",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed 50 mm splash-panel crossbar. The open-ended steel tube has a 20 × 20 mm section, 2 mm walls and one Ø6.5 mm transverse fixing axis through both walls.",
+    "tags": [
+      "tractor",
+      "splash panel",
+      "crossbar",
+      "square steel tube",
+      "P24JB50"
+    ],
+    "aliases": [
+      "J splash outer crossbar segment",
+      "p24jb50-j-splash-outer-crossbar-segment"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "P24JB50",
+    "file": "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment-XY.png",
+        "view": "Plan",
+        "alt": "J splash outer crossbar segment, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment-XZ.png",
+        "view": "Elevation",
+        "alt": "J splash outer crossbar segment, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment-YZ.png",
+        "view": "End",
+        "alt": "J splash outer crossbar segment, end"
+      },
+      {
+        "file": "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J splash outer crossbar segment, isometric",
+        "thumbnail_file": "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment-XY.png",
+      "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment-XZ.png",
+      "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment-YZ.png",
+      "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment-top-isometric.png",
+      "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment.dwg",
+      "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/p24jb50-j-splash-outer-crossbar-segment.md",
+      "models/mechanical/chassis/p24jb50-j-splash-outer-crossbar-segment/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
