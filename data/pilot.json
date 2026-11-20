@@ -12390,5 +12390,81 @@
         "url": "https://docs.odriverobotics.com/v/latest/hardware/odrive-comparison.html"
       }
     ]
+  },
+  {
+    "id": "sowbot-open-bts7960-mini-installation-reconstruction",
+    "name": "Open BTS7960 Mini motor driver — installation proposal",
+    "subject": "Electronics",
+    "kind": "part",
+    "description": "The exact EasyEDA outline and four 2.1999956 mm mounting diameters are retained at the source centres. The occupied board uses a proposed 1.6 mm thickness with 1.2–2.54 mm range, below the PCB top datum.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Mini",
+      "part",
+      "installation proposal",
+      "Open BTS7960 Mini",
+      "Mini360",
+      "motor driver",
+      "PCB"
+    ],
+    "aliases": [
+      "Open BTS7960 Mini motor driver",
+      "open-bts7960-mini-installation-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction.dwg",
+    "package_assets": [
+      "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction.dwg",
+      "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction.md",
+      "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-XY.png",
+      "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-XZ.png",
+      "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-YZ.png",
+      "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-isometric.png",
+      "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-top-isometric.png",
+      "models/electronics/components/open-bts7960-mini-installation-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "Open BTS7960 Mini motor driver — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Open BTS7960 Mini motor driver — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "Open BTS7960 Mini motor driver — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "Open BTS7960 Mini motor driver — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/electronics/components/open-bts7960-mini-installation-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/electronics/components/open-bts7960-mini-installation-reconstruction/open-bts7960-mini-installation-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Open BTS7960 Mini motor driver — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "electronics/components",
+    "system": "sowbot",
+    "variant": "mini",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Source reference",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
