@@ -20414,5 +20414,95 @@
         ]
       }
     ]
+  },
+  {
+    "id": "structural-s-hitch-tube-frame",
+    "name": "Structural S hitch tube frame",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Structural S tow support tube frame. Two 230 mm side booms, one 520 mm rear crossbar and one 600 mm rear frame outrigger.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "hitch",
+      "square steel tube",
+      "subassembly"
+    ],
+    "aliases": [
+      "Structural S hitch tube frame",
+      "structural-s-hitch-tube-frame"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "structural-s-hitch-tube-frame",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame-XY.png",
+        "view": "Plan",
+        "alt": "Structural S hitch tube frame, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S hitch tube frame, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame-YZ.png",
+        "view": "End",
+        "alt": "Structural S hitch tube frame, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S hitch tube frame, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/structural-s-hitch-tube-frame.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-hitch-tube-frame/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p07bo-hitch-side-boom",
+        "revision": 1,
+        "sha256": "007ac4a17589661704232551ed8b312fa686bf1a2324d918faad5bad1fe9be6c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right hitch side boom",
+          "Left hitch side boom"
+        ]
+      },
+      {
+        "id": "p07xb-hitch-rear-crossbar",
+        "revision": 1,
+        "sha256": "d2d4e17b5ca72ffadc3b47e8369e6d8c480d6f9d1b94a2573880e62f4b8c9e8f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear hitch crossbar"
+        ]
+      },
+      {
+        "id": "p07ou-hitch-frame-rear-outrigger",
+        "revision": 1,
+        "sha256": "71e3a1924e3486da8f2792209c1d77dbf75ebb2341b44784a7238896f220917c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear frame outrigger"
+        ]
+      }
+    ]
   }
 ]
