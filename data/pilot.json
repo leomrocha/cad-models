@@ -27039,5 +27039,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c016-blickle-ls-ps310k-wheel-body-fit",
+    "name": "Blickle LS-PS310K wheel body fit proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Exterior wheel fit solid with a Ø20 mm bore and 75 mm hub length.",
+    "tags": [
+      "caster",
+      "Blickle",
+      "ls-ps310k",
+      "wheel-body",
+      "fit proposal"
+    ],
+    "aliases": [
+      "Blickle LS-PS310K wheel body fit proposal",
+      "c016-blickle-ls-ps310k-wheel-body-fit"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "c016-blickle-ls-ps310k-wheel-body-fit",
+    "file": "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-PS310K wheel body fit proposal, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-PS310K wheel body fit proposal, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-PS310K wheel body fit proposal, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-PS310K wheel body fit proposal, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit-XY.png",
+      "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit-XZ.png",
+      "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit-YZ.png",
+      "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit.dwg",
+      "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/c016-blickle-ls-ps310k-wheel-body-fit.md",
+      "models/mechanical/chassis/caster-supports/c016-blickle-ls-ps310k-wheel-body-fit/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Blickle G16, exact model row and family illustration, PDF page 8",
+        "url": "https://www.blickle.us/en-us/-/media/project/blickle/global-web/services/mediathek/katalogkapitel/pdf-dokumente/en/g16-chapter-4.pdf?fh=b52be283e2be767ebc501c5b60e4be6a#page=8"
+      },
+      {
+        "title": "Blickle PS 310/20-75K wheel-family specification",
+        "url": "https://www.blickle.com/wheels-castors/standard-range/pneumatic-tyres/pneumatic-tyres-ps-series"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "c016-blickle-ls-ps310k-dimensional-reference",
+        "revision": 1,
+        "sha256": "06ad2dd15aa2eca56be5988b31ccfe107c1c75164bca7440b16398585b5ce583",
+        "dependency": "reference",
+        "occurrences": [
+          "Manufacturer wheel and mounting reference"
+        ]
+      }
+    ]
   }
 ]
