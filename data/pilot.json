@@ -20504,5 +20504,74 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c025-sm453-50-mm-tow-ball",
+    "name": "SM453 50 mm tow ball body",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "SM453 tow ball body reconstructed from the 2017 approval drawing. The nominal Ø50 mm ball has a Ø18 mm top flat. The flange is Ø45 mm, and the nominal M22 × 1.5 stem extends 29.5 mm below the flange seat.",
+    "tags": [
+      "tractor",
+      "tow ball",
+      "SM453",
+      "50 mm",
+      "M22 × 1.5"
+    ],
+    "aliases": [
+      "SM453 50 mm tow ball body",
+      "c025-sm453-50-mm-tow-ball"
+    ],
+    "materials": [
+      {
+        "name": "Stainless steel 1.4305"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "C025",
+    "file": "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball-XY.png",
+        "view": "Plan",
+        "alt": "SM453 50 mm tow ball body, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball-XZ.png",
+        "view": "Elevation",
+        "alt": "SM453 50 mm tow ball body, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball-YZ.png",
+        "view": "End",
+        "alt": "SM453 50 mm tow ball body, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball-top-isometric.png",
+        "view": "Isometric",
+        "alt": "SM453 50 mm tow ball body, isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball-XY.png",
+      "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball-XZ.png",
+      "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball-YZ.png",
+      "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball-top-isometric.png",
+      "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball.dwg",
+      "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/c025-sm453-50-mm-tow-ball.md",
+      "models/mechanical/chassis/hitch/c025-sm453-50-mm-tow-ball/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "TÜV SÜD SM453 approval report 17-00034-AS-MUC-01, PDF page 47",
+        "url": "https://www.misterdotcom.de/media/0c/d8/c8/1743087730/Zulassung-komplett-AHK-453-44-mit-EQ.pdf?1743087730=#page=47"
+      }
+    ]
   }
 ]
