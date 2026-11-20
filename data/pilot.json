@@ -23113,5 +23113,68 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p20vishoe-victron-inboard-hood-mounting-angle",
+    "name": "Victron inboard terminal hood mounting angle",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed 17 mm cut of 30 × 30 × 3 mm steel angle for a Victron inboard terminal hood post. The single post bore is perpendicular to the pair of bores on the return.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "terminal cover",
+      "inboard mounting angle"
+    ],
+    "aliases": [
+      "Victron inboard terminal hood mounting angle",
+      "p20vishoe-victron-inboard-hood-mounting-angle"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20vishoe-victron-inboard-hood-mounting-angle",
+    "file": "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle-XY.png",
+        "view": "Plan",
+        "alt": "Victron inboard terminal hood mounting angle, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron inboard terminal hood mounting angle, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle-YZ.png",
+        "view": "End",
+        "alt": "Victron inboard terminal hood mounting angle, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron inboard terminal hood mounting angle, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle-XY.png",
+      "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle.dwg",
+      "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/p20vishoe-victron-inboard-hood-mounting-angle.md",
+      "models/mechanical/chassis/battery-supports/p20vishoe-victron-inboard-hood-mounting-angle/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
