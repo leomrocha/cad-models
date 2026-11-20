@@ -21627,5 +21627,86 @@
         "url": "https://www.trelleborg-tires.com/-/media/tires-aft/datatsheet/technical-manual/trelleborg-technical-manual-en.pdf?hash=AB0C897622FFD6443624A33BDFA5552E&rev=258948143820400e9a05c5a63b8c7ae0&sc_lang=en#page=111"
       }
     ]
+  },
+  {
+    "id": "structural-s-t539-wheel-clearance",
+    "name": "Structural S chassis with T539 tyre clearance envelopes",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Structural S chassis and two upper-tolerance T539 6PR tyre clearance cylinders. The axle centres are 578 mm apart.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "tyre clearance",
+      "T539",
+      "subassembly"
+    ],
+    "aliases": [
+      "Structural S chassis with T539 tyre clearance envelopes",
+      "structural-s-t539-wheel-clearance"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "structural-s-t539-wheel-clearance",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance-XY.png",
+        "view": "Plan",
+        "alt": "Structural S chassis with T539 tyre clearance envelopes, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S chassis with T539 tyre clearance envelopes, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance-YZ.png",
+        "view": "End",
+        "alt": "Structural S chassis with T539 tyre clearance envelopes, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S chassis with T539 tyre clearance envelopes, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/structural-s-t539-wheel-clearance.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-t539-wheel-clearance/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "structural-s-lower-chassis-frame",
+        "revision": 1,
+        "sha256": "4f455311da878278610730e443f084df6fa012204faf7f1152405d66104b94bc",
+        "dependency": "embedded",
+        "occurrences": [
+          "Structural S lower chassis"
+        ]
+      },
+      {
+        "id": "c001-t539-6pr-tyre-clearance-envelope",
+        "revision": 1,
+        "sha256": "6ddeca5c03dc429168df06e06314dd72428f7770c18232cce5d8c10c756b4af9",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right T539 clearance envelope",
+          "Left T539 clearance envelope"
+        ]
+      }
+    ]
   }
 ]
