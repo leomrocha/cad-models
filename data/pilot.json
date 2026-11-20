@@ -21886,5 +21886,65 @@
       "models/mechanical/chassis/battery-supports/p20lxt-leaf-hood-cassette-extension-bracket/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p20lxti-leaf-hood-inner-cassette-extension-bracket",
+    "name": "Leaf terminal cover inner cassette extension bracket",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Leaf terminal cover inner cassette extension bracket. The proposed 3 mm formed Z-section is 20 mm wide. Two bends use R3 inside and R6 outside radii. Four Ø4.5 mm bores join the floor and upright.",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "terminal cover",
+      "cassette extension",
+      "formed bracket"
+    ],
+    "aliases": [
+      "Leaf terminal cover inner cassette extension bracket",
+      "p20lxti-leaf-hood-inner-cassette-extension-bracket"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "P20LXTI",
+    "file": "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket-XY.png",
+        "view": "Plan",
+        "alt": "Leaf terminal cover inner cassette extension bracket, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf terminal cover inner cassette extension bracket, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket-YZ.png",
+        "view": "End",
+        "alt": "Leaf terminal cover inner cassette extension bracket, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf terminal cover inner cassette extension bracket, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket-XY.png",
+      "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket.dwg",
+      "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/p20lxti-leaf-hood-inner-cassette-extension-bracket.md",
+      "models/mechanical/chassis/battery-supports/p20lxti-leaf-hood-inner-cassette-extension-bracket/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
