@@ -23603,5 +23603,96 @@
       "models/mechanical/chassis/battery-supports/p20hvbr-victron-removable-case-restraint-bridge/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-removable-restraint-bridge-pair",
+    "name": "Victron removable battery bridges with upper contact pads",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two removable Victron restraint bridges and their three upper pads placed at the verified planar main-case bearing faces.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery restraint",
+      "removable bridge",
+      "upper contact pads"
+    ],
+    "aliases": [
+      "Victron removable battery bridges with upper contact pads",
+      "victron-removable-restraint-bridge-pair"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-removable-restraint-bridge-pair",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair-XY.png",
+        "view": "Plan",
+        "alt": "Victron removable battery bridges with upper contact pads, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron removable battery bridges with upper contact pads, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair-YZ.png",
+        "view": "End",
+        "alt": "Victron removable battery bridges with upper contact pads, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron removable battery bridges with upper contact pads, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-removable-restraint-bridge-pair/victron-removable-restraint-bridge-pair.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p20hvbr-victron-removable-case-restraint-bridge",
+        "revision": 1,
+        "sha256": "06c12ead86c45635d26345e160f95b9530af63a56d0595d672ba0458c8c506c8",
+        "dependency": "embedded",
+        "occurrences": [
+          "Terminal-side bridge",
+          "Rear bridge"
+        ]
+      },
+      {
+        "id": "c095f-victron-front-shelf-contact-pad",
+        "revision": 1,
+        "sha256": "43059a6c5813ea77ac3b2cff311423f7676adf271c7c91237726ecde7d79b038",
+        "dependency": "embedded",
+        "occurrences": [
+          "left terminal-side foot",
+          "right terminal-side foot"
+        ]
+      },
+      {
+        "id": "c095r-victron-rear-shelf-contact-pad",
+        "revision": 1,
+        "sha256": "c6394099f8ccbb65c7eef0cc02a0ae29e7e9da56312a107367dcc9b9a3231f5a",
+        "dependency": "embedded",
+        "occurrences": [
+          "rear bearing rib"
+        ]
+      }
+    ]
   }
 ]
