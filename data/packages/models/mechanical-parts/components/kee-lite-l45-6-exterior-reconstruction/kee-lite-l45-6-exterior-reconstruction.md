@@ -23,3 +23,7 @@ OpenCADStudio verified the current geometry at revision 162. The final save veri
 - [YZ end](kee-lite-l45-6-exterior-reconstruction-YZ.png), plot generated from CAD boundary geometry.
 - [Isometric](kee-lite-l45-6-exterior-reconstruction-isometric.png), plot generated from CAD boundary geometry.
 - [Upper isometric](kee-lite-l45-6-exterior-reconstruction-top-isometric.png), plot generated from CAD boundary geometry.
+
+## CAD references
+
+- [Kee Lite L45-6 nominal tube axes](../../../interface-references/mechanical/kee-lite-l45-6-nominal-tube-axes/kee-lite-l45-6-nominal-tube-axes.md), derived geometry, CAD SHA-256 `ee7ad56e97e31678fe555d692aeff60d1041e653b6fa3a084501b8121e2490df`. The source reference supplies the local axes and their 40 mm nominal offset.

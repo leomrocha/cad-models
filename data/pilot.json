@@ -13350,7 +13350,15 @@
     "category_path": "mechanical-parts/components",
     "system": "sowbot",
     "variant": null,
-    "model_references": [],
+    "model_references": [
+      {
+        "id": "model-307",
+        "revision": null,
+        "sha256": "ee7ad56e97e31678fe555d692aeff60d1041e653b6fa3a084501b8121e2490df",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
     "sources": []
   },
   {
