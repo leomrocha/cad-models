@@ -26579,5 +26579,81 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c017-blickle-ls-vle250k-top-plate-fit",
+    "name": "Blickle LS-VLE250K top mounting plate fit proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Manufacturer footprint and four Ø14 mm bores, with an 8 mm proposed plate thickness.",
+    "tags": [
+      "caster",
+      "Blickle",
+      "ls-vle250k",
+      "top-plate",
+      "fit proposal"
+    ],
+    "aliases": [
+      "Blickle LS-VLE250K top mounting plate fit proposal",
+      "c017-blickle-ls-vle250k-top-plate-fit"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "c017-blickle-ls-vle250k-top-plate-fit",
+    "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-VLE250K top mounting plate fit proposal, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-VLE250K top mounting plate fit proposal, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-VLE250K top mounting plate fit proposal, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-VLE250K top mounting plate fit proposal, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit-XY.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit-XZ.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit-YZ.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit.dwg",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/c017-blickle-ls-vle250k-top-plate-fit.md",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-top-plate-fit/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Blickle G16, exact model row and family illustration, PDF page 12",
+        "url": "https://www.blickle.us/en-us/-/media/project/blickle/global-web/services/mediathek/katalogkapitel/pdf-dokumente/en/g16-chapter-4.pdf?fh=b52be283e2be767ebc501c5b60e4be6a#page=12"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "c017-blickle-ls-vle250k-dimensional-reference",
+        "revision": 1,
+        "sha256": "2df72a3682959e79cb7edee202dfe7f6ed582980904bbd21884bebf5f15f171c",
+        "dependency": "reference",
+        "occurrences": [
+          "Manufacturer wheel and mounting reference"
+        ]
+      }
+    ]
   }
 ]
