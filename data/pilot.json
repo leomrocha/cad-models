@@ -36351,5 +36351,132 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-25-bearing-hangers-with-shifted-left-post-j03-stack",
+    "name": "J4 25 mm shifted left hanger assembly with J03 fasteners",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 25 mm bearing hangers with eight nominal J03 screw stacks, each using an M10 × 65 screw, two plain washers and one locknut. The left outer hanger post and upper link are shifted inward by 11 mm, with the same eight fastener axes.",
+    "tags": [
+      "tractor",
+      "J4",
+      "M10",
+      "bearing hanger",
+      "nominal hardware"
+    ],
+    "aliases": [
+      "J4 25 mm shifted left hanger assembly with J03 fasteners",
+      "j4-25-bearing-hangers-with-shifted-left-post-j03-stack"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-25-bearing-hangers-with-shifted-left-post-j03-stack",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack-XY.png",
+        "view": "Plan",
+        "alt": "J4 25 mm shifted left hanger assembly with J03 fasteners, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 25 mm shifted left hanger assembly with J03 fasteners, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack-YZ.png",
+        "view": "End",
+        "alt": "J4 25 mm shifted left hanger assembly with J03 fasteners, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 25 mm shifted left hanger assembly with J03 fasteners, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/j4-25-bearing-hangers-with-shifted-left-post-j03-stack.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post-j03-stack/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-25-bearing-hangers-with-shifted-left-post",
+        "revision": 1,
+        "sha256": "a7295fb6fa7ec220a2c2bfe07db7e1b76f06647998d6c0804da59746164bb852",
+        "dependency": "embedded",
+        "occurrences": [
+          "Checked J4 25 mm hanger assembly"
+        ]
+      },
+      {
+        "id": "c125-iso-4017-m10x65-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "0f4078a5a43da86382cff23cc97e871ff7b7d99398bef63745a158b850cfa07a",
+        "dependency": "embedded",
+        "occurrences": [
+          "M10 x 65 screw at X -51, Y -110",
+          "M10 x 65 screw at X 51, Y -110",
+          "M10 x 65 screw at X -51, Y -30",
+          "M10 x 65 screw at X 51, Y -30",
+          "M10 x 65 screw at X -51, Y 30",
+          "M10 x 65 screw at X 51, Y 30",
+          "M10 x 65 screw at X -51, Y 110",
+          "M10 x 65 screw at X 51, Y 110"
+        ]
+      },
+      {
+        "id": "model-87",
+        "revision": null,
+        "sha256": "bfade862b65daffe40063500e1c9087eac873e8dfff3e900d996dd75aa51c323",
+        "dependency": "embedded",
+        "occurrences": [
+          "upper washer at X -51, Y -110",
+          "lower washer at X -51, Y -110",
+          "upper washer at X 51, Y -110",
+          "lower washer at X 51, Y -110",
+          "upper washer at X -51, Y -30",
+          "lower washer at X -51, Y -30",
+          "upper washer at X 51, Y -30",
+          "lower washer at X 51, Y -30",
+          "upper washer at X -51, Y 30",
+          "lower washer at X -51, Y 30",
+          "upper washer at X 51, Y 30",
+          "lower washer at X 51, Y 30",
+          "upper washer at X -51, Y 110",
+          "lower washer at X -51, Y 110",
+          "upper washer at X 51, Y 110",
+          "lower washer at X 51, Y 110"
+        ]
+      },
+      {
+        "id": "model-79",
+        "revision": null,
+        "sha256": "a393e75a73a8e4cc1dff911eb72ee76c6bf61cbc50f48bddb097b52746e81d50",
+        "dependency": "embedded",
+        "occurrences": [
+          "M10 locknut at X -51, Y -110",
+          "M10 locknut at X 51, Y -110",
+          "M10 locknut at X -51, Y -30",
+          "M10 locknut at X 51, Y -30",
+          "M10 locknut at X -51, Y 30",
+          "M10 locknut at X 51, Y 30",
+          "M10 locknut at X -51, Y 110",
+          "M10 locknut at X 51, Y 110"
+        ]
+      }
+    ]
   }
 ]
