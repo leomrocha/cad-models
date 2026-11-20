@@ -24311,5 +24311,107 @@
       "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-supported-shelf-and-restraint",
+    "name": "Victron supported shelf and upper restraint",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Padded Victron battery shelf and bolted upper restraint on two transverse angles and four post base plates.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery shelf",
+      "battery restraint",
+      "subassembly"
+    ],
+    "aliases": [
+      "Victron supported shelf and upper restraint",
+      "victron-supported-shelf-and-restraint"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-supported-shelf-and-restraint",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint-XY.png",
+        "view": "Plan",
+        "alt": "Victron supported shelf and upper restraint, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron supported shelf and upper restraint, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint-YZ.png",
+        "view": "End",
+        "alt": "Victron supported shelf and upper restraint, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron supported shelf and upper restraint, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-shelf-and-restraint/victron-supported-shelf-and-restraint.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "victron-shelf-with-three-bearing-pads",
+        "revision": 1,
+        "sha256": "e8f0af05edc58cab348e2a00054690dca13eb1e86e7d58bf14f47a0cce40e45a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Padded shelf"
+        ]
+      },
+      {
+        "id": "victron-b07-restraint-fastener-installation",
+        "revision": 1,
+        "sha256": "6a605f69a3836956bddc80110b1e586c95f3e68508d302f720032de6f2012ae4",
+        "dependency": "embedded",
+        "occurrences": [
+          "Upper restraint and B07 hardware"
+        ]
+      },
+      {
+        "id": "victron-shelf-transverse-support-angle-450-mm",
+        "revision": 1,
+        "sha256": "275a39f97a5f252ece0989428d8845d30d8e51a55aa6783179c5b0854e91aa56",
+        "dependency": "embedded",
+        "occurrences": [
+          "Terminal-side transverse angle",
+          "Rear transverse angle"
+        ]
+      },
+      {
+        "id": "victron-restraint-post-base-plate",
+        "revision": 1,
+        "sha256": "a696cc5ef3761bb4f46b529de598f4ea461b3bc32ffe79d0552f19b508372500",
+        "dependency": "embedded",
+        "occurrences": [
+          "Terminal-side left post base plate",
+          "Terminal-side right post base plate",
+          "Rear left post base plate",
+          "Rear right post base plate"
+        ]
+      }
+    ]
   }
 ]
