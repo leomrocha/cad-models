@@ -36993,5 +36993,105 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-motenergy-pair-with-travel-relieved-plates",
+    "name": "J4 Motenergy ME0907 pair with travel-relieved moving plates",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two Motenergy ME0907 motors with travel-relieved moving plates and relieved fixed backbones.",
+    "tags": [
+      "tractor",
+      "J4",
+      "Motenergy",
+      "ME0907",
+      "motor mount"
+    ],
+    "aliases": [
+      "J4 Motenergy ME0907 pair with travel-relieved moving plates",
+      "j4-motenergy-pair-with-travel-relieved-plates"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-motenergy-pair-with-travel-relieved-plates",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates-XY.png",
+        "view": "Plan",
+        "alt": "J4 Motenergy ME0907 pair with travel-relieved moving plates, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 Motenergy ME0907 pair with travel-relieved moving plates, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates-YZ.png",
+        "view": "End",
+        "alt": "J4 Motenergy ME0907 pair with travel-relieved moving plates, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 Motenergy ME0907 pair with travel-relieved moving plates, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/j4-motenergy-pair-with-travel-relieved-plates.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-with-travel-relieved-plates/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p03jin-j4-relieved-left-motor-backbone",
+        "revision": 1,
+        "sha256": "6afcdb83ffb199d9864e1997086ccf0601e5bc3cc9929081c103222e840ac059",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left fixed motor backbone"
+        ]
+      },
+      {
+        "id": "p03jbr-j4-relieved-right-motor-backbone",
+        "revision": 1,
+        "sha256": "faab7e6913a007675f6f5f55632d888b8f2bd9b3b1f2c41e73d7159e2d364ab0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right fixed motor backbone"
+        ]
+      },
+      {
+        "id": "p11-j4-me0907-moving-motor-plate-lower-relief",
+        "revision": 1,
+        "sha256": "1f0195d6d17b927ed5fa3713f1523a24c7f7015233cb485b309c89994cf92384",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left moving motor plate",
+          "Right moving motor plate"
+        ]
+      },
+      {
+        "id": "model-106",
+        "revision": null,
+        "sha256": "6c9c1505c3beb528b10cb27c5a2af0406c16e00a2f766cfaa27bed8c132d1a33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Motenergy ME0907 motor",
+          "Right Motenergy ME0907 motor"
+        ]
+      }
+    ]
   }
 ]
