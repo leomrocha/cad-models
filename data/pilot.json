@@ -18450,5 +18450,79 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p13j425bar-j4-solid-lower-cantilever-25-branch",
+    "name": "J4 lower bearing cantilever, 25 mm shaft",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 25 mm branch lower bearing cantilever. The steel bar measures 258 × 40 × 25 mm with two Ø11 mm through bores.",
+    "tags": [
+      "tractor",
+      "J4",
+      "bearing cantilever",
+      "P13J425BAR"
+    ],
+    "aliases": [
+      "J4 lower bearing cantilever, 25 mm shaft",
+      "p13j425bar-j4-solid-lower-cantilever-25-branch"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/bearing-supports",
+    "variant": "P13J425BAR",
+    "file": "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch-XY.png",
+        "view": "Plan",
+        "alt": "J4 lower bearing cantilever, 25 mm shaft, plan"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 lower bearing cantilever, 25 mm shaft, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch-YZ.png",
+        "view": "End",
+        "alt": "J4 lower bearing cantilever, 25 mm shaft, end"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 lower bearing cantilever, 25 mm shaft, isometric",
+        "thumbnail_file": "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch-XY.png",
+      "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch-XZ.png",
+      "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch-YZ.png",
+      "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch-top-isometric.png",
+      "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch.dwg",
+      "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/p13j425bar-j4-solid-lower-cantilever-25-branch.md",
+      "models/mechanical/drive/bearing-supports/p13j425bar-j4-solid-lower-cantilever-25-branch/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-171",
+        "revision": null,
+        "sha256": "4ef614d97039183326524718288b4a46e63588f4a17f690b7a807b77f68b005e",
+        "dependency": "derived",
+        "occurrences": [
+          "Bearing support plate bore datum"
+        ]
+      }
+    ]
   }
 ]
