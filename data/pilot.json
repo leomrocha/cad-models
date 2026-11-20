@@ -24998,5 +24998,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "victron-structural-s-service-opening-deck",
+    "name": "Structural S Victron service-opening deck",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "600 × 400 × 3 mm deck with a 370 × 264 mm rectangular battery service opening.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "deck",
+      "battery service opening",
+      "deck"
+    ],
+    "aliases": [
+      "Structural S Victron service-opening deck",
+      "victron-structural-s-service-opening-deck"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/deck",
+    "variant": "victron-structural-s-service-opening-deck",
+    "file": "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck-XY.png",
+        "view": "Plan",
+        "alt": "Structural S Victron service-opening deck, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S Victron service-opening deck, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck-YZ.png",
+        "view": "End",
+        "alt": "Structural S Victron service-opening deck, end"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S Victron service-opening deck, isometric",
+        "thumbnail_file": "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/thumbnail.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck-XY.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck-XZ.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck-YZ.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck-top-isometric.png",
+      "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck.dwg",
+      "models/mechanical/chassis/deck/victron-structural-s-service-opening-deck/victron-structural-s-service-opening-deck.md"
+    ],
+    "sources": []
   }
 ]
