@@ -38743,5 +38743,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-front-transverse-top-link-cheek",
+    "name": "J3f front transverse top-link cheek",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "57 × 50 × 10 mm front top-link cheek with a Ø19.5 mm through bore. Two occurrences make the proposed transverse mount.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "front",
+      "top link",
+      "pivot cheek"
+    ],
+    "aliases": [
+      "J3f front transverse top-link cheek",
+      "j3f-front-transverse-top-link-cheek"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/attachment-supports",
+    "variant": "j3f-front-transverse-top-link-cheek",
+    "file": "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek-XY.png",
+        "view": "Plan",
+        "alt": "J3f front transverse top-link cheek, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f front transverse top-link cheek, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek-YZ.png",
+        "view": "End",
+        "alt": "J3f front transverse top-link cheek, end"
+      },
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f front transverse top-link cheek, isometric",
+        "thumbnail_file": "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek-XY.png",
+      "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek-XZ.png",
+      "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek-YZ.png",
+      "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek-top-isometric.png",
+      "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek.dwg",
+      "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/j3f-front-transverse-top-link-cheek.md",
+      "models/mechanical/chassis/attachment-supports/j3f-front-transverse-top-link-cheek/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
