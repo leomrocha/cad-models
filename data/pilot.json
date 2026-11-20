@@ -18278,5 +18278,91 @@
         "url": "https://www.skf.com/binaries/pub12/Images/0901d196802a2b8f-13728-EN-Y-bearing-and-Y-b-units_tcm_12-129182.pdf#page=124"
       }
     ]
+  },
+  {
+    "id": "j4-25-bearing-support-placements",
+    "name": "J4 25 mm bearing and support plate placements",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Four J4 25 mm SKF mounting references on four checked bearing support plates. The paired slots align with the support plate bores at 102 mm pitch. All four shaft datums lie at Z = 233 mm.",
+    "tags": [
+      "tractor",
+      "J4",
+      "SKF",
+      "bearing support plates",
+      "J4-25"
+    ],
+    "aliases": [
+      "J4 25 mm bearing and support plate placements",
+      "j4-25-bearing-support-placements"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "J4-25",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements-XY.png",
+        "view": "Plan",
+        "alt": "J4 25 mm bearing and support plate placements, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 25 mm bearing and support plate placements, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements-YZ.png",
+        "view": "End",
+        "alt": "J4 25 mm bearing and support plate placements, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 25 mm bearing and support plate placements, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/j4-25-bearing-support-placements.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-support-placements/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "c122-skf-sy-25-tf-mounting-reference",
+        "revision": 1,
+        "sha256": "5a0a704d9d09eb6fd8694588c9fe1b1b9cc1e17ae5af9f4e3e62cca948c31048",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer SKF bearing reference",
+          "Right inner SKF bearing reference",
+          "Left inner SKF bearing reference",
+          "Left outer SKF bearing reference"
+        ]
+      },
+      {
+        "id": "model-171",
+        "revision": null,
+        "sha256": "4ef614d97039183326524718288b4a46e63588f4a17f690b7a807b77f68b005e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer support plate",
+          "Right inner support plate",
+          "Left inner support plate",
+          "Left outer support plate"
+        ]
+      }
+    ]
   }
 ]
