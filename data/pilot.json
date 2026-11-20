@@ -38091,5 +38091,130 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember",
+    "name": "J4 raised frame with 25 mm drive, 250 mm caster and H390 hitch and shortened rear crossmember",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 raised drive frame with 25 mm shafts, 250 mm caster and its H390 hitch tube frame.",
+    "tags": [
+      "tractor",
+      "J4",
+      "rear chassis",
+      "caster",
+      "H390"
+    ],
+    "aliases": [
+      "J4 raised frame with 25 mm drive, 250 mm caster and H390 hitch and shortened rear crossmember",
+      "j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember-XY.png",
+        "view": "Plan",
+        "alt": "J4 raised frame with 25 mm drive, 250 mm caster and H390 hitch and shortened rear crossmember, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 raised frame with 25 mm drive, 250 mm caster and H390 hitch and shortened rear crossmember, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember-YZ.png",
+        "view": "End",
+        "alt": "J4 raised frame with 25 mm drive, 250 mm caster and H390 hitch and shortened rear crossmember, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 raised frame with 25 mm drive, 250 mm caster and H390 hitch and shortened rear crossmember, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-raised-frame-25mm-drive-250mm-caster-h390-hitch-short-rear-crossmember/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-raised-frame-with-installed-guard-rail-joints-short-rear-crossmember",
+        "revision": 1,
+        "sha256": "852257c3516bf93a1a8aa0729a59e76f51cceb8189d38bf947f6c6a7407fac35",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised frame with shortened rear crossmember"
+        ]
+      },
+      {
+        "id": "j4-25mm-left-wheel-stack-with-keyed-sprocket-hub",
+        "revision": 1,
+        "sha256": "6974f580543dafcb1869a948495d631f15d838d31f0e1121b633b25ddf847ca5",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left keyed wheel stack"
+        ]
+      },
+      {
+        "id": "j4-25mm-right-wheel-stack-with-keyed-sprocket-hub",
+        "revision": 1,
+        "sha256": "5044a5b0e3c14241c516ffc98971b90a2fa1664a329f9fb7d206a46878935211",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right keyed wheel stack"
+        ]
+      },
+      {
+        "id": "j4-25-bearing-hangers-with-shifted-left-post-j03-stack",
+        "revision": 1,
+        "sha256": "23ef574a17db3ac8b646bce9feb2fb418a536ebd932b506803fe5c2339e60be1",
+        "dependency": "embedded",
+        "occurrences": [
+          "Installed bearing hangers with fasteners"
+        ]
+      },
+      {
+        "id": "j4-motenergy-pair-with-travel-relieved-plates",
+        "revision": 1,
+        "sha256": "59d69c1acc50815e0af3543b955b516c63bbd77d44484146c46ef4b7e882f519",
+        "dependency": "embedded",
+        "occurrences": [
+          "Installed motor and moving plate module"
+        ]
+      },
+      {
+        "id": "j4-caster-250-60mm-rearward-head-installation",
+        "revision": 1,
+        "sha256": "5048e2eddffc0c249b2edb53d8ec8ba39b7bac3980fad3e8d578167f53d97f08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Caster and stepped bridge"
+        ]
+      },
+      {
+        "id": "j4-h390-hitch-frame-for-250mm-caster",
+        "revision": 1,
+        "sha256": "ab689b4183388140906725a57063d8353b6340b68ec8b382aa61c04bc438cff6",
+        "dependency": "embedded",
+        "occurrences": [
+          "H390 hitch tube frame"
+        ]
+      }
+    ]
   }
 ]
