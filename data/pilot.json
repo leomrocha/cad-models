@@ -37919,5 +37919,79 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p02j4r-j4-short-rear-crossmember-248mm",
+    "name": "J4 rear crossmember for inboard caster root plates",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 248 mm rear crossmember for the inboard caster root plates.",
+    "tags": [
+      "tractor",
+      "J4",
+      "rear crossmember",
+      "caster root plate"
+    ],
+    "aliases": [
+      "J4 rear crossmember for inboard caster root plates",
+      "p02j4r-j4-short-rear-crossmember-248mm"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/crossmembers",
+    "variant": "p02j4r-j4-short-rear-crossmember-248mm",
+    "file": "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm-XY.png",
+        "view": "Plan",
+        "alt": "J4 rear crossmember for inboard caster root plates, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 rear crossmember for inboard caster root plates, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm-YZ.png",
+        "view": "End",
+        "alt": "J4 rear crossmember for inboard caster root plates, end"
+      },
+      {
+        "file": "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 rear crossmember for inboard caster root plates, isometric",
+        "thumbnail_file": "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm-XY.png",
+      "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm-XZ.png",
+      "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm-YZ.png",
+      "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm-top-isometric.png",
+      "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm.dwg",
+      "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/p02j4r-j4-short-rear-crossmember-248mm.md",
+      "models/mechanical/chassis/crossmembers/p02j4r-j4-short-rear-crossmember-248mm/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-114",
+        "revision": null,
+        "sha256": "f2cd4fdf0b6f1c7b2ddc58fbbe1f9680c92ecac4fee7365acececf92c55104c2",
+        "dependency": "derived",
+        "occurrences": [
+          "Original 260 mm crossmember"
+        ]
+      }
+    ]
   }
 ]
