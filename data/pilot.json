@@ -23449,5 +23449,95 @@
       "models/mechanical/chassis/battery-supports/c095r-victron-rear-shelf-contact-pad/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-shelf-with-three-bearing-pads",
+    "name": "Victron side shelf with three main-case bearing pads",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Victron side-mount shelf floor with three 2 mm bearing pads aligned to the main battery case faces. The total nominal bearing area is 2,140 mm².",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery shelf",
+      "bearing pads",
+      "mounting reference"
+    ],
+    "aliases": [
+      "Victron side shelf with three main-case bearing pads",
+      "victron-shelf-with-three-bearing-pads"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-shelf-with-three-bearing-pads",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads-XY.png",
+        "view": "Plan",
+        "alt": "Victron side shelf with three main-case bearing pads, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron side shelf with three main-case bearing pads, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads-YZ.png",
+        "view": "End",
+        "alt": "Victron side shelf with three main-case bearing pads, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron side shelf with three main-case bearing pads, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-shelf-with-three-bearing-pads/victron-shelf-with-three-bearing-pads.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p19v-victron-side-mount-shelf-floor",
+        "revision": 1,
+        "sha256": "09d6f46a75c96e3f3d5eac37b5d0199867d8b9be83e1e5cd4dc44e395a22cd9c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Side-shelf floor"
+        ]
+      },
+      {
+        "id": "c095f-victron-front-shelf-contact-pad",
+        "revision": 1,
+        "sha256": "43059a6c5813ea77ac3b2cff311423f7676adf271c7c91237726ecde7d79b038",
+        "dependency": "embedded",
+        "occurrences": [
+          "left terminal-side foot",
+          "right terminal-side foot"
+        ]
+      },
+      {
+        "id": "c095r-victron-rear-shelf-contact-pad",
+        "revision": 1,
+        "sha256": "c6394099f8ccbb65c7eef0cc02a0ae29e7e9da56312a107367dcc9b9a3231f5a",
+        "dependency": "embedded",
+        "occurrences": [
+          "rear bearing rib"
+        ]
+      }
+    ]
   }
 ]
