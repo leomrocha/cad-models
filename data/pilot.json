@@ -16510,5 +16510,142 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24s03tc-j-splash-rail-clamp-installation",
+    "name": "J S03T splash-panel and rail clamp installation",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Paired J S03T splash installation on two machined raised-frame rails. Six nominal clamp joints each contain an M6 backing block, washer and M6 × 16 screw.",
+    "tags": [
+      "tractor",
+      "splash panel",
+      "crossbar",
+      "compression sleeve",
+      "subassembly",
+      "S03T",
+      "rail clamp"
+    ],
+    "aliases": [
+      "J S03T splash-panel and rail clamp installation",
+      "p24s03tc-j-splash-rail-clamp-installation"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "P24S03TC",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation-XY.png",
+        "view": "Plan",
+        "alt": "J S03T splash-panel and rail clamp installation, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation-XZ.png",
+        "view": "Elevation",
+        "alt": "J S03T splash-panel and rail clamp installation, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation-YZ.png",
+        "view": "End",
+        "alt": "J S03T splash-panel and rail clamp installation, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J S03T splash-panel and rail clamp installation, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/p24s03tc-j-splash-rail-clamp-installation.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24s03tc-j-splash-rail-clamp-installation/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24s03t-j-splash-panels-and-mounts",
+        "revision": 1,
+        "sha256": "c8da3815feab3df628a686f5a987a9a1defcfbab21cbb9ef56f8e7e192ad0f92",
+        "dependency": "embedded",
+        "occurrences": [
+          "panel-supports"
+        ]
+      },
+      {
+        "id": "p24jsrl-j-left-splash-top-wall-rail",
+        "revision": 1,
+        "sha256": "d1f6df3297805e516731dd90892730727fb38e5879a6cab5e3aacf9d51825ff7",
+        "dependency": "embedded",
+        "occurrences": [
+          "left-rail"
+        ]
+      },
+      {
+        "id": "p24jsrr-j-right-splash-top-wall-rail",
+        "revision": 1,
+        "sha256": "3712fb94be46bf59d5e274bd40de26e78428adfd87188555722008b192c8ad6d",
+        "dependency": "embedded",
+        "occurrences": [
+          "right-rail"
+        ]
+      },
+      {
+        "id": "model-175",
+        "revision": null,
+        "sha256": "b8dde6a3ba077709ab404c7e5d56732644d914b67c29d16fe370eca437196370",
+        "dependency": "embedded",
+        "occurrences": [
+          "left-1-block",
+          "left-2-block",
+          "left-3-block",
+          "right-1-block",
+          "right-2-block",
+          "right-3-block"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "left-1-washer",
+          "left-2-washer",
+          "left-3-washer",
+          "right-1-washer",
+          "right-2-washer",
+          "right-3-washer"
+        ]
+      },
+      {
+        "id": "model-70",
+        "revision": null,
+        "sha256": "0c8ca6b61cd26be2cc79642bab28684f302d798740ce33cab4da2479defd7a13",
+        "dependency": "embedded",
+        "occurrences": [
+          "left-1-screw",
+          "left-2-screw",
+          "left-3-screw",
+          "right-1-screw",
+          "right-2-screw",
+          "right-3-screw"
+        ]
+      }
+    ]
   }
 ]
