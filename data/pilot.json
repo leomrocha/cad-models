@@ -35485,5 +35485,105 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-motenergy-pair-and-adjustment-plates",
+    "name": "J4 Motenergy ME0907 pair and adjustment-plate fit",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two Motenergy ME0907 motors with their fixed backbones and adjustable plates.",
+    "tags": [
+      "tractor",
+      "J4",
+      "Motenergy",
+      "ME0907",
+      "motor mount"
+    ],
+    "aliases": [
+      "J4 Motenergy ME0907 pair and adjustment-plate fit",
+      "j4-motenergy-pair-and-adjustment-plates"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-motenergy-pair-and-adjustment-plates",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates-XY.png",
+        "view": "Plan",
+        "alt": "J4 Motenergy ME0907 pair and adjustment-plate fit, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 Motenergy ME0907 pair and adjustment-plate fit, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates-YZ.png",
+        "view": "End",
+        "alt": "J4 Motenergy ME0907 pair and adjustment-plate fit, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 Motenergy ME0907 pair and adjustment-plate fit, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/j4-motenergy-pair-and-adjustment-plates.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-motenergy-pair-and-adjustment-plates/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-117",
+        "revision": null,
+        "sha256": "443e1946dd6c2d0cd2b13aaac2fd9557978827ad51e72ac45c7a242f98e800c2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left fixed motor backbone"
+        ]
+      },
+      {
+        "id": "model-116",
+        "revision": null,
+        "sha256": "675373e05f38ce8f8be5975ec8cdb113ad80d19074953c8898453bb3a24b2d52",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right fixed motor backbone"
+        ]
+      },
+      {
+        "id": "model-163",
+        "revision": null,
+        "sha256": "f827eb64e7139e3fff878ea40afd75c065449eba8b7e5f59f21cfe49f2058270",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left moving motor plate",
+          "Right moving motor plate"
+        ]
+      },
+      {
+        "id": "model-106",
+        "revision": null,
+        "sha256": "6c9c1505c3beb528b10cb27c5a2af0406c16e00a2f766cfaa27bed8c132d1a33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Motenergy ME0907 motor",
+          "Right Motenergy ME0907 motor"
+        ]
+      }
+    ]
   }
 ]
