@@ -28965,5 +28965,106 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-h390-hitch-frame-root-plate-fit",
+    "name": "J4 H390 hitch tube frame with caster root plate fit",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J H390 tow support tube frame. Two side booms, two lateral outriggers, two lowering posts and a 600 mm rear crossbar.",
+    "tags": [
+      "tractor",
+      "J H390",
+      "hitch",
+      "square steel tube",
+      "subassembly"
+    ],
+    "aliases": [
+      "J4 H390 hitch tube frame with caster root plate fit",
+      "j4-h390-hitch-frame-root-plate-fit"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-h390-hitch-frame-root-plate-fit",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit-XY.png",
+        "view": "Plan",
+        "alt": "J4 H390 hitch tube frame with caster root plate fit, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 H390 hitch tube frame with caster root plate fit, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit-YZ.png",
+        "view": "End",
+        "alt": "J4 H390 hitch tube frame with caster root plate fit, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 H390 hitch tube frame with caster root plate fit, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/j4-h390-hitch-frame-root-plate-fit.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-h390-hitch-frame-root-plate-fit/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p07jbo-j-hitch-raised-side-boom",
+        "revision": 1,
+        "sha256": "20a8a48523e29500555493b7182ad48f51413df0b35e9bcb06d7f02cfd174319",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right raised side boom",
+          "Left raised side boom"
+        ]
+      },
+      {
+        "id": "p07ou-hitch-frame-rear-outrigger",
+        "revision": 1,
+        "sha256": "71e3a1924e3486da8f2792209c1d77dbf75ebb2341b44784a7238896f220917c",
+        "dependency": "embedded",
+        "occurrences": [
+          "H390 rear crossbar"
+        ]
+      },
+      {
+        "id": "p07jou124-j4-hitch-lateral-outrigger",
+        "revision": 1,
+        "sha256": "97f1b73bff6c6b57cd3bb7294ea4bbe5f243a89a3eac7125e059c29fc84fecf8",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right lateral rail outrigger",
+          "Left lateral rail outrigger"
+        ]
+      },
+      {
+        "id": "p07jdp-j-hitch-crossbar-lowering-post",
+        "revision": 1,
+        "sha256": "504bb176a06c09f29c6ea7a29781a29f2de976c25a8fe09a683994bee8c7c296",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right crossbar lowering post",
+          "Left crossbar lowering post"
+        ]
+      }
+    ]
   }
 ]
