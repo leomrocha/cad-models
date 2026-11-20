@@ -25876,5 +25876,76 @@
       "models/mechanical/chassis/caster-supports/caster-cheek-web-300-single-piece/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "c020-caster-primary-pin-flat-split-keeper",
+    "name": "Caster primary pin flat split keeper",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Flat split keeper for a Ø4 mm caster pin cross-bore. The model shows the legs spread in the retained position.",
+    "tags": [
+      "tractor",
+      "caster",
+      "pin keeper",
+      "split keeper",
+      "C018"
+    ],
+    "aliases": [
+      "Caster primary pin flat split keeper",
+      "c020-caster-primary-pin-flat-split-keeper"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "c020-caster-primary-pin-flat-split-keeper",
+    "file": "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper-XY.png",
+        "view": "Plan",
+        "alt": "Caster primary pin flat split keeper, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper-XZ.png",
+        "view": "Elevation",
+        "alt": "Caster primary pin flat split keeper, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper-YZ.png",
+        "view": "End",
+        "alt": "Caster primary pin flat split keeper, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Caster primary pin flat split keeper, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper-XY.png",
+      "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper-XZ.png",
+      "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper-YZ.png",
+      "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper.dwg",
+      "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/c020-caster-primary-pin-flat-split-keeper.md",
+      "models/mechanical/chassis/caster-supports/c020-caster-primary-pin-flat-split-keeper/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-65",
+        "revision": null,
+        "sha256": "d446683f7bc1e8d8edb5cddf7e842cb9f291b0488777e9c0b1812307c546f783",
+        "dependency": "reference",
+        "occurrences": [
+          "C018 mating pin"
+        ]
+      }
+    ]
   }
 ]
