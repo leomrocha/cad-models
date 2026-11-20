@@ -24248,5 +24248,68 @@
       "models/mechanical/chassis/battery-supports/victron-shelf-transverse-support-angle-450-mm/victron-shelf-transverse-support-angle-450-mm.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-restraint-post-base-plate",
+    "name": "Victron restraint post base plate",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "30 × 30 × 3 mm square plate placing the base of a restraint post at the shelf-top elevation.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery restraint",
+      "post base plate"
+    ],
+    "aliases": [
+      "Victron restraint post base plate",
+      "victron-restraint-post-base-plate"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "victron-restraint-post-base-plate",
+    "file": "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate-XY.png",
+        "view": "Plan",
+        "alt": "Victron restraint post base plate, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron restraint post base plate, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate-YZ.png",
+        "view": "End",
+        "alt": "Victron restraint post base plate, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron restraint post base plate, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/thumbnail.png",
+      "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate-XY.png",
+      "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate-XZ.png",
+      "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate-YZ.png",
+      "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate.dwg",
+      "models/mechanical/chassis/battery-supports/victron-restraint-post-base-plate/victron-restraint-post-base-plate.md"
+    ],
+    "sources": []
   }
 ]
