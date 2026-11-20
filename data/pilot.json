@@ -12851,5 +12851,76 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-brain-enclosure-body-reconstruction-proposal",
+    "name": "Open Core Brain enclosure body — installation proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "The body interprets the listing 260 × 167 × 68 mm field as the complete nominal exterior. The related family guide supplies an alternative cavity interpretation. The proposal uses 3 mm wall, 2 mm floor and Z = 26 mm lid seat.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "part",
+      "installation proposal",
+      "enclosure body",
+      "panel bores",
+      "removable hinge",
+      "bosses"
+    ],
+    "aliases": [
+      "Open Core Brain enclosure body",
+      "brain-enclosure-body-reconstruction-proposal-r2"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 2,
+    "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2.dwg",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2.md",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-XY.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-XZ.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-YZ.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-isometric.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-top-isometric.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-XY.png",
+        "view": "XY plan",
+        "alt": "Open Core Brain enclosure body — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Open Core Brain enclosure body — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-YZ.png",
+        "view": "YZ end",
+        "alt": "Open Core Brain enclosure body — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-isometric.png",
+        "view": "Isometric",
+        "alt": "Open Core Brain enclosure body — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-body-reconstruction-proposal-r2/brain-enclosure-body-reconstruction-proposal-r2-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Open Core Brain enclosure body — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/brain/parts",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [],
+    "sources": []
   }
 ]
