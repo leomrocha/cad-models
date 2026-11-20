@@ -12922,5 +12922,76 @@
     "variant": "brain",
     "model_references": [],
     "sources": []
+  },
+  {
+    "id": "sowbot-brain-enclosure-lid-reconstruction-proposal",
+    "name": "Open Core Brain removable enclosure lid — installation proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "The removable finned lid meets the nominal body at Z = 26 mm. The roof underside is Z = 46 mm and exposed ribs reach Z = 51 mm. Matched corner fixings, perimeter gasket and two removable-pin hinge lugs are represented.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "part",
+      "installation proposal",
+      "enclosure lid",
+      "gasket",
+      "antenna pads",
+      "fins"
+    ],
+    "aliases": [
+      "Open Core Brain removable enclosure lid",
+      "brain-enclosure-lid-reconstruction-proposal-r3"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 3,
+    "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3.dwg",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3.md",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-XY.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-XZ.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-YZ.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-isometric.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-top-isometric.png",
+      "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-XY.png",
+        "view": "XY plan",
+        "alt": "Open Core Brain removable enclosure lid — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Open Core Brain removable enclosure lid — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-YZ.png",
+        "view": "YZ end",
+        "alt": "Open Core Brain removable enclosure lid — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-isometric.png",
+        "view": "Isometric",
+        "alt": "Open Core Brain removable enclosure lid — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/parts/brain-enclosure-lid-reconstruction-proposal-r3/brain-enclosure-lid-reconstruction-proposal-r3-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Open Core Brain removable enclosure lid — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/brain/parts",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [],
+    "sources": []
   }
 ]
