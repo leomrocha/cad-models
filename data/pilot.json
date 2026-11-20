@@ -36598,5 +36598,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-wheel-end-and-hanger-fit-25mm-shifted-left-post",
+    "name": "J4 25 mm paired wheel ends and fastened hanger fit with shifted left post",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Paired 25 mm J4 wheel ends fitted to the fastened bearing hangers.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel shafts",
+      "bearing hangers",
+      "SKF datums"
+    ],
+    "aliases": [
+      "J4 25 mm paired wheel ends and fastened hanger fit with shifted left post",
+      "j4-wheel-end-and-hanger-fit-25mm-shifted-left-post"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-wheel-end-and-hanger-fit-25mm-shifted-left-post",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post-XY.png",
+        "view": "Plan",
+        "alt": "J4 25 mm paired wheel ends and fastened hanger fit with shifted left post, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 25 mm paired wheel ends and fastened hanger fit with shifted left post, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post-YZ.png",
+        "view": "End",
+        "alt": "J4 25 mm paired wheel ends and fastened hanger fit with shifted left post, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 25 mm paired wheel ends and fastened hanger fit with shifted left post, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-wheel-end-and-hanger-fit-25mm-shifted-left-post/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-paired-wheel-ends-25mm",
+        "revision": 1,
+        "sha256": "98e64af29ed105b12abf9a572dc2dc3d2bb17e35ce75ab1dce1ffb1379afc11c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired wheel ends"
+        ]
+      },
+      {
+        "id": "j4-25-bearing-hangers-with-shifted-left-post-j03-stack",
+        "revision": 1,
+        "sha256": "23ef574a17db3ac8b646bce9feb2fb418a536ebd932b506803fe5c2339e60be1",
+        "dependency": "embedded",
+        "occurrences": [
+          "Fastened bearing hangers"
+        ]
+      }
+    ]
   }
 ]
