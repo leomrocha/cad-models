@@ -24550,5 +24550,69 @@
       "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-tab/victron-frame-flange-seat-tab.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-frame-flange-seat-riser",
+    "name": "Victron frame flange seat riser",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "16 × 18 × 21 mm riser for a cantilevered battery shelf seat tab.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery shelf",
+      "frame seat",
+      "seat-riser"
+    ],
+    "aliases": [
+      "Victron frame flange seat riser",
+      "victron-frame-flange-seat-riser"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "victron-frame-flange-seat-riser",
+    "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser-XY.png",
+        "view": "Plan",
+        "alt": "Victron frame flange seat riser, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron frame flange seat riser, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser-YZ.png",
+        "view": "End",
+        "alt": "Victron frame flange seat riser, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron frame flange seat riser, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/thumbnail.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser-XY.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser-XZ.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser-YZ.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser.dwg",
+      "models/mechanical/chassis/battery-supports/victron-frame-flange-seat-riser/victron-frame-flange-seat-riser.md"
+    ],
+    "sources": []
   }
 ]
