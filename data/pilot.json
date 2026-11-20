@@ -27716,5 +27716,132 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c016-blickle-ls-ps310k-external-caster-fit-assembly",
+    "name": "Blickle LS-PS310K external caster fit assembly",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "LS-PS310K source-bound external caster fit assembly with nine installed solids.",
+    "tags": [
+      "caster",
+      "Blickle",
+      "ls-ps310k",
+      "external fit",
+      "swivel sweep"
+    ],
+    "aliases": [
+      "Blickle LS-PS310K external caster fit assembly",
+      "c016-blickle-ls-ps310k-external-caster-fit-assembly"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "c016-blickle-ls-ps310k-external-caster-fit-assembly",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-PS310K external caster fit assembly, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-PS310K external caster fit assembly, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-PS310K external caster fit assembly, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-PS310K external caster fit assembly, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/c016-blickle-ls-ps310k-external-caster-fit-assembly.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/c016-blickle-ls-ps310k-external-caster-fit-assembly/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "c016-blickle-ls-ps310k-top-plate-fit",
+        "revision": 1,
+        "sha256": "7ccb539b926802cecd76ab9e3725e96e441f66d65f8f82fd92faf45bb1e9f372",
+        "dependency": "embedded",
+        "occurrences": [
+          "Supplier mounting plate"
+        ]
+      },
+      {
+        "id": "c016-blickle-ls-ps310k-swivel-body-fit",
+        "revision": 1,
+        "sha256": "ac2c5d5d4634b5825ea05312be62b906a45816e0ae55ce4aee92bf67ebf6a132",
+        "dependency": "embedded",
+        "occurrences": [
+          "Swivel exterior"
+        ]
+      },
+      {
+        "id": "c016-blickle-ls-ps310k-fork-leg-fit",
+        "revision": 1,
+        "sha256": "773ab797997c06b8850beb1fb38e1698870a5e83ac33fca90b87696b966de86c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left fork leg",
+          "Right fork leg"
+        ]
+      },
+      {
+        "id": "c016-blickle-ls-ps310k-wheel-body-fit",
+        "revision": 1,
+        "sha256": "3d6672e43acb77df4f0887ca32a4ed2ec82c2daa5ed03dc647f6dd8198e8ee8c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Wheel and hub"
+        ]
+      },
+      {
+        "id": "c016-blickle-ls-ps310k-axle-fit",
+        "revision": 1,
+        "sha256": "d9f9b1dd79d9206f398f86ecffa01b0c19074f6790b8b62ce8f9ac83b2c62094",
+        "dependency": "embedded",
+        "occurrences": [
+          "Headed axle"
+        ]
+      },
+      {
+        "id": "c016-blickle-ls-ps310k-axle-spacer-fit",
+        "revision": 1,
+        "sha256": "6efd3283504bc8a6adcaea9a9d64e36a6b4daaa84ea1f38cd96ff1212433be0e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left hub spacer",
+          "Right hub spacer"
+        ]
+      },
+      {
+        "id": "blickle-caster-m20-axle-retaining-nut-fit",
+        "revision": 1,
+        "sha256": "607180a3e0fa69215f9458dfae02753b3bea210a02016ca2eaa2d07f0f8fc171",
+        "dependency": "embedded",
+        "occurrences": [
+          "Axle retaining nut"
+        ]
+      }
+    ]
   }
 ]
