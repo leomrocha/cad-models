@@ -23694,5 +23694,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p20hvbr-victron-restraint-bridge-420-mm-pitch",
+    "name": "Victron removable restraint bridge on 420 mm mounting centres",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed removable 450 mm bridge made from nominal 30 × 30 × 3 mm angle. Two Ø8.5 mm holes on 420 mm centres locate its ends.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery restraint",
+      "removable bridge",
+      "mounting proposal"
+    ],
+    "aliases": [
+      "Victron removable restraint bridge on 420 mm mounting centres",
+      "p20hvbr-victron-restraint-bridge-420-mm-pitch"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20hvbr-victron-restraint-bridge-420-mm-pitch",
+    "file": "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch-XY.png",
+        "view": "Plan",
+        "alt": "Victron removable restraint bridge on 420 mm mounting centres, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron removable restraint bridge on 420 mm mounting centres, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch-YZ.png",
+        "view": "End",
+        "alt": "Victron removable restraint bridge on 420 mm mounting centres, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron removable restraint bridge on 420 mm mounting centres, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch-XY.png",
+      "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch.dwg",
+      "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/p20hvbr-victron-restraint-bridge-420-mm-pitch.md",
+      "models/mechanical/chassis/battery-supports/p20hvbr-victron-restraint-bridge-420-mm-pitch/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
