@@ -11723,5 +11723,80 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-main-track-loop-reconstruction",
+    "name": "Main Sowbot reconstructed track loop — installation proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "150 mm closed belt with 44 cleats at 54.825 mm pitch, 870 mm axle spacing and 16 mm belt thickness.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "part",
+      "installation proposal",
+      "track loop",
+      "cleats",
+      "tracked chassis"
+    ],
+    "aliases": [
+      "Main Sowbot reconstructed track loop",
+      "main-track-loop-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction.dwg",
+      "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction.md",
+      "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-XY.png",
+      "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-XZ.png",
+      "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-YZ.png",
+      "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-top-isometric.png",
+      "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "Main Sowbot reconstructed track loop — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Main Sowbot reconstructed track loop — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "Main Sowbot reconstructed track loop — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "Main Sowbot reconstructed track loop — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/main/parts/main-track-loop-reconstruction/main-track-loop-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Main Sowbot reconstructed track loop — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/main/parts",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
