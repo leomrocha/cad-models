@@ -20899,5 +20899,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p04up-deck-upright-s",
+    "name": "Structural S deck upright",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Structural S deck upright. Nominal 40 × 40 × 3 mm square steel tube with a 258 mm cut length and two open ends.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "deck support",
+      "square steel tube",
+      "P04UP"
+    ],
+    "aliases": [
+      "Structural S deck upright",
+      "p04up-deck-upright-s"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/deck",
+    "variant": "P04UP",
+    "file": "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s-XY.png",
+        "view": "Plan",
+        "alt": "Structural S deck upright, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S deck upright, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s-YZ.png",
+        "view": "End",
+        "alt": "Structural S deck upright, end"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S deck upright, isometric",
+        "thumbnail_file": "models/mechanical/chassis/deck/p04up-deck-upright-s/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s-XY.png",
+      "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s-XZ.png",
+      "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s-YZ.png",
+      "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s-top-isometric.png",
+      "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s.dwg",
+      "models/mechanical/chassis/deck/p04up-deck-upright-s/p04up-deck-upright-s.md",
+      "models/mechanical/chassis/deck/p04up-deck-upright-s/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-159",
+        "revision": null,
+        "sha256": "eff79ccdee729311f7e011e6909594575ec648f981493be22a14c0d728d44f6f",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal tube section"
+        ]
+      }
+    ]
   }
 ]
