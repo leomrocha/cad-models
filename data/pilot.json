@@ -22501,5 +22501,66 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p20str-terminal-hood-split-cable-strip",
+    "name": "Leaf and Victron terminal hood split cable strip",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Leaf and Victron terminal hood split cable strip. Proposed insulating part, 40 × 20 × 3 mm, with 2 Ø4.5 mm through bores. A lower-edge R9 mm semicircle forms one half of the reference Ø18 mm opening.",
+    "tags": [
+      "tractor",
+      "Nissan Leaf",
+      "terminal cover",
+      "insulating support",
+      "Victron",
+      "cable strip"
+    ],
+    "aliases": [
+      "Leaf and Victron terminal hood split cable strip",
+      "p20str-terminal-hood-split-cable-strip"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "p20str-terminal-hood-split-cable-strip",
+    "file": "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip-XY.png",
+        "view": "Plan",
+        "alt": "Leaf and Victron terminal hood split cable strip, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip-XZ.png",
+        "view": "Elevation",
+        "alt": "Leaf and Victron terminal hood split cable strip, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip-YZ.png",
+        "view": "End",
+        "alt": "Leaf and Victron terminal hood split cable strip, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Leaf and Victron terminal hood split cable strip, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip-XY.png",
+      "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip-XZ.png",
+      "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip-YZ.png",
+      "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip.dwg",
+      "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/p20str-terminal-hood-split-cable-strip.md",
+      "models/mechanical/chassis/battery-supports/p20str-terminal-hood-split-cable-strip/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
