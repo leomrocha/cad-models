@@ -13260,5 +13260,77 @@
     "variant": null,
     "model_references": [],
     "sources": []
+  },
+  {
+    "id": "assembly-brain-installation-supports-proposal",
+    "name": "Open Core Brain electronics installation supports — installation proposal",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Thirty-three solids include ORP and power-board floor sockets, two Avaota offset rails and spacers, a 118 × 113 × 1.5 mm removable shelf, floor posts, GNSS receiver sockets and LEVIA edge rests.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "subassembly",
+      "installation proposal",
+      "Avaota-A1",
+      "Rosmo ORP",
+      "LEVIA-H7",
+      "shelf",
+      "mounting supports"
+    ],
+    "aliases": [
+      "Open Core Brain electronics installation supports",
+      "brain-installation-supports-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal.dwg",
+    "package_assets": [
+      "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal.dwg",
+      "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal.md",
+      "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-XY.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-XZ.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-YZ.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-isometric.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-top-isometric.png",
+      "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-XY.png",
+        "view": "XY plan",
+        "alt": "Open Core Brain electronics installation supports — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Open Core Brain electronics installation supports — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-YZ.png",
+        "view": "YZ end",
+        "alt": "Open Core Brain electronics installation supports — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-isometric.png",
+        "view": "Isometric",
+        "alt": "Open Core Brain electronics installation supports — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/sowbot/brain/subassemblies/brain-installation-supports-proposal/brain-installation-supports-proposal-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Open Core Brain electronics installation supports — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "assemblies/sowbot/brain/subassemblies",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [],
+    "sources": []
   }
 ]
