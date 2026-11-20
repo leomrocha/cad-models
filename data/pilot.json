@@ -26298,5 +26298,210 @@
         ]
       }
     ]
+  },
+  {
+    "id": "structural-s-caster-300-joint-installation",
+    "name": "Structural S 300 mm caster joint installation",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "300 mm Structural S caster joint with pin keepers, wheel mounting reference, clevis, webs, frame doubler and rail sleeves.",
+    "tags": [
+      "tractor",
+      "caster",
+      "structural s",
+      "clevis",
+      "joint installation"
+    ],
+    "aliases": [
+      "Structural S 300 mm caster joint installation",
+      "structural-s-caster-300-joint-installation"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "structural-s-caster-300-joint-installation",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation-XY.png",
+        "view": "Plan",
+        "alt": "Structural S 300 mm caster joint installation, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S 300 mm caster joint installation, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation-YZ.png",
+        "view": "End",
+        "alt": "Structural S 300 mm caster joint installation, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S 300 mm caster joint installation, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/structural-s-caster-300-joint-installation.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/structural-s-caster-300-joint-installation/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-148",
+        "revision": null,
+        "sha256": "61deadc5238c1a9f11ce8edfc1a325d72002a132d31b6477afd824a3166773d3",
+        "dependency": "embedded",
+        "occurrences": [
+          "Caster arm box member"
+        ]
+      },
+      {
+        "id": "model-140",
+        "revision": null,
+        "sha256": "0a29ef9b1e658c6c8287a54b02e3a5f05f09d7930b0a90a94bcff7268ff1ac93",
+        "dependency": "embedded",
+        "occurrences": [
+          "Primary sleeve"
+        ]
+      },
+      {
+        "id": "model-142",
+        "revision": null,
+        "sha256": "b1b101bbfe1b6f3a62c3ebe94bd0d612107b0e426651f078417ea4e358f2d452",
+        "dependency": "embedded",
+        "occurrences": [
+          "Setting sleeve"
+        ]
+      },
+      {
+        "id": "model-141",
+        "revision": null,
+        "sha256": "7964e95888946f606d649dc10b691972911688254d44ee03c35a97b950e920cc",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Primary spacer",
+          "Right Primary spacer"
+        ]
+      },
+      {
+        "id": "model-143",
+        "revision": null,
+        "sha256": "3af59bb69a575cb66498467425e2937ac121e5771ccf76a7fa72472c5af77fff",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Setting spacer",
+          "Right Setting spacer"
+        ]
+      },
+      {
+        "id": "caster-arm-brace-4p5-mm-cheek-clearance",
+        "revision": 1,
+        "sha256": "e1de808120b4cb7fbfd20d2c9f8c33cb9c8284fe8512788a21a87d71c2c98aeb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left relieved brace",
+          "Right relieved brace"
+        ]
+      },
+      {
+        "id": "p06m06300-blickle-ls-ps310k-mounting-interface",
+        "revision": 1,
+        "sha256": "58ce1f6b463861c0e76ca9147bb8f42f66fa6d224dde581f6fc43bdc8bbb8ea1",
+        "dependency": "embedded",
+        "occurrences": [
+          "Head plate and wheel reference"
+        ]
+      },
+      {
+        "id": "model-133",
+        "revision": null,
+        "sha256": "f1d95f68b341765953fdca8a77c76c4b2c754884fe99e4c6d9841984a4de411b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Frame doubler"
+        ]
+      },
+      {
+        "id": "model-131",
+        "revision": null,
+        "sha256": "1ca1331aed17e5fb5f70f44b10b65cd6f47297cbb312a9dbc771525fd8c201cc",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left clevis cheek",
+          "Right clevis cheek"
+        ]
+      },
+      {
+        "id": "caster-cheek-web-300-single-piece",
+        "revision": 1,
+        "sha256": "7c93b8766599ec02ee25daaf4a3856ff45125341a77a0169bd8288872d653320",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left clevis web",
+          "Right clevis web"
+        ]
+      },
+      {
+        "id": "model-65",
+        "revision": null,
+        "sha256": "d446683f7bc1e8d8edb5cddf7e842cb9f291b0488777e9c0b1812307c546f783",
+        "dependency": "embedded",
+        "occurrences": [
+          "Primary pin"
+        ]
+      },
+      {
+        "id": "c020-caster-primary-pin-flat-split-keeper",
+        "revision": 1,
+        "sha256": "4aed25d1efb9c2123ec47b5830d7df36715a482792c0897158b496bf67a77d79",
+        "dependency": "embedded",
+        "occurrences": [
+          "Primary pin keeper"
+        ]
+      },
+      {
+        "id": "model-66",
+        "revision": null,
+        "sha256": "9595fd9089bd1037263358af8cc86585cb1ee516d9487281681f51c5111f10a6",
+        "dependency": "embedded",
+        "occurrences": [
+          "Setting pin"
+        ]
+      },
+      {
+        "id": "c020-caster-setting-pin-flat-split-keeper",
+        "revision": 1,
+        "sha256": "e4978119ee4de080f065f3a8981ab6c02c8221860eba0529e8914e6f8148a25f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Setting pin keeper"
+        ]
+      },
+      {
+        "id": "model-132",
+        "revision": null,
+        "sha256": "317c26a373476d1b5eb4799545c8b698c3359aafd92bfd565499088ed23d4f64",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rail compression sleeve -280, -150",
+          "Rail compression sleeve -280, 150",
+          "Rail compression sleeve -200, -150",
+          "Rail compression sleeve -200, 150"
+        ]
+      }
+    ]
   }
 ]
