@@ -36121,5 +36121,120 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-25-bearing-hangers-with-shifted-left-post",
+    "name": "J4 25 mm bearing hangers with shifted left outer post",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 25 mm branch rear bearing hanger preview assembly. Four lower cantilevers, four rear posts and four upper links placed on the checked bearing support group. The 46 mm left outer cantilever supports the shifted rear post and link while retaining the bearing station.",
+    "tags": [
+      "tractor",
+      "J4",
+      "SKF",
+      "bearing hanger",
+      "j4-25-bearing-hangers-with-shifted-left-post"
+    ],
+    "aliases": [
+      "J4 25 mm bearing hangers with shifted left outer post",
+      "j4-25-bearing-hangers-with-shifted-left-post"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-25-bearing-hangers-with-shifted-left-post",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post-XY.png",
+        "view": "Plan",
+        "alt": "J4 25 mm bearing hangers with shifted left outer post, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 25 mm bearing hangers with shifted left outer post, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post-YZ.png",
+        "view": "End",
+        "alt": "J4 25 mm bearing hangers with shifted left outer post, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 25 mm bearing hangers with shifted left outer post, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/j4-25-bearing-hangers-with-shifted-left-post.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25-bearing-hangers-with-shifted-left-post/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-25-bearing-support-placements",
+        "revision": 1,
+        "sha256": "29bd5d21e78c3c9664e2b9514a4775ebfa4a456c91143232511af229a43b0e33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Checked SKF bearing and plate placements"
+        ]
+      },
+      {
+        "id": "p13j425bar-j4-solid-lower-cantilever-25-branch",
+        "revision": 1,
+        "sha256": "e3ba18ca3b92c413330bcb524864185032b5627fcf464e10a8efe7b70d4f7bf7",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer bar",
+          "Right inner bar",
+          "Left inner bar"
+        ]
+      },
+      {
+        "id": "p13j425post-j4-hanger-post-25-bearing-branch",
+        "revision": 1,
+        "sha256": "3c05e549935e819ada9467dfda60be72bcabd7cb45cc1d0e1fdb62d19a511eb6",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer post",
+          "Right inner post",
+          "Left inner post",
+          "Left outer post"
+        ]
+      },
+      {
+        "id": "p13j4top-j4-upper-bearing-hanger-link",
+        "revision": 1,
+        "sha256": "6dcde35e884d38c3de376f124947791070ef33378eb3b93c57a74df54be3dd56",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right outer link",
+          "Right inner link",
+          "Left inner link",
+          "Left outer link"
+        ]
+      },
+      {
+        "id": "p13j425b46-j4-left-outer-bearing-cantilever",
+        "revision": 1,
+        "sha256": "342fa762d7d6e5a13157a2322c697d6dd845501d1adcb116d7bdce4645bd1b79",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left outer bar"
+        ]
+      }
+    ]
   }
 ]
