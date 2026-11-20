@@ -20264,5 +20264,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p07xb-hitch-rear-crossbar",
+    "name": "Structural S hitch rear crossbar",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Structural S hitch rear crossbar. Nominal 40 × 40 × 3 mm square steel tube with a 520 mm cut length and two open ends.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "hitch",
+      "square steel tube",
+      "P07XB"
+    ],
+    "aliases": [
+      "Structural S hitch rear crossbar",
+      "p07xb-hitch-rear-crossbar"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "P07XB",
+    "file": "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar-XY.png",
+        "view": "Plan",
+        "alt": "Structural S hitch rear crossbar, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S hitch rear crossbar, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar-YZ.png",
+        "view": "End",
+        "alt": "Structural S hitch rear crossbar, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S hitch rear crossbar, isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar-XY.png",
+      "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar-XZ.png",
+      "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar-YZ.png",
+      "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar-top-isometric.png",
+      "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar.dwg",
+      "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/p07xb-hitch-rear-crossbar.md",
+      "models/mechanical/chassis/hitch/p07xb-hitch-rear-crossbar/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-159",
+        "revision": null,
+        "sha256": "eff79ccdee729311f7e011e6909594575ec648f981493be22a14c0d728d44f6f",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal square tube section"
+        ]
+      }
+    ]
   }
 ]
