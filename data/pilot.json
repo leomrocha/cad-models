@@ -13106,5 +13106,89 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-physical-estop-22mm-installation-reconstruction",
+    "name": "Sowbot source-linked 22 mm emergency-stop switch — installation proposal",
+    "subject": "Electronics",
+    "kind": "part",
+    "description": "The panel engagement barrel uses the Ø22 mm source datum with 2–4 mm proposed receiving panel thickness. Photo-derived actuator and rear-body estimates, a nominal hex retainer and six source-visible terminal envelopes are separate solids.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Brain",
+      "part",
+      "installation proposal",
+      "emergency stop",
+      "22 mm",
+      "panel mount",
+      "actuator"
+    ],
+    "aliases": [
+      "Sowbot source-linked 22 mm emergency-stop switch",
+      "physical-estop-22mm-installation-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction.dwg",
+    "package_assets": [
+      "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction.dwg",
+      "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction.md",
+      "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-XY.png",
+      "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-XZ.png",
+      "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-YZ.png",
+      "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-isometric.png",
+      "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-top-isometric.png",
+      "models/electronics/components/physical-estop-22mm-installation-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "Sowbot source-linked 22 mm emergency-stop switch — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "Sowbot source-linked 22 mm emergency-stop switch — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "Sowbot source-linked 22 mm emergency-stop switch — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "Sowbot source-linked 22 mm emergency-stop switch — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/electronics/components/physical-estop-22mm-installation-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/electronics/components/physical-estop-22mm-installation-reconstruction/physical-estop-22mm-installation-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "Sowbot source-linked 22 mm emergency-stop switch — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "electronics/components",
+    "system": "sowbot",
+    "variant": "brain",
+    "model_references": [
+      {
+        "id": "model-257",
+        "revision": null,
+        "sha256": "d745139922913b67695e11de6e4cadc03109c8fc233f967aeb381aeac5ffd5a7",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
+    "sources": [
+      {
+        "title": "Source reference",
+        "url": "https://sowbot.co.uk/hardware/"
+      }
+    ]
   }
 ]
