@@ -12466,5 +12466,84 @@
         "url": "https://sowbot.co.uk/hardware/"
       }
     ]
+  },
+  {
+    "id": "sowbot-varicore-vc1280na-exterior-reconstruction",
+    "name": "VariCore VC1280NA battery exterior — installation proposal",
+    "subject": "Electronics",
+    "kind": "part",
+    "description": "330 × 170 × 220 mm exterior for the 12 V 80 Ah VC-1280NA, including lid, recessed straps, terminals and display surface.",
+    "tags": [
+      "Sowbot",
+      "Sowbot Main",
+      "part",
+      "installation proposal",
+      "VariCore",
+      "VC-1280NA",
+      "battery"
+    ],
+    "aliases": [
+      "VariCore VC1280NA battery exterior",
+      "varicore-vc1280na-exterior-reconstruction"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": true,
+    "state": "Checked installation proposal",
+    "revision": 1,
+    "file": "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction.dwg",
+    "package_assets": [
+      "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction.dwg",
+      "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction.md",
+      "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-XY.png",
+      "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-XZ.png",
+      "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-YZ.png",
+      "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-isometric.png",
+      "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-top-isometric.png",
+      "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-XY.png",
+        "view": "XY plan",
+        "alt": "VariCore VC1280NA battery exterior — XY plan, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-XZ.png",
+        "view": "XZ elevation",
+        "alt": "VariCore VC1280NA battery exterior — XZ elevation, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-YZ.png",
+        "view": "YZ end",
+        "alt": "VariCore VC1280NA battery exterior — YZ end, CAD boundary plot"
+      },
+      {
+        "file": "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-isometric.png",
+        "view": "Isometric",
+        "alt": "VariCore VC1280NA battery exterior — Isometric, CAD boundary plot",
+        "thumbnail_file": "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/thumbnail.png"
+      },
+      {
+        "file": "models/electronics/batteries/varicore-vc1280na-exterior-reconstruction/varicore-vc1280na-exterior-reconstruction-top-isometric.png",
+        "view": "Upper isometric",
+        "alt": "VariCore VC1280NA battery exterior — Upper isometric, CAD boundary plot"
+      }
+    ],
+    "category_path": "electronics/batteries",
+    "system": "sowbot",
+    "variant": "main",
+    "model_references": [],
+    "sources": [
+      {
+        "title": "Sowbot hardware",
+        "url": "https://sowbot.co.uk/hardware/"
+      },
+      {
+        "title": "VariCore VC-1280Na+ technical specifications",
+        "url": "https://www.varicore.cn/page96?product_id=117"
+      }
+    ]
   }
 ]
