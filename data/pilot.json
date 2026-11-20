@@ -20189,5 +20189,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p07bo-hitch-side-boom",
+    "name": "Structural S hitch side boom",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Structural S hitch side boom. Nominal 40 × 40 × 3 mm square steel tube with a 230 mm cut length and two open ends.",
+    "tags": [
+      "tractor",
+      "Structural S",
+      "hitch",
+      "square steel tube",
+      "P07BO"
+    ],
+    "aliases": [
+      "Structural S hitch side boom",
+      "p07bo-hitch-side-boom"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "P07BO",
+    "file": "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom-XY.png",
+        "view": "Plan",
+        "alt": "Structural S hitch side boom, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom-XZ.png",
+        "view": "Elevation",
+        "alt": "Structural S hitch side boom, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom-YZ.png",
+        "view": "End",
+        "alt": "Structural S hitch side boom, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Structural S hitch side boom, isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom-XY.png",
+      "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom-XZ.png",
+      "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom-YZ.png",
+      "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom-top-isometric.png",
+      "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom.dwg",
+      "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/p07bo-hitch-side-boom.md",
+      "models/mechanical/chassis/hitch/p07bo-hitch-side-boom/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-159",
+        "revision": null,
+        "sha256": "eff79ccdee729311f7e011e6909594575ec648f981493be22a14c0d728d44f6f",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal square tube section"
+        ]
+      }
+    ]
   }
 ]
