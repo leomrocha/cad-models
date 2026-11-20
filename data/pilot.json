@@ -25320,5 +25320,70 @@
       "models/mechanical/chassis/deck/victron-service-hatch-fixed-deck/victron-service-hatch-fixed-deck.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-service-hatch-removable-cover",
+    "name": "Victron service hatch drilled removable cover",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "369 × 263 × 3 mm removable hatch cover with six Ø6.5 mm fixing bores.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "deck",
+      "battery service opening",
+      "cover",
+      "mounting bores"
+    ],
+    "aliases": [
+      "Victron service hatch drilled removable cover",
+      "victron-service-hatch-removable-cover"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/deck",
+    "variant": "victron-service-hatch-removable-cover",
+    "file": "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover-XY.png",
+        "view": "Plan",
+        "alt": "Victron service hatch drilled removable cover, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron service hatch drilled removable cover, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover-YZ.png",
+        "view": "End",
+        "alt": "Victron service hatch drilled removable cover, end"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron service hatch drilled removable cover, isometric",
+        "thumbnail_file": "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/thumbnail.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover-XY.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover-XZ.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover-YZ.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover-top-isometric.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover.dwg",
+      "models/mechanical/chassis/deck/victron-service-hatch-removable-cover/victron-service-hatch-removable-cover.md"
+    ],
+    "sources": []
   }
 ]
