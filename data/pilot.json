@@ -32433,5 +32433,66 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-right-foot-internal-nut-bar",
+    "name": "J3f right foot internal two-hole nut bar",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "50 × 24 × 34 mm internal nut bar with two nominal M10 blind thread envelopes.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "deck",
+      "nut bar",
+      "M10",
+      "foot mounting"
+    ],
+    "aliases": [
+      "J3f right foot internal two-hole nut bar",
+      "j3f-right-foot-internal-nut-bar"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/deck",
+    "variant": "j3f-right-foot-internal-nut-bar",
+    "file": "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar-XY.png",
+        "view": "Plan",
+        "alt": "J3f right foot internal two-hole nut bar, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f right foot internal two-hole nut bar, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar-YZ.png",
+        "view": "End",
+        "alt": "J3f right foot internal two-hole nut bar, end"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f right foot internal two-hole nut bar, isometric",
+        "thumbnail_file": "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar-XY.png",
+      "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar-XZ.png",
+      "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar-YZ.png",
+      "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar-top-isometric.png",
+      "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar.dwg",
+      "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/j3f-right-foot-internal-nut-bar.md",
+      "models/mechanical/chassis/deck/j3f-right-foot-internal-nut-bar/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
