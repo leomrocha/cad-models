@@ -33477,5 +33477,74 @@
       "models/mechanical/drive/wheel-adapters/p14j425-j4-wheel-flange-25mm-bore/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p12j430-j4-30mm-keyed-wheel-shaft",
+    "name": "J4 30 mm wheel shaft with two keyways",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 Ø30 × 279 mm wheel shaft with two nominal 8 × 40 mm round-ended keyways and retained axial drill features.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel shaft",
+      "keyways",
+      "machining proposal"
+    ],
+    "aliases": [
+      "J4 30 mm wheel shaft with two keyways",
+      "p12j430-j4-30mm-keyed-wheel-shaft"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/drive/shafts",
+    "variant": "p12j430-j4-30mm-keyed-wheel-shaft",
+    "file": "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft-XY.png",
+        "view": "Plan",
+        "alt": "J4 30 mm wheel shaft with two keyways, plan"
+      },
+      {
+        "file": "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 30 mm wheel shaft with two keyways, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft-YZ.png",
+        "view": "End",
+        "alt": "J4 30 mm wheel shaft with two keyways, end"
+      },
+      {
+        "file": "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 30 mm wheel shaft with two keyways, isometric",
+        "thumbnail_file": "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft-XY.png",
+      "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft-XZ.png",
+      "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft-YZ.png",
+      "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft-top-isometric.png",
+      "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft.dwg",
+      "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/p12j430-j4-30mm-keyed-wheel-shaft.md",
+      "models/mechanical/drive/shafts/p12j430-j4-30mm-keyed-wheel-shaft/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p12j430-j4-30mm-axial-wheel-shaft",
+        "revision": 1,
+        "sha256": "0d15485f3c059f6bf2000f683eb213767885c9d843baa8464a87623d989eb223",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ]
   }
 ]
