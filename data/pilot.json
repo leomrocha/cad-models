@@ -23327,5 +23327,66 @@
         "url": "https://www.victronenergy.com/upload/documents/LiFePO4-Battery-25.6V100Ah-NG.pdf"
       }
     ]
+  },
+  {
+    "id": "c095f-victron-front-shelf-contact-pad",
+    "name": "Victron terminal-side shelf contact pad",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Victron terminal-side shelf contact pad. Proposed 14 × 25 × 2 mm pad on a flat main-case bearing face.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "BAT524110620",
+      "battery shelf",
+      "contact pad",
+      "front"
+    ],
+    "aliases": [
+      "Victron terminal-side shelf contact pad",
+      "c095f-victron-front-shelf-contact-pad"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/battery-supports",
+    "variant": "c095f-victron-front-shelf-contact-pad",
+    "file": "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad-XY.png",
+        "view": "Plan",
+        "alt": "Victron terminal-side shelf contact pad, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron terminal-side shelf contact pad, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad-YZ.png",
+        "view": "End",
+        "alt": "Victron terminal-side shelf contact pad, end"
+      },
+      {
+        "file": "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron terminal-side shelf contact pad, isometric",
+        "thumbnail_file": "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad-XY.png",
+      "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad-XZ.png",
+      "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad-YZ.png",
+      "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad-top-isometric.png",
+      "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad.dwg",
+      "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/c095f-victron-front-shelf-contact-pad.md",
+      "models/mechanical/chassis/battery-supports/c095f-victron-front-shelf-contact-pad/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
