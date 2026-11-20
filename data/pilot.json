@@ -17664,5 +17664,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c093-bmw-i3-94ah-tray-dielectric-contact-layer",
+    "name": "BMW i3 94 Ah tray dielectric contact layer",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "0.25 mm dielectric contact-layer geometry for the reconstructed BMW i3 94 Ah module. The 385 × 310 mm supported base, four tabs and four Ø8.5 mm holes follow the saved case.",
+    "tags": [
+      "tractor",
+      "battery tray",
+      "dielectric contact layer",
+      "BMW i3 94 Ah",
+      "C093"
+    ],
+    "aliases": [
+      "BMW i3 94 Ah tray dielectric contact layer",
+      "c093-bmw-i3-94ah-tray-dielectric-contact-layer"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "C093",
+    "file": "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer-XY.png",
+        "view": "Plan",
+        "alt": "BMW i3 94 Ah tray dielectric contact layer, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW i3 94 Ah tray dielectric contact layer, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer-YZ.png",
+        "view": "End",
+        "alt": "BMW i3 94 Ah tray dielectric contact layer, end"
+      },
+      {
+        "file": "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW i3 94 Ah tray dielectric contact layer, isometric",
+        "thumbnail_file": "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer-XY.png",
+      "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer-XZ.png",
+      "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer-YZ.png",
+      "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer-top-isometric.png",
+      "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer.dwg",
+      "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/c093-bmw-i3-94ah-tray-dielectric-contact-layer.md",
+      "models/mechanical/chassis/c093-bmw-i3-94ah-tray-dielectric-contact-layer/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-64",
+        "revision": null,
+        "sha256": "95404b6f6410cf73dffd875f34d33959afcc8d6c99a7cb8506f0e694b6589e2c",
+        "dependency": "derived",
+        "occurrences": [
+          "Contact outline and mounting pattern"
+        ]
+      },
+      {
+        "id": "p18bmw-j-bmw-i3-94ah-tray-floor",
+        "revision": 1,
+        "sha256": "9abca13042ca6180eb30ded95d8159c104d4c8d2cb19f854ca48bce9a38697df",
+        "dependency": "derived",
+        "occurrences": [
+          "Floor bearing plane"
+        ]
+      }
+    ]
   }
 ]
