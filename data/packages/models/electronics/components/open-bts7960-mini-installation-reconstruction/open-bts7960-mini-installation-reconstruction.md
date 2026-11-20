@@ -23,6 +23,11 @@ OpenCADStudio verified the current geometry at revision 362. The final save veri
 - [Isometric](open-bts7960-mini-installation-reconstruction-isometric.png), plot generated from CAD boundary geometry.
 - [Upper isometric](open-bts7960-mini-installation-reconstruction-top-isometric.png), plot generated from CAD boundary geometry.
 
+## CAD references
+
+- [Open BTS7960 Mini driver with Mini360 mounting slots](../../../assemblies/reusable/subassemblies/open-bts7960-mini-driver-21-opening-source-face/open-bts7960-mini-driver-21-opening-source-face.md), derived geometry, CAD SHA-256 `88cbee0a4a3df39fc11ff2cb7d22cd0e01e367c356c29db145b028f9801fd808`. The source 21-opening board and its connector geometry supply the PCB outline, four bore centres and five connector placements.
+- [Open BTS7960 Mini driver screw-tool entries](../../../interface-references/mechanical/open-bts7960-terminal-tool-entry-reference/open-bts7960-terminal-tool-entry-reference.md), derived geometry, CAD SHA-256 `e089830b6136b8c31b5c8d4cf564762df64adfcdf5835b413ec6a3cdbe4a95be`. The six source screw-tool opening axes locate the proposed terminal tool access.
+
 ## Technical sources
 
 - [Source reference](https://sowbot.co.uk/hardware/)

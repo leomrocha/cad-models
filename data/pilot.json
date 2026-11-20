@@ -12505,7 +12505,22 @@
     "category_path": "electronics/components",
     "system": "sowbot",
     "variant": "mini",
-    "model_references": [],
+    "model_references": [
+      {
+        "id": "model-312",
+        "revision": null,
+        "sha256": "88cbee0a4a3df39fc11ff2cb7d22cd0e01e367c356c29db145b028f9801fd808",
+        "dependency": "derived",
+        "occurrences": []
+      },
+      {
+        "id": "model-322",
+        "revision": null,
+        "sha256": "e089830b6136b8c31b5c8d4cf564762df64adfcdf5835b413ec6a3cdbe4a95be",
+        "dependency": "derived",
+        "occurrences": []
+      }
+    ],
     "sources": [
       {
         "title": "Source reference",
