@@ -35809,5 +35809,69 @@
       "models/mechanical/chassis/motor-mounts/p03jin-j4-relieved-left-motor-backbone/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p03jbr-j4-relieved-right-motor-backbone",
+    "name": "J4 relieved right motor backbone",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 right motor backbone with the lower edge raised to Z = 308 mm.",
+    "tags": [
+      "tractor",
+      "J4",
+      "motor backbone",
+      "motor mount",
+      "relief"
+    ],
+    "aliases": [
+      "J4 relieved right motor backbone",
+      "p03jbr-j4-relieved-right-motor-backbone"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/motor-mounts",
+    "variant": "p03jbr-j4-relieved-right-motor-backbone",
+    "file": "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone-XY.png",
+        "view": "Plan",
+        "alt": "J4 relieved right motor backbone, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 relieved right motor backbone, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone-YZ.png",
+        "view": "End",
+        "alt": "J4 relieved right motor backbone, end"
+      },
+      {
+        "file": "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 relieved right motor backbone, isometric",
+        "thumbnail_file": "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone-XY.png",
+      "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone-XZ.png",
+      "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone-YZ.png",
+      "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone-top-isometric.png",
+      "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone.dwg",
+      "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/p03jbr-j4-relieved-right-motor-backbone.md",
+      "models/mechanical/chassis/motor-mounts/p03jbr-j4-relieved-right-motor-backbone/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
