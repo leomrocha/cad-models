@@ -25190,5 +25190,70 @@
       "models/mechanical/chassis/deck/victron-structural-s-service-deck-flat-ledge/victron-structural-s-service-deck-flat-ledge.md"
     ],
     "sources": []
+  },
+  {
+    "id": "victron-service-hatch-support-rail",
+    "name": "Victron service hatch removable support rail",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "330 × 30 × 6 mm removable hatch rail with six M6 × 1 nominal thread references.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "deck",
+      "battery service opening",
+      "rail",
+      "mounting bores"
+    ],
+    "aliases": [
+      "Victron service hatch removable support rail",
+      "victron-service-hatch-support-rail"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/deck",
+    "variant": "victron-service-hatch-support-rail",
+    "file": "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail-XY.png",
+        "view": "Plan",
+        "alt": "Victron service hatch removable support rail, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron service hatch removable support rail, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail-YZ.png",
+        "view": "End",
+        "alt": "Victron service hatch removable support rail, end"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron service hatch removable support rail, isometric",
+        "thumbnail_file": "models/mechanical/chassis/deck/victron-service-hatch-support-rail/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/deck/victron-service-hatch-support-rail/thumbnail.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail-XY.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail-XZ.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail-YZ.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail-top-isometric.png",
+      "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail.dwg",
+      "models/mechanical/chassis/deck/victron-service-hatch-support-rail/victron-service-hatch-support-rail.md"
+    ],
+    "sources": []
   }
 ]
