@@ -24413,5 +24413,78 @@
         ]
       }
     ]
+  },
+  {
+    "id": "victron-supported-pair-stack",
+    "name": "Victron supported shelf pair with nominal 5 mm structural gap",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two supported Victron battery shelves and their upper restraints, with a proposed 5 mm vertical gap between the support assemblies.",
+    "tags": [
+      "tractor",
+      "Victron",
+      "battery shelf",
+      "battery restraint",
+      "dual shelf",
+      "subassembly"
+    ],
+    "aliases": [
+      "Victron supported shelf pair with nominal 5 mm structural gap",
+      "victron-supported-pair-stack"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "victron-supported-pair-stack",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack-XY.png",
+        "view": "Plan",
+        "alt": "Victron supported shelf pair with nominal 5 mm structural gap, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack-XZ.png",
+        "view": "Elevation",
+        "alt": "Victron supported shelf pair with nominal 5 mm structural gap, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack-YZ.png",
+        "view": "End",
+        "alt": "Victron supported shelf pair with nominal 5 mm structural gap, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Victron supported shelf pair with nominal 5 mm structural gap, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/thumbnail.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/victron-supported-pair-stack/victron-supported-pair-stack.md"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "victron-supported-shelf-and-restraint",
+        "revision": 1,
+        "sha256": "c48f040b51a8693b91bedbe481ab035ac29b76076a4e9a8d26c962b1afafdf09",
+        "dependency": "embedded",
+        "occurrences": [
+          "Lower supported shelf",
+          "Upper supported shelf"
+        ]
+      }
+    ]
   }
 ]
