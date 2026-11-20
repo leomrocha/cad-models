@@ -31593,5 +31593,106 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-h390-hitch-frame-55mm-rearward-crossbar",
+    "name": "J3f H390 hitch tube frame with 55 mm rearward crossbar",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J H390 tow support tube frame. Two side booms, two lateral outriggers, two lowering posts and a 600 mm rear crossbar.",
+    "tags": [
+      "tractor",
+      "J H390",
+      "hitch",
+      "square steel tube",
+      "subassembly"
+    ],
+    "aliases": [
+      "J3f H390 hitch tube frame with 55 mm rearward crossbar",
+      "j3f-h390-hitch-frame-55mm-rearward-crossbar"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-h390-hitch-frame-55mm-rearward-crossbar",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar-XY.png",
+        "view": "Plan",
+        "alt": "J3f H390 hitch tube frame with 55 mm rearward crossbar, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f H390 hitch tube frame with 55 mm rearward crossbar, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar-YZ.png",
+        "view": "End",
+        "alt": "J3f H390 hitch tube frame with 55 mm rearward crossbar, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f H390 hitch tube frame with 55 mm rearward crossbar, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/j3f-h390-hitch-frame-55mm-rearward-crossbar.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-h390-hitch-frame-55mm-rearward-crossbar/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p07jbo400-j3f-hitch-raised-side-boom",
+        "revision": 1,
+        "sha256": "c32cb78584a43f24f049ba6054a58ef9c10368ee6f203a2fadab8e80aad5d3ab",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right raised side boom",
+          "Left raised side boom"
+        ]
+      },
+      {
+        "id": "p07ou-hitch-frame-rear-outrigger",
+        "revision": 1,
+        "sha256": "71e3a1924e3486da8f2792209c1d77dbf75ebb2341b44784a7238896f220917c",
+        "dependency": "embedded",
+        "occurrences": [
+          "H390 rear crossbar"
+        ]
+      },
+      {
+        "id": "p07jou-j-hitch-lateral-rail-outrigger",
+        "revision": 1,
+        "sha256": "a536de514ec488441eccd02a5bc66f8fa86237d1201d568559cc59585748883d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right lateral rail outrigger",
+          "Left lateral rail outrigger"
+        ]
+      },
+      {
+        "id": "p07jdp-j-hitch-crossbar-lowering-post",
+        "revision": 1,
+        "sha256": "504bb176a06c09f29c6ea7a29781a29f2de976c25a8fe09a683994bee8c7c296",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right crossbar lowering post",
+          "Left crossbar lowering post"
+        ]
+      }
+    ]
   }
 ]
