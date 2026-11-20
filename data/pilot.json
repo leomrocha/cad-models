@@ -27119,5 +27119,99 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c017-blickle-ls-vle250k-axle-fit",
+    "name": "Blickle LS-VLE250K axle fit proposal",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed Ø20 mm axle with integral head and a 16 mm retention zone.",
+    "tags": [
+      "caster",
+      "Blickle",
+      "ls-vle250k",
+      "axle",
+      "fit proposal"
+    ],
+    "aliases": [
+      "Blickle LS-VLE250K axle fit proposal",
+      "c017-blickle-ls-vle250k-axle-fit"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/caster-supports",
+    "variant": "c017-blickle-ls-vle250k-axle-fit",
+    "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit-XY.png",
+        "view": "Plan",
+        "alt": "Blickle LS-VLE250K axle fit proposal, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit-XZ.png",
+        "view": "Elevation",
+        "alt": "Blickle LS-VLE250K axle fit proposal, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit-YZ.png",
+        "view": "End",
+        "alt": "Blickle LS-VLE250K axle fit proposal, end"
+      },
+      {
+        "file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Blickle LS-VLE250K axle fit proposal, isometric",
+        "thumbnail_file": "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit-XY.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit-XZ.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit-YZ.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit-top-isometric.png",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit.dwg",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/c017-blickle-ls-vle250k-axle-fit.md",
+      "models/mechanical/chassis/caster-supports/c017-blickle-ls-vle250k-axle-fit/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Blickle G16, exact model row and family illustration, PDF page 12",
+        "url": "https://www.blickle.us/en-us/-/media/project/blickle/global-web/services/mediathek/katalogkapitel/pdf-dokumente/en/g16-chapter-4.pdf?fh=b52be283e2be767ebc501c5b60e4be6a#page=12"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "c017-blickle-ls-vle250k-dimensional-reference",
+        "revision": 1,
+        "sha256": "2df72a3682959e79cb7edee202dfe7f6ed582980904bbd21884bebf5f15f171c",
+        "dependency": "reference",
+        "occurrences": [
+          "Blickle LS-VLE250K wheel and mounting reference"
+        ]
+      },
+      {
+        "id": "c017-blickle-ls-vle250k-fork-leg-fit",
+        "revision": 1,
+        "sha256": "62a7790df6b7b9c6546a2359411f472dc6343544606a62e329be4a79b4313804",
+        "dependency": "reference",
+        "occurrences": [
+          "Blickle LS-VLE250K fork leg fit proposal"
+        ]
+      },
+      {
+        "id": "c017-blickle-ls-vle250k-wheel-body-fit",
+        "revision": 1,
+        "sha256": "6a2b5485aa29d7be8672b2357d7e81d9951d503d825fceb9a3912d6396796248",
+        "dependency": "reference",
+        "occurrences": [
+          "Blickle LS-VLE250K wheel body fit proposal"
+        ]
+      }
+    ]
   }
 ]
