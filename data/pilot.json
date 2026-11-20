@@ -17956,5 +17956,69 @@
         "url": "https://api.pageplace.de/preview/DT0400.9783410274964_A35868027/preview-9783410274964_A35868027.pdf"
       }
     ]
+  },
+  {
+    "id": "p12j4ow-j4-outer-shaft-end-washer",
+    "name": "J4 outer shaft-end washer",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 shaft retainer washer with Ø50 mm outside diameter, Ø10.5 mm bore and 5 mm thickness.",
+    "tags": [
+      "tractor",
+      "shaft-end retainer",
+      "washer",
+      "J4",
+      "P12J4OW"
+    ],
+    "aliases": [
+      "J4 outer shaft-end washer",
+      "p12j4ow-j4-outer-shaft-end-washer"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/fasteners/washers",
+    "variant": "P12J4OW",
+    "file": "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer-XY.png",
+        "view": "Plan",
+        "alt": "J4 outer shaft-end washer, plan"
+      },
+      {
+        "file": "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outer shaft-end washer, elevation"
+      },
+      {
+        "file": "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer-YZ.png",
+        "view": "End",
+        "alt": "J4 outer shaft-end washer, end"
+      },
+      {
+        "file": "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outer shaft-end washer, isometric",
+        "thumbnail_file": "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer-XY.png",
+      "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer-XZ.png",
+      "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer-YZ.png",
+      "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer-top-isometric.png",
+      "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer.dwg",
+      "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/p12j4ow-j4-outer-shaft-end-washer.md",
+      "models/mechanical/fasteners/washers/p12j4ow-j4-outer-shaft-end-washer/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
