@@ -42801,5 +42801,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "fibox-r2-pilz-pnoz-x3-relay-packaging-layout",
+    "name": "Fibox R2 cabinet and Pilz PNOZ X3 packaging layout",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Fibox R2 cabinet with direct Phoenix rail and a drawing-traced Pilz PNOZ X3 relay packaging reference.",
+    "tags": [
+      "tractor",
+      "Fibox",
+      "R2",
+      "Pilz",
+      "PNOZ X3",
+      "relay packaging"
+    ],
+    "aliases": [
+      "Fibox R2 cabinet and Pilz PNOZ X3 packaging layout",
+      "fibox-r2-pilz-pnoz-x3-relay-packaging-layout"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "fibox-r2-pilz-pnoz-x3-relay-packaging-layout",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout-XY.png",
+        "view": "Plan",
+        "alt": "Fibox R2 cabinet and Pilz PNOZ X3 packaging layout, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout-XZ.png",
+        "view": "Elevation",
+        "alt": "Fibox R2 cabinet and Pilz PNOZ X3 packaging layout, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout-YZ.png",
+        "view": "End",
+        "alt": "Fibox R2 cabinet and Pilz PNOZ X3 packaging layout, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Fibox R2 cabinet and Pilz PNOZ X3 packaging layout, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/fibox-r2-pilz-pnoz-x3-relay-packaging-layout.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-pilz-pnoz-x3-relay-packaging-layout/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "fibox-r2-cabinet-with-direct-relay-mount",
+        "revision": 1,
+        "sha256": "1f0f6cdaf8424e37696ecaf2f797d6d5e5806799517a327e52c479b151701b0b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Fibox cabinet and rail mount"
+        ]
+      },
+      {
+        "id": "model-204",
+        "revision": null,
+        "sha256": "05ee9fcc76284d4c22e0672880647f73706d252a275c2e1d54d50c63ec32a268",
+        "dependency": "embedded",
+        "occurrences": [
+          "Pilz drawing-traced clearance reference"
+        ]
+      }
+    ]
   }
 ]
