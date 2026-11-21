@@ -52206,5 +52206,65 @@
       "models/mechanical/chassis/rails/p01j650-j4-right-rail-with-rear-top-mounts/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "j4-rear-top-mount-nut-bar",
+    "name": "J4 rear top-mount two-hole nut bar",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "50 × 24 × 33 mm internal J4 nut bar with two nominal M10 blind thread envelopes.",
+    "tags": [
+      "tractor",
+      "J4",
+      "deck mounts",
+      "nut bar",
+      "M10"
+    ],
+    "aliases": [
+      "J4 rear top-mount two-hole nut bar",
+      "j4-rear-top-mount-nut-bar"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/deck",
+    "variant": "j4-rear-top-mount-nut-bar",
+    "file": "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar-XY.png",
+        "view": "Plan",
+        "alt": "J4 rear top-mount two-hole nut bar, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 rear top-mount two-hole nut bar, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar-YZ.png",
+        "view": "End",
+        "alt": "J4 rear top-mount two-hole nut bar, end"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 rear top-mount two-hole nut bar, isometric",
+        "thumbnail_file": "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar-XY.png",
+      "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar-XZ.png",
+      "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar-YZ.png",
+      "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar-top-isometric.png",
+      "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar.dwg",
+      "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/j4-rear-top-mount-nut-bar.md",
+      "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
