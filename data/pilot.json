@@ -53182,5 +53182,70 @@
         "url": "https://media.southco.com/media/static/Literature/51-53-58.en.pdf#page=7"
       }
     ]
+  },
+  {
+    "id": "c001-t539-6pr-tyre-exterior",
+    "name": "Trelleborg T539 18×8.50-8 6PR tyre exterior",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Photo-derived T539 6PR tyre exterior for assembly display, with a rounded casing, stepped tread and tapered shoulder blocks at nominal Ø466 × 222 mm.",
+    "tags": [
+      "tractor",
+      "Trelleborg",
+      "T539",
+      "6PR",
+      "tube type",
+      "tyre",
+      "tread",
+      "photo-derived"
+    ],
+    "aliases": [
+      "T539 18x8.50-8 6PR",
+      "Trelleborg T539 18×8.50-8 6PR tyre exterior"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": [
+      {
+        "value": "466 mm",
+        "name": "nominal outside diameter"
+      },
+      {
+        "value": "222 mm",
+        "name": "nominal section width"
+      }
+    ],
+    "needs_information": false,
+    "revision": 1,
+    "state": "Checked photo-derived exterior reconstruction",
+    "category_path": "mechanical/wheels-and-tyres",
+    "variant": "18×8.50-8 6PR tube type",
+    "file": "models/mechanical/wheels-and-tyres/c001-t539-6pr-tyre-exterior/c001-t539-6pr-tyre-exterior.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/wheels-and-tyres/c001-t539-6pr-tyre-exterior/ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "T539 tyre exterior showing stepped tread and the open centre",
+        "thumbnail_file": "models/mechanical/wheels-and-tyres/c001-t539-6pr-tyre-exterior/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical/wheels-and-tyres/c001-t539-6pr-tyre-exterior/ocs-wireframe.png",
+        "view": "OpenCADStudio · Isometric wireframe",
+        "alt": "T539 tyre exterior native wireframe"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/wheels-and-tyres/c001-t539-6pr-tyre-exterior/c001-t539-6pr-tyre-exterior.dwg",
+      "models/mechanical/wheels-and-tyres/c001-t539-6pr-tyre-exterior/c001-t539-6pr-tyre-exterior.md",
+      "models/mechanical/wheels-and-tyres/c001-t539-6pr-tyre-exterior/ocs-isometric.png",
+      "models/mechanical/wheels-and-tyres/c001-t539-6pr-tyre-exterior/ocs-wireframe.png",
+      "models/mechanical/wheels-and-tyres/c001-t539-6pr-tyre-exterior/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Trelleborg Technical Manual, T539 6PR, printed page 221",
+        "url": "https://www.trelleborg-tires.com/-/media/tires-aft/datatsheet/technical-manual/trelleborg-technical-manual-en.pdf?hash=AB0C897622FFD6443624A33BDFA5552E&rev=258948143820400e9a05c5a63b8c7ae0&sc_lang=en#page=111"
+      }
+    ]
   }
 ]
