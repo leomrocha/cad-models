@@ -45967,5 +45967,94 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-bmw-300mm-caster-with-dogleg-gemini-receiver",
+    "name": "J3f BMW 300 mm caster chassis with raised Gemini receiver",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "J3f BMW 300 mm caster chassis with Fibox cabinet and dog-leg Gemini receiver installation.",
+    "tags": [
+      "J3f",
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "cradle",
+      "rail",
+      "raised",
+      "BMW i3",
+      "Fibox",
+      "300 mm caster"
+    ],
+    "aliases": [
+      "J3f BMW 300 mm caster with dog-leg Gemini receiver"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J3f BMW 300 mm caster with dog-leg Gemini receiver",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver-XY.png",
+        "view": "Plan",
+        "alt": "J3f BMW 300 mm caster chassis with raised Gemini receiver, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f BMW 300 mm caster chassis with raised Gemini receiver, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver-YZ.png",
+        "view": "End",
+        "alt": "J3f BMW 300 mm caster chassis with raised Gemini receiver, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f BMW 300 mm caster chassis with raised Gemini receiver, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-dogleg-gemini-receiver/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "j3f-bmw-300mm-caster-with-fibox-r2-cabinet",
+        "revision": 3,
+        "sha256": "ededb3ceb6101f5b19e1912182ac6e5d3b62969ceacbfce75a64835a85049a16",
+        "dependency": "derived",
+        "occurrences": [
+          "Existing caster and cabinet chassis"
+        ]
+      },
+      {
+        "id": "j3f-dogleg-raised-receiver-rail-and-cradle",
+        "revision": 1,
+        "sha256": "c72f47c115d0e06ebbcbe480c630e666cae5d76938d9f069f59dc4e9caa75b08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised receiver assembly"
+        ]
+      }
+    ]
   }
 ]
