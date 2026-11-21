@@ -46914,5 +46914,79 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c134-iso-7380-1-m6x30-button-head-envelope",
+    "name": "C134 ISO 7380-1 M6 × 30 button-head screw clearance reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/fasteners",
+    "description": "C134 nominal M6 × 30 screw envelope with a maximum cylindrical head and minimum hex recess.",
+    "tags": [
+      "ISO 7380-1",
+      "M6",
+      "button head",
+      "clearance",
+      "J4"
+    ],
+    "aliases": [
+      "C134 button-head clearance envelope"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": [
+      {
+        "designation": "ISO 7380-1",
+        "relationship": "source dimensional family"
+      }
+    ],
+    "dimensions": null,
+    "state": "Discussion clearance reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "M6 × 30 maximum cylindrical head",
+    "file": "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope.dwg",
+    "package_assets": [
+      "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope-XY.png",
+      "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope-XZ.png",
+      "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope-YZ.png",
+      "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope-top-isometric.png",
+      "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope.dwg",
+      "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope.md",
+      "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope-XY.png",
+        "view": "Plan",
+        "alt": "C134 ISO 7380-1 M6 × 30 button-head screw clearance reference, plan"
+      },
+      {
+        "file": "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope-XZ.png",
+        "view": "Elevation",
+        "alt": "C134 ISO 7380-1 M6 × 30 button-head screw clearance reference, elevation"
+      },
+      {
+        "file": "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope-YZ.png",
+        "view": "End",
+        "alt": "C134 ISO 7380-1 M6 × 30 button-head screw clearance reference, end"
+      },
+      {
+        "file": "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/c134-iso-7380-1-m6x30-button-head-envelope-top-isometric.png",
+        "view": "Isometric",
+        "alt": "C134 ISO 7380-1 M6 × 30 button-head screw clearance reference, isometric",
+        "thumbnail_file": "models/mechanical/fasteners/c134-iso-7380-1-m6x30-button-head-envelope/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Böllhoff ISO 7380-1 steel 10.9 button-head screws",
+        "url": "https://eshop-ro.boellhoff.com/out/media/pdf/ISO_7380-1_Stahl_10.9_Innensechskant___en.pdf"
+      }
+    ],
+    "model_references": []
   }
 ]
