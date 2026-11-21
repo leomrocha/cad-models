@@ -41674,5 +41674,89 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22r2xb-fibox-rear-cabinet-crossmember",
+    "name": "R2 Fibox cabinet crossmember with four rear-wall passages",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "R2 cabinet support crossmember, 520 mm long, with a nominal 40 × 40 × 3 mm section and four Ø6.6 mm passages through its rear wall.",
+    "tags": [
+      "Fibox",
+      "R2",
+      "tractor",
+      "cabinet support",
+      "crossmember"
+    ],
+    "aliases": [
+      "R2 Fibox cabinet crossmember with four rear-wall passages",
+      "p22r2xb-fibox-rear-cabinet-crossmember"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "electrical/enclosure-mounts",
+    "variant": "p22r2xb-fibox-rear-cabinet-crossmember",
+    "file": "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember.dwg",
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember-XY.png",
+        "view": "Plan",
+        "alt": "R2 Fibox cabinet crossmember with four rear-wall passages, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember-XZ.png",
+        "view": "Elevation",
+        "alt": "R2 Fibox cabinet crossmember with four rear-wall passages, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember-YZ.png",
+        "view": "End",
+        "alt": "R2 Fibox cabinet crossmember with four rear-wall passages, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember-top-isometric.png",
+        "view": "Isometric",
+        "alt": "R2 Fibox cabinet crossmember with four rear-wall passages, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember-XY.png",
+      "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember-XZ.png",
+      "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember-YZ.png",
+      "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember.dwg",
+      "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/p22r2xb-fibox-rear-cabinet-crossmember.md",
+      "models/electrical/enclosure-mounts/p22r2xb-fibox-rear-cabinet-crossmember/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p22rcar-r2-fibox-rear-cabinet-carrier",
+        "revision": 1,
+        "sha256": "a033377b33ebc2a64724d24809253665d01f4c4ad10cc359a82b6b72af20763d",
+        "dependency": "derived",
+        "occurrences": [
+          "Carrier support holes"
+        ]
+      },
+      {
+        "id": "p07ou-hitch-frame-rear-outrigger",
+        "revision": 1,
+        "sha256": "71e3a1924e3486da8f2792209c1d77dbf75ebb2341b44784a7238896f220917c",
+        "dependency": "derived",
+        "occurrences": [
+          "40 mm rounded tube section"
+        ]
+      }
+    ]
   }
 ]
