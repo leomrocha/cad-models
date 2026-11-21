@@ -48957,5 +48957,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p01j650-j4-left-offset-guard-rail",
+    "name": "J4 left raised chassis rail with offset guard mount bores",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "650 mm raised J4 left rail with four offset guard mounting passages through both walls.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chain guard",
+      "longitudinal rail",
+      "mounting bores"
+    ],
+    "aliases": [
+      "J4 left raised chassis rail with offset guard mount bores",
+      "p01j650-j4-left-offset-guard-rail"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/rails",
+    "variant": "p01j650-j4-left-offset-guard-rail",
+    "file": "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail-XY.png",
+        "view": "Plan",
+        "alt": "J4 left raised chassis rail with offset guard mount bores, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 left raised chassis rail with offset guard mount bores, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail-YZ.png",
+        "view": "End",
+        "alt": "J4 left raised chassis rail with offset guard mount bores, end"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 left raised chassis rail with offset guard mount bores, isometric",
+        "thumbnail_file": "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail-XY.png",
+      "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail-XZ.png",
+      "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail-YZ.png",
+      "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail-top-isometric.png",
+      "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail.dwg",
+      "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/p01j650-j4-left-offset-guard-rail.md",
+      "models/mechanical/chassis/rails/p01j650-j4-left-offset-guard-rail/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
