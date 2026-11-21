@@ -51852,5 +51852,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-30mm-250mm-caster-revised-guards-bmw-tray",
+    "name": "J4 30 mm drive and 250 mm caster chassis with revised guards and BMW tray",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 chassis with deck-foot passages, revised guards, BMW tray and 250 mm caster.",
+    "tags": [
+      "tractor",
+      "J4",
+      "BMW i3",
+      "battery tray",
+      "chain guard",
+      "deck mounts"
+    ],
+    "aliases": [
+      "J4 30 mm drive and 250 mm caster chassis with revised guards and BMW tray",
+      "j4-30mm-250mm-caster-revised-guards-bmw-tray"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-30mm-250mm-caster-revised-guards-bmw-tray",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray-XY.png",
+        "view": "Plan",
+        "alt": "J4 30 mm drive and 250 mm caster chassis with revised guards and BMW tray, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 30 mm drive and 250 mm caster chassis with revised guards and BMW tray, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray-YZ.png",
+        "view": "End",
+        "alt": "J4 30 mm drive and 250 mm caster chassis with revised guards and BMW tray, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 30 mm drive and 250 mm caster chassis with revised guards and BMW tray, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/j4-30mm-250mm-caster-revised-guards-bmw-tray.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-250mm-caster-revised-guards-bmw-tray/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-30mm-drive-250mm-caster-with-deck-compatible-guards",
+        "revision": 1,
+        "sha256": "24c1ea6f3375041333451b164771a9fdf02c69e7129b7b3c20998de224bfb83b",
+        "dependency": "embedded",
+        "occurrences": [
+          "J4 guarded chassis"
+        ]
+      },
+      {
+        "id": "bmw-i3-raised-j-tray-with-b01-threaded-bridges",
+        "revision": 1,
+        "sha256": "77d5fe79cf7599605e23d8668bf67ef6263da5f1a402b053eff8ad0ac8156246",
+        "dependency": "embedded",
+        "occurrences": [
+          "BMW raised tray and supports"
+        ]
+      }
+    ]
   }
 ]
