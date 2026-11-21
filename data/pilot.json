@@ -48332,5 +48332,84 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p16j4bkl-j4-left-guard-back-sheet-offset-mount",
+    "name": "J4 left guard back sheet for the offset upper mount",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/guards",
+    "description": "J4 left guard back sheet with trimmed upper land and retained hub and motor shaft openings.",
+    "tags": [
+      "J4",
+      "guard",
+      "left",
+      "offset-back",
+      "sheet blank"
+    ],
+    "aliases": [
+      "P16J4BKL drive openings"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion retained-drive machining reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 left offset-back retained drive openings",
+    "file": "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount.dwg",
+    "package_assets": [
+      "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount-XY.png",
+      "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount-XZ.png",
+      "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount-YZ.png",
+      "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount-top-isometric.png",
+      "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount.dwg",
+      "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount.md",
+      "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount-XY.png",
+        "view": "Plan",
+        "alt": "J4 left guard back sheet for the offset upper mount, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 left guard back sheet for the offset upper mount, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount-YZ.png",
+        "view": "End",
+        "alt": "J4 left guard back sheet for the offset upper mount, end"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/p16j4bkl-j4-left-guard-back-sheet-offset-mount-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 left guard back sheet for the offset upper mount, isometric",
+        "thumbnail_file": "models/mechanical/guards/p16j4bkl-j4-left-guard-back-sheet-offset-mount/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "iwis ELITE 520-1 roller chain, part 81013824",
+        "url": "https://www.iwis.com/en-en/products-services/roller-chain-520-1-elite~p3368?_locale=en_GB"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p16j4bkl-j4-left-guard-back-sheet-retained-drive-openings",
+        "revision": 1,
+        "sha256": "8442abfa7b43fc8382055ce2c47b5fd7fbbf6b12ad3b44d1283e531e08758b95",
+        "dependency": "derived",
+        "occurrences": [
+          "Guard opening source geometry"
+        ]
+      }
+    ]
   }
 ]
