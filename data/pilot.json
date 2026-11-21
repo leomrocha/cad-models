@@ -48550,12 +48550,7 @@
         "thumbnail_file": "models/mechanical/guards/j4-offset-upper-guard-body-tab-brace/thumbnail.png"
       }
     ],
-    "sources": [
-      {
-        "title": "iwis ELITE 520-1 roller chain, part 81013824",
-        "url": "https://www.iwis.com/en-en/products-services/roller-chain-520-1-elite~p3368?_locale=en_GB"
-      }
-    ],
+    "sources": [],
     "model_references": [
       {
         "id": "j4-offset-upper-guard-body-tab",
