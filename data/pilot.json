@@ -52962,5 +52962,76 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-recessed-deck-for-rear-top-feet",
+    "name": "J4 recessed deck with front fasteners for rear top-mounted feet",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 recessed deck and lifting supports with front hardware for the rear top-mount chassis.",
+    "tags": [
+      "tractor",
+      "J4",
+      "deck",
+      "lifting supports",
+      "rear top mounts"
+    ],
+    "aliases": [
+      "J4 recessed deck with front fasteners for rear top-mounted feet",
+      "j4-recessed-deck-for-rear-top-feet"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-recessed-deck-for-rear-top-feet",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet-XY.png",
+        "view": "Plan",
+        "alt": "J4 recessed deck with front fasteners for rear top-mounted feet, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 recessed deck with front fasteners for rear top-mounted feet, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet-YZ.png",
+        "view": "End",
+        "alt": "J4 recessed deck with front fasteners for rear top-mounted feet, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 recessed deck with front fasteners for rear top-mounted feet, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/j4-recessed-deck-for-rear-top-feet.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-for-rear-top-feet/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-recessed-deck-and-foot-hardware",
+        "revision": 1,
+        "sha256": "0ffc7d7a1cabe427ff8743e0b7555c95cc779cddb0266a85274ba73ce42dc23a",
+        "dependency": "derived",
+        "occurrences": [
+          "Recessed deck and front foot hardware"
+        ]
+      }
+    ]
   }
 ]
