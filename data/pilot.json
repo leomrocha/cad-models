@@ -57462,5 +57462,112 @@
       }
     ],
     "sources": []
+  },
+  {
+    "id": "j4-800mm-keyed-wheel-end-30mm",
+    "name": "J4 width-target keyed wheel end with relieved retainer",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "Five-piece wheel end for the 800 mm J4 wheel-width proposal, with the 276.78 mm keyed shaft and Knott wheel flange.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel drive",
+      "800 mm width",
+      "end"
+    ],
+    "aliases": [
+      "J4 width-target keyed wheel end with relieved retainer",
+      "j4-800mm-keyed-wheel-end-30mm"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "800 mm wheel-width proposal",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/j4-800mm-keyed-wheel-end-30mm.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/j4-800mm-keyed-wheel-end-30mm-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/j4-800mm-keyed-wheel-end-30mm-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/j4-800mm-keyed-wheel-end-30mm-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/j4-800mm-keyed-wheel-end-30mm.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/j4-800mm-keyed-wheel-end-30mm.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 width-target keyed wheel end with relieved retainer, OpenCADStudio · Isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/j4-800mm-keyed-wheel-end-30mm-XY.png",
+        "view": "Plan",
+        "alt": "J4 width-target keyed wheel end with relieved retainer, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/j4-800mm-keyed-wheel-end-30mm-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 width-target keyed wheel end with relieved retainer, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-keyed-wheel-end-30mm/j4-800mm-keyed-wheel-end-30mm-YZ.png",
+        "view": "End",
+        "alt": "J4 width-target keyed wheel end with relieved retainer, end"
+      }
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p12j430-j4-800mm-keyed-wheel-shaft-276p78",
+        "revision": 1,
+        "sha256": "022912d79313e57cf7f4b8cb2e2196725e3921187bfefe53c93c106f6a2207b3",
+        "dependency": "embedded",
+        "occurrences": [
+          "Keyed wheel shaft"
+        ]
+      },
+      {
+        "id": "p14j430-j4-wheel-flange-30mm-bore",
+        "revision": 1,
+        "sha256": "20a5963d431f7f95a75f48e16fa109ded7d21fe7a9340b6fcf7cef4ca3a1a4fb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Knott wheel flange"
+        ]
+      },
+      {
+        "id": "j4-8x7x40-round-ended-wheel-shaft-key",
+        "revision": 1,
+        "sha256": "3c2a74f8c9783ae1b38c670f3308fdc73bcf967f7416b20c5388363786d6d675",
+        "dependency": "embedded",
+        "occurrences": [
+          "Wheel flange key"
+        ]
+      },
+      {
+        "id": "j4-relieved-outer-wheel-retainer-washer",
+        "revision": 1,
+        "sha256": "a74d76d8da83aa2d72da19684364e8440a206519ff8d240e9c7a77923eeb82da",
+        "dependency": "embedded",
+        "occurrences": [
+          "Outboard end washer"
+        ]
+      },
+      {
+        "id": "j4-m10x25-outer-wheel-retainer-screw",
+        "revision": 1,
+        "sha256": "926003aab2ea5610f368bc9b63a9ef8869d59d10fe18c555c8bfd3a6a02f3fb0",
+        "dependency": "embedded",
+        "occurrences": [
+          "M10 outer retainer screw"
+        ]
+      }
+    ]
   }
 ]
