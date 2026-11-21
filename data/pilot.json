@@ -56277,5 +56277,69 @@
       "models/mechanical/guards/p24j4-outboard-splash-left-upper-stand-off/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p24j4-outboard-splash-right-upper-stand-off",
+    "name": "J4 outboard splash right upper stand off",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 outboard splash right upper stand off. Proposed steel blank measures 8 × 76.5 × 8 mm along local X, Y and Z.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "outboard support",
+      "right-upper-stand-off"
+    ],
+    "aliases": [
+      "J4 outboard splash right upper stand off",
+      "p24j4-outboard-splash-right-upper-stand-off"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "p24j4-outboard-splash-right-upper-stand-off",
+    "file": "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off-XY.png",
+        "view": "Plan",
+        "alt": "J4 outboard splash right upper stand off, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outboard splash right upper stand off, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off-YZ.png",
+        "view": "End",
+        "alt": "J4 outboard splash right upper stand off, end"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outboard splash right upper stand off, isometric",
+        "thumbnail_file": "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off-XY.png",
+      "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off-XZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off-YZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off-top-isometric.png",
+      "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off.dwg",
+      "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/p24j4-outboard-splash-right-upper-stand-off.md",
+      "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
