@@ -58138,5 +58138,72 @@
       }
     ],
     "model_references": null
+  },
+  {
+    "id": "p07jdw-j4-20mm-terminal-drop-web",
+    "name": "J4 20 mm terminal drop web",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "40 × 6 × 20 mm drop web supporting the SM453 terminal plate.",
+    "tags": [
+      "tractor",
+      "J4",
+      "H390",
+      "tow-ball support",
+      "web"
+    ],
+    "aliases": [
+      "J4 20 mm terminal drop web",
+      "p07jdw-j4-20mm-terminal-drop-web"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "p07jdw-j4-20mm-terminal-drop-web",
+    "file": "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 20 mm terminal drop web, opencadstudio · isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-XY.png",
+        "view": "Plan",
+        "alt": "J4 20 mm terminal drop web, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 20 mm terminal drop web, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-YZ.png",
+        "view": "End",
+        "alt": "J4 20 mm terminal drop web, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 20 mm terminal drop web, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-XY.png",
+      "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-XZ.png",
+      "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-YZ.png",
+      "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-ocs-isometric.png",
+      "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web-top-isometric.png",
+      "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web.dwg",
+      "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/p07jdw-j4-20mm-terminal-drop-web.md",
+      "models/mechanical/chassis/hitch/p07jdw-j4-20mm-terminal-drop-web/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": null
   }
 ]
