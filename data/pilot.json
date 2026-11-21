@@ -40139,5 +40139,98 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield",
+    "name": "BMW i3 94 Ah raised J tray floor for removable shield uprights",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Raised J tray floor with four 8 × 20 mm extensions, four Ø8.5 mm battery-tab holes and four Ø4.5 mm shield-upright holes. The floor is 3 mm thick.",
+    "tags": [
+      "tractor",
+      "battery tray",
+      "BMW i3 94 Ah",
+      "raised frame",
+      "p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield"
+    ],
+    "aliases": [
+      "BMW i3 94 Ah raised J tray floor for removable shield uprights",
+      "p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield",
+    "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield-XY.png",
+        "view": "Plan",
+        "alt": "BMW i3 94 Ah raised J tray floor for removable shield uprights, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW i3 94 Ah raised J tray floor for removable shield uprights, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield-YZ.png",
+        "view": "End",
+        "alt": "BMW i3 94 Ah raised J tray floor for removable shield uprights, end"
+      },
+      {
+        "file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW i3 94 Ah raised J tray floor for removable shield uprights, isometric",
+        "thumbnail_file": "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield-XY.png",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield-XZ.png",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield-YZ.png",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield-top-isometric.png",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield.dwg",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield.md",
+      "models/mechanical/chassis/p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-64",
+        "revision": null,
+        "dependency": "derived",
+        "sha256": "95404b6f6410cf73dffd875f34d33959afcc8d6c99a7cb8506f0e694b6589e2c",
+        "occurrences": [
+          "mounting-hole-template"
+        ]
+      },
+      {
+        "id": "p18bmw-j-bmw-i3-94ah-tray-floor",
+        "revision": 1,
+        "dependency": "derived",
+        "sha256": "9abca13042ca6180eb30ded95d8159c104d4c8d2cb19f854ca48bce9a38697df",
+        "occurrences": [
+          "Original floor"
+        ]
+      },
+      {
+        "id": "model-185",
+        "revision": null,
+        "dependency": "derived",
+        "sha256": "6917d788dc1ec284733f91efad6467eb0de387285a9044969e1880f243886bc5",
+        "occurrences": [
+          "Removable shield upright"
+        ]
+      }
+    ]
   }
 ]
