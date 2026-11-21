@@ -42386,5 +42386,70 @@
         "url": "https://www.phoenixcontact.com/us/products/0807012"
       }
     ]
+  },
+  {
+    "id": "phoenix-0804271-ens35-end-stop",
+    "name": "Phoenix Contact E/NS 35 N BK rail end stop",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Phoenix Contact 0804271 end stop in a rail-mating frame. The source geometry measures 9.5 mm along the rail, 48.6 mm across and 32.8 mm deep.",
+    "tags": [
+      "DIN rail",
+      "Phoenix Contact",
+      "0804271",
+      "end stop",
+      "NS 35/7.5"
+    ],
+    "aliases": [
+      "Phoenix Contact E/NS 35 N BK rail end stop",
+      "phoenix-0804271-ens35-end-stop"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "electrical/din-rails",
+    "variant": "phoenix-0804271-ens35-end-stop",
+    "file": "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop.dwg",
+    "previews": [
+      {
+        "file": "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop-XY.png",
+        "view": "Plan",
+        "alt": "Phoenix Contact E/NS 35 N BK rail end stop, plan"
+      },
+      {
+        "file": "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop-XZ.png",
+        "view": "Elevation",
+        "alt": "Phoenix Contact E/NS 35 N BK rail end stop, elevation"
+      },
+      {
+        "file": "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop-YZ.png",
+        "view": "End",
+        "alt": "Phoenix Contact E/NS 35 N BK rail end stop, end"
+      },
+      {
+        "file": "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Phoenix Contact E/NS 35 N BK rail end stop, isometric",
+        "thumbnail_file": "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop-XY.png",
+      "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop-XZ.png",
+      "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop-YZ.png",
+      "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop-top-isometric.png",
+      "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop.dwg",
+      "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/phoenix-0804271-ens35-end-stop.md",
+      "models/electrical/din-rails/phoenix-0804271-ens35-end-stop/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Phoenix Contact E/NS 35 N BK, item 0804271, manufacturer CAD",
+        "url": "https://www.phoenixcontact.com/en-us/products/end-block-ens-35-n-bk-0804271"
+      }
+    ]
   }
 ]
