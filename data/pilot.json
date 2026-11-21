@@ -49909,5 +49909,108 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-a06-captive-thread-plate-joint",
+    "name": "J4 A06 captive thread plate and guard tab joint",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "J4 offset guard joint with a captive thread plate and one-sided screw access.",
+    "tags": [
+      "J4",
+      "chain guard",
+      "A06",
+      "captive thread"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 A06 captive thread plate and guard tab joint",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint-XY.png",
+        "view": "Plan",
+        "alt": "J4 A06 captive thread plate and guard tab joint, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 A06 captive thread plate and guard tab joint, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint-YZ.png",
+        "view": "End",
+        "alt": "J4 A06 captive thread plate and guard tab joint, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/j4-a06-captive-thread-plate-joint-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 A06 captive thread plate and guard tab joint, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a06-captive-thread-plate-joint/thumbnail.png"
+      }
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-a07-offset-guard-rail-stack",
+        "revision": 1,
+        "sha256": "613f93d7ecbd275df40faec3e51306ae7b27238ea7ccb4e565f05e8f9738746c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Fixed rail stack"
+        ]
+      },
+      {
+        "id": "j4-a06-captive-thread-plate",
+        "revision": 1,
+        "sha256": "3b9351ce809fc786b677b5450c75b948cb0ee16a6d63d8e57f1eacd70a0abc0c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Captive threaded plate"
+        ]
+      },
+      {
+        "id": "j4-offset-upper-guard-braced-body-tab",
+        "revision": 1,
+        "sha256": "560450c5ca837ad3bbda67e7c67ab1a22f5285dc96dc9c0141c8899735b56dc2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Braced guard tab"
+        ]
+      },
+      {
+        "id": "iso-4017-m6x20",
+        "revision": null,
+        "sha256": "32dcc1ddeecddfa8687901a913f6a6aa1e6cb574c311daa8cc1f59ebc896eb4d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Guard screw"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Outer washer"
+        ]
+      }
+    ]
   }
 ]
