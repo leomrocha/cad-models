@@ -53517,5 +53517,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-kelly-left-forward-short-rail-insert",
+    "name": "J4 left forward Kelly threaded insert with guard clearance",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "23 × 24 × 15 mm J4 left forward Kelly insert with a 13 mm blind M6 thread envelope.",
+    "tags": [
+      "tractor",
+      "J4",
+      "Kelly",
+      "outboard joint",
+      "rail insert"
+    ],
+    "aliases": [
+      "J4 left forward Kelly threaded insert with guard clearance",
+      "j4-kelly-left-forward-short-rail-insert"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/attachment-supports",
+    "variant": "j4-kelly-left-forward-short-rail-insert",
+    "file": "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert-XY.png",
+        "view": "Plan",
+        "alt": "J4 left forward Kelly threaded insert with guard clearance, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 left forward Kelly threaded insert with guard clearance, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert-YZ.png",
+        "view": "End",
+        "alt": "J4 left forward Kelly threaded insert with guard clearance, end"
+      },
+      {
+        "file": "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 left forward Kelly threaded insert with guard clearance, isometric",
+        "thumbnail_file": "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert-XY.png",
+      "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert-XZ.png",
+      "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert-YZ.png",
+      "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert-top-isometric.png",
+      "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert.dwg",
+      "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/j4-kelly-left-forward-short-rail-insert.md",
+      "models/mechanical/chassis/attachment-supports/j4-kelly-left-forward-short-rail-insert/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j3f-kelly-outboard-rail-insert",
+        "revision": 1,
+        "sha256": "69d8cd42b1202be1481d0da482becf6bde4d135f499d5f27e9d5c98271869dc5",
+        "dependency": "derived",
+        "occurrences": [
+          "Original blind-bore insert"
+        ]
+      }
+    ]
   }
 ]
