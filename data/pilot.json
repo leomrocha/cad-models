@@ -57681,5 +57681,52 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c004-knott-402386-001-mounting-reference",
+    "name": "Knott 402386.001 rim mounting datums",
+    "subject": "Interface references",
+    "kind": "standard",
+    "category_path": "interface-references/wheels-and-tyres",
+    "description": "Planar mounting datums for the Knott 402386.001 rim, with Ø60 centre bore, 4 × 100 mm pattern and ET0 offset.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel drive",
+      "800 mm width",
+      "rim"
+    ],
+    "aliases": [
+      "Knott 402386.001 rim mounting datums",
+      "c004-knott-402386-001-mounting-reference"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "800 mm wheel-width proposal",
+    "file": "models/interface-references/wheels-and-tyres/c004-knott-402386-001-mounting-reference/c004-knott-402386-001-mounting-reference.dwg",
+    "package_assets": [
+      "models/interface-references/wheels-and-tyres/c004-knott-402386-001-mounting-reference/c004-knott-402386-001-mounting-reference.dwg",
+      "models/interface-references/wheels-and-tyres/c004-knott-402386-001-mounting-reference/c004-knott-402386-001-mounting-reference.md",
+      "models/interface-references/wheels-and-tyres/c004-knott-402386-001-mounting-reference/ocs-top.png",
+      "models/interface-references/wheels-and-tyres/c004-knott-402386-001-mounting-reference/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/interface-references/wheels-and-tyres/c004-knott-402386-001-mounting-reference/ocs-top.png",
+        "view": "OpenCADStudio · Top",
+        "alt": "Knott 402386.001 rim mounting datums, OpenCADStudio · Top",
+        "thumbnail_file": "models/interface-references/wheels-and-tyres/c004-knott-402386-001-mounting-reference/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Knott 2018 catalogue, page 7, rim 402386.001",
+        "url": "https://www.knott-trailer.co.uk/catalogs/Katalog2018Downloadversion-Regenstauf.pdf"
+      }
+    ]
   }
 ]
