@@ -53720,5 +53720,113 @@
       "models/mechanical/chassis/rails/p01j650-j4-right-rear-top-mount-and-kelly-rail/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "j4-kelly-carrier-and-guard-rail-installation",
+    "name": "J4 Kelly controller carriers on guarded rails",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two Kelly KLS7240N V1.21 controller envelopes and their carriers on the guarded J4 rails with four outboard clamps.",
+    "tags": [
+      "tractor",
+      "J4",
+      "Kelly",
+      "KLS7240N",
+      "controller carrier",
+      "guard rails"
+    ],
+    "aliases": [
+      "J4 Kelly controller carriers on guarded rails",
+      "j4-kelly-carrier-and-guard-rail-installation"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-kelly-carrier-and-guard-rail-installation",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation-XY.png",
+        "view": "Plan",
+        "alt": "J4 Kelly controller carriers on guarded rails, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 Kelly controller carriers on guarded rails, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation-YZ.png",
+        "view": "End",
+        "alt": "J4 Kelly controller carriers on guarded rails, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 Kelly controller carriers on guarded rails, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/j4-kelly-carrier-and-guard-rail-installation.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-carrier-and-guard-rail-installation/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-rails-with-rear-top-feet-and-guard-mounts",
+        "revision": 1,
+        "sha256": "0bde724db98a52c28d83b7791d5d14f07809394f2b67684bbba8ddc6314d8188",
+        "dependency": "derived",
+        "occurrences": [
+          "J4 guard joints and rear top mounts"
+        ]
+      },
+      {
+        "id": "j3f-kelly-controller-pair-with-four-outboard-clamps",
+        "revision": 1,
+        "sha256": "95165f7630e9f423f07a9f8b70f0a32b8c33c137f7580a274e3ad9bf90616793",
+        "dependency": "derived",
+        "occurrences": [
+          "Kelly controllers and carrier hardware"
+        ]
+      },
+      {
+        "id": "p01j650-j4-left-rear-top-mount-and-kelly-rail",
+        "revision": 1,
+        "sha256": "bf9978d893faad0b9fc7960126fe8f63445a8219e42aeb8653eb6b1d5b315b5a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left machined rail"
+        ]
+      },
+      {
+        "id": "p01j650-j4-right-rear-top-mount-and-kelly-rail",
+        "revision": 1,
+        "sha256": "2a163ab33ab0e5695add510a59ee572a098c09e0b0231719f34715a4e4bb2671",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right machined rail"
+        ]
+      },
+      {
+        "id": "j4-kelly-left-forward-short-rail-insert",
+        "revision": 1,
+        "sha256": "d3662a4b1cadbc7495f50dede2872adba8651e4ce624c76120f514c267ebec09",
+        "dependency": "embedded",
+        "occurrences": [
+          "Trimmed left forward rail insert"
+        ]
+      }
+    ]
   }
 ]
