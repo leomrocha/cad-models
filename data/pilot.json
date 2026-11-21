@@ -56665,5 +56665,94 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24j4-outboard-splash-joint-hardware",
+    "name": "J4 outboard splash fixing hardware",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 splash-panel screw, Ø12 × 5.5 mm spacer and ISO 7089 M6 washer.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "M6",
+      "outboard fixing"
+    ],
+    "aliases": [
+      "J4 outboard splash fixing hardware",
+      "p24j4-outboard-splash-joint-hardware"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "p24j4-outboard-splash-joint-hardware",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware-XY.png",
+        "view": "Plan",
+        "alt": "J4 outboard splash fixing hardware, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outboard splash fixing hardware, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware-YZ.png",
+        "view": "End",
+        "alt": "J4 outboard splash fixing hardware, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outboard splash fixing hardware, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/p24j4-outboard-splash-joint-hardware.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-joint-hardware/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24j4-outboard-splash-joint-spacer",
+        "revision": 1,
+        "sha256": "f443c3145adc8bbf97de60ed19daf9480078589893daccaa041044a7be2f6dab",
+        "dependency": "embedded",
+        "occurrences": [
+          "Panel spacer"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "M6 plain washer"
+        ]
+      },
+      {
+        "id": "model-70",
+        "revision": null,
+        "sha256": "0c8ca6b61cd26be2cc79642bab28684f302d798740ce33cab4da2479defd7a13",
+        "dependency": "embedded",
+        "occurrences": [
+          "M6 x 16 screw"
+        ]
+      }
+    ]
   }
 ]
