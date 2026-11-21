@@ -59014,5 +59014,55 @@
         "url": "https://media.southco.com/media/static/Literature/51-53-58.en.pdf#page=7"
       }
     ]
+  },
+  {
+    "id": "c119-southco-51-72-610-24-installed-captive-standoff",
+    "name": "Southco 51-72-610-24 installed captive standoff",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/fasteners",
+    "description": "Southco M3 standoff installation reference formed into the 82° seat of a 3 mm panel.",
+    "tags": [
+      "Southco",
+      "51-72-610-24",
+      "M3",
+      "captive fastener"
+    ],
+    "aliases": [
+      "Southco 51-72-610-24 installed captive standoff",
+      "c119-southco-51-72-610-24-installed-captive-standoff"
+    ],
+    "materials": [
+      {
+        "name": "305 stainless steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Installation reference with estimated profile details",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "Bright polished 51-72-610-24",
+    "file": "models/mechanical/fasteners/c119-southco-51-72-610-24-installed-captive-standoff/c119-southco-51-72-610-24-installed-captive-standoff.dwg",
+    "package_assets": [
+      "models/mechanical/fasteners/c119-southco-51-72-610-24-installed-captive-standoff/c119-southco-51-72-610-24-installed-captive-standoff.dwg",
+      "models/mechanical/fasteners/c119-southco-51-72-610-24-installed-captive-standoff/c119-southco-51-72-610-24-installed-captive-standoff.md",
+      "models/mechanical/fasteners/c119-southco-51-72-610-24-installed-captive-standoff/ocs-isometric.png",
+      "models/mechanical/fasteners/c119-southco-51-72-610-24-installed-captive-standoff/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/fasteners/c119-southco-51-72-610-24-installed-captive-standoff/ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Southco 51-72-610-24 installed captive standoff in OpenCADStudio",
+        "thumbnail_file": "models/mechanical/fasteners/c119-southco-51-72-610-24-installed-captive-standoff/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Southco Polished Series M3 captive fasteners, printed page 250",
+        "url": "https://media.southco.com/media/static/Literature/51-53-58.en.pdf#page=7"
+      }
+    ]
   }
 ]
