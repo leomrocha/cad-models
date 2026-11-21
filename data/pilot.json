@@ -43966,5 +43966,95 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxp80t-gemini-uplift-pad",
+    "name": "P22RXP80T Tyro Gemini 1S uplift pad",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle uplift pad. Nominal 80 × 16 × 3 mm EPDM laminate. Quantity 1 per cradle.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "uplift pad",
+      "cradle",
+      "EPDM"
+    ],
+    "aliases": [
+      "P22RXP80T",
+      "Gemini uplift pad"
+    ],
+    "materials": [
+      {
+        "name": "EPDM"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXP80T uplift pad",
+    "file": "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad-XY.png",
+      "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad.dwg",
+      "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad.md",
+      "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad-XY.png",
+        "view": "Plan",
+        "alt": "P22RXP80T Tyro Gemini 1S uplift pad, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXP80T Tyro Gemini 1S uplift pad, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad-YZ.png",
+        "view": "End",
+        "alt": "P22RXP80T Tyro Gemini 1S uplift pad, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXP80T Tyro Gemini 1S uplift pad, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxt-gemini-upper-keeper",
+        "revision": 1,
+        "sha256": "ee73b0b5686874476e2912de238ccce1477c65f5eb435ee68cab508d7901c0fb",
+        "dependency": "derived",
+        "occurrences": [
+          "Bonding face of pad fixture"
+        ]
+      },
+      {
+        "id": "model-219",
+        "revision": null,
+        "sha256": "716a96d80b1d0b3705f491e40f04a7a991e8f75d519dd15de3423e19aa609339",
+        "dependency": "derived",
+        "occurrences": [
+          "Receiver case envelope"
+        ]
+      }
+    ]
   }
 ]
