@@ -48639,5 +48639,164 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-left-chain-guard-with-offset-mounts",
+    "name": "J4 left chain guard with offset upper mounts",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "J4 left chain guard with four offset upper mounts, trimmed back sheet and socket reliefs.",
+    "tags": [
+      "J4",
+      "guard",
+      "left",
+      "A06",
+      "offset upper mount"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 left offset guard assembly",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts-XY.png",
+        "view": "Plan",
+        "alt": "J4 left chain guard with offset upper mounts, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 left chain guard with offset upper mounts, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts-YZ.png",
+        "view": "End",
+        "alt": "J4 left chain guard with offset upper mounts, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/j4-left-chain-guard-with-offset-mounts-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 left chain guard with offset upper mounts, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-left-chain-guard-with-offset-mounts/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Böllhoff ISO 7380-1 steel 10.9 button-head screws",
+        "url": "https://eshop-ro.boellhoff.com/out/media/pdf/ISO_7380-1_Stahl_10.9_Innensechskant___en.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p16j4ldl-j4-left-guard-lid-retained-drive-openings",
+        "revision": 1,
+        "sha256": "bb53c7b537e2c90c77bf2632aeca0574735644524ab7beeba042a42ea7bbe5f1",
+        "dependency": "embedded",
+        "occurrences": [
+          "Removable lid"
+        ]
+      },
+      {
+        "id": "p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs",
+        "revision": 1,
+        "sha256": "18f37f62082e13e1c0b31fd66c0d2d6832554fb66275827379bd2bdf23ae5fac",
+        "dependency": "embedded",
+        "occurrences": [
+          "Outboard rim"
+        ]
+      },
+      {
+        "id": "model-175",
+        "revision": null,
+        "sha256": "b8dde6a3ba077709ab404c7e5d56732644d914b67c29d16fe370eca437196370",
+        "dependency": "embedded",
+        "occurrences": [
+          "Backing block 1",
+          "Backing block 2",
+          "Backing block 3",
+          "Backing block 4",
+          "Backing block 5",
+          "Backing block 6",
+          "Backing block 7",
+          "Backing block 8",
+          "Backing block 9",
+          "Backing block 10"
+        ]
+      },
+      {
+        "id": "c134-iso-7380-1-m6x30-button-head-envelope",
+        "revision": 1,
+        "sha256": "b4afcd496a7ed350e9289377a781bef64564ae4ea1367a51c0b0dbf389be6475",
+        "dependency": "embedded",
+        "occurrences": [
+          "Lid screw 1",
+          "Lid screw 2",
+          "Lid screw 3",
+          "Lid screw 4",
+          "Lid screw 5",
+          "Lid screw 6",
+          "Lid screw 7",
+          "Lid screw 8",
+          "Lid screw 9",
+          "Lid screw 10"
+        ]
+      },
+      {
+        "id": "p16j4bkl-j4-left-guard-back-sheet-offset-mount",
+        "revision": 1,
+        "sha256": "fea3299a9d65b6a6d6160a1ea778b55f828cf8d1dc35f223f7894424f689a1da",
+        "dependency": "embedded",
+        "occurrences": [
+          "Back sheet"
+        ]
+      },
+      {
+        "id": "p16j4sw-j4-guard-common-sidewall-sheet",
+        "revision": 1,
+        "sha256": "2a3ce3af6ec25f1ade64dc1b7a21822a0d9900664326fa56cbb91ef33c5ee7af",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear wall",
+          "Forward wall"
+        ]
+      },
+      {
+        "id": "p16j4hwl-j4-guard-horizontal-wall-sheet",
+        "revision": 1,
+        "sha256": "e025c2ea62ff3d58c5252e8cd2f12821368b62341ef2fd1f2382d6eb7d8b9b63",
+        "dependency": "embedded",
+        "occurrences": [
+          "Bottom wall",
+          "Top wall"
+        ]
+      },
+      {
+        "id": "j4-offset-upper-guard-braced-body-tab",
+        "revision": 1,
+        "sha256": "560450c5ca837ad3bbda67e7c67ab1a22f5285dc96dc9c0141c8899735b56dc2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Braced mount tab 1",
+          "Braced mount tab 2",
+          "Braced mount tab 3",
+          "Braced mount tab 4"
+        ]
+      }
+    ]
   }
 ]
