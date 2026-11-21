@@ -48567,5 +48567,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-offset-upper-guard-braced-body-tab",
+    "name": "J4 offset upper guard braced body tab",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "J4 upper guard mounting tab with two braces and a 15 mm socket channel.",
+    "tags": [
+      "J4",
+      "guard",
+      "A06",
+      "mounting tab"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 braced offset mounting tab",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab-XY.png",
+        "view": "Plan",
+        "alt": "J4 offset upper guard braced body tab, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 offset upper guard braced body tab, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab-YZ.png",
+        "view": "End",
+        "alt": "J4 offset upper guard braced body tab, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/j4-offset-upper-guard-braced-body-tab-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 offset upper guard braced body tab, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-upper-guard-braced-body-tab/thumbnail.png"
+      }
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-offset-upper-guard-body-tab",
+        "revision": 1,
+        "sha256": "d39d288c120c2bd9dd74dc1d299d523af12c208f713a1f9f37219356b76d39c0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Mounting tab"
+        ]
+      },
+      {
+        "id": "j4-offset-upper-guard-body-tab-brace",
+        "revision": 1,
+        "sha256": "7128da2faf0d60c30fb14e84207a1a0dfd561fc22ffc1d248f9e58dfdf5cba3d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Brace at lower X",
+          "Brace at higher X"
+        ]
+      }
+    ]
   }
 ]
