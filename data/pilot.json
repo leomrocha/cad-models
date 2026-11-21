@@ -49456,5 +49456,122 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-a07-pocketed-guard-rail-stack",
+    "name": "J4 A07 rail stack with pocketed foot",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 A07 stack with an underside foot pocket to clear the A06 hardware.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chain guard",
+      "rail hardware",
+      "A07 joint"
+    ],
+    "aliases": [
+      "J4 A07 rail stack with pocketed foot",
+      "j4-a07-pocketed-guard-rail-stack"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-a07-pocketed-guard-rail-stack",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack-XY.png",
+        "view": "Plan",
+        "alt": "J4 A07 rail stack with pocketed foot, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 A07 rail stack with pocketed foot, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack-YZ.png",
+        "view": "End",
+        "alt": "J4 A07 rail stack with pocketed foot, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 A07 rail stack with pocketed foot, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/j4-a07-pocketed-guard-rail-stack.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-a07-pocketed-guard-rail-stack/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-offset-upper-guard-rail-foot-with-a06-pocket",
+        "revision": 1,
+        "sha256": "3d10ca08c853716579ad83aaf4e6e41d32e0361f74f9987f5154b85e7231d95d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Stepped rail foot"
+        ]
+      },
+      {
+        "id": "j4-offset-upper-guard-support-leg",
+        "revision": 1,
+        "sha256": "e8e4884af0f2cf70fb0c99f55e43d62623dbab74326fd93a1b892e44cd90b9ef",
+        "dependency": "embedded",
+        "occurrences": [
+          "Offset support leg"
+        ]
+      },
+      {
+        "id": "model-187",
+        "revision": null,
+        "sha256": "5cdb33e56fea83e7adf5df809bb23ebb7ded8032b0692beb564e2c670025161f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Compression sleeve"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Lower washer",
+          "Upper washer"
+        ]
+      },
+      {
+        "id": "c129-iso-4017-m6x55-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "016e29607e1b47d4b421a292483d4435c9d83aea8c51581507d39679c57bb386",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rail screw"
+        ]
+      },
+      {
+        "id": "model-77",
+        "revision": null,
+        "sha256": "b005197d6d63b19d28d1785191f25a1a7a8a07068289550796644a12ed197e08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Locknut"
+        ]
+      }
+    ]
   }
 ]
