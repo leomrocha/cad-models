@@ -50349,5 +50349,209 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-30mm-drive-300mm-caster-with-captive-guards",
+    "name": "J4 30 mm drive and 300 mm caster chassis with captive chain guards",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "J4 30 mm drivetrain and 300 mm caster chassis with installed captive chain guards and nominal chain spaces.",
+    "tags": [
+      "J4",
+      "drivetrain",
+      "520",
+      "roller chain",
+      "clearance",
+      "30 mm shaft",
+      "300 mm caster",
+      "chain guard"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 30 mm drive and 300 mm caster with 520 chain space",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards-XY.png",
+        "view": "Plan",
+        "alt": "J4 30 mm drive and 300 mm caster chassis with captive chain guards, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 30 mm drive and 300 mm caster chassis with captive chain guards, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards-YZ.png",
+        "view": "End",
+        "alt": "J4 30 mm drive and 300 mm caster chassis with captive chain guards, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/j4-30mm-drive-300mm-caster-with-captive-guards-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 30 mm drive and 300 mm caster chassis with captive chain guards, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-drive-300mm-caster-with-captive-guards/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "iwis ELITE 520-1 roller chain, part 81013824",
+        "url": "https://www.iwis.com/en-en/products-services/roller-chain-520-1-elite~p3368?_locale=en_GB"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "j4-offset-guards-with-captive-thread-plates",
+        "revision": 1,
+        "sha256": "67daf5b02799faa416bee2e3202fabec8210525652766698c2f43e75d00f8815",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rails and captive guards"
+        ]
+      },
+      {
+        "id": "p02j4r-j4-short-rear-crossmember-248mm",
+        "revision": 1,
+        "sha256": "8590028336da6d49cde85b17d033c982045a741ccd965d75301417d45c90b872",
+        "dependency": "embedded",
+        "occurrences": [
+          "P02 — Rear crossmember"
+        ]
+      },
+      {
+        "id": "model-114",
+        "revision": null,
+        "sha256": "f2cd4fdf0b6f1c7b2ddc58fbbe1f9680c92ecac4fee7365acececf92c55104c2",
+        "dependency": "embedded",
+        "occurrences": [
+          "P02 — Middle crossmember"
+        ]
+      },
+      {
+        "id": "model-115",
+        "revision": null,
+        "sha256": "cb2075536d1391cbae7ffd5a4b1cd9ac47f711adad08933f1a2d14a025140e0e",
+        "dependency": "embedded",
+        "occurrences": [
+          "P02JF — Narrow front crossmember"
+        ]
+      },
+      {
+        "id": "j4-30mm-left-wheel-stack-with-keyed-sprocket-hub",
+        "revision": 1,
+        "sha256": "270b280fbfc44d96ea566c44374c452e721a77a10d30dae7a820354ebd117553",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left keyed wheel stack"
+        ]
+      },
+      {
+        "id": "j4-30mm-right-wheel-stack-with-keyed-sprocket-hub",
+        "revision": 1,
+        "sha256": "9a3d6fc6ec65914ca99fe1b22d90b73f2695456045f5d66243ec6b6018301845",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right keyed wheel stack"
+        ]
+      },
+      {
+        "id": "j4-30-bearing-hangers-with-shifted-left-post-j04-stack",
+        "revision": 1,
+        "sha256": "7657e9f60b799aa127e9e28f45686f95f434329f30eb89a9a84366aec9568d6d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Installed bearing hangers with fasteners"
+        ]
+      },
+      {
+        "id": "p03jin-j4-relieved-left-motor-backbone",
+        "revision": 1,
+        "sha256": "6afcdb83ffb199d9864e1997086ccf0601e5bc3cc9929081c103222e840ac059",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left fixed motor backbone"
+        ]
+      },
+      {
+        "id": "p03jbr-j4-relieved-right-motor-backbone",
+        "revision": 1,
+        "sha256": "faab7e6913a007675f6f5f55632d888b8f2bd9b3b1f2c41e73d7159e2d364ab0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right fixed motor backbone"
+        ]
+      },
+      {
+        "id": "p11-j4-me0907-moving-motor-plate-lower-relief",
+        "revision": 1,
+        "sha256": "1f0195d6d17b927ed5fa3713f1523a24c7f7015233cb485b309c89994cf92384",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left moving motor plate",
+          "Right moving motor plate"
+        ]
+      },
+      {
+        "id": "model-106",
+        "revision": null,
+        "sha256": "6c9c1505c3beb528b10cb27c5a2af0406c16e00a2f766cfaa27bed8c132d1a33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Motenergy ME0907 motor",
+          "Right Motenergy ME0907 motor"
+        ]
+      },
+      {
+        "id": "j4-caster-300-70mm-rearward-head-installation",
+        "revision": 1,
+        "sha256": "49556e77f85c6475305d07e081f79183d041370dfc008eb3628fb1f1f955504c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Caster and stepped bridge"
+        ]
+      },
+      {
+        "id": "j4-h390-hitch-frame-for-300mm-caster",
+        "revision": 1,
+        "sha256": "6cf8e031c26625d34980190e05d54d3a4e39f1b8f18d1b1051ec04765886c882",
+        "dependency": "embedded",
+        "occurrences": [
+          "H390 hitch tube frame"
+        ]
+      },
+      {
+        "id": "j4-left-520-chain-route-envelope",
+        "revision": 1,
+        "sha256": "12a5bc2def72aa3edc1e636cfc4e6958e150271fd8fcee6e33ad0c245c404784",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left chain planning space"
+        ]
+      },
+      {
+        "id": "j4-right-520-chain-route-envelope",
+        "revision": 1,
+        "sha256": "4659f03e25d3bb125654509729ba7231a621de8b7b999dbb9b1b1072c6a3abaa",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right chain planning space"
+        ]
+      }
+    ]
   }
 ]
