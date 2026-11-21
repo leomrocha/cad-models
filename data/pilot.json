@@ -58788,5 +58788,93 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-250mm-caster-800mm-wheel-width-proposal",
+    "name": "J4 250 mm caster chassis with 800 mm wheel-width proposal",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 chassis with 250 mm caster, H390 tow-ball terminal and the 800 mm wheel-width proposal.",
+    "tags": [
+      "tractor",
+      "J4",
+      "H390",
+      "Category 1",
+      "800 mm",
+      "chassis",
+      "wheel clearance"
+    ],
+    "aliases": [
+      "J4 250 mm caster chassis with 800 mm wheel-width proposal",
+      "j4-250mm-caster-800mm-wheel-width-proposal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-250mm-caster-800mm-wheel-width-proposal",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, opencadstudio · isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-XY.png",
+        "view": "Plan",
+        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-YZ.png",
+        "view": "End",
+        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal",
+        "revision": 1,
+        "sha256": "137509080768049ca0aeed7f559e9d27389f65b3e79455483849e641681296c6",
+        "dependency": "derived",
+        "occurrences": [
+          "Retained chassis hardware"
+        ]
+      },
+      {
+        "id": "j4-800mm-wheel-stack-and-clearance-layout",
+        "revision": 1,
+        "sha256": "b56564ae6821359b596c85d2429a909763f4eb8ee215a5f5e6cf4fcee7f9fe07",
+        "dependency": "embedded",
+        "occurrences": [
+          "Width-target wheel hardware and clearance"
+        ]
+      }
+    ]
   }
 ]
