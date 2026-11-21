@@ -43018,5 +43018,74 @@
       }
     ],
     "model_references": []
+  },
+  {
+    "id": "wiska-eskv-25-lg-10066413-gland-fit",
+    "name": "WISKA ESKV 25 LG gland installation reference",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/cable-entry",
+    "description": "WISKA order 10066413 M25 × 1.5 mm. Installation reference with 10 mm mounting length and a 47 mm maximum-length projection.",
+    "tags": [
+      "WISKA",
+      "cable gland",
+      "cable entry",
+      "M25"
+    ],
+    "aliases": [
+      "ESKV 25 LG",
+      "10066413"
+    ],
+    "materials": [
+      {
+        "name": "Polyamide"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Mounting installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "10066413",
+    "file": "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit.dwg",
+    "package_assets": [
+      "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/thumbnail.png",
+      "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit-XY.png",
+      "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit-XZ.png",
+      "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit-YZ.png",
+      "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit-top-isometric.png",
+      "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit.dwg",
+      "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit.md"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit-XY.png",
+        "view": "Plan",
+        "alt": "WISKA ESKV 25 LG gland installation reference, plan"
+      },
+      {
+        "file": "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit-XZ.png",
+        "view": "Elevation",
+        "alt": "WISKA ESKV 25 LG gland installation reference, elevation"
+      },
+      {
+        "file": "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit-YZ.png",
+        "view": "End",
+        "alt": "WISKA ESKV 25 LG gland installation reference, end"
+      },
+      {
+        "file": "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/wiska-eskv-25-lg-10066413-gland-fit-top-isometric.png",
+        "view": "Isometric",
+        "alt": "WISKA ESKV 25 LG gland installation reference, isometric",
+        "thumbnail_file": "models/electrical/cable-entry/wiska-eskv-25-lg-10066413-gland-fit/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "WISKA ESKV 25 LG, order 10066413",
+        "url": "https://www.wiska.com/en/pdf/10066413/ESKV-25.pdf"
+      }
+    ],
+    "model_references": []
   }
 ]
