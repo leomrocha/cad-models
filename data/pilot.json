@@ -51078,5 +51078,101 @@
       "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "j4-eight-deck-compatible-guard-mounts-with-rails",
+    "name": "J4 raised rails with deck passages and eight offset guard mounts",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Both J4 raised rails with deck foot passages and eight installed offset guard joints.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chain guard",
+      "rail hardware",
+      "A07 joint"
+    ],
+    "aliases": [
+      "J4 raised rails with deck passages and eight offset guard mounts",
+      "j4-eight-deck-compatible-guard-mounts-with-rails"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-eight-deck-compatible-guard-mounts-with-rails",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails-XY.png",
+        "view": "Plan",
+        "alt": "J4 raised rails with deck passages and eight offset guard mounts, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 raised rails with deck passages and eight offset guard mounts, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails-YZ.png",
+        "view": "End",
+        "alt": "J4 raised rails with deck passages and eight offset guard mounts, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 raised rails with deck passages and eight offset guard mounts, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/j4-eight-deck-compatible-guard-mounts-with-rails.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-deck-compatible-guard-mounts-with-rails/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p01j650-j4-left-deck-foot-guard-rail",
+        "revision": 1,
+        "sha256": "c79a622e03a18996199ba29fb32a33ae72a59073f90eeeb0d160d27cbd29c5fa",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left raised rail"
+        ]
+      },
+      {
+        "id": "p01j650-j4-right-deck-foot-guard-rail",
+        "revision": 1,
+        "sha256": "8dbaea9041106e5a0f8dbf699c425f9fb0ab4a264a9029d84acb906e03079077",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right raised rail"
+        ]
+      },
+      {
+        "id": "j4-a07-offset-guard-rail-stack",
+        "revision": 1,
+        "sha256": "613f93d7ecbd275df40faec3e51306ae7b27238ea7ccb4e565f05e8f9738746c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left flange joint at X -110",
+          "Left flange joint at X -40",
+          "Left flange joint at X 40",
+          "Left flange joint at X 110",
+          "Right flange joint at X -110",
+          "Right flange joint at X 0",
+          "Right flange joint at X 110",
+          "Right flange joint at X 193"
+        ]
+      }
+    ]
   }
 ]
