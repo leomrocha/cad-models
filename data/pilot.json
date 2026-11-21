@@ -43867,5 +43867,104 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxp80-gemini-front-contact-pad",
+    "name": "P22RXP80 Tyro Gemini 1S front contact pad",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle front contact pad. Nominal 80 × 16 × 2 mm EPDM laminate. Quantity 2 per cradle.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "front contact pad",
+      "cradle",
+      "EPDM"
+    ],
+    "aliases": [
+      "P22RXP80",
+      "Gemini front contact pad"
+    ],
+    "materials": [
+      {
+        "name": "EPDM"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXP80 front contact pad",
+    "file": "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad-XY.png",
+      "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad.dwg",
+      "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad.md",
+      "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad-XY.png",
+        "view": "Plan",
+        "alt": "P22RXP80 Tyro Gemini 1S front contact pad, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXP80 Tyro Gemini 1S front contact pad, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad-YZ.png",
+        "view": "End",
+        "alt": "P22RXP80 Tyro Gemini 1S front contact pad, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXP80 Tyro Gemini 1S front contact pad, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxf-gemini-front-retaining-bar",
+        "revision": 1,
+        "sha256": "97ae13ca7bc7fe7bcff7e9935b25dfb3f3253d61d7fac090bfb59dc22a43d852",
+        "dependency": "derived",
+        "occurrences": [
+          "Bonding face of pad fixture"
+        ]
+      },
+      {
+        "id": "p22rxt-gemini-upper-keeper",
+        "revision": 1,
+        "sha256": "ee73b0b5686874476e2912de238ccce1477c65f5eb435ee68cab508d7901c0fb",
+        "dependency": "derived",
+        "occurrences": [
+          "Bonding face of pad fixture"
+        ]
+      },
+      {
+        "id": "model-219",
+        "revision": null,
+        "sha256": "716a96d80b1d0b3705f491e40f04a7a991e8f75d519dd15de3423e19aa609339",
+        "dependency": "derived",
+        "occurrences": [
+          "Receiver case envelope"
+        ]
+      }
+    ]
   }
 ]
