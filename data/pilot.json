@@ -53990,5 +53990,87 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-kelly-bmw-250mm-caster-with-fibox-r2",
+    "name": "J4 BMW and Kelly chassis with rearward Fibox R2 cabinet and 250 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 BMW and Kelly chassis with a 250 mm caster and the rearward Fibox ARCA 203015T cabinet with a Pilz PNOZ X3 clearance reference.",
+    "tags": [
+      "tractor",
+      "J4",
+      "BMW i3",
+      "Kelly",
+      "Fibox",
+      "Pilz",
+      "rear cabinet"
+    ],
+    "aliases": [
+      "J4 BMW and Kelly chassis with rearward Fibox R2 cabinet and 250 mm caster",
+      "j4-kelly-bmw-250mm-caster-with-fibox-r2"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-kelly-bmw-250mm-caster-with-fibox-r2",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2-XY.png",
+        "view": "Plan",
+        "alt": "J4 BMW and Kelly chassis with rearward Fibox R2 cabinet and 250 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 BMW and Kelly chassis with rearward Fibox R2 cabinet and 250 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2-YZ.png",
+        "view": "End",
+        "alt": "J4 BMW and Kelly chassis with rearward Fibox R2 cabinet and 250 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 BMW and Kelly chassis with rearward Fibox R2 cabinet and 250 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/j4-kelly-bmw-250mm-caster-with-fibox-r2.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-fibox-r2/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-kelly-bmw-250mm-caster-with-detachable-ledge",
+        "revision": 1,
+        "sha256": "469cbc1a8bd43b6bbcddfb8d650d68d1cd51aa7e8d02c20159c595cec1663b86",
+        "dependency": "embedded",
+        "occurrences": [
+          "J4 chassis with Kelly controllers"
+        ]
+      },
+      {
+        "id": "fibox-r2-pilz-pnoz-x3-relay-packaging-layout",
+        "revision": 1,
+        "sha256": "54399f8fd33e7233e6314e90b9d89bff619708b6f236c1f5201f0d8309543b93",
+        "dependency": "embedded",
+        "occurrences": [
+          "Fibox R2 cabinet, relay and transverse mount"
+        ]
+      }
+    ]
   }
 ]
