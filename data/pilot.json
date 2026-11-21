@@ -55284,5 +55284,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24j4-right-splash-panel-lowered-centre-fixing",
+    "name": "J4 right splash panel with lowered centre fixing",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 right splash sheet with two Ø16 mm controller fastener reliefs. The 159 × 45 mm open-top notch clears the modeled crossing cable envelope. A Ø6.5 mm hole at X = 0 mm and Z = 694 mm aligns with the lowered centre crossbar.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "right",
+      "clearance relief"
+    ],
+    "aliases": [
+      "J4 right splash panel with lowered centre fixing",
+      "p24j4-right-splash-panel-lowered-centre-fixing"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "p24j4-right-splash-panel-lowered-centre-fixing",
+    "file": "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing-XY.png",
+        "view": "Plan",
+        "alt": "J4 right splash panel with lowered centre fixing, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 right splash panel with lowered centre fixing, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing-YZ.png",
+        "view": "End",
+        "alt": "J4 right splash panel with lowered centre fixing, end"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 right splash panel with lowered centre fixing, isometric",
+        "thumbnail_file": "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing-XY.png",
+      "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing-XZ.png",
+      "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing-YZ.png",
+      "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing-top-isometric.png",
+      "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing.dwg",
+      "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/p24j4-right-splash-panel-lowered-centre-fixing.md",
+      "models/mechanical/guards/p24j4-right-splash-panel-lowered-centre-fixing/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24j4-right-splash-panel-with-clearance-reliefs",
+        "revision": 1,
+        "sha256": "069d412171198c2d91789f266cf497f942e866de4320254ca3361da1628cf521",
+        "dependency": "derived",
+        "occurrences": [
+          "Source splash sheet"
+        ]
+      }
+    ]
   }
 ]
