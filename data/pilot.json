@@ -55123,5 +55123,166 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24j4-splash-sheets-and-edge-trims",
+    "name": "J4 splash sheets and segmented edge trims",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two handed J4 splash sheets in their installed poses with seventeen EMKA profile cuts.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "EMKA 1010-12",
+      "edge trim"
+    ],
+    "aliases": [
+      "J4 splash sheets and segmented edge trims",
+      "p24j4-splash-sheets-and-edge-trims"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "p24j4-splash-sheets-and-edge-trims",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims-XY.png",
+        "view": "Plan",
+        "alt": "J4 splash sheets and segmented edge trims, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 splash sheets and segmented edge trims, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims-YZ.png",
+        "view": "End",
+        "alt": "J4 splash sheets and segmented edge trims, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 splash sheets and segmented edge trims, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/p24j4-splash-sheets-and-edge-trims.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-splash-sheets-and-edge-trims/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24j4-left-splash-panel-with-clearance-reliefs",
+        "revision": 1,
+        "sha256": "61c40a2440e9c9cb3fd31fd6824392b04859a800a35333fb953e270461998f14",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left sheet"
+        ]
+      },
+      {
+        "id": "p24j4-bottom-rear-edge-trim",
+        "revision": 1,
+        "sha256": "1b789aab691b754a49588220683cc97fd073745e9116fe2472e648e2660f8998",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left bottom-rear",
+          "Right bottom-rear"
+        ]
+      },
+      {
+        "id": "p24j4-bottom-centre-edge-trim",
+        "revision": 1,
+        "sha256": "a8072642774780eb49287f6b34cb7651bbf08afed38be7991fa3709bd427e7c8",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left bottom-centre",
+          "Right bottom-centre"
+        ]
+      },
+      {
+        "id": "p24j4-bottom-forward-edge-trim",
+        "revision": 1,
+        "sha256": "3d58ac468a6d0506f28b401cbfcb0311d072f2a4ddf6a85237b03f8c1c2c84da",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left bottom-forward",
+          "Right bottom-forward"
+        ]
+      },
+      {
+        "id": "p24ttc-j-central-top-trim-cut",
+        "revision": 1,
+        "sha256": "ad2e6f0b35084d024f46189e180ad89aece477960e8cd86bd2f74fd0bd049eeb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left central top"
+        ]
+      },
+      {
+        "id": "p24tto-j-outer-top-trim-cut",
+        "revision": 1,
+        "sha256": "8076c7acb382dab428b757aa692a11361f182319738cc25c48b8016c62619210",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left rear upper end",
+          "Left forward upper end",
+          "Right rear upper end",
+          "Right forward upper end"
+        ]
+      },
+      {
+        "id": "p24ts-j-side-trim-cut",
+        "revision": 1,
+        "sha256": "4ea3fcc3d70f36d9fd13c53d25f670e3c9999c9ba874a4293d73a49404aa64d1",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left rear side",
+          "Left forward side",
+          "Right rear side",
+          "Right forward side"
+        ]
+      },
+      {
+        "id": "p24j4-right-splash-panel-with-clearance-reliefs",
+        "revision": 1,
+        "sha256": "069d412171198c2d91789f266cf497f942e866de4320254ca3361da1628cf521",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right sheet"
+        ]
+      },
+      {
+        "id": "p24j4-right-top-rear-edge-trim",
+        "revision": 1,
+        "sha256": "adc6d42ffd49d4f2961def12f951359a6d6e5b86762c2d88842b8295ac8d12f8",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right right-top-rear"
+        ]
+      },
+      {
+        "id": "p24j4-right-top-forward-edge-trim",
+        "revision": 1,
+        "sha256": "4c143fbf79d154bccbf0ba06a8c9ebaf8faeeeb449dbd62e5b67b0f54a5ae8d3",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right right-top-forward"
+        ]
+      }
+    ]
   }
 ]
