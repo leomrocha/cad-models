@@ -57981,5 +57981,90 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-rear-category-1-attachment-support",
+    "name": "J4 Category 1 rear attachment support",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Fourteen-solid rear support with lower pin cheeks, mast and transverse upper carrier.",
+    "tags": [
+      "tractor",
+      "J4",
+      "attachment support",
+      "Category 1"
+    ],
+    "aliases": [
+      "J4 Category 1 rear attachment support",
+      "j4-rear-category-1-attachment-support"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-rear-category-1-attachment-support",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 Category 1 rear attachment support, opencadstudio · isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-XY.png",
+        "view": "Plan",
+        "alt": "J4 Category 1 rear attachment support, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 Category 1 rear attachment support, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-YZ.png",
+        "view": "End",
+        "alt": "J4 Category 1 rear attachment support, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 Category 1 rear attachment support, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/j4-rear-category-1-attachment-support.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rear-category-1-attachment-support/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j3f-rear-transverse-top-link-mount",
+        "revision": 1,
+        "sha256": "0dbafe49b4bf5c18256669d5e5257b176ae11183b898420c1c9c35bfcc1e75d0",
+        "dependency": "derived",
+        "occurrences": [
+          "Lower cheeks, mast and transverse upper carrier"
+        ]
+      },
+      {
+        "id": "p09d-j4-rear-attachment-doubler-246mm",
+        "revision": 1,
+        "sha256": "14d4c72d49b4f17faef4e7980ddcce4b4956c91ed3738277fb222a4eb19c4c19",
+        "dependency": "embedded",
+        "occurrences": [
+          "246 mm rear doubler"
+        ]
+      }
+    ]
   }
 ]
