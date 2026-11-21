@@ -41599,5 +41599,80 @@
         "url": "https://www.fibox.com/hubfs/assets/8121020_FIBOX%20ARCA%20IEC%20203015T.pdf"
       }
     ]
+  },
+  {
+    "id": "p22rcar-r2-fibox-rear-cabinet-carrier",
+    "name": "R2 rear carrier plate for Fibox ARCA 203015T",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "R2 mounting carrier for the rearward Fibox cabinet layout. The 320 × 320 × 3 mm plate has four source-foot axes and four proposed support axes.",
+    "tags": [
+      "Fibox",
+      "R2",
+      "tractor",
+      "cabinet support",
+      "carrier"
+    ],
+    "aliases": [
+      "R2 rear carrier plate for Fibox ARCA 203015T",
+      "p22rcar-r2-fibox-rear-cabinet-carrier"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "electrical/enclosure-mounts",
+    "variant": "p22rcar-r2-fibox-rear-cabinet-carrier",
+    "file": "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier.dwg",
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier-XY.png",
+        "view": "Plan",
+        "alt": "R2 rear carrier plate for Fibox ARCA 203015T, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier-XZ.png",
+        "view": "Elevation",
+        "alt": "R2 rear carrier plate for Fibox ARCA 203015T, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier-YZ.png",
+        "view": "End",
+        "alt": "R2 rear carrier plate for Fibox ARCA 203015T, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier-top-isometric.png",
+        "view": "Isometric",
+        "alt": "R2 rear carrier plate for Fibox ARCA 203015T, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier-XY.png",
+      "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier-XZ.png",
+      "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier-YZ.png",
+      "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier.dwg",
+      "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/p22rcar-r2-fibox-rear-cabinet-carrier.md",
+      "models/electrical/enclosure-mounts/p22rcar-r2-fibox-rear-cabinet-carrier/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "fibox-arca-203015t-8121020",
+        "revision": 1,
+        "sha256": "2938b38109e7481e9e73fa2c56924b5371e30ec7f7aeb9ab27ba93d8b10e6d82",
+        "dependency": "derived",
+        "occurrences": [
+          "Fibox external foot pattern"
+        ]
+      }
+    ]
   }
 ]
