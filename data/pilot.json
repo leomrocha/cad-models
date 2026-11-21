@@ -47456,5 +47456,102 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p16j4ldl-j4-left-guard-lid-retained-drive-openings",
+    "name": "J4 left guard lid with retained drive openings",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/guards",
+    "description": "J4 left rectangular guard lid machining reference with the Ø54 mm hub opening and 10 retained mounting bores.",
+    "tags": [
+      "J4",
+      "guard",
+      "left",
+      "lid",
+      "sheet blank"
+    ],
+    "aliases": [
+      "P16J4LDL drive openings"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion retained-drive machining reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 left lid retained drive openings",
+    "file": "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings.dwg",
+    "package_assets": [
+      "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings-XY.png",
+      "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings-XZ.png",
+      "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings-YZ.png",
+      "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings-top-isometric.png",
+      "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings.dwg",
+      "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings.md",
+      "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings-XY.png",
+        "view": "Plan",
+        "alt": "J4 left guard lid with retained drive openings, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 left guard lid with retained drive openings, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings-YZ.png",
+        "view": "End",
+        "alt": "J4 left guard lid with retained drive openings, end"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/p16j4ldl-j4-left-guard-lid-retained-drive-openings-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 left guard lid with retained drive openings, isometric",
+        "thumbnail_file": "models/mechanical/guards/p16j4ldl-j4-left-guard-lid-retained-drive-openings/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "iwis ELITE 520-1 roller chain, part 81013824",
+        "url": "https://www.iwis.com/en-en/products-services/roller-chain-520-1-elite~p3368?_locale=en_GB"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p16j4ldl-j4-left-guard-lid-blank",
+        "revision": 1,
+        "sha256": "1f079f731b85b7004d220ad76d2acf0507116cad8c68a5e64bd1d0acc91e8cd1",
+        "dependency": "derived",
+        "occurrences": [
+          "Guard opening source geometry"
+        ]
+      },
+      {
+        "id": "p12j4c30-j4-sprocket-carrier-keyed-hub-blank",
+        "revision": 1,
+        "sha256": "734778c43fe15ff31e18e71a392b7fc0aa977aa9ad597ada9bd76d8b05967c6e",
+        "dependency": "derived",
+        "occurrences": [
+          "Guard opening source geometry"
+        ]
+      },
+      {
+        "id": "j4-30mm-left-wheel-stack-with-keyed-sprocket-hub",
+        "revision": 1,
+        "sha256": "270b280fbfc44d96ea566c44374c452e721a77a10d30dae7a820354ebd117553",
+        "dependency": "derived",
+        "occurrences": [
+          "Guard opening source geometry"
+        ]
+      }
+    ]
   }
 ]
