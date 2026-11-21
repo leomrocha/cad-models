@@ -44934,5 +44934,84 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-gemini-raised-cradle-riser",
+    "name": "J3f Gemini raised cradle riser",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle raised cradle riser. Proposed 16 mm-wide solid steel section. It seats on the rail top at Z = 540 mm and meets the spreader at Y = 228 mm. The Ø6.6 mm fixing at the rear position runs vertically at (X, Y) = (−277, 142) mm. A second occurrence translates 55 mm along X.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "raised cradle riser",
+      "cradle"
+    ],
+    "aliases": [
+      "Gemini raised cradle riser"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "raised cradle riser",
+    "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser-XY.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser-XZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser-YZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser-top-isometric.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser.dwg",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser.md",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser-XY.png",
+        "view": "Plan",
+        "alt": "J3f Gemini raised cradle riser, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Gemini raised cradle riser, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser-YZ.png",
+        "view": "End",
+        "alt": "J3f Gemini raised cradle riser, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/j3f-gemini-raised-cradle-riser-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Gemini raised cradle riser, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-riser/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "j3f-gemini-receiver-raised-outboard-cradle",
+        "revision": 1,
+        "sha256": "43eb93cbce8dd1526ed070fdad821cb5aa933d3c48a57e9eeeecf5c66333e574",
+        "dependency": "derived",
+        "occurrences": [
+          "Raised cradle and carrier position design basis"
+        ]
+      }
+    ]
   }
 ]
