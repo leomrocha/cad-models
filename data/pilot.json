@@ -53909,5 +53909,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-kelly-bmw-300mm-caster-with-detachable-ledge",
+    "name": "J4 BMW chassis with Kelly controls and 300 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Guarded J4 chassis with BMW battery tray, detachable deck ledge, Kelly controller envelopes and carriers, and a 300 mm caster.",
+    "tags": [
+      "tractor",
+      "J4",
+      "Kelly",
+      "BMW i3",
+      "chassis",
+      "detachable ledge"
+    ],
+    "aliases": [
+      "J4 BMW chassis with Kelly controls and 300 mm caster",
+      "j4-kelly-bmw-300mm-caster-with-detachable-ledge"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-kelly-bmw-300mm-caster-with-detachable-ledge",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge-XY.png",
+        "view": "Plan",
+        "alt": "J4 BMW chassis with Kelly controls and 300 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 BMW chassis with Kelly controls and 300 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge-YZ.png",
+        "view": "End",
+        "alt": "J4 BMW chassis with Kelly controls and 300 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 BMW chassis with Kelly controls and 300 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/j4-kelly-bmw-300mm-caster-with-detachable-ledge.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-detachable-ledge/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-bmw-300mm-caster-with-detachable-ledge",
+        "revision": 1,
+        "sha256": "759e90fd712767c8e19c0968a82be4606fbfd277e86b70c30ace06d018f31fef",
+        "dependency": "derived",
+        "occurrences": [
+          "J4 BMW chassis and detachable ledge"
+        ]
+      },
+      {
+        "id": "j4-kelly-carrier-and-guard-rail-installation",
+        "revision": 1,
+        "sha256": "626b06fff3fa01af2cf3e9261ba94526800cd2449eae643cada535efcbbdff4f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Kelly-equipped guard rail set"
+        ]
+      }
+    ]
   }
 ]
