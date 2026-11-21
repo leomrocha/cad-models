@@ -56985,5 +56985,102 @@
       "models/mechanical/guards/p24j4-outboard-splash-left-tapped-riser/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p24j4-outboard-splash-left-detachable-beam-group",
+    "name": "J4 left splash detachable beam and fastenings",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 left splash fixing beam, two handed riser placements and two nominal M4 × 25 screws.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "detachable support",
+      "M4"
+    ],
+    "aliases": [
+      "J4 left splash detachable beam and fastenings",
+      "p24j4-outboard-splash-left-detachable-beam-group"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "p24j4-outboard-splash-left-detachable-beam-group",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 left splash detachable beam and fastenings, opencadstudio · isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-XY.png",
+        "view": "Plan",
+        "alt": "J4 left splash detachable beam and fastenings, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 left splash detachable beam and fastenings, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-YZ.png",
+        "view": "End",
+        "alt": "J4 left splash detachable beam and fastenings, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 left splash detachable beam and fastenings, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/p24j4-outboard-splash-left-detachable-beam-group.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-left-detachable-beam-group/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24j4-outboard-splash-detachable-left-fixing-beam",
+        "revision": 1,
+        "sha256": "dab9703ff1fcdf440dbc08060d35db711333abd38eac216a408d4c2148cdb78f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Detachable beam"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-left-tapped-riser",
+        "revision": 1,
+        "sha256": "4d95c9d1b00e89aee98195a91df6a59662cd9ff4c91b756c92fb54d2a0d47189",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear riser",
+          "Front riser"
+        ]
+      },
+      {
+        "id": "c137-iso-4017-m4x25-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "4581f3d2e9d1e9d60fa2a7fcc9469634e55c6176dde071f000ddcdf8bd5af1e0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear M4 x 25 screw",
+          "Front M4 x 25 screw"
+        ]
+      }
+    ]
   }
 ]
