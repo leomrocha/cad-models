@@ -58205,5 +58205,82 @@
     ],
     "sources": [],
     "model_references": null
+  },
+  {
+    "id": "p07jtc160-j4-terminal-transverse-carrier",
+    "name": "J4 160 mm terminal transverse carrier tube",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "40 × 40 × 3 mm square tube cut to 160 mm for the transverse support.",
+    "tags": [
+      "tractor",
+      "J4",
+      "H390",
+      "tow-ball support",
+      "transverse"
+    ],
+    "aliases": [
+      "J4 160 mm terminal transverse carrier tube",
+      "p07jtc160-j4-terminal-transverse-carrier"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "p07jtc160-j4-terminal-transverse-carrier",
+    "file": "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 160 mm terminal transverse carrier tube, opencadstudio · isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-XY.png",
+        "view": "Plan",
+        "alt": "J4 160 mm terminal transverse carrier tube, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 160 mm terminal transverse carrier tube, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-YZ.png",
+        "view": "End",
+        "alt": "J4 160 mm terminal transverse carrier tube, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 160 mm terminal transverse carrier tube, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-XY.png",
+      "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-XZ.png",
+      "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-YZ.png",
+      "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-ocs-isometric.png",
+      "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier-top-isometric.png",
+      "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier.dwg",
+      "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/p07jtc160-j4-terminal-transverse-carrier.md",
+      "models/mechanical/chassis/hitch/p07jtc160-j4-terminal-transverse-carrier/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p07jdp-j-hitch-crossbar-lowering-post",
+        "revision": 1,
+        "sha256": "504bb176a06c09f29c6ea7a29781a29f2de976c25a8fe09a683994bee8c7c296",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal square tube section"
+        ]
+      }
+    ]
   }
 ]
