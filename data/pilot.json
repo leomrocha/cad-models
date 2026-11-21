@@ -57728,5 +57728,102 @@
         "url": "https://www.knott-trailer.co.uk/catalogs/Katalog2018Downloadversion-Regenstauf.pdf"
       }
     ]
+  },
+  {
+    "id": "j4-800mm-wheel-stack-and-clearance-layout",
+    "name": "J4 width-target paired wheel stacks and tyre references",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "J4 wheel hardware layout with two Knott rim datum sets and two T539 clearance cylinders.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel drive",
+      "800 mm width",
+      "layout"
+    ],
+    "aliases": [
+      "J4 width-target paired wheel stacks and tyre references",
+      "j4-800mm-wheel-stack-and-clearance-layout"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "800 mm wheel-width proposal",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/j4-800mm-wheel-stack-and-clearance-layout.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/j4-800mm-wheel-stack-and-clearance-layout-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/j4-800mm-wheel-stack-and-clearance-layout-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/j4-800mm-wheel-stack-and-clearance-layout-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/j4-800mm-wheel-stack-and-clearance-layout.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/j4-800mm-wheel-stack-and-clearance-layout.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/ocs-clearance-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 width-target paired wheel stacks and tyre references, OpenCADStudio · Isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/ocs-clearance-isometric.png",
+        "view": "OpenCADStudio · Clearance envelopes",
+        "alt": "J4 width-target paired wheel stacks and tyre references, native wireframe with the clearance envelopes visible"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/j4-800mm-wheel-stack-and-clearance-layout-XY.png",
+        "view": "Plan",
+        "alt": "J4 width-target paired wheel stacks and tyre references, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/j4-800mm-wheel-stack-and-clearance-layout-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 width-target paired wheel stacks and tyre references, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-wheel-stack-and-clearance-layout/j4-800mm-wheel-stack-and-clearance-layout-YZ.png",
+        "view": "End",
+        "alt": "J4 width-target paired wheel stacks and tyre references, end"
+      }
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-800mm-paired-wheel-ends-30mm",
+        "revision": 1,
+        "sha256": "7298a165630e206c707c44dc63e170d127d31300be92575045427b5dbcbb87ac",
+        "dependency": "embedded",
+        "occurrences": [
+          "Paired 30 mm wheel stacks"
+        ]
+      },
+      {
+        "id": "c001-t539-6pr-tyre-clearance-envelope",
+        "revision": 1,
+        "sha256": "6ddeca5c03dc429168df06e06314dd72428f7770c18232cce5d8c10c756b4af9",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left T539 clearance",
+          "Right T539 clearance"
+        ]
+      },
+      {
+        "id": "c004-knott-402386-001-mounting-reference",
+        "revision": 1,
+        "sha256": "afac114f09c4343e3f4bd9963120f260f99db96bb7ad3bd795dac9fb43c4e871",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Knott rim datums",
+          "Right Knott rim datums"
+        ]
+      }
+    ]
   }
 ]
