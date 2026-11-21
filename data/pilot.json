@@ -58282,5 +58282,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p07jtc280-j4-terminal-longitudinal-carrier",
+    "name": "J4 280 mm terminal longitudinal carrier tube",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "40 × 40 × 3 mm square tube cut to 280 mm for the longitudinal support.",
+    "tags": [
+      "tractor",
+      "J4",
+      "H390",
+      "tow-ball support",
+      "longitudinal"
+    ],
+    "aliases": [
+      "J4 280 mm terminal longitudinal carrier tube",
+      "p07jtc280-j4-terminal-longitudinal-carrier"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "p07jtc280-j4-terminal-longitudinal-carrier",
+    "file": "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 280 mm terminal longitudinal carrier tube, opencadstudio · isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-XY.png",
+        "view": "Plan",
+        "alt": "J4 280 mm terminal longitudinal carrier tube, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 280 mm terminal longitudinal carrier tube, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-YZ.png",
+        "view": "End",
+        "alt": "J4 280 mm terminal longitudinal carrier tube, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 280 mm terminal longitudinal carrier tube, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-XY.png",
+      "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-XZ.png",
+      "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-YZ.png",
+      "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-ocs-isometric.png",
+      "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier-top-isometric.png",
+      "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier.dwg",
+      "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/p07jtc280-j4-terminal-longitudinal-carrier.md",
+      "models/mechanical/chassis/hitch/p07jtc280-j4-terminal-longitudinal-carrier/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p07jdp-j-hitch-crossbar-lowering-post",
+        "revision": 1,
+        "sha256": "504bb176a06c09f29c6ea7a29781a29f2de976c25a8fe09a683994bee8c7c296",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal square tube section"
+        ]
+      }
+    ]
   }
 ]
