@@ -56845,5 +56845,75 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24j4-outboard-splash-detachable-left-fixing-beam",
+    "name": "J4 outboard splash detachable left fixing beam",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 outboard splash detachable left fixing beam. Proposed steel blank measures 464 × 10 × 15 mm along local X, Y and Z.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "outboard support",
+      "detachable-left-fixing-beam"
+    ],
+    "aliases": [
+      "J4 outboard splash detachable left fixing beam",
+      "p24j4-outboard-splash-detachable-left-fixing-beam"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "p24j4-outboard-splash-detachable-left-fixing-beam",
+    "file": "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 outboard splash detachable left fixing beam, opencadstudio · isometric",
+        "thumbnail_file": "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-XY.png",
+        "view": "Plan",
+        "alt": "J4 outboard splash detachable left fixing beam, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outboard splash detachable left fixing beam, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-YZ.png",
+        "view": "End",
+        "alt": "J4 outboard splash detachable left fixing beam, end"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outboard splash detachable left fixing beam, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-XY.png",
+      "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-XZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-YZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-ocs-isometric.png",
+      "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam-top-isometric.png",
+      "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam.dwg",
+      "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/p24j4-outboard-splash-detachable-left-fixing-beam.md",
+      "models/mechanical/guards/p24j4-outboard-splash-detachable-left-fixing-beam/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
