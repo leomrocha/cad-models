@@ -49384,5 +49384,77 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-offset-upper-guard-rail-foot-with-a06-pocket",
+    "name": "J4 offset upper guard rail foot with A06 clearance pocket",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/guards",
+    "description": "J4 stepped guard mounting rail foot with an underside pocket for the A06 hardware.",
+    "tags": [
+      "J4",
+      "guard",
+      "offset upper mount"
+    ],
+    "aliases": [
+      "J4 offset upper guard rail foot with A06 clearance pocket"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion machining blank",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 offset upper mount",
+    "file": "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket.dwg",
+    "package_assets": [
+      "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket-XY.png",
+      "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket-XZ.png",
+      "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket-YZ.png",
+      "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket-top-isometric.png",
+      "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket.dwg",
+      "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket.md",
+      "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket-XY.png",
+        "view": "Plan",
+        "alt": "J4 offset upper guard rail foot with A06 clearance pocket, plan"
+      },
+      {
+        "file": "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 offset upper guard rail foot with A06 clearance pocket, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket-YZ.png",
+        "view": "End",
+        "alt": "J4 offset upper guard rail foot with A06 clearance pocket, end"
+      },
+      {
+        "file": "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/j4-offset-upper-guard-rail-foot-with-a06-pocket-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 offset upper guard rail foot with A06 clearance pocket, isometric",
+        "thumbnail_file": "models/mechanical/guards/j4-offset-upper-guard-rail-foot-with-a06-pocket/thumbnail.png"
+      }
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-offset-upper-guard-rail-foot",
+        "revision": 1,
+        "sha256": "7c01477c5a045cc19a637ea5823ab4ec215e5fd7d9612c5cc0c3289ebc104909",
+        "dependency": "derived",
+        "occurrences": [
+          "Checked stepped foot stock"
+        ]
+      }
+    ]
   }
 ]
