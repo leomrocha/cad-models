@@ -43687,5 +43687,95 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxpb-gemini-bottom-contact-pad",
+    "name": "P22RXPB Tyro Gemini 1S bottom contact pad",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle bottom contact pad. Nominal 160 × 55 × 1 mm EPDM laminate. Quantity 1 per cradle.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "bottom contact pad",
+      "cradle",
+      "EPDM"
+    ],
+    "aliases": [
+      "P22RXPB",
+      "Gemini bottom contact pad"
+    ],
+    "materials": [
+      {
+        "name": "EPDM"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXPB bottom contact pad",
+    "file": "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad-XY.png",
+      "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad.dwg",
+      "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad.md",
+      "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad-XY.png",
+        "view": "Plan",
+        "alt": "P22RXPB Tyro Gemini 1S bottom contact pad, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXPB Tyro Gemini 1S bottom contact pad, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad-YZ.png",
+        "view": "End",
+        "alt": "P22RXPB Tyro Gemini 1S bottom contact pad, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXPB Tyro Gemini 1S bottom contact pad, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxs-gemini-receiver-cradle-bottom-seat",
+        "revision": 1,
+        "sha256": "ffdafb139e0fb772bb0d125a32df2564f13be6645a487e6a555c6565bf30c2f0",
+        "dependency": "derived",
+        "occurrences": [
+          "Bonding face of pad fixture"
+        ]
+      },
+      {
+        "id": "model-219",
+        "revision": null,
+        "sha256": "716a96d80b1d0b3705f491e40f04a7a991e8f75d519dd15de3423e19aa609339",
+        "dependency": "derived",
+        "occurrences": [
+          "Receiver case envelope"
+        ]
+      }
+    ]
   }
 ]
