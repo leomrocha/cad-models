@@ -43429,5 +43429,94 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxf-gemini-front-retaining-bar",
+    "name": "P22RXF Tyro Gemini 1S front retaining bar",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle Isometric. Flat steel bar, 200 × 20 × 3 mm, at X = −345 to −145, Y = 272 to 275 and Z = 510 to 530 mm.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "Isometric",
+      "cradle"
+    ],
+    "aliases": [
+      "P22RXF",
+      "Gemini Isometric"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXF Isometric",
+    "file": "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar-XY.png",
+      "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar.dwg",
+      "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar.md",
+      "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar-XY.png",
+        "view": "Plan",
+        "alt": "P22RXF Tyro Gemini 1S front retaining bar, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXF Tyro Gemini 1S front retaining bar, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar-YZ.png",
+        "view": "End",
+        "alt": "P22RXF Tyro Gemini 1S front retaining bar, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXF Tyro Gemini 1S front retaining bar, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxj-gemini-receiver-cradle-carrier",
+        "revision": 1,
+        "sha256": "cab585d093adb5e43997f41db8e4cdd8e6a0f479d1cde286f89f0ea01a9443cd",
+        "dependency": "derived",
+        "occurrences": [
+          "Rod slot centres and installed frame"
+        ]
+      },
+      {
+        "id": "p22rxsp67-gemini-keeper-compression-spacer",
+        "revision": 1,
+        "sha256": "e9687703006433cc47167b796e9b9e8790a3f2f3f362c6b9f7d77ebe06753f7b",
+        "dependency": "derived",
+        "occurrences": [
+          "Keeper bearing plane"
+        ]
+      }
+    ]
   }
 ]
