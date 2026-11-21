@@ -50633,5 +50633,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-30mm-300mm-caster-guarded-bmw-tray",
+    "name": "J4 guarded 30 mm drive and 300 mm caster chassis with BMW raised tray",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Guarded J4 chassis with BMW i3 raised tray and 300 mm caster.",
+    "tags": [
+      "tractor",
+      "J4",
+      "BMW i3",
+      "battery tray",
+      "chain guard"
+    ],
+    "aliases": [
+      "J4 guarded 30 mm drive and 300 mm caster chassis with BMW raised tray",
+      "j4-30mm-300mm-caster-guarded-bmw-tray"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-30mm-300mm-caster-guarded-bmw-tray",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray-XY.png",
+        "view": "Plan",
+        "alt": "J4 guarded 30 mm drive and 300 mm caster chassis with BMW raised tray, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 guarded 30 mm drive and 300 mm caster chassis with BMW raised tray, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray-YZ.png",
+        "view": "End",
+        "alt": "J4 guarded 30 mm drive and 300 mm caster chassis with BMW raised tray, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 guarded 30 mm drive and 300 mm caster chassis with BMW raised tray, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/j4-30mm-300mm-caster-guarded-bmw-tray.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-30mm-300mm-caster-guarded-bmw-tray/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-30mm-drive-300mm-caster-with-captive-guards",
+        "revision": 1,
+        "sha256": "5cbcd425652281d9decaf3eee2bc8f88f77be5b47e2f4af9c2905d179165be3c",
+        "dependency": "embedded",
+        "occurrences": [
+          "J4 guarded chassis"
+        ]
+      },
+      {
+        "id": "bmw-i3-raised-j-tray-with-b01-threaded-bridges",
+        "revision": 1,
+        "sha256": "77d5fe79cf7599605e23d8668bf67ef6263da5f1a402b053eff8ad0ac8156246",
+        "dependency": "embedded",
+        "occurrences": [
+          "BMW raised tray and supports"
+        ]
+      }
+    ]
   }
 ]
