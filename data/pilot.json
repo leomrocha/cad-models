@@ -58547,5 +58547,130 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal",
+    "name": "J4 250 mm caster with Category 1 supports and H390 terminal",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 chassis with 250 mm caster, front and rear Category 1 supports and an H390 tow-ball terminal proposal.",
+    "tags": [
+      "tractor",
+      "J4",
+      "H390",
+      "Category 1",
+      "chassis",
+      "tow-ball support"
+    ],
+    "aliases": [
+      "J4 250 mm caster with Category 1 supports and H390 terminal",
+      "j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 250 mm caster with Category 1 supports and H390 terminal, opencadstudio · isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-XY.png",
+        "view": "Plan",
+        "alt": "J4 250 mm caster with Category 1 supports and H390 terminal, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 250 mm caster with Category 1 supports and H390 terminal, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-YZ.png",
+        "view": "End",
+        "alt": "J4 250 mm caster with Category 1 supports and H390 terminal, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 250 mm caster with Category 1 supports and H390 terminal, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-kelly-bmw-250mm-caster-with-category-1-supports",
+        "revision": 1,
+        "sha256": "50799355ff65ea2263ea5ee13136d4170ee267d69c73cfa25eff1d66af7efd93",
+        "dependency": "embedded",
+        "occurrences": [
+          "Existing 250 mm J4 chassis with Category 1 supports"
+        ]
+      },
+      {
+        "id": "p07jtc280-j4-terminal-longitudinal-carrier",
+        "revision": 1,
+        "sha256": "05fac236bd2ee1bb8952181c59e3fb2ac01d35f402876f9663a5c46b8f45c5e7",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left longitudinal carrier",
+          "Right longitudinal carrier"
+        ]
+      },
+      {
+        "id": "p07jtc160-j4-terminal-transverse-carrier",
+        "revision": 1,
+        "sha256": "2c21fbcd46a151e2c3326034f586a3535097076c29877fab007533729bf06c5e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear transverse carrier"
+        ]
+      },
+      {
+        "id": "p07tp-j4-sm453-rounded-slot-terminal-plate",
+        "revision": 1,
+        "sha256": "129401734961e00bc03373e323c517b571765a70c5d0437a2a328fde5716f0c0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Terminal plate"
+        ]
+      },
+      {
+        "id": "p07jdw-j4-20mm-terminal-drop-web",
+        "revision": 1,
+        "sha256": "75dbbefe5f2ec496025c93c8588f2b2c3a5258e250087e5a0af4e2be4cdfcaaf",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left terminal drop web",
+          "Right terminal drop web"
+        ]
+      },
+      {
+        "id": "c025-sm453-50-mm-tow-ball",
+        "revision": 1,
+        "sha256": "5d6feef99480a13f5bddb07d502d524947a5aea6ddfe9ce0ba3a68dfd3fd7dba",
+        "dependency": "embedded",
+        "occurrences": [
+          "SM453 bare ball"
+        ]
+      }
+    ]
   }
 ]
