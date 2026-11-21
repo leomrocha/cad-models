@@ -42311,5 +42311,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "phoenix-0807012-ns35-100mm-relay-rail",
+    "name": "Phoenix Contact NS 35/7.5 rail, 100 mm cut",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Proposed 100 mm cut of Phoenix Contact 0807012 perforated NS 35/7.5 rail. The retained section has a 1 mm backing and four 15 × 6.2 mm slots at 25 mm pitch.",
+    "tags": [
+      "DIN rail",
+      "Phoenix Contact",
+      "0807012",
+      "NS 35/7.5",
+      "relay",
+      "EN 60715"
+    ],
+    "aliases": [
+      "Phoenix Contact NS 35/7.5 rail, 100 mm cut",
+      "phoenix-0807012-ns35-100mm-relay-rail"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": [
+      {
+        "designation": "EN 60715",
+        "relationship": "Manufacturer rail profile designation"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "electrical/din-rails",
+    "variant": "phoenix-0807012-ns35-100mm-relay-rail",
+    "file": "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail.dwg",
+    "previews": [
+      {
+        "file": "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail-XY.png",
+        "view": "Plan",
+        "alt": "Phoenix Contact NS 35/7.5 rail, 100 mm cut, plan"
+      },
+      {
+        "file": "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail-XZ.png",
+        "view": "Elevation",
+        "alt": "Phoenix Contact NS 35/7.5 rail, 100 mm cut, elevation"
+      },
+      {
+        "file": "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail-YZ.png",
+        "view": "End",
+        "alt": "Phoenix Contact NS 35/7.5 rail, 100 mm cut, end"
+      },
+      {
+        "file": "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Phoenix Contact NS 35/7.5 rail, 100 mm cut, isometric",
+        "thumbnail_file": "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail-XY.png",
+      "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail-XZ.png",
+      "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail-YZ.png",
+      "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail-top-isometric.png",
+      "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail.dwg",
+      "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/phoenix-0807012-ns35-100mm-relay-rail.md",
+      "models/electrical/din-rails/phoenix-0807012-ns35-100mm-relay-rail/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Phoenix Contact 0807012 rail and manufacturer CAD",
+        "url": "https://www.phoenixcontact.com/us/products/0807012"
+      }
+    ]
   }
 ]
