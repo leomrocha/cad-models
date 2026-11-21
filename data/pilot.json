@@ -40539,5 +40539,89 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c137-iso-4017-m4x25-screw-proposed-class-8-8",
+    "name": "ISO 4017 M4 × 25 screw nominal reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal M4 × 25 screw with a 7 mm across-flats head and a Ø4 mm shaft envelope.",
+    "tags": [
+      "M4",
+      "ISO 4017",
+      "screw",
+      "fastener"
+    ],
+    "aliases": [
+      "ISO 4017 M4 × 25 screw nominal reference",
+      "c137-iso-4017-m4x25-screw-proposed-class-8-8"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": [
+      {
+        "designation": "ISO 4017:2022",
+        "relationship": "Nominal M4 envelope"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical-parts/fasteners/screws",
+    "variant": "c137-iso-4017-m4x25-screw-proposed-class-8-8",
+    "file": "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8-XY.png",
+        "view": "Plan",
+        "alt": "ISO 4017 M4 × 25 screw nominal reference, plan"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8-XZ.png",
+        "view": "Elevation",
+        "alt": "ISO 4017 M4 × 25 screw nominal reference, elevation"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8-YZ.png",
+        "view": "End",
+        "alt": "ISO 4017 M4 × 25 screw nominal reference, end"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8-top-isometric.png",
+        "view": "Isometric",
+        "alt": "ISO 4017 M4 × 25 screw nominal reference, isometric",
+        "thumbnail_file": "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8-XY.png",
+      "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8-XZ.png",
+      "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8-YZ.png",
+      "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8-top-isometric.png",
+      "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8.dwg",
+      "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/c137-iso-4017-m4x25-screw-proposed-class-8-8.md",
+      "models/mechanical-parts/fasteners/screws/c137-iso-4017-m4x25-screw-proposed-class-8-8/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "ISO 4017:2022 official sample, tables 1 and 2",
+        "url": "https://cdn.standards.iteh.ai/samples/72585/1179998ddd594550a909d6e13c416f3e/ISO-4017-2022.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-73",
+        "revision": null,
+        "sha256": "ac406ecf71abc8a438fe2b05da0039b6ab297e65debb5483a024d6424cdcdd93",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal M4 head geometry"
+        ]
+      }
+    ]
   }
 ]
