@@ -54708,5 +54708,88 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24j4-bottom-rear-edge-trim",
+    "name": "J4 bottom rear splash edge trim",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "109.5 mm square-ended edge protector for the tractor splash-panel installation. The single solid represents the estimated installed outline of EMKA 1010-12.",
+    "tags": [
+      "tractor",
+      "splash panel",
+      "edge protector",
+      "EMKA 1010-12",
+      "p24j4-bottom-rear-edge-trim"
+    ],
+    "aliases": [
+      "J4 bottom rear splash edge trim",
+      "p24j4-bottom-rear-edge-trim"
+    ],
+    "materials": [
+      {
+        "name": "EPDM"
+      },
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "p24j4-bottom-rear-edge-trim",
+    "file": "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim-XY.png",
+        "view": "Plan",
+        "alt": "J4 bottom rear splash edge trim, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 bottom rear splash edge trim, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim-YZ.png",
+        "view": "End",
+        "alt": "J4 bottom rear splash edge trim, end"
+      },
+      {
+        "file": "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 bottom rear splash edge trim, isometric",
+        "thumbnail_file": "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim-XY.png",
+      "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim-XZ.png",
+      "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim-YZ.png",
+      "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim-top-isometric.png",
+      "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim.dwg",
+      "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/p24j4-bottom-rear-edge-trim.md",
+      "models/mechanical/chassis/p24j4-bottom-rear-edge-trim/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "EMKA catalogue T3-510, profile 1010-12, PDF page 131",
+        "url": "https://www.emka.com/fileadmin/catalog/catalog_downloads/pdf/en/Ingenious_Locking_Technology_for_Mobile_Homes_Buses_Trailers_01-2024_EN.pdf#page=131"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p24tb-j-bottom-trim-cut",
+        "revision": 1,
+        "sha256": "f38a82d40aca46806add7e7d9512e136c7dd0ac70576493724e40370de6fdc01",
+        "dependency": "derived",
+        "occurrences": [
+          "EMKA installed profile"
+        ]
+      }
+    ]
   }
 ]
