@@ -42882,5 +42882,75 @@
         ]
       }
     ]
+  },
+  {
+    "id": "wiska-eadr-25-10062804-gasket",
+    "name": "WISKA EADR 25 connection-thread gasket",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/cable-entry",
+    "description": "WISKA order 10062804 EPDM gasket for M25 connection threads. Nominal annulus with 29 mm outside diameter, 24 mm bore and 2 mm uncompressed thickness.",
+    "tags": [
+      "WISKA",
+      "gasket",
+      "cable entry",
+      "M25",
+      "EPDM"
+    ],
+    "aliases": [
+      "EADR 25",
+      "10062804"
+    ],
+    "materials": [
+      {
+        "name": "EPDM"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Nominal component reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "10062804",
+    "file": "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket.dwg",
+    "package_assets": [
+      "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/thumbnail.png",
+      "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket-XY.png",
+      "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket-XZ.png",
+      "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket-YZ.png",
+      "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket-top-isometric.png",
+      "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket.dwg",
+      "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket.md"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket-XY.png",
+        "view": "Plan",
+        "alt": "WISKA EADR 25 connection-thread gasket, plan"
+      },
+      {
+        "file": "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket-XZ.png",
+        "view": "Elevation",
+        "alt": "WISKA EADR 25 connection-thread gasket, elevation"
+      },
+      {
+        "file": "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket-YZ.png",
+        "view": "End",
+        "alt": "WISKA EADR 25 connection-thread gasket, end"
+      },
+      {
+        "file": "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/wiska-eadr-25-10062804-gasket-top-isometric.png",
+        "view": "Isometric",
+        "alt": "WISKA EADR 25 connection-thread gasket, isometric",
+        "thumbnail_file": "models/electrical/cable-entry/wiska-eadr-25-10062804-gasket/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "WISKA EADR 25, order 10062804",
+        "url": "https://www.wiska.com/en/pdf/10062804/EADR-25.pdf"
+      }
+    ],
+    "model_references": []
   }
 ]
