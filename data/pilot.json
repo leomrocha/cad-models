@@ -57825,5 +57825,81 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-front-category-1-attachment-support",
+    "name": "J4 Category 1 front attachment support",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Fourteen-solid front support with lower pin cheeks, mast and transverse upper carrier.",
+    "tags": [
+      "tractor",
+      "J4",
+      "attachment support",
+      "Category 1"
+    ],
+    "aliases": [
+      "J4 Category 1 front attachment support",
+      "j4-front-category-1-attachment-support"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-front-category-1-attachment-support",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 Category 1 front attachment support, opencadstudio · isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-XY.png",
+        "view": "Plan",
+        "alt": "J4 Category 1 front attachment support, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 Category 1 front attachment support, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-YZ.png",
+        "view": "End",
+        "alt": "J4 Category 1 front attachment support, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 Category 1 front attachment support, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/j4-front-category-1-attachment-support.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-front-category-1-attachment-support/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j3f-front-transverse-top-link-mount",
+        "revision": 1,
+        "sha256": "2bdab8326100942aa97460328e1fa5a4d28575cf38498397e8772bbeafba49d5",
+        "dependency": "derived",
+        "occurrences": [
+          "Front lower cheeks, mast and transverse upper carrier"
+        ]
+      }
+    ]
   }
 ]
