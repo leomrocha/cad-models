@@ -41962,7 +41962,7 @@
     "name": "J3f BMW chassis with Fibox R2 cabinet and 250 mm caster",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "J3f BMW chassis with 250 mm caster, detachable deck ledge and Fibox R2 cabinet on its rear crossmember.",
+    "description": "J3f BMW chassis with 250 mm caster, detachable deck ledge and Fibox R2 cabinet on its rear crossmember. Four nominal M6 × 20 stacks secure the cabinet feet in the installed pose.",
     "tags": [
       "tractor",
       "J3f",
@@ -41979,7 +41979,7 @@
     "standards": null,
     "dimensions": null,
     "needs_information": false,
-    "revision": 1,
+    "revision": 2,
     "state": "Discussion construction proposal",
     "category_path": "assemblies/tractor/two-wheel/subassemblies",
     "variant": "j3f-bmw-250mm-caster-with-fibox-r2-cabinet",
@@ -42028,9 +42028,9 @@
         ]
       },
       {
-        "id": "fibox-r2-cabinet-and-crossmember-support",
+        "id": "fibox-r2-cabinet-with-m6-foot-fasteners",
         "revision": 1,
-        "sha256": "d4b3a9f318ac79c33c2f6d32581de8ba3e455d2804a1c1d1f055d5a415264643",
+        "sha256": "d6f27b43b8f1ec8b67e8a3aca7011e31baf90b568322de5155ec2ceef38382de",
         "dependency": "embedded",
         "occurrences": [
           "Fibox cabinet and crossmember"
