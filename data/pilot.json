@@ -52014,5 +52014,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p04jft-j4-rear-top-mount-outrigger-foot",
+    "name": "J4 rear deck and lifting top-mount outrigger foot",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 rear top-mount foot for the deck upright and lifting stanchion.",
+    "tags": [
+      "tractor",
+      "J4",
+      "deck mounts",
+      "lifting supports",
+      "outrigger foot"
+    ],
+    "aliases": [
+      "J4 rear deck and lifting top-mount outrigger foot",
+      "p04jft-j4-rear-top-mount-outrigger-foot"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/deck",
+    "variant": "p04jft-j4-rear-top-mount-outrigger-foot",
+    "file": "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot-XY.png",
+        "view": "Plan",
+        "alt": "J4 rear deck and lifting top-mount outrigger foot, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 rear deck and lifting top-mount outrigger foot, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot-YZ.png",
+        "view": "End",
+        "alt": "J4 rear deck and lifting top-mount outrigger foot, end"
+      },
+      {
+        "file": "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 rear deck and lifting top-mount outrigger foot, isometric",
+        "thumbnail_file": "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot-XY.png",
+      "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot-XZ.png",
+      "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot-YZ.png",
+      "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot-top-isometric.png",
+      "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot.dwg",
+      "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/p04jft-j4-rear-top-mount-outrigger-foot.md",
+      "models/mechanical/chassis/deck/p04jft-j4-rear-top-mount-outrigger-foot/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
