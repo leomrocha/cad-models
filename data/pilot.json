@@ -44146,5 +44146,94 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxb-gemini-rear-receiver-bridge",
+    "name": "P22RXB Tyro Gemini 1S rear receiver bridge",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Tyro Gemini 1S cradle rear receiver bridge, proposed 60 mm-wide formed steel with two Ø6.6 mm bores.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "rear receiver bridge",
+      "cradle"
+    ],
+    "aliases": [
+      "P22RXB",
+      "Gemini rear receiver bridge"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXB rear receiver bridge",
+    "file": "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge-XY.png",
+      "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge.dwg",
+      "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge.md",
+      "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge-XY.png",
+        "view": "Plan",
+        "alt": "P22RXB Tyro Gemini 1S rear receiver bridge, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXB Tyro Gemini 1S rear receiver bridge, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge-YZ.png",
+        "view": "End",
+        "alt": "P22RXB Tyro Gemini 1S rear receiver bridge, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXB Tyro Gemini 1S rear receiver bridge, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxj-gemini-receiver-cradle-carrier",
+        "revision": 1,
+        "sha256": "cab585d093adb5e43997f41db8e4cdd8e6a0f479d1cde286f89f0ea01a9443cd",
+        "dependency": "derived",
+        "occurrences": [
+          "Outer bearing plane and carrier bore axis"
+        ]
+      },
+      {
+        "id": "p01j650fk-j3f-foot-and-kelly-passage-rail",
+        "revision": 1,
+        "sha256": "632d564574ffc0b88263d76efc0ac7b0619ddf791c21197cd277cc0a777900a9",
+        "dependency": "derived",
+        "occurrences": [
+          "Inner bearing plane design basis"
+        ]
+      }
+    ]
   }
 ]
