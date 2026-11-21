@@ -54476,5 +54476,87 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-kelly-bmw-300mm-caster-with-gemini",
+    "name": "J4 BMW, Kelly and Fibox chassis with Gemini receiver and 300 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 chassis with BMW tray, Kelly controllers, rear Fibox cabinet and raised Gemini receiver. The saved layout uses the 300 mm caster.",
+    "tags": [
+      "tractor",
+      "J4",
+      "Gemini 1S",
+      "BMW i3",
+      "Kelly",
+      "Fibox",
+      "receiver"
+    ],
+    "aliases": [
+      "J4 BMW, Kelly and Fibox chassis with Gemini receiver and 300 mm caster",
+      "j4-kelly-bmw-300mm-caster-with-gemini"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-kelly-bmw-300mm-caster-with-gemini",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini-XY.png",
+        "view": "Plan",
+        "alt": "J4 BMW, Kelly and Fibox chassis with Gemini receiver and 300 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 BMW, Kelly and Fibox chassis with Gemini receiver and 300 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini-YZ.png",
+        "view": "End",
+        "alt": "J4 BMW, Kelly and Fibox chassis with Gemini receiver and 300 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 BMW, Kelly and Fibox chassis with Gemini receiver and 300 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/j4-kelly-bmw-300mm-caster-with-gemini.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-gemini/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-kelly-bmw-300mm-caster-with-fibox-r2",
+        "revision": 1,
+        "sha256": "8e43bbc1df6cf2882ce0ae78be01d81a0a542f1263e61cf3f198db8b9ce10b31",
+        "dependency": "derived",
+        "occurrences": [
+          "Existing J4 chassis"
+        ]
+      },
+      {
+        "id": "j4-raised-gemini-receiver-rail-and-cradle",
+        "revision": 1,
+        "sha256": "65d2ce041d03e40eb2299279acd79e4ea94c14f071e24bfdfd8fb24b686da0af",
+        "dependency": "embedded",
+        "occurrences": [
+          "J4 Gemini receiver mount and left rail"
+        ]
+      }
+    ]
   }
 ]
