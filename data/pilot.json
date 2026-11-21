@@ -43189,5 +43189,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxj-gemini-receiver-cradle-carrier",
+    "name": "P22RXJ Tyro Gemini 1S external cradle carrier",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed 200 × 174 × 3 mm steel backplate for the Tyro Gemini 1S receiver cradle. Includes two bridge holes, two seat holes and four keeper slots.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "carrier",
+      "cradle"
+    ],
+    "aliases": [
+      "P22RXJ",
+      "Gemini receiver carrier"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXJ external cradle",
+    "file": "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier-XY.png",
+      "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier.dwg",
+      "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier.md",
+      "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier-XY.png",
+        "view": "Plan",
+        "alt": "P22RXJ Tyro Gemini 1S external cradle carrier, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXJ Tyro Gemini 1S external cradle carrier, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier-YZ.png",
+        "view": "End",
+        "alt": "P22RXJ Tyro Gemini 1S external cradle carrier, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXJ Tyro Gemini 1S external cradle carrier, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-219",
+        "revision": null,
+        "sha256": "716a96d80b1d0b3705f491e40f04a7a991e8f75d519dd15de3423e19aa609339",
+        "dependency": "derived",
+        "occurrences": [
+          "Receiver mounting envelope design basis"
+        ]
+      }
+    ]
   }
 ]
