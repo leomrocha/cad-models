@@ -58066,5 +58066,77 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p07tp-j4-sm453-rounded-slot-terminal-plate",
+    "name": "J4 SM453 terminal plate",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "160 × 160 × 10 mm terminal plate with a 25.5 × 22.5 mm through-slot for the SM453 stem.",
+    "tags": [
+      "tractor",
+      "J4",
+      "H390",
+      "tow-ball support",
+      "plate"
+    ],
+    "aliases": [
+      "J4 SM453 terminal plate",
+      "p07tp-j4-sm453-rounded-slot-terminal-plate"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/hitch",
+    "variant": "p07tp-j4-sm453-rounded-slot-terminal-plate",
+    "file": "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 SM453 terminal plate, opencadstudio · isometric",
+        "thumbnail_file": "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-XY.png",
+        "view": "Plan",
+        "alt": "J4 SM453 terminal plate, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 SM453 terminal plate, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-YZ.png",
+        "view": "End",
+        "alt": "J4 SM453 terminal plate, end"
+      },
+      {
+        "file": "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 SM453 terminal plate, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-XY.png",
+      "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-XZ.png",
+      "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-YZ.png",
+      "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-ocs-isometric.png",
+      "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate-top-isometric.png",
+      "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate.dwg",
+      "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/p07tp-j4-sm453-rounded-slot-terminal-plate.md",
+      "models/mechanical/chassis/hitch/p07tp-j4-sm453-rounded-slot-terminal-plate/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "TÜV SÜD SM453 approval report 17-00034-AS-MUC-01, PDF page 45",
+        "url": "https://www.misterdotcom.de/media/0c/d8/c8/1743087730/Zulassung-komplett-AHK-453-44-mit-EQ.pdf?1743087730=#page=45"
+      }
+    ],
+    "model_references": null
   }
 ]
