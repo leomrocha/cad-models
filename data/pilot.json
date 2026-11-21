@@ -45182,5 +45182,93 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-gemini-cradle-riser-fillet-envelope",
+    "name": "J3f Gemini riser 3 mm fillet weld envelope",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle riser fillet weld envelope. Proposed 3 mm equal-leg triangular section swept along an 18 mm joint line.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "riser fillet weld envelope",
+      "cradle"
+    ],
+    "aliases": [
+      "Gemini riser fillet weld envelope"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "riser fillet weld envelope",
+    "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope-XY.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope-XZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope-YZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope-top-isometric.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope.dwg",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope.md",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope-XY.png",
+        "view": "Plan",
+        "alt": "J3f Gemini riser 3 mm fillet weld envelope, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Gemini riser 3 mm fillet weld envelope, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope-YZ.png",
+        "view": "End",
+        "alt": "J3f Gemini riser 3 mm fillet weld envelope, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/j3f-gemini-cradle-riser-fillet-envelope-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Gemini riser 3 mm fillet weld envelope, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-riser-fillet-envelope/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "j3f-gemini-raised-cradle-riser",
+        "revision": 1,
+        "sha256": "aa97f437ad61ca92c19bf6e71505d4531765163a77f644050828bbdc10938a1b",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal fillet mating faces"
+        ]
+      },
+      {
+        "id": "j3f-gemini-raised-cradle-spreader",
+        "revision": 1,
+        "sha256": "a02dec1c993812ece32055ec406575f62bd999e51c598900d054e485a6563511",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal fillet mating faces"
+        ]
+      }
+    ]
   }
 ]
