@@ -57402,5 +57402,65 @@
       }
     ],
     "sources": []
+  },
+  {
+    "id": "p12j4os30-j4-800mm-wheel-spacer-54p58",
+    "name": "J4 54.58 mm sprocket-to-wheel spacer",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/drive/bearing-spacers",
+    "description": "Proposed Ø40 × Ø30.2 × 54.58 mm spacer between the sprocket carrier and the wheel flange.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel drive",
+      "800 mm width",
+      "spacer"
+    ],
+    "aliases": [
+      "J4 54.58 mm sprocket-to-wheel spacer",
+      "p12j4os30-j4-800mm-wheel-spacer-54p58"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "800 mm wheel-width proposal",
+    "file": "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/p12j4os30-j4-800mm-wheel-spacer-54p58.dwg",
+    "package_assets": [
+      "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/ocs-isometric.png",
+      "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/p12j4os30-j4-800mm-wheel-spacer-54p58-XY.png",
+      "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/p12j4os30-j4-800mm-wheel-spacer-54p58-XZ.png",
+      "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/p12j4os30-j4-800mm-wheel-spacer-54p58-YZ.png",
+      "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/p12j4os30-j4-800mm-wheel-spacer-54p58.dwg",
+      "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/p12j4os30-j4-800mm-wheel-spacer-54p58.md",
+      "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 54.58 mm sprocket-to-wheel spacer, OpenCADStudio · Isometric",
+        "thumbnail_file": "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/p12j4os30-j4-800mm-wheel-spacer-54p58-XY.png",
+        "view": "Plan",
+        "alt": "J4 54.58 mm sprocket-to-wheel spacer, plan"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/p12j4os30-j4-800mm-wheel-spacer-54p58-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 54.58 mm sprocket-to-wheel spacer, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/bearing-spacers/p12j4os30-j4-800mm-wheel-spacer-54p58/p12j4os30-j4-800mm-wheel-spacer-54p58-YZ.png",
+        "view": "End",
+        "alt": "J4 54.58 mm sprocket-to-wheel spacer, end"
+      }
+    ],
+    "sources": []
   }
 ]
