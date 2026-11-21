@@ -42118,5 +42118,117 @@
         ]
       }
     ]
+  },
+  {
+    "id": "fibox-r2-cabinet-with-m6-foot-fasteners",
+    "name": "Fibox R2 cabinet with nominal M6 foot fasteners",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Fibox R2 cabinet support with four nominal M6 × 20 cabinet-foot screws, eight plain washers and four DIN 985 M6 nuts.",
+    "tags": [
+      "tractor",
+      "Fibox",
+      "R2",
+      "cabinet",
+      "mounting assembly",
+      "M6"
+    ],
+    "aliases": [
+      "Fibox R2 cabinet with nominal M6 foot fasteners",
+      "fibox-r2-cabinet-with-m6-foot-fasteners"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "fibox-r2-cabinet-with-m6-foot-fasteners",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners-XY.png",
+        "view": "Plan",
+        "alt": "Fibox R2 cabinet with nominal M6 foot fasteners, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners-XZ.png",
+        "view": "Elevation",
+        "alt": "Fibox R2 cabinet with nominal M6 foot fasteners, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners-YZ.png",
+        "view": "End",
+        "alt": "Fibox R2 cabinet with nominal M6 foot fasteners, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Fibox R2 cabinet with nominal M6 foot fasteners, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/fibox-r2-cabinet-with-m6-foot-fasteners.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-m6-foot-fasteners/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "fibox-r2-cabinet-and-crossmember-support",
+        "revision": 1,
+        "sha256": "d4b3a9f318ac79c33c2f6d32581de8ba3e455d2804a1c1d1f055d5a415264643",
+        "dependency": "embedded",
+        "occurrences": [
+          "Cabinet and rear crossmember"
+        ]
+      },
+      {
+        "id": "iso-4017-m6x20",
+        "revision": null,
+        "sha256": "32dcc1ddeecddfa8687901a913f6a6aa1e6cb574c311daa8cc1f59ebc896eb4d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Screw 1",
+          "Screw 2",
+          "Screw 3",
+          "Screw 4"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Foot washer 1",
+          "Carrier washer 1",
+          "Foot washer 2",
+          "Carrier washer 2",
+          "Foot washer 3",
+          "Carrier washer 3",
+          "Foot washer 4",
+          "Carrier washer 4"
+        ]
+      },
+      {
+        "id": "model-77",
+        "revision": null,
+        "sha256": "b005197d6d63b19d28d1785191f25a1a7a8a07068289550796644a12ed197e08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Nut 1",
+          "Nut 2",
+          "Nut 3",
+          "Nut 4"
+        ]
+      }
+    ]
   }
 ]
