@@ -56754,5 +56754,96 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24j4-outboard-splash-with-fastenings",
+    "name": "J4 outboard splash panels with M6 fastenings",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 outboard splash proposal with 12 nominal M6 screw, washer and spacer groups.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "outboard supports",
+      "M6 fastenings"
+    ],
+    "aliases": [
+      "J4 outboard splash panels with M6 fastenings",
+      "p24j4-outboard-splash-with-fastenings"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "p24j4-outboard-splash-with-fastenings",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings-XY.png",
+        "view": "Plan",
+        "alt": "J4 outboard splash panels with M6 fastenings, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outboard splash panels with M6 fastenings, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings-YZ.png",
+        "view": "End",
+        "alt": "J4 outboard splash panels with M6 fastenings, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outboard splash panels with M6 fastenings, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/p24j4-outboard-splash-with-fastenings.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-fastenings/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24j4-outboard-splash-mounted",
+        "revision": 1,
+        "sha256": "a2764acaa7231e3f1dbb5bfbf84963e7524abf26f5110226389c08ca2238ee48",
+        "dependency": "embedded",
+        "occurrences": [
+          "Panels and supports"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-joint-hardware",
+        "revision": 1,
+        "sha256": "9c3fcc0214a86cc43f0c0d613ddfc30a9c2a487c54145278a515ccbbaa418824",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Lower fixing -220",
+          "Left Lower fixing +0",
+          "Left Lower fixing +220",
+          "Left Upper fixing -220",
+          "Left Upper fixing +0",
+          "Left Upper fixing +220",
+          "Right Lower fixing -220",
+          "Right Lower fixing +0",
+          "Right Lower fixing +220",
+          "Right Upper fixing -220",
+          "Right Upper fixing +0",
+          "Right Upper fixing +220"
+        ]
+      }
+    ]
   }
 ]
