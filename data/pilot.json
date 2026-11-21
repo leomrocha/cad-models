@@ -44729,5 +44729,133 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-left-rail-with-gemini-receiver",
+    "name": "J3f left rail with Tyro Gemini 1S receiver cradle",
+    "subject": "Electrical",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "J3f receiver-ready left rail, Tyro Gemini 1S cradle, and two nominal E04 structural mounting stacks.",
+    "tags": [
+      "J3f",
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "cradle",
+      "rail"
+    ],
+    "aliases": [
+      "J3f Gemini receiver rail",
+      "E04 receiver rail attachment"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J3f left rail and Gemini 1S cradle",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver-XY.png",
+        "view": "Plan",
+        "alt": "J3f left rail with Tyro Gemini 1S receiver cradle, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f left rail with Tyro Gemini 1S receiver cradle, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver-YZ.png",
+        "view": "End",
+        "alt": "J3f left rail with Tyro Gemini 1S receiver cradle, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/j3f-left-rail-with-gemini-receiver-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f left rail with Tyro Gemini 1S receiver cradle, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-left-rail-with-gemini-receiver/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p01j650fkr-j3f-left-receiver-passage-rail",
+        "revision": 1,
+        "sha256": "56704ef65664d3e301071ec8dfc01648f531bff4e1458acf7d000eef7bc39de6",
+        "dependency": "embedded",
+        "occurrences": [
+          "Receiver-ready left rail"
+        ]
+      },
+      {
+        "id": "gemini-1s-receiver-cradle-with-fixings",
+        "revision": 1,
+        "sha256": "cec095628790aab2de1e36f56ca12b71e340ce114ca34122079248b734e70b30",
+        "dependency": "embedded",
+        "occurrences": [
+          "Checked receiver cradle"
+        ]
+      },
+      {
+        "id": "c129-iso-4017-m6x55-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "016e29607e1b47d4b421a292483d4435c9d83aea8c51581507d39679c57bb386",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear E04 Screw",
+          "Forward E04 Screw"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear E04 Inboard washer",
+          "Rear E04 Outboard washer",
+          "Forward E04 Inboard washer",
+          "Forward E04 Outboard washer"
+        ]
+      },
+      {
+        "id": "model-187",
+        "revision": null,
+        "sha256": "5cdb33e56fea83e7adf5df809bb23ebb7ded8032b0692beb564e2c670025161f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear E04 Compression sleeve",
+          "Forward E04 Compression sleeve"
+        ]
+      },
+      {
+        "id": "model-77",
+        "revision": null,
+        "sha256": "b005197d6d63b19d28d1785191f25a1a7a8a07068289550796644a12ed197e08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear E04 Locknut",
+          "Forward E04 Locknut"
+        ]
+      }
+    ]
   }
 ]
