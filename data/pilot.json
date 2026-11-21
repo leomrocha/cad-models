@@ -57255,5 +57255,92 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-kelly-bmw-300mm-caster-with-splash",
+    "name": "J4 chassis with detachable splash panels and 300 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 chassis with detachable splash panels and 300 mm caster. The left support beam detaches for Gemini receiver access.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chassis",
+      "splash panels",
+      "Gemini receiver",
+      "detachable support"
+    ],
+    "aliases": [
+      "J4 chassis with detachable splash panels and 300 mm caster",
+      "j4-kelly-bmw-300mm-caster-with-splash"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-kelly-bmw-300mm-caster-with-splash",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 chassis with detachable splash panels and 300 mm caster, opencadstudio · isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-XY.png",
+        "view": "Plan",
+        "alt": "J4 chassis with detachable splash panels and 300 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 chassis with detachable splash panels and 300 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-YZ.png",
+        "view": "End",
+        "alt": "J4 chassis with detachable splash panels and 300 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 chassis with detachable splash panels and 300 mm caster, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/j4-kelly-bmw-300mm-caster-with-splash.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-300mm-caster-with-splash/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-kelly-bmw-300mm-caster-with-gemini",
+        "revision": 1,
+        "sha256": "58dfa703a22618311b40d2cdceaaf0404ea3d7b59cb859bf3402c0343ac05751",
+        "dependency": "derived",
+        "occurrences": [
+          "Gemini chassis"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-with-detachable-beam",
+        "revision": 1,
+        "sha256": "12494b7cc2cf170d91fcc7d2bce42d3978b74822649ed455d47317b6b8997dcb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Outboard splash assembly"
+        ]
+      }
+    ]
   }
 ]
