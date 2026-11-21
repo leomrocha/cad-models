@@ -41103,5 +41103,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p04jcp-j3f-detachable-ledge-threaded-cap",
+    "name": "J3f detachable ledge cap with eccentric M8 receiver",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "50 × 30 × 3 mm deck upright cap with one eccentric 8 mm-deep M8 receiver.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "recessed deck",
+      "detachable ledge",
+      "cap"
+    ],
+    "aliases": [
+      "J3f detachable ledge cap with eccentric M8 receiver",
+      "p04jcp-j3f-detachable-ledge-threaded-cap"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "p04jcp-j3f-detachable-ledge-threaded-cap",
+    "file": "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap-XY.png",
+        "view": "Plan",
+        "alt": "J3f detachable ledge cap with eccentric M8 receiver, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f detachable ledge cap with eccentric M8 receiver, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap-YZ.png",
+        "view": "End",
+        "alt": "J3f detachable ledge cap with eccentric M8 receiver, end"
+      },
+      {
+        "file": "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f detachable ledge cap with eccentric M8 receiver, isometric",
+        "thumbnail_file": "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap-XY.png",
+      "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap-XZ.png",
+      "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap-YZ.png",
+      "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap-top-isometric.png",
+      "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap.dwg",
+      "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/p04jcp-j3f-detachable-ledge-threaded-cap.md",
+      "models/mechanical/chassis/p04jcp-j3f-detachable-ledge-threaded-cap/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-120",
+        "revision": null,
+        "sha256": "cab45bfd8383f6ee81aa9a89fbccb69cd5a80937f82433e08968f160207063a0",
+        "dependency": "derived",
+        "occurrences": [
+          "Retained geometric interface"
+        ]
+      }
+    ]
   }
 ]
