@@ -58359,5 +58359,99 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-kelly-bmw-250mm-caster-with-category-1-supports",
+    "name": "J4 250 mm caster chassis with Category 1 supports",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 250 mm caster chassis with the front and rear Category 1 support proposals.",
+    "tags": [
+      "tractor",
+      "J4",
+      "attachment support",
+      "Category 1"
+    ],
+    "aliases": [
+      "J4 250 mm caster chassis with Category 1 supports",
+      "j4-kelly-bmw-250mm-caster-with-category-1-supports"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-kelly-bmw-250mm-caster-with-category-1-supports",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 250 mm caster chassis with Category 1 supports, opencadstudio · isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-XY.png",
+        "view": "Plan",
+        "alt": "J4 250 mm caster chassis with Category 1 supports, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 250 mm caster chassis with Category 1 supports, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-YZ.png",
+        "view": "End",
+        "alt": "J4 250 mm caster chassis with Category 1 supports, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 250 mm caster chassis with Category 1 supports, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/j4-kelly-bmw-250mm-caster-with-category-1-supports.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-supports/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-kelly-bmw-250mm-caster-with-splash",
+        "revision": 1,
+        "sha256": "2949d3fe6b49ae7b1beae1c3b6d024b238f6e75660434ab46c232b9cfd432274",
+        "dependency": "embedded",
+        "occurrences": [
+          "Existing J4 chassis and outboard splash assembly"
+        ]
+      },
+      {
+        "id": "j4-front-category-1-attachment-support",
+        "revision": 1,
+        "sha256": "b7174503de56cfa099e65f61d607594cad98e3acabe7f77dd19d024e85a09aed",
+        "dependency": "embedded",
+        "occurrences": [
+          "Front Category 1 support"
+        ]
+      },
+      {
+        "id": "j4-rear-category-1-attachment-support",
+        "revision": 1,
+        "sha256": "eb7a834ec82fdbad059b6917d30853f0c983388524e748b02dcfb37084716179",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear Category 1 support"
+        ]
+      }
+    ]
   }
 ]
