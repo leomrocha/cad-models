@@ -41758,5 +41758,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22r2nb-fibox-crossmember-m6-nut-block",
+    "name": "R2 Fibox crossmember two-position M6 receiver block",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "R2 cabinet crossmember receiver block with two nominal M6 thread envelopes on 20 mm pitch and bevels at the rear-wall corners.",
+    "tags": [
+      "Fibox",
+      "R2",
+      "tractor",
+      "cabinet support",
+      "receiver"
+    ],
+    "aliases": [
+      "R2 Fibox crossmember two-position M6 receiver block",
+      "p22r2nb-fibox-crossmember-m6-nut-block"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "electrical/enclosure-mounts",
+    "variant": "p22r2nb-fibox-crossmember-m6-nut-block",
+    "file": "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block.dwg",
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block-XY.png",
+        "view": "Plan",
+        "alt": "R2 Fibox crossmember two-position M6 receiver block, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block-XZ.png",
+        "view": "Elevation",
+        "alt": "R2 Fibox crossmember two-position M6 receiver block, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block-YZ.png",
+        "view": "End",
+        "alt": "R2 Fibox crossmember two-position M6 receiver block, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block-top-isometric.png",
+        "view": "Isometric",
+        "alt": "R2 Fibox crossmember two-position M6 receiver block, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block-XY.png",
+      "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block-XZ.png",
+      "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block-YZ.png",
+      "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block.dwg",
+      "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/p22r2nb-fibox-crossmember-m6-nut-block.md",
+      "models/electrical/enclosure-mounts/p22r2nb-fibox-crossmember-m6-nut-block/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p22r2xb-fibox-rear-cabinet-crossmember",
+        "revision": 1,
+        "sha256": "bef2125e86f0f08b82b2dd3874f2ea59e03fed531b5efc8749a737df3c511ddb",
+        "dependency": "derived",
+        "occurrences": [
+          "Crossmember interior and bolt axes"
+        ]
+      }
+    ]
   }
 ]
