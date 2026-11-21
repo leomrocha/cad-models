@@ -57082,5 +57082,91 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24j4-outboard-splash-with-detachable-beam",
+    "name": "J4 outboard splash panels with detachable left beam",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 outboard splash panels and hardware with the detachable left fixing beam and its two M4 joints.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panels",
+      "detachable support",
+      "receiver access"
+    ],
+    "aliases": [
+      "J4 outboard splash panels with detachable left beam",
+      "p24j4-outboard-splash-with-detachable-beam"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "p24j4-outboard-splash-with-detachable-beam",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 outboard splash panels with detachable left beam, opencadstudio · isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-XY.png",
+        "view": "Plan",
+        "alt": "J4 outboard splash panels with detachable left beam, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outboard splash panels with detachable left beam, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-YZ.png",
+        "view": "End",
+        "alt": "J4 outboard splash panels with detachable left beam, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outboard splash panels with detachable left beam, isometric"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/p24j4-outboard-splash-with-detachable-beam.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-with-detachable-beam/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24j4-outboard-splash-with-fastenings",
+        "revision": 1,
+        "sha256": "298afd5f2ff64a2c0d328607348c30b34f7c0b47509aa4dfececd4cebea4ed76",
+        "dependency": "derived",
+        "occurrences": [
+          "Fastened splash assembly"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-left-detachable-beam-group",
+        "revision": 1,
+        "sha256": "fffa14e5484fa4cf1b800f92176f2ba064553b3d76285d83f6b2617fdd1903d4",
+        "dependency": "embedded",
+        "occurrences": [
+          "Detachable left beam group"
+        ]
+      }
+    ]
   }
 ]
