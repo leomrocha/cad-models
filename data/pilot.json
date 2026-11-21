@@ -52266,5 +52266,157 @@
       "models/mechanical/chassis/deck/j4-rear-top-mount-nut-bar/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "j4-rails-with-rear-top-feet-and-guard-mounts",
+    "name": "J4 raised rails with rear top-mounted feet and eight offset guard mounts",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Both J4 rails with four rear top-mounted outrigger feet and eight offset guard joints.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chain guard",
+      "rail hardware",
+      "A07 joint"
+    ],
+    "aliases": [
+      "J4 raised rails with rear top-mounted feet and eight offset guard mounts",
+      "j4-rails-with-rear-top-feet-and-guard-mounts"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-rails-with-rear-top-feet-and-guard-mounts",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts-XY.png",
+        "view": "Plan",
+        "alt": "J4 raised rails with rear top-mounted feet and eight offset guard mounts, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 raised rails with rear top-mounted feet and eight offset guard mounts, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts-YZ.png",
+        "view": "End",
+        "alt": "J4 raised rails with rear top-mounted feet and eight offset guard mounts, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 raised rails with rear top-mounted feet and eight offset guard mounts, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/j4-rails-with-rear-top-feet-and-guard-mounts.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-rails-with-rear-top-feet-and-guard-mounts/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p01j650-j4-left-rail-with-rear-top-mounts",
+        "revision": 1,
+        "sha256": "be5fc9596b0f98a6ebd3ffdc7c4731021f719eaae1777c1c65ab825375094cf3",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left raised rail"
+        ]
+      },
+      {
+        "id": "p01j650-j4-right-rail-with-rear-top-mounts",
+        "revision": 1,
+        "sha256": "4736032d274bc80798db673ca9fcd0b176f742ca733f4ea75e85573591f0306e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right raised rail"
+        ]
+      },
+      {
+        "id": "j4-a07-offset-guard-rail-stack",
+        "revision": 1,
+        "sha256": "613f93d7ecbd275df40faec3e51306ae7b27238ea7ccb4e565f05e8f9738746c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left flange joint at X -110",
+          "Left flange joint at X -40",
+          "Left flange joint at X 40",
+          "Left flange joint at X 110",
+          "Right flange joint at X -110",
+          "Right flange joint at X 0",
+          "Right flange joint at X 110",
+          "Right flange joint at X 193"
+        ]
+      },
+      {
+        "id": "p04jft-j4-rear-top-mount-outrigger-foot",
+        "revision": 1,
+        "sha256": "573bb3971785ea6157a1b77a7a9285c5b2c76372d0e7318b1d8a895534b3969b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Rear deck foot",
+          "Left Rear lifting foot",
+          "Right Rear deck foot",
+          "Right Rear lifting foot"
+        ]
+      },
+      {
+        "id": "j4-rear-top-mount-nut-bar",
+        "revision": 1,
+        "sha256": "0f66b09bf930edadf56fe0d643a5993906453c43beb2d75d59df8239b1fcebc1",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Rear deck foot nut bar",
+          "Left Rear lifting foot nut bar",
+          "Right Rear deck foot nut bar",
+          "Right Rear lifting foot nut bar"
+        ]
+      },
+      {
+        "id": "model-86",
+        "revision": null,
+        "sha256": "9d66440e7c2f23df1806ebe33f606fb13d283f9251e9d0b52b003d69bd5952e8",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Rear deck foot screw 1",
+          "Left Rear deck foot screw 2",
+          "Left Rear lifting foot screw 1",
+          "Left Rear lifting foot screw 2",
+          "Right Rear deck foot screw 1",
+          "Right Rear deck foot screw 2",
+          "Right Rear lifting foot screw 1",
+          "Right Rear lifting foot screw 2"
+        ]
+      },
+      {
+        "id": "model-87",
+        "revision": null,
+        "sha256": "bfade862b65daffe40063500e1c9087eac873e8dfff3e900d996dd75aa51c323",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Rear deck foot washer 1",
+          "Left Rear deck foot washer 2",
+          "Left Rear lifting foot washer 1",
+          "Left Rear lifting foot washer 2",
+          "Right Rear deck foot washer 1",
+          "Right Rear deck foot washer 2",
+          "Right Rear lifting foot washer 1",
+          "Right Rear lifting foot washer 2"
+        ]
+      }
+    ]
   }
 ]
