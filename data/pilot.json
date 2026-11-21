@@ -57342,5 +57342,65 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p12j430-j4-800mm-keyed-wheel-shaft-276p78",
+    "name": "J4 276.78 mm keyed wheel shaft",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/drive/shafts",
+    "description": "Proposed Ø30 × 276.78 mm shaft with two 8 mm wide by 4 mm deep keyways and axial retainer bores.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel drive",
+      "800 mm width",
+      "shaft"
+    ],
+    "aliases": [
+      "J4 276.78 mm keyed wheel shaft",
+      "p12j430-j4-800mm-keyed-wheel-shaft-276p78"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "800 mm wheel-width proposal",
+    "file": "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/p12j430-j4-800mm-keyed-wheel-shaft-276p78.dwg",
+    "package_assets": [
+      "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/ocs-isometric.png",
+      "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/p12j430-j4-800mm-keyed-wheel-shaft-276p78-XY.png",
+      "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/p12j430-j4-800mm-keyed-wheel-shaft-276p78-XZ.png",
+      "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/p12j430-j4-800mm-keyed-wheel-shaft-276p78-YZ.png",
+      "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/p12j430-j4-800mm-keyed-wheel-shaft-276p78.dwg",
+      "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/p12j430-j4-800mm-keyed-wheel-shaft-276p78.md",
+      "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 276.78 mm keyed wheel shaft, OpenCADStudio · Isometric",
+        "thumbnail_file": "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/thumbnail.png"
+      },
+      {
+        "file": "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/p12j430-j4-800mm-keyed-wheel-shaft-276p78-XY.png",
+        "view": "Plan",
+        "alt": "J4 276.78 mm keyed wheel shaft, plan"
+      },
+      {
+        "file": "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/p12j430-j4-800mm-keyed-wheel-shaft-276p78-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 276.78 mm keyed wheel shaft, elevation"
+      },
+      {
+        "file": "models/mechanical/drive/shafts/p12j430-j4-800mm-keyed-wheel-shaft-276p78/p12j430-j4-800mm-keyed-wheel-shaft-276p78-YZ.png",
+        "view": "End",
+        "alt": "J4 276.78 mm keyed wheel shaft, end"
+      }
+    ],
+    "sources": []
   }
 ]
