@@ -41962,7 +41962,7 @@
     "name": "J3f BMW chassis with Fibox R2 cabinet and 250 mm caster",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "J3f BMW chassis with 250 mm caster, detachable deck ledge and Fibox R2 cabinet on its rear crossmember. Four nominal M6 × 20 stacks secure the cabinet feet in the installed pose.",
+    "description": "J3f BMW chassis with 250 mm caster, detachable deck ledge and Fibox R2 cabinet on its rear crossmember. Four nominal M6 × 20 stacks secure the cabinet feet in the installed pose. The cabinet includes the Phoenix rail and a drawing-traced Pilz relay packaging reference.",
     "tags": [
       "tractor",
       "J3f",
@@ -41979,7 +41979,7 @@
     "standards": null,
     "dimensions": null,
     "needs_information": false,
-    "revision": 2,
+    "revision": 3,
     "state": "Discussion construction proposal",
     "category_path": "assemblies/tractor/two-wheel/subassemblies",
     "variant": "j3f-bmw-250mm-caster-with-fibox-r2-cabinet",
@@ -42028,9 +42028,9 @@
         ]
       },
       {
-        "id": "fibox-r2-cabinet-with-m6-foot-fasteners",
+        "id": "fibox-r2-pilz-pnoz-x3-relay-packaging-layout",
         "revision": 1,
-        "sha256": "d6f27b43b8f1ec8b67e8a3aca7011e31baf90b568322de5155ec2ceef38382de",
+        "sha256": "54399f8fd33e7233e6314e90b9d89bff619708b6f236c1f5201f0d8309543b93",
         "dependency": "embedded",
         "occurrences": [
           "Fibox cabinet and crossmember"
