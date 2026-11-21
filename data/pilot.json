@@ -45013,5 +45013,84 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-gemini-raised-cradle-spreader",
+    "name": "J3f Gemini raised cradle spreader plate",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle raised cradle spreader plate. Proposed steel plate, 200 × 26 × 4 mm. The two Ø6.6 mm bores at X = −335 and −155 mm, Z = 638 mm match the raised carrier. The plate seats between the riser ends at Y = 228 mm and the carrier at Y = 232 mm.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "raised cradle spreader plate",
+      "cradle"
+    ],
+    "aliases": [
+      "Gemini raised cradle spreader plate"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "raised cradle spreader plate",
+    "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader-XY.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader-XZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader-YZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader-top-isometric.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader.dwg",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader.md",
+      "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader-XY.png",
+        "view": "Plan",
+        "alt": "J3f Gemini raised cradle spreader plate, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Gemini raised cradle spreader plate, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader-YZ.png",
+        "view": "End",
+        "alt": "J3f Gemini raised cradle spreader plate, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/j3f-gemini-raised-cradle-spreader-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Gemini raised cradle spreader plate, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/j3f-gemini-raised-cradle-spreader/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "j3f-gemini-receiver-raised-outboard-cradle",
+        "revision": 1,
+        "sha256": "43eb93cbce8dd1526ed070fdad821cb5aa933d3c48a57e9eeeecf5c66333e574",
+        "dependency": "derived",
+        "occurrences": [
+          "Raised cradle and carrier position design basis"
+        ]
+      }
+    ]
   }
 ]
