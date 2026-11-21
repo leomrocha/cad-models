@@ -42720,5 +42720,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "fibox-r2-cabinet-with-direct-relay-mount",
+    "name": "Fibox R2 cabinet with direct Phoenix relay mount",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Fibox R2 cabinet and rear support with the machined MPS 3020 plate and direct-mounted Phoenix rail, end stops and nominal M5 hardware.",
+    "tags": [
+      "tractor",
+      "Fibox",
+      "R2",
+      "Phoenix Contact",
+      "DIN rail",
+      "cabinet installation"
+    ],
+    "aliases": [
+      "Fibox R2 cabinet with direct Phoenix relay mount",
+      "fibox-r2-cabinet-with-direct-relay-mount"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "fibox-r2-cabinet-with-direct-relay-mount",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount-XY.png",
+        "view": "Plan",
+        "alt": "Fibox R2 cabinet with direct Phoenix relay mount, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount-XZ.png",
+        "view": "Elevation",
+        "alt": "Fibox R2 cabinet with direct Phoenix relay mount, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount-YZ.png",
+        "view": "End",
+        "alt": "Fibox R2 cabinet with direct Phoenix relay mount, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Fibox R2 cabinet with direct Phoenix relay mount, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/fibox-r2-cabinet-with-direct-relay-mount.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-with-direct-relay-mount/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "fibox-r2-cabinet-with-m6-foot-fasteners",
+        "revision": 1,
+        "sha256": "d6f27b43b8f1ec8b67e8a3aca7011e31baf90b568322de5155ec2ceef38382de",
+        "dependency": "derived",
+        "occurrences": [
+          "Fibox cabinet and chassis support"
+        ]
+      },
+      {
+        "id": "fibox-mps3020-phoenix-direct-relay-mount",
+        "revision": 1,
+        "sha256": "ae5c445997370f87e912ab11e93983336362f0f9d688b5ba46118bde4f946195",
+        "dependency": "embedded",
+        "occurrences": [
+          "Machined plate and relay rail"
+        ]
+      }
+    ]
   }
 ]
