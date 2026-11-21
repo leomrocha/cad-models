@@ -40623,5 +40623,133 @@
         ]
       }
     ]
+  },
+  {
+    "id": "bmw-j-tray-support-with-lower-shield-upright-fasteners",
+    "name": "BMW J tray support with four lower shield upright joints",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "BMW tray support with four shield uprights, four M4 × 25 screws, eight plain washers and four DIN 985 M4 locknut envelopes.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "BMW i3",
+      "terminal shield",
+      "uprights",
+      "assembly"
+    ],
+    "aliases": [
+      "BMW J tray support with four lower shield upright joints",
+      "bmw-j-tray-support-with-lower-shield-upright-fasteners"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "bmw-j-tray-support-with-lower-shield-upright-fasteners",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners-XY.png",
+        "view": "Plan",
+        "alt": "BMW J tray support with four lower shield upright joints, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW J tray support with four lower shield upright joints, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners-YZ.png",
+        "view": "End",
+        "alt": "BMW J tray support with four lower shield upright joints, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW J tray support with four lower shield upright joints, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/bmw-j-tray-support-with-lower-shield-upright-fasteners.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-tray-support-with-lower-shield-upright-fasteners/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "bmw-j-battery-tray-support-with-fastener-access",
+        "revision": 1,
+        "sha256": "41f56616b48577c31a412e40ea957aefd58ffb92aadc71b6669cb8198af014af",
+        "dependency": "embedded",
+        "occurrences": [
+          "Checked tray support"
+        ]
+      },
+      {
+        "id": "model-185",
+        "revision": null,
+        "sha256": "6917d788dc1ec284733f91efad6467eb0de387285a9044969e1880f243886bc5",
+        "dependency": "embedded",
+        "occurrences": [
+          "Upright 1",
+          "Upright 2",
+          "Upright 3",
+          "Upright 4"
+        ]
+      },
+      {
+        "id": "c137-iso-4017-m4x25-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "4581f3d2e9d1e9d60fa2a7fcc9469634e55c6176dde071f000ddcdf8bd5af1e0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Screw 1",
+          "Screw 2",
+          "Screw 3",
+          "Screw 4"
+        ]
+      },
+      {
+        "id": "model-88",
+        "revision": null,
+        "sha256": "82c8bfae0411486bf95807b11f7cd235c1d6af3a40b3e88fc3a6a5658fca8575",
+        "dependency": "embedded",
+        "occurrences": [
+          "Upper washer 1",
+          "Lower washer 1",
+          "Upper washer 2",
+          "Lower washer 2",
+          "Upper washer 3",
+          "Lower washer 3",
+          "Upper washer 4",
+          "Lower washer 4"
+        ]
+      },
+      {
+        "id": "model-76",
+        "revision": null,
+        "sha256": "214a38ab471d60c7ee6fa4b4e3d2274ffa8b27b5a866c9cd05ad0fffc66c9058",
+        "dependency": "embedded",
+        "occurrences": [
+          "Locknut 1",
+          "Locknut 2",
+          "Locknut 3",
+          "Locknut 4"
+        ]
+      }
+    ]
   }
 ]
