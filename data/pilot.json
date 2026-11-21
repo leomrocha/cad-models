@@ -57569,5 +57569,117 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-800mm-paired-wheel-ends-30mm",
+    "name": "J4 width-target paired 30 mm wheel ends",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "Paired 30 mm J4 wheel-end stacks and spacers for the 800 mm wheel-width proposal.",
+    "tags": [
+      "tractor",
+      "J4",
+      "wheel drive",
+      "800 mm width",
+      "pair"
+    ],
+    "aliases": [
+      "J4 width-target paired 30 mm wheel ends",
+      "j4-800mm-paired-wheel-ends-30mm"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "800 mm wheel-width proposal",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/j4-800mm-paired-wheel-ends-30mm.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/j4-800mm-paired-wheel-ends-30mm-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/j4-800mm-paired-wheel-ends-30mm-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/j4-800mm-paired-wheel-ends-30mm-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/j4-800mm-paired-wheel-ends-30mm.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/j4-800mm-paired-wheel-ends-30mm.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/ocs-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 width-target paired 30 mm wheel ends, OpenCADStudio · Isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/thumbnail.png"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/j4-800mm-paired-wheel-ends-30mm-XY.png",
+        "view": "Plan",
+        "alt": "J4 width-target paired 30 mm wheel ends, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/j4-800mm-paired-wheel-ends-30mm-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 width-target paired 30 mm wheel ends, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-800mm-paired-wheel-ends-30mm/j4-800mm-paired-wheel-ends-30mm-YZ.png",
+        "view": "End",
+        "alt": "J4 width-target paired 30 mm wheel ends, end"
+      }
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-800mm-keyed-wheel-end-30mm",
+        "revision": 1,
+        "sha256": "9925b62413c6b524d14c226ee2c0e7c0a0dadefbcf7da53ef25709cebbec0404",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left wheel end",
+          "Right wheel end"
+        ]
+      },
+      {
+        "id": "p12j4ew-j4-inner-shaft-end-washer",
+        "revision": 1,
+        "sha256": "ece0884ffd2f99627b90b5e1b1a1521948a514a805af38c796b4f3755d3a5a96",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left inner end washer",
+          "Right inner end washer"
+        ]
+      },
+      {
+        "id": "c160-iso-10642-m8x20-inner-retainer-screw",
+        "revision": 1,
+        "sha256": "a1ce80fcb7445aa5fda596a8e41a1f1220e069aea0bb552485677dd3c86b8534",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left inner retainer screw",
+          "Right inner retainer screw"
+        ]
+      },
+      {
+        "id": "p12j4sp30-j4-inner-bearing-spacer-30",
+        "revision": 1,
+        "sha256": "c00948f5fc18bb73cc808b3d14d668fdad483e5e25fc9774163c6403e10baa8d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left inner bearing spacer",
+          "Right inner bearing spacer"
+        ]
+      },
+      {
+        "id": "p12j4os30-j4-800mm-wheel-spacer-54p58",
+        "revision": 1,
+        "sha256": "ecc3cdbbbd76af095a89212a73b749e43cdccdab76e08ec8f73a9cef88aa3960",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left sprocket to wheel spacer",
+          "Right sprocket to wheel spacer"
+        ]
+      }
+    ]
   }
 ]
