@@ -56149,5 +56149,69 @@
       "models/mechanical/guards/p24j4-outboard-splash-lower-riser/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p24j4-outboard-splash-lower-fixing-beam",
+    "name": "J4 outboard splash lower fixing beam",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 outboard splash lower fixing beam. Proposed steel blank measures 464 × 8 × 15 mm along local X, Y and Z.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "outboard support",
+      "lower-fixing-beam"
+    ],
+    "aliases": [
+      "J4 outboard splash lower fixing beam",
+      "p24j4-outboard-splash-lower-fixing-beam"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "p24j4-outboard-splash-lower-fixing-beam",
+    "file": "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam-XY.png",
+        "view": "Plan",
+        "alt": "J4 outboard splash lower fixing beam, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outboard splash lower fixing beam, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam-YZ.png",
+        "view": "End",
+        "alt": "J4 outboard splash lower fixing beam, end"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outboard splash lower fixing beam, isometric",
+        "thumbnail_file": "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam-XY.png",
+      "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam-XZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam-YZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam-top-isometric.png",
+      "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam.dwg",
+      "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/p24j4-outboard-splash-lower-fixing-beam.md",
+      "models/mechanical/guards/p24j4-outboard-splash-lower-fixing-beam/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
