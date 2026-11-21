@@ -43518,5 +43518,94 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxt-gemini-upper-keeper",
+    "name": "P22RXT Tyro Gemini 1S upper keeper",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle Isometric. Folded 3 mm steel part, 200 mm along X. The bend centre is (Y, Z) = (269, 632) mm, with R3 inside and R6 outside. The uncut uplift lip lies at Y = 249 to 269 mm and Z = 635 to 638 mm. Locating any SMA coupling relief requires the actual port position.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "Isometric",
+      "cradle"
+    ],
+    "aliases": [
+      "P22RXT",
+      "Gemini Isometric"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXT Isometric",
+    "file": "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper-XY.png",
+      "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper.dwg",
+      "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper.md",
+      "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper-XY.png",
+        "view": "Plan",
+        "alt": "P22RXT Tyro Gemini 1S upper keeper, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXT Tyro Gemini 1S upper keeper, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper-YZ.png",
+        "view": "End",
+        "alt": "P22RXT Tyro Gemini 1S upper keeper, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXT Tyro Gemini 1S upper keeper, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxj-gemini-receiver-cradle-carrier",
+        "revision": 1,
+        "sha256": "cab585d093adb5e43997f41db8e4cdd8e6a0f479d1cde286f89f0ea01a9443cd",
+        "dependency": "derived",
+        "occurrences": [
+          "Rod slot centres and installed frame"
+        ]
+      },
+      {
+        "id": "p22rxsp67-gemini-keeper-compression-spacer",
+        "revision": 1,
+        "sha256": "e9687703006433cc47167b796e9b9e8790a3f2f3f362c6b9f7d77ebe06753f7b",
+        "dependency": "derived",
+        "occurrences": [
+          "Keeper bearing plane"
+        ]
+      }
+    ]
   }
 ]
