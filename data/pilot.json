@@ -53114,5 +53114,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-recessed-deck-top-mount-fit-300mm-caster",
+    "name": "J4 recessed deck with rear top mounts and 300 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 deck and lifting supports on the 300 mm caster chassis with rear top-mounted feet.",
+    "tags": [
+      "tractor",
+      "J4",
+      "deck",
+      "lifting supports",
+      "rear top mounts",
+      "caster"
+    ],
+    "aliases": [
+      "J4 recessed deck with rear top mounts and 300 mm caster",
+      "j4-recessed-deck-top-mount-fit-300mm-caster"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-recessed-deck-top-mount-fit-300mm-caster",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster-XY.png",
+        "view": "Plan",
+        "alt": "J4 recessed deck with rear top mounts and 300 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 recessed deck with rear top mounts and 300 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster-YZ.png",
+        "view": "End",
+        "alt": "J4 recessed deck with rear top mounts and 300 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 recessed deck with rear top mounts and 300 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/j4-recessed-deck-top-mount-fit-300mm-caster.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-top-mount-fit-300mm-caster/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-30mm-drive-300mm-caster-with-rear-top-feet",
+        "revision": 1,
+        "sha256": "ec04797b4e8ee19b2f8f97a8060c8d936f34d1cc3f373279c39b14e253399fbd",
+        "dependency": "embedded",
+        "occurrences": [
+          "J4 guarded drive chassis"
+        ]
+      },
+      {
+        "id": "j4-recessed-deck-for-rear-top-feet",
+        "revision": 1,
+        "sha256": "e4bd8404029b3bbdcace384bcfa37b82046c8c669872d884e7fbd1baa8217719",
+        "dependency": "embedded",
+        "occurrences": [
+          "Recessed deck and lifting hardware"
+        ]
+      }
+    ]
   }
 ]
