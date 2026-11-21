@@ -45527,5 +45527,84 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-gemini-forward-dogleg-cradle-riser",
+    "name": "J3f Gemini forward dog-leg cradle riser",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle forward dog-leg cradle riser. Proposed support volume with a Ø6.6 mm vertical fixing at (X, Y) = (−180, 142) mm. The foot seats at Z = 540 mm, and the upper arm shifts 22 mm rearward to an X centre of −202 mm. The arm meets the spreader at Y = 228 mm.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "forward dog-leg cradle riser",
+      "cradle"
+    ],
+    "aliases": [
+      "Gemini forward dog-leg cradle riser"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "forward dog-leg cradle riser",
+    "file": "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser-XY.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser-XZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser-YZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser-top-isometric.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser.dwg",
+      "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser.md",
+      "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser-XY.png",
+        "view": "Plan",
+        "alt": "J3f Gemini forward dog-leg cradle riser, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Gemini forward dog-leg cradle riser, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser-YZ.png",
+        "view": "End",
+        "alt": "J3f Gemini forward dog-leg cradle riser, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/j3f-gemini-forward-dogleg-cradle-riser-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Gemini forward dog-leg cradle riser, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/j3f-gemini-forward-dogleg-cradle-riser/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "j3f-gemini-receiver-raised-outboard-cradle",
+        "revision": 1,
+        "sha256": "43eb93cbce8dd1526ed070fdad821cb5aa933d3c48a57e9eeeecf5c66333e574",
+        "dependency": "derived",
+        "occurrences": [
+          "Raised cradle and carrier position design basis"
+        ]
+      }
+    ]
   }
 ]
