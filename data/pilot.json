@@ -42230,5 +42230,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "fibox-mps3020-direct-relay-rail-plate",
+    "name": "Fibox MPS 3020 plate with direct relay rail drilling",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Fibox MPS 3020 mounting plate with two proposed Ø5.5 mm bores on 75 mm pitch for a direct-mounted relay rail. The plate retains its four source Ø6 mm bores.",
+    "tags": [
+      "tractor",
+      "Fibox",
+      "MPS 3020",
+      "enclosure",
+      "relay rail",
+      "mounting plate"
+    ],
+    "aliases": [
+      "Fibox MPS 3020 plate with direct relay rail drilling",
+      "fibox-mps3020-direct-relay-rail-plate"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "electrical/enclosure-mounts",
+    "variant": "fibox-mps3020-direct-relay-rail-plate",
+    "file": "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate.dwg",
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate-XY.png",
+        "view": "Plan",
+        "alt": "Fibox MPS 3020 plate with direct relay rail drilling, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate-XZ.png",
+        "view": "Elevation",
+        "alt": "Fibox MPS 3020 plate with direct relay rail drilling, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate-YZ.png",
+        "view": "End",
+        "alt": "Fibox MPS 3020 plate with direct relay rail drilling, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Fibox MPS 3020 plate with direct relay rail drilling, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate-XY.png",
+      "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate-XZ.png",
+      "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate-YZ.png",
+      "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate-top-isometric.png",
+      "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate.dwg",
+      "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/fibox-mps3020-direct-relay-rail-plate.md",
+      "models/electrical/enclosure-mounts/fibox-mps3020-direct-relay-rail-plate/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Fibox ARCA IEC 203015T, product 8121020",
+        "url": "https://www.fibox.com/products/arca-iec/arca-203015/8121020"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "fibox-arca-203015t-8121020",
+        "revision": 1,
+        "sha256": "2938b38109e7481e9e73fa2c56924b5371e30ec7f7aeb9ab27ba93d8b10e6d82",
+        "dependency": "derived",
+        "occurrences": [
+          "MPS 3020 mounting plate"
+        ]
+      }
+    ]
   }
 ]
