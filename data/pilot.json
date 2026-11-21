@@ -42037,5 +42037,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-bmw-300mm-caster-with-fibox-r2-cabinet",
+    "name": "J3f BMW chassis with Fibox R2 cabinet and 300 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J3f BMW chassis with 300 mm caster, detachable deck ledge and Fibox R2 cabinet on its rear crossmember.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "BMW i3",
+      "Fibox",
+      "R2",
+      "cabinet support"
+    ],
+    "aliases": [
+      "J3f BMW chassis with Fibox R2 cabinet and 300 mm caster",
+      "j3f-bmw-300mm-caster-with-fibox-r2-cabinet"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j3f-bmw-300mm-caster-with-fibox-r2-cabinet",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet-XY.png",
+        "view": "Plan",
+        "alt": "J3f BMW chassis with Fibox R2 cabinet and 300 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f BMW chassis with Fibox R2 cabinet and 300 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet-YZ.png",
+        "view": "End",
+        "alt": "J3f BMW chassis with Fibox R2 cabinet and 300 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f BMW chassis with Fibox R2 cabinet and 300 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/j3f-bmw-300mm-caster-with-fibox-r2-cabinet.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-bmw-300mm-caster-with-fibox-r2-cabinet/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j3f-bmw-300mm-caster-with-detachable-ledge",
+        "revision": 1,
+        "sha256": "0d2b1d6b76d4d8b104859c0b1a4dc102a58a957e204c1c395bab4179f65b182e",
+        "dependency": "embedded",
+        "occurrences": [
+          "J3f service chassis"
+        ]
+      },
+      {
+        "id": "fibox-r2-cabinet-and-crossmember-support",
+        "revision": 1,
+        "sha256": "d4b3a9f318ac79c33c2f6d32581de8ba3e455d2804a1c1d1f055d5a415264643",
+        "dependency": "embedded",
+        "occurrences": [
+          "Fibox cabinet and crossmember"
+        ]
+      }
+    ]
   }
 ]
