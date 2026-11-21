@@ -42597,5 +42597,128 @@
         "url": "https://hbsfasteners.nl/standards/din-985"
       }
     ]
+  },
+  {
+    "id": "fibox-mps3020-phoenix-direct-relay-mount",
+    "name": "Fibox MPS 3020 direct Phoenix relay rail mount",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Machined MPS 3020 plate, 100 mm Phoenix rail, two 0804271 end stops and two nominal M5 × 12 mounting stacks.",
+    "tags": [
+      "tractor",
+      "Fibox",
+      "MPS 3020",
+      "Phoenix Contact",
+      "DIN rail",
+      "relay mount"
+    ],
+    "aliases": [
+      "Fibox MPS 3020 direct Phoenix relay rail mount",
+      "fibox-mps3020-phoenix-direct-relay-mount"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "fibox-mps3020-phoenix-direct-relay-mount",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount-XY.png",
+        "view": "Plan",
+        "alt": "Fibox MPS 3020 direct Phoenix relay rail mount, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount-XZ.png",
+        "view": "Elevation",
+        "alt": "Fibox MPS 3020 direct Phoenix relay rail mount, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount-YZ.png",
+        "view": "End",
+        "alt": "Fibox MPS 3020 direct Phoenix relay rail mount, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Fibox MPS 3020 direct Phoenix relay rail mount, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/fibox-mps3020-phoenix-direct-relay-mount.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-mps3020-phoenix-direct-relay-mount/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "fibox-mps3020-direct-relay-rail-plate",
+        "revision": 1,
+        "sha256": "61bf406394fc5efe964cdb4f7f8fc1571230b963149c8e5f01d5569ca8eb93e7",
+        "dependency": "embedded",
+        "occurrences": [
+          "Machined MPS 3020 plate"
+        ]
+      },
+      {
+        "id": "phoenix-0807012-ns35-100mm-relay-rail",
+        "revision": 1,
+        "sha256": "4a2e38d77f705c6140002d44ea7f65f0902641e1eb3a042ab97b354184c7bfd6",
+        "dependency": "embedded",
+        "occurrences": [
+          "Phoenix perforated rail"
+        ]
+      },
+      {
+        "id": "phoenix-0804271-ens35-end-stop",
+        "revision": 1,
+        "sha256": "f72728da15248c0661b3ff5abc3b643e86872eb49ea2c2d07dd8f6656062221b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left rail end stop",
+          "Right rail end stop"
+        ]
+      },
+      {
+        "id": "c167-iso4017-m5x12-screw-proposed-class88",
+        "revision": 1,
+        "sha256": "90ff7a63e2e589a295025fb89b8c8d6cc2f2bcf46ecfb1f95ea28ba2d0e9f9eb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Screw",
+          "Right Screw"
+        ]
+      },
+      {
+        "id": "model-89",
+        "revision": null,
+        "sha256": "88c192a893deb24923e114cbf767284cbe5a8f9243b3fe74885932d94a7051c7",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Rear washer",
+          "Left Rail washer",
+          "Right Rear washer",
+          "Right Rail washer"
+        ]
+      },
+      {
+        "id": "c151-din-985-m5-nylon-insert-nut-proposed-class-8",
+        "revision": 1,
+        "sha256": "93539a49f7eed7c133ef5072ec82333e2377af68cd56428d7ad6686ca2251e64",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Locknut",
+          "Right Locknut"
+        ]
+      }
+    ]
   }
 ]
