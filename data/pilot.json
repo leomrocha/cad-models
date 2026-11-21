@@ -43607,5 +43607,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxe-gemini-side-stop-angle",
+    "name": "P22RXE Tyro Gemini 1S side-stop angle",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed 3 mm steel lateral stop for the Tyro Gemini 1S cradle. One bent part with two Ø4.5 mm holes, reused with a 180° rotation on the right.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "side stop",
+      "cradle"
+    ],
+    "aliases": [
+      "P22RXE",
+      "Gemini side-stop angle"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXE folded side stop",
+    "file": "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle-XY.png",
+      "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle.dwg",
+      "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle.md",
+      "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle-XY.png",
+        "view": "Plan",
+        "alt": "P22RXE Tyro Gemini 1S side-stop angle, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXE Tyro Gemini 1S side-stop angle, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle-YZ.png",
+        "view": "End",
+        "alt": "P22RXE Tyro Gemini 1S side-stop angle, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXE Tyro Gemini 1S side-stop angle, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxs-gemini-receiver-cradle-bottom-seat",
+        "revision": 1,
+        "sha256": "ffdafb139e0fb772bb0d125a32df2564f13be6645a487e6a555c6565bf30c2f0",
+        "dependency": "derived",
+        "occurrences": [
+          "Two side-stop hole patterns and seat bearing face"
+        ]
+      }
+    ]
   }
 ]
