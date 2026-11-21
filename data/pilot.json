@@ -53437,5 +53437,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-bmw-300mm-caster-with-detachable-ledge",
+    "name": "J4 BMW chassis with detachable ledge and 300 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "BMW-equipped J4 chassis with 300 mm caster and a detachable right deck ledge.",
+    "tags": [
+      "tractor",
+      "J4",
+      "BMW i3",
+      "battery access",
+      "detachable ledge"
+    ],
+    "aliases": [
+      "J4 BMW chassis with detachable ledge and 300 mm caster",
+      "j4-bmw-300mm-caster-with-detachable-ledge"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-bmw-300mm-caster-with-detachable-ledge",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge-XY.png",
+        "view": "Plan",
+        "alt": "J4 BMW chassis with detachable ledge and 300 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 BMW chassis with detachable ledge and 300 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge-YZ.png",
+        "view": "End",
+        "alt": "J4 BMW chassis with detachable ledge and 300 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 BMW chassis with detachable ledge and 300 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/j4-bmw-300mm-caster-with-detachable-ledge.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-bmw-300mm-caster-with-detachable-ledge/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-recessed-deck-bmw-tray-300mm-caster",
+        "revision": 1,
+        "sha256": "8a6388ab42d1616c515a1c6bc9a9987926a3986b3210e6094d25d44b1901fc24",
+        "dependency": "derived",
+        "occurrences": [
+          "Checked bridged chassis"
+        ]
+      },
+      {
+        "id": "j3f-negative-y-detachable-deck-ledge-and-cap-joints",
+        "revision": 1,
+        "sha256": "412f79109647f15a603478452b8b0332e12e17eb3f4f550b8a3cb3e70a0c8c5c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Detachable ledge joints"
+        ]
+      }
+    ]
   }
 ]
