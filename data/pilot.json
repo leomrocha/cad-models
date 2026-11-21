@@ -48101,5 +48101,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-offset-upper-guard-body-tab",
+    "name": "J4 offset upper guard body tab",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/guards",
+    "description": "J4 offset upper guard body tab, 24 × 14.963710 × 1.5 mm with one Ø6.5 mm bore.",
+    "tags": [
+      "J4",
+      "guard",
+      "offset upper mount"
+    ],
+    "aliases": [
+      "J4 offset upper guard body tab"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion machining blank",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 offset upper mount",
+    "file": "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab.dwg",
+    "package_assets": [
+      "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab-XY.png",
+      "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab-XZ.png",
+      "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab-YZ.png",
+      "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab-top-isometric.png",
+      "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab.dwg",
+      "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab.md",
+      "models/mechanical/guards/j4-offset-upper-guard-body-tab/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab-XY.png",
+        "view": "Plan",
+        "alt": "J4 offset upper guard body tab, plan"
+      },
+      {
+        "file": "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 offset upper guard body tab, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab-YZ.png",
+        "view": "End",
+        "alt": "J4 offset upper guard body tab, end"
+      },
+      {
+        "file": "models/mechanical/guards/j4-offset-upper-guard-body-tab/j4-offset-upper-guard-body-tab-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 offset upper guard body tab, isometric",
+        "thumbnail_file": "models/mechanical/guards/j4-offset-upper-guard-body-tab/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "iwis ELITE 520-1 roller chain, part 81013824",
+        "url": "https://www.iwis.com/en-en/products-services/roller-chain-520-1-elite~p3368?_locale=en_GB"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "j4-offset-upper-guard-support-leg",
+        "revision": 1,
+        "sha256": "e8e4884af0f2cf70fb0c99f55e43d62623dbab74326fd93a1b892e44cd90b9ef",
+        "dependency": "reference",
+        "occurrences": [
+          "J4 offset upper guard support leg"
+        ]
+      }
+    ]
   }
 ]
