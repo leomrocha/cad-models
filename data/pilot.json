@@ -43436,17 +43436,17 @@
     "subject": "Electrical",
     "kind": "part",
     "category_path": "electrical/enclosure-mounts",
-    "description": "Proposed Tyro Gemini 1S cradle Isometric. Flat steel bar, 200 × 20 × 3 mm, at X = −345 to −145, Y = 272 to 275 and Z = 510 to 530 mm.",
+    "description": "Proposed Tyro Gemini 1S cradle front retaining bar. Flat steel bar, 200 × 20 × 3 mm, at X = −345 to −145, Y = 272 to 275 and Z = 510 to 530 mm.",
     "tags": [
       "Tyro",
       "Gemini 1S",
       "receiver",
-      "Isometric",
+      "front retaining bar",
       "cradle"
     ],
     "aliases": [
       "P22RXF",
-      "Gemini Isometric"
+      "Gemini front retaining bar"
     ],
     "materials": [
       {
@@ -43458,7 +43458,7 @@
     "state": "Discussion construction proposal",
     "needs_information": false,
     "revision": 1,
-    "variant": "P22RXF Isometric",
+    "variant": "P22RXF front retaining bar",
     "file": "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar.dwg",
     "package_assets": [
       "models/electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar-XY.png",
