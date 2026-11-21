@@ -56341,5 +56341,69 @@
       "models/mechanical/guards/p24j4-outboard-splash-right-upper-stand-off/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p24j4-outboard-splash-upper-fixing-pad",
+    "name": "J4 outboard splash upper fixing pad",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 outboard splash upper fixing pad. Proposed steel blank measures 16 × 8 × 16 mm along local X, Y and Z.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "outboard support",
+      "upper-fixing-pad"
+    ],
+    "aliases": [
+      "J4 outboard splash upper fixing pad",
+      "p24j4-outboard-splash-upper-fixing-pad"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "p24j4-outboard-splash-upper-fixing-pad",
+    "file": "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad-XY.png",
+        "view": "Plan",
+        "alt": "J4 outboard splash upper fixing pad, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outboard splash upper fixing pad, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad-YZ.png",
+        "view": "End",
+        "alt": "J4 outboard splash upper fixing pad, end"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outboard splash upper fixing pad, isometric",
+        "thumbnail_file": "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad-XY.png",
+      "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad-XZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad-YZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad-top-isometric.png",
+      "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad.dwg",
+      "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/p24j4-outboard-splash-upper-fixing-pad.md",
+      "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
