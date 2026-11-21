@@ -42524,5 +42524,78 @@
         "url": "https://cdn.standards.iteh.ai/samples/72585/1179998ddd594550a909d6e13c416f3e/ISO-4017-2022.pdf"
       }
     ]
+  },
+  {
+    "id": "c151-din-985-m5-nylon-insert-nut-proposed-class-8",
+    "name": "DIN 985 M5 nylon-insert nut nominal reference",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Nominal M5 nylon-insert nut envelope with 8 mm across flats and 5 mm total height.",
+    "tags": [
+      "tractor",
+      "fastener",
+      "DIN 985",
+      "c151-din-985-m5-nylon-insert-nut-proposed-class-8"
+    ],
+    "aliases": [
+      "DIN 985 M5 nylon-insert nut nominal reference",
+      "c151-din-985-m5-nylon-insert-nut-proposed-class-8"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": [
+      {
+        "designation": "DIN 985",
+        "relationship": "Nominal fastener reference dimensions"
+      }
+    ],
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical-parts/fasteners/nuts",
+    "variant": "c151-din-985-m5-nylon-insert-nut-proposed-class-8",
+    "file": "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8-XY.png",
+        "view": "Plan",
+        "alt": "DIN 985 M5 nylon-insert nut nominal reference, plan"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8-XZ.png",
+        "view": "Elevation",
+        "alt": "DIN 985 M5 nylon-insert nut nominal reference, elevation"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8-YZ.png",
+        "view": "End",
+        "alt": "DIN 985 M5 nylon-insert nut nominal reference, end"
+      },
+      {
+        "file": "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8-top-isometric.png",
+        "view": "Isometric",
+        "alt": "DIN 985 M5 nylon-insert nut nominal reference, isometric",
+        "thumbnail_file": "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8-XY.png",
+      "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8-XZ.png",
+      "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8-YZ.png",
+      "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8-top-isometric.png",
+      "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8.dwg",
+      "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/c151-din-985-m5-nylon-insert-nut-proposed-class-8.md",
+      "models/mechanical-parts/fasteners/nuts/c151-din-985-m5-nylon-insert-nut-proposed-class-8/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "DIN 985 dimensional reference",
+        "url": "https://hbsfasteners.nl/standards/din-985"
+      }
+    ]
   }
 ]
