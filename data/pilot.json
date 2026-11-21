@@ -46319,5 +46319,98 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-25mm-drive-300mm-caster-520-chain-installation",
+    "name": "J4 25 mm drive and 300 mm caster with fitted 520 chain envelopes",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "J4 25 mm drive, 300 mm caster chassis, with nominal 520 chain spaces and adjusted motor poses.",
+    "tags": [
+      "J4",
+      "drivetrain",
+      "520",
+      "roller chain",
+      "clearance",
+      "25 mm shaft",
+      "300 mm caster"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 25 mm drive and 300 mm caster with 520 chain space",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation-XY.png",
+        "view": "Plan",
+        "alt": "J4 25 mm drive and 300 mm caster with fitted 520 chain envelopes, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 25 mm drive and 300 mm caster with fitted 520 chain envelopes, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation-YZ.png",
+        "view": "End",
+        "alt": "J4 25 mm drive and 300 mm caster with fitted 520 chain envelopes, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/j4-25mm-drive-300mm-caster-520-chain-installation-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 25 mm drive and 300 mm caster with fitted 520 chain envelopes, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-25mm-drive-300mm-caster-520-chain-installation/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "iwis ELITE 520-1 roller chain, part 81013824",
+        "url": "https://www.iwis.com/en-en/products-services/roller-chain-520-1-elite~p3368?_locale=en_GB"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "j4-raised-frame-25mm-drive-300mm-caster-h390-hitch-short-rear-crossmember",
+        "revision": 1,
+        "sha256": "46d907eddbae8ce400c4a155f47d302f7ce45ac71180c3d76138e1d7f47562f8",
+        "dependency": "derived",
+        "occurrences": [
+          "J4 chassis baseline"
+        ]
+      },
+      {
+        "id": "j4-left-520-chain-route-envelope",
+        "revision": 1,
+        "sha256": "12a5bc2def72aa3edc1e636cfc4e6958e150271fd8fcee6e33ad0c245c404784",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left chain space"
+        ]
+      },
+      {
+        "id": "j4-right-520-chain-route-envelope",
+        "revision": 1,
+        "sha256": "4659f03e25d3bb125654509729ba7231a621de8b7b999dbb9b1b1072c6a3abaa",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right chain space"
+        ]
+      }
+    ]
   }
 ]
