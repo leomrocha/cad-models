@@ -41833,5 +41833,128 @@
         ]
       }
     ]
+  },
+  {
+    "id": "fibox-r2-cabinet-and-crossmember-support",
+    "name": "Fibox R2 cabinet and fastened crossmember support",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Fibox ARCA 203015T cabinet, rear carrier plate, drilled crossmember, two internal receiver blocks and four M6 × 16 carrier screw stacks.",
+    "tags": [
+      "tractor",
+      "Fibox",
+      "R2",
+      "cabinet",
+      "mounting assembly"
+    ],
+    "aliases": [
+      "Fibox R2 cabinet and fastened crossmember support",
+      "fibox-r2-cabinet-and-crossmember-support"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "fibox-r2-cabinet-and-crossmember-support",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support-XY.png",
+        "view": "Plan",
+        "alt": "Fibox R2 cabinet and fastened crossmember support, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support-XZ.png",
+        "view": "Elevation",
+        "alt": "Fibox R2 cabinet and fastened crossmember support, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support-YZ.png",
+        "view": "End",
+        "alt": "Fibox R2 cabinet and fastened crossmember support, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Fibox R2 cabinet and fastened crossmember support, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/fibox-r2-cabinet-and-crossmember-support.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/fibox-r2-cabinet-and-crossmember-support/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "fibox-arca-203015t-8121020",
+        "revision": 1,
+        "sha256": "2938b38109e7481e9e73fa2c56924b5371e30ec7f7aeb9ab27ba93d8b10e6d82",
+        "dependency": "embedded",
+        "occurrences": [
+          "Fibox source cabinet"
+        ]
+      },
+      {
+        "id": "p22rcar-r2-fibox-rear-cabinet-carrier",
+        "revision": 1,
+        "sha256": "a033377b33ebc2a64724d24809253665d01f4c4ad10cc359a82b6b72af20763d",
+        "dependency": "embedded",
+        "occurrences": [
+          "R2 carrier plate"
+        ]
+      },
+      {
+        "id": "p22r2xb-fibox-rear-cabinet-crossmember",
+        "revision": 1,
+        "sha256": "bef2125e86f0f08b82b2dd3874f2ea59e03fed531b5efc8749a737df3c511ddb",
+        "dependency": "embedded",
+        "occurrences": [
+          "R2 support crossmember"
+        ]
+      },
+      {
+        "id": "p22r2nb-fibox-crossmember-m6-nut-block",
+        "revision": 1,
+        "sha256": "f692a22f028d0d41f50e32eacabab2d5fc64937fae219bc623024c8dc493a203",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left two-axis receiver",
+          "Right two-axis receiver"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Carrier washer 1",
+          "Carrier washer 2",
+          "Carrier washer 3",
+          "Carrier washer 4"
+        ]
+      },
+      {
+        "id": "model-70",
+        "revision": null,
+        "sha256": "0c8ca6b61cd26be2cc79642bab28684f302d798740ce33cab4da2479defd7a13",
+        "dependency": "embedded",
+        "occurrences": [
+          "Carrier screw 1",
+          "Carrier screw 2",
+          "Carrier screw 3",
+          "Carrier screw 4"
+        ]
+      }
+    ]
   }
 ]
