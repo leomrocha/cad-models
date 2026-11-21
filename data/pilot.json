@@ -44423,5 +44423,311 @@
         ]
       }
     ]
+  },
+  {
+    "id": "gemini-1s-receiver-cradle-with-fixings",
+    "name": "Tyro Gemini 1S cradle with retainers, pads and fixings",
+    "subject": "Electrical",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "Tyro Gemini 1S receiver cradle with removable keepers, bridges, ten pads and twelve fixture joints. Uses the manufacturer-dimension case envelope at the nominal installed pose.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "cradle",
+      "J3f"
+    ],
+    "aliases": [
+      "Gemini receiver cradle",
+      "J3f receiver assembly"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "Gemini 1S removable receiver cradle",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings-XY.png",
+        "view": "Plan",
+        "alt": "Tyro Gemini 1S cradle with retainers, pads and fixings, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings-XZ.png",
+        "view": "Elevation",
+        "alt": "Tyro Gemini 1S cradle with retainers, pads and fixings, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings-YZ.png",
+        "view": "End",
+        "alt": "Tyro Gemini 1S cradle with retainers, pads and fixings, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/gemini-1s-receiver-cradle-with-fixings-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Tyro Gemini 1S cradle with retainers, pads and fixings, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/gemini-1s-receiver-cradle-with-fixings/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-219",
+        "revision": null,
+        "sha256": "716a96d80b1d0b3705f491e40f04a7a991e8f75d519dd15de3423e19aa609339",
+        "dependency": "embedded",
+        "occurrences": [
+          "Receiver case envelope"
+        ]
+      },
+      {
+        "id": "p22rxj-gemini-receiver-cradle-carrier",
+        "revision": 1,
+        "sha256": "cab585d093adb5e43997f41db8e4cdd8e6a0f479d1cde286f89f0ea01a9443cd",
+        "dependency": "embedded",
+        "occurrences": [
+          "Carrier"
+        ]
+      },
+      {
+        "id": "p22rxs-gemini-receiver-cradle-bottom-seat",
+        "revision": 1,
+        "sha256": "ffdafb139e0fb772bb0d125a32df2564f13be6645a487e6a555c6565bf30c2f0",
+        "dependency": "embedded",
+        "occurrences": [
+          "Bottom seat"
+        ]
+      },
+      {
+        "id": "p22rxf-gemini-front-retaining-bar",
+        "revision": 1,
+        "sha256": "97ae13ca7bc7fe7bcff7e9935b25dfb3f3253d61d7fac090bfb59dc22a43d852",
+        "dependency": "embedded",
+        "occurrences": [
+          "Front retaining bar"
+        ]
+      },
+      {
+        "id": "p22rxt-gemini-upper-keeper",
+        "revision": 1,
+        "sha256": "ee73b0b5686874476e2912de238ccce1477c65f5eb435ee68cab508d7901c0fb",
+        "dependency": "embedded",
+        "occurrences": [
+          "Upper keeper"
+        ]
+      },
+      {
+        "id": "p22rxe-gemini-side-stop-angle",
+        "revision": 1,
+        "sha256": "d16e065f2f35e8f4c91660a11d2ae74ef40117381ddba193a9470ae1606f6c2b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left side stop",
+          "Right side stop"
+        ]
+      },
+      {
+        "id": "p22rxb-gemini-rear-receiver-bridge",
+        "revision": 1,
+        "sha256": "156b370e05504b1ce60a982934af26402a3d9c4f8a3fb3f0b186ca582673ba02",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear receiver bridge"
+        ]
+      },
+      {
+        "id": "p22rxb-gemini-forward-receiver-bridge",
+        "revision": 1,
+        "sha256": "b01e881c626fd1047e087912a9a2db3c2eff6457ea8005427eefb607738b8591",
+        "dependency": "embedded",
+        "occurrences": [
+          "Forward receiver bridge"
+        ]
+      },
+      {
+        "id": "p22rxpb-gemini-bottom-contact-pad",
+        "revision": 1,
+        "sha256": "ca728eda1638c4f5b708c45805fc8930ac815a9778261df77ddcfccda09b6246",
+        "dependency": "embedded",
+        "occurrences": [
+          "Bottom pad 1"
+        ]
+      },
+      {
+        "id": "p22rxp20-gemini-back-contact-pad",
+        "revision": 1,
+        "sha256": "e396f4cfcc36f4fad7863f916dfe47b49cb96a8c0dcc565e34aab3841d3a2cfe",
+        "dependency": "embedded",
+        "occurrences": [
+          "Back pad 1",
+          "Back pad 2",
+          "Back pad 3",
+          "Back pad 4"
+        ]
+      },
+      {
+        "id": "p22rxp80-gemini-front-contact-pad",
+        "revision": 1,
+        "sha256": "3e65a002150c72c5cb75c5904dfe9acc24dd782e3c5396f7fcb7dc6a26a4f198",
+        "dependency": "embedded",
+        "occurrences": [
+          "Front pad 1",
+          "Front pad 2"
+        ]
+      },
+      {
+        "id": "p22rxp80t-gemini-uplift-pad",
+        "revision": 1,
+        "sha256": "c2ec5faf4a28231286b2de6340fbdf988dd6b0db415359274eea3d19d3368dca",
+        "dependency": "embedded",
+        "occurrences": [
+          "Uplift pad 1"
+        ]
+      },
+      {
+        "id": "p22rxp20s-gemini-lateral-stop-pad",
+        "revision": 1,
+        "sha256": "1b99aa41589bfb410ffe95e95cbb6a36394bd232e6c234176c9486a4ab30ac66",
+        "dependency": "embedded",
+        "occurrences": [
+          "Lateral pad 1",
+          "Lateral pad 2"
+        ]
+      },
+      {
+        "id": "iso-4017-m6x20",
+        "revision": null,
+        "sha256": "32dcc1ddeecddfa8687901a913f6a6aa1e6cb574c311daa8cc1f59ebc896eb4d",
+        "dependency": "embedded",
+        "occurrences": [
+          "E05 joint 1 Screw",
+          "E05 joint 2 Screw"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "E05 joint 1 Head washer",
+          "E05 joint 1 Nut washer",
+          "E05 joint 2 Head washer",
+          "E05 joint 2 Nut washer",
+          "E24 joint 1 Head washer",
+          "E24 joint 1 Nut washer",
+          "E24 joint 2 Head washer",
+          "E24 joint 2 Nut washer",
+          "E24 joint 3 Head washer",
+          "E24 joint 3 Nut washer",
+          "E24 joint 4 Head washer",
+          "E24 joint 4 Nut washer"
+        ]
+      },
+      {
+        "id": "model-77",
+        "revision": null,
+        "sha256": "b005197d6d63b19d28d1785191f25a1a7a8a07068289550796644a12ed197e08",
+        "dependency": "embedded",
+        "occurrences": [
+          "E05 joint 1 Locknut",
+          "E05 joint 2 Locknut",
+          "E24 joint 1 Locknut",
+          "E24 joint 2 Locknut",
+          "E24 joint 3 Locknut",
+          "E24 joint 4 Locknut"
+        ]
+      },
+      {
+        "id": "model-73",
+        "revision": null,
+        "sha256": "ac406ecf71abc8a438fe2b05da0039b6ab297e65debb5483a024d6424cdcdd93",
+        "dependency": "embedded",
+        "occurrences": [
+          "E23 joint 1 Screw",
+          "E23 joint 2 Screw",
+          "E25 joint 1 Screw",
+          "E25 joint 2 Screw",
+          "E25 joint 3 Screw",
+          "E25 joint 4 Screw"
+        ]
+      },
+      {
+        "id": "model-88",
+        "revision": null,
+        "sha256": "82c8bfae0411486bf95807b11f7cd235c1d6af3a40b3e88fc3a6a5658fca8575",
+        "dependency": "embedded",
+        "occurrences": [
+          "E23 joint 1 Head washer",
+          "E23 joint 1 Nut washer",
+          "E23 joint 2 Head washer",
+          "E23 joint 2 Nut washer",
+          "E25 joint 1 Head washer",
+          "E25 joint 1 Nut washer",
+          "E25 joint 2 Head washer",
+          "E25 joint 2 Nut washer",
+          "E25 joint 3 Head washer",
+          "E25 joint 3 Nut washer",
+          "E25 joint 4 Head washer",
+          "E25 joint 4 Nut washer"
+        ]
+      },
+      {
+        "id": "model-76",
+        "revision": null,
+        "sha256": "214a38ab471d60c7ee6fa4b4e3d2274ffa8b27b5a866c9cd05ad0fffc66c9058",
+        "dependency": "embedded",
+        "occurrences": [
+          "E23 joint 1 Locknut",
+          "E23 joint 2 Locknut",
+          "E25 joint 1 Locknut",
+          "E25 joint 2 Locknut",
+          "E25 joint 3 Locknut",
+          "E25 joint 4 Locknut"
+        ]
+      },
+      {
+        "id": "p22rxsp67-gemini-keeper-compression-spacer",
+        "revision": 1,
+        "sha256": "e9687703006433cc47167b796e9b9e8790a3f2f3f362c6b9f7d77ebe06753f7b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Keeper spacer 1",
+          "Keeper spacer 2",
+          "Keeper spacer 3",
+          "Keeper spacer 4"
+        ]
+      },
+      {
+        "id": "model-72",
+        "revision": null,
+        "sha256": "e26bb9993c71286f008f71b394660e30a33deda82a992d8aeb85feac061c54ec",
+        "dependency": "embedded",
+        "occurrences": [
+          "E24 joint 1 Screw",
+          "E24 joint 2 Screw",
+          "E24 joint 3 Screw",
+          "E24 joint 4 Screw"
+        ]
+      }
+    ]
   }
 ]

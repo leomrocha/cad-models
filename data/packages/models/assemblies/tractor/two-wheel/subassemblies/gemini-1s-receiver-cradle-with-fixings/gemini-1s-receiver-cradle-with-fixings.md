@@ -1,0 +1,33 @@
+# Tyro Gemini 1S cradle with retainers, pads and fixings
+
+Revision 1. Discussion installation reference. Dimensions are in millimetres. X points forward, Y points left and Z points up.
+
+1. **Included geometry.** One receiver enclosure envelope, the carrier, folded seat, two removable retainers, two side stops, two bridge brackets, four compression spacers, ten EPDM pads and 48 screw, washer and locknut occurrences. The two bridges retain the rail-side E04 interfaces.
+2. **Receiver pose.** The manufacturer dimensions 160 × 150 × 60 mm are oriented with 160 mm along X, 60 mm along Y and 150 mm along Z. The case spans X = −325 to −165, Y = 210 to 270 and Z = 480 to 630. [Tyro Gemini 1S technical specification](https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf)
+3. **Contact checks.** Seven pad faces contact the nominal envelope. The remaining pads retain 2 mm uplift clearance and 1 mm on each side. The saved-pose box screen identified the bottom seat and upper keeper as candidates. Their checked straight sections and bend geometry clear the case envelope.
+4. **Nominal fastener stacks.** Screw tips project 4.8 mm at E05, 3.4 mm at E23 and E25, and 2.8 mm at E24. The checked axial stations use the modeled washers and locknuts. The uncut keeper lip and case envelope carry the nominal placement. Cable and SMA connector access depend on supplied port geometry.
+5. **Persistence.** Seventy-one native solids and their role transforms were checked before the final verified save. DWG SHA-256 `cec095628790aab2de1e36f56ca12b71e340ce114ca34122079248b734e70b30`.
+
+## Model references
+
+- [Tyro Gemini1S remote-stop receiver](../../../../../mechanical-parts/components/tyro-gemini1s-nominal-envelope-reference/tyro-gemini1s-nominal-envelope-reference.md), Receiver case envelope.
+- [P22RXJ Tyro Gemini 1S external cradle carrier](../../../../../electrical/enclosure-mounts/p22rxj-gemini-receiver-cradle-carrier/p22rxj-gemini-receiver-cradle-carrier.md), Carrier.
+- [P22RXS Tyro Gemini 1S cradle bottom seat](../../../../../electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat.md), Bottom seat.
+- [P22RXF Tyro Gemini 1S front retaining bar](../../../../../electrical/enclosure-mounts/p22rxf-gemini-front-retaining-bar/p22rxf-gemini-front-retaining-bar.md), Front retaining bar.
+- [P22RXT Tyro Gemini 1S upper keeper](../../../../../electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper.md), Upper keeper.
+- [P22RXE Tyro Gemini 1S side-stop angle](../../../../../electrical/enclosure-mounts/p22rxe-gemini-side-stop-angle/p22rxe-gemini-side-stop-angle.md), Left side stop, Right side stop.
+- [P22RXB Tyro Gemini 1S rear receiver bridge](../../../../../electrical/enclosure-mounts/p22rxb-gemini-rear-receiver-bridge/p22rxb-gemini-rear-receiver-bridge.md), Rear receiver bridge.
+- [P22RXB Tyro Gemini 1S forward receiver bridge](../../../../../electrical/enclosure-mounts/p22rxb-gemini-forward-receiver-bridge/p22rxb-gemini-forward-receiver-bridge.md), Forward receiver bridge.
+- [P22RXPB Tyro Gemini 1S bottom contact pad](../../../../../electrical/enclosure-mounts/p22rxpb-gemini-bottom-contact-pad/p22rxpb-gemini-bottom-contact-pad.md), Bottom pad 1.
+- [P22RXP20 Tyro Gemini 1S back contact pad](../../../../../electrical/enclosure-mounts/p22rxp20-gemini-back-contact-pad/p22rxp20-gemini-back-contact-pad.md), Back pad 1, Back pad 2, Back pad 3, Back pad 4.
+- [P22RXP80 Tyro Gemini 1S front contact pad](../../../../../electrical/enclosure-mounts/p22rxp80-gemini-front-contact-pad/p22rxp80-gemini-front-contact-pad.md), Front pad 1, Front pad 2.
+- [P22RXP80T Tyro Gemini 1S uplift pad](../../../../../electrical/enclosure-mounts/p22rxp80t-gemini-uplift-pad/p22rxp80t-gemini-uplift-pad.md), Uplift pad 1.
+- [P22RXP20S Tyro Gemini 1S lateral-stop pad](../../../../../electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad.md), Lateral pad 1, Lateral pad 2.
+- [ISO4017 M6x20 screw nominal reference](../../../../../mechanical-parts/fasteners/screws/c128-iso-4017-m6x20-screw-proposed-class-8-8/c128-iso-4017-m6x20-screw-proposed-class-8-8.md), E05 joint 1 Screw, E05 joint 2 Screw.
+- [ISO 7089 M6 plain washer, proposed 200 HV](../../../../../mechanical-parts/fasteners/washers/iso7089-m6-washer-6p4x12x1p6-reference/iso7089-m6-washer-6p4x12x1p6-reference.md), E05 joint 1 Head washer, E05 joint 1 Nut washer, E05 joint 2 Head washer, E05 joint 2 Nut washer, E24 joint 1 Head washer, E24 joint 1 Nut washer, E24 joint 2 Head washer, E24 joint 2 Nut washer, E24 joint 3 Head washer, E24 joint 3 Nut washer, E24 joint 4 Head washer, E24 joint 4 Nut washer.
+- [DIN985 M6 nominal nut reference](../../../../../mechanical-parts/fasteners/nuts/c152-din-985-m6-nylon-insert-nut-proposed-class-8/c152-din-985-m6-nylon-insert-nut-proposed-class-8.md), E05 joint 1 Locknut, E05 joint 2 Locknut, E24 joint 1 Locknut, E24 joint 2 Locknut, E24 joint 3 Locknut, E24 joint 4 Locknut.
+- [ISO4017 M4x16 screw nominal reference](../../../../../mechanical-parts/fasteners/screws/c135-iso-4017-m4x16-screw-proposed-class-8-8/c135-iso-4017-m4x16-screw-proposed-class-8-8.md), E23 joint 1 Screw, E23 joint 2 Screw, E25 joint 1 Screw, E25 joint 2 Screw, E25 joint 3 Screw, E25 joint 4 Screw.
+- [ISO 7089 M4 plain washer, proposed 200 HV](../../../../../mechanical-parts/fasteners/washers/iso7089-m4-washer-4p3x9x0p8-reference/iso7089-m4-washer-4p3x9x0p8-reference.md), E23 joint 1 Head washer, E23 joint 1 Nut washer, E23 joint 2 Head washer, E23 joint 2 Nut washer, E25 joint 1 Head washer, E25 joint 1 Nut washer, E25 joint 2 Head washer, E25 joint 2 Nut washer, E25 joint 3 Head washer, E25 joint 3 Nut washer, E25 joint 4 Head washer, E25 joint 4 Nut washer.
+- [DIN985 M4 nominal nut reference](../../../../../mechanical-parts/fasteners/nuts/c150-din-985-m4-nylon-insert-nut-proposed-class-8/c150-din-985-m4-nylon-insert-nut-proposed-class-8.md), E23 joint 1 Locknut, E23 joint 2 Locknut, E25 joint 1 Locknut, E25 joint 2 Locknut, E25 joint 3 Locknut, E25 joint 4 Locknut.
+- [P22RXSP67 Tyro Gemini keeper compression spacer](../../../../../electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer.md), Keeper spacer 1, Keeper spacer 2, Keeper spacer 3, Keeper spacer 4.
+- [ISO4017 M6x85 screw nominal reference](../../../../../mechanical-parts/fasteners/screws/c132-iso-4017-m6x85-screw-proposed-class-8-8/c132-iso-4017-m6x85-screw-proposed-class-8-8.md), E24 joint 1 Screw, E24 joint 2 Screw, E24 joint 3 Screw, E24 joint 4 Screw.
