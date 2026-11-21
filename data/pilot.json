@@ -43349,5 +43349,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxsp67-gemini-keeper-compression-spacer",
+    "name": "P22RXSP67 Tyro Gemini keeper compression spacer",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Steel compression spacer for the Tyro Gemini 1S cradle. Nominal Ø12 outside, Ø6.6 bore and 67 mm length. One CAD definition serves four keeper joints.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "spacer",
+      "cradle"
+    ],
+    "aliases": [
+      "P22RXSP67",
+      "Gemini keeper spacer"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXSP67 67 mm spacer",
+    "file": "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer-XY.png",
+      "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer.dwg",
+      "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer.md",
+      "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer-XY.png",
+        "view": "Plan",
+        "alt": "P22RXSP67 Tyro Gemini keeper compression spacer, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXSP67 Tyro Gemini keeper compression spacer, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer-YZ.png",
+        "view": "End",
+        "alt": "P22RXSP67 Tyro Gemini keeper compression spacer, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/p22rxsp67-gemini-keeper-compression-spacer-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXSP67 Tyro Gemini keeper compression spacer, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxsp67-gemini-keeper-compression-spacer/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxj-gemini-receiver-cradle-carrier",
+        "revision": 1,
+        "sha256": "cab585d093adb5e43997f41db8e4cdd8e6a0f479d1cde286f89f0ea01a9443cd",
+        "dependency": "derived",
+        "occurrences": [
+          "Carrier bolt and contact datums"
+        ]
+      }
+    ]
   }
 ]
