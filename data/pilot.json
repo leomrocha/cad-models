@@ -40751,5 +40751,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "bmw-b01-upper-m8-threaded-tab-bridge",
+    "name": "BMW B01 upper two-axis M8 threaded tab bridge",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "BMW mounting-tab bridge, 11 × 300 × 8 mm, with two M8 nominal thread envelopes at 278 mm pitch.",
+    "tags": [
+      "tractor",
+      "BMW i3",
+      "battery tray",
+      "threaded bridge",
+      "mounting tabs"
+    ],
+    "aliases": [
+      "BMW B01 upper two-axis M8 threaded tab bridge",
+      "bmw-b01-upper-m8-threaded-tab-bridge"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "bmw-b01-upper-m8-threaded-tab-bridge",
+    "file": "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge-XY.png",
+        "view": "Plan",
+        "alt": "BMW B01 upper two-axis M8 threaded tab bridge, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW B01 upper two-axis M8 threaded tab bridge, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge-YZ.png",
+        "view": "End",
+        "alt": "BMW B01 upper two-axis M8 threaded tab bridge, end"
+      },
+      {
+        "file": "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW B01 upper two-axis M8 threaded tab bridge, isometric",
+        "thumbnail_file": "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge-XY.png",
+      "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge-XZ.png",
+      "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge-YZ.png",
+      "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge-top-isometric.png",
+      "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge.dwg",
+      "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/bmw-b01-upper-m8-threaded-tab-bridge.md",
+      "models/mechanical/chassis/bmw-b01-upper-m8-threaded-tab-bridge/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-64",
+        "revision": null,
+        "sha256": "95404b6f6410cf73dffd875f34d33959afcc8d6c99a7cb8506f0e694b6589e2c",
+        "dependency": "derived",
+        "occurrences": [
+          "Reconstructed battery tab pattern"
+        ]
+      }
+    ]
   }
 ]
