@@ -40826,5 +40826,120 @@
         ]
       }
     ]
+  },
+  {
+    "id": "bmw-i3-raised-j-tray-with-b01-threaded-bridges",
+    "name": "BMW i3 raised J tray with upper threaded bridges and shield",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "BMW i3 94 Ah battery on the revised raised J tray with two threaded tab bridges, four inverted battery-tab screws and a terminal shield on four bolted uprights.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "BMW i3",
+      "battery tray",
+      "shield",
+      "mounting tabs"
+    ],
+    "aliases": [
+      "BMW i3 raised J tray with upper threaded bridges and shield",
+      "bmw-i3-raised-j-tray-with-b01-threaded-bridges"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "bmw-i3-raised-j-tray-with-b01-threaded-bridges",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges-XY.png",
+        "view": "Plan",
+        "alt": "BMW i3 raised J tray with upper threaded bridges and shield, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW i3 raised J tray with upper threaded bridges and shield, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges-YZ.png",
+        "view": "End",
+        "alt": "BMW i3 raised J tray with upper threaded bridges and shield, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW i3 raised J tray with upper threaded bridges and shield, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/bmw-i3-raised-j-tray-with-b01-threaded-bridges.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-i3-raised-j-tray-with-b01-threaded-bridges/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "bmw-j-tray-support-with-lower-shield-upright-fasteners",
+        "revision": 1,
+        "sha256": "579c85a3f98cd9a10f09c9de343a73dd455edff5576d0cd53fb054026cb9c730",
+        "dependency": "embedded",
+        "occurrences": [
+          "Revised tray and lower shield fasteners"
+        ]
+      },
+      {
+        "id": "p18jr3-bmw-raised-tray-installation",
+        "revision": 4,
+        "sha256": "18936f1338f554bc54dd7ea318ada6748a4459adad6a1ab85ac688fb369b1706",
+        "dependency": "derived",
+        "occurrences": [
+          "Battery and upper shield"
+        ]
+      },
+      {
+        "id": "bmw-b01-upper-m8-threaded-tab-bridge",
+        "revision": 1,
+        "sha256": "a4c7bfcb7efce15a61723dec43cb9097775b540cece1732b0b72174a14892f9f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear two-axis B01 bridge",
+          "Front two-axis B01 bridge"
+        ]
+      },
+      {
+        "id": "model-91",
+        "revision": null,
+        "sha256": "533eb9e8cd7f67ab3e4f3fdebdd2294d990d9d7a60e17067ed4a6e74602581e5",
+        "dependency": "embedded",
+        "occurrences": [
+          "B01 lower washer 1",
+          "B01 lower washer 2",
+          "B01 lower washer 3",
+          "B01 lower washer 4"
+        ]
+      },
+      {
+        "id": "c127-iso-4017-m8x30-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "08591e1eda4ff310a886908e4cae407d287378af51d30190c087cf30a803bb2d",
+        "dependency": "embedded",
+        "occurrences": [
+          "B01 inverted screw 1",
+          "B01 inverted screw 2",
+          "B01 inverted screw 3",
+          "B01 inverted screw 4"
+        ]
+      }
+    ]
   }
 ]
