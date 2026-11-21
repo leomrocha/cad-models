@@ -45446,5 +45446,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p01j650fkw-j3f-left-dogleg-receiver-rail",
+    "name": "J3f left rail with dog-leg receiver support passages",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/chassis/rails",
+    "description": "Left 650 mm J3f rail with two vertical Ø6.6 mm passages for the raised receiver risers. Retains the stock section, deck-foot and Kelly passages.",
+    "tags": [
+      "J3f",
+      "rail",
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "chassis"
+    ],
+    "aliases": [
+      "P01J650FK-W",
+      "J3f left rail with dog-leg receiver support passages"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P01J650FK-W vertical receiver drilling",
+    "file": "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail.dwg",
+    "package_assets": [
+      "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail-XY.png",
+      "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail-XZ.png",
+      "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail-YZ.png",
+      "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail-top-isometric.png",
+      "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail.dwg",
+      "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail.md",
+      "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail-XY.png",
+        "view": "Plan",
+        "alt": "J3f left rail with dog-leg receiver support passages, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f left rail with dog-leg receiver support passages, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail-YZ.png",
+        "view": "End",
+        "alt": "J3f left rail with dog-leg receiver support passages, end"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/p01j650fkw-j3f-left-dogleg-receiver-rail-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f left rail with dog-leg receiver support passages, isometric",
+        "thumbnail_file": "models/mechanical/chassis/rails/p01j650fkw-j3f-left-dogleg-receiver-rail/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p01j650fk-j3f-foot-and-kelly-passage-rail",
+        "revision": 1,
+        "sha256": "632d564574ffc0b88263d76efc0ac7b0619ddf791c21197cd277cc0a777900a9",
+        "dependency": "derived",
+        "occurrences": [
+          "Source left rail with existing foot and Kelly passages"
+        ]
+      }
+    ]
   }
 ]
