@@ -51014,5 +51014,69 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p01j650-j4-left-deck-foot-guard-rail",
+    "name": "J4 left raised rail with deck foot and offset guard passages",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "650 mm J4 left rail with vertical guard passages and transverse deck foot passages.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chain guard",
+      "longitudinal rail",
+      "mounting bores"
+    ],
+    "aliases": [
+      "J4 left raised rail with deck foot and offset guard passages",
+      "p01j650-j4-left-deck-foot-guard-rail"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis/rails",
+    "variant": "p01j650-j4-left-deck-foot-guard-rail",
+    "file": "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail-XY.png",
+        "view": "Plan",
+        "alt": "J4 left raised rail with deck foot and offset guard passages, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 left raised rail with deck foot and offset guard passages, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail-YZ.png",
+        "view": "End",
+        "alt": "J4 left raised rail with deck foot and offset guard passages, end"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 left raised rail with deck foot and offset guard passages, isometric",
+        "thumbnail_file": "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail-XY.png",
+      "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail-XZ.png",
+      "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail-YZ.png",
+      "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail-top-isometric.png",
+      "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail.dwg",
+      "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/p01j650-j4-left-deck-foot-guard-rail.md",
+      "models/mechanical/chassis/rails/p01j650-j4-left-deck-foot-guard-rail/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
