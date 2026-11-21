@@ -48178,5 +48178,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs",
+    "name": "J4 left guard rim with offset mount socket reliefs",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/guards",
+    "description": "J4 left guard rim with four rim reliefs for access to the offset upper mount screws.",
+    "tags": [
+      "J4",
+      "guard",
+      "offset upper mount"
+    ],
+    "aliases": [
+      "J4 left guard rim with offset mount socket reliefs blank"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion machining blank",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 left offset-rim sheet blank",
+    "file": "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs.dwg",
+    "package_assets": [
+      "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs-XY.png",
+      "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs-XZ.png",
+      "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs-YZ.png",
+      "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs-top-isometric.png",
+      "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs.dwg",
+      "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs.md",
+      "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs-XY.png",
+        "view": "Plan",
+        "alt": "J4 left guard rim with offset mount socket reliefs, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 left guard rim with offset mount socket reliefs, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs-YZ.png",
+        "view": "End",
+        "alt": "J4 left guard rim with offset mount socket reliefs, end"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 left guard rim with offset mount socket reliefs, isometric",
+        "thumbnail_file": "models/mechanical/guards/p16j4rml-j4-guard-outboard-rim-with-offset-socket-reliefs/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "iwis ELITE 520-1 roller chain, part 81013824",
+        "url": "https://www.iwis.com/en-en/products-services/roller-chain-520-1-elite~p3368?_locale=en_GB"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p16j4rml-j4-guard-outboard-rim",
+        "revision": 1,
+        "sha256": "082fef1df8e23ba8a3c1d8fbb68ef3f44ba46ebd2adad6cd4067b914892ab2c6",
+        "dependency": "derived",
+        "occurrences": [
+          "J4 left guard outboard rim"
+        ]
+      }
+    ]
   }
 ]
