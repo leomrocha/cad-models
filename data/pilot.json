@@ -56590,5 +56590,80 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p24j4-outboard-splash-joint-spacer",
+    "name": "J4 outboard splash joint spacer",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 outboard splash fixing spacer. Ø12 mm outside diameter, Ø6.6 mm bore and 5.5 mm nominal length.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "spacer",
+      "M6 joint"
+    ],
+    "aliases": [
+      "J4 outboard splash joint spacer",
+      "p24j4-outboard-splash-joint-spacer"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "p24j4-outboard-splash-joint-spacer",
+    "file": "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer-XY.png",
+        "view": "Plan",
+        "alt": "J4 outboard splash joint spacer, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outboard splash joint spacer, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer-YZ.png",
+        "view": "End",
+        "alt": "J4 outboard splash joint spacer, end"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outboard splash joint spacer, isometric",
+        "thumbnail_file": "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer-XY.png",
+      "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer-XZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer-YZ.png",
+      "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer-top-isometric.png",
+      "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer.dwg",
+      "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/p24j4-outboard-splash-joint-spacer.md",
+      "models/mechanical/guards/p24j4-outboard-splash-joint-spacer/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24j4-outboard-splash-mounted",
+        "revision": 1,
+        "sha256": "a2764acaa7231e3f1dbb5bfbf84963e7524abf26f5110226389c08ca2238ee48",
+        "dependency": "derived",
+        "occurrences": [
+          "Panel bolt and contact datums"
+        ]
+      }
+    ]
   }
 ]
