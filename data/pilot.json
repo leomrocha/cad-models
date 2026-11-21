@@ -49202,5 +49202,101 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-eight-offset-guard-mounts-with-rails",
+    "name": "J4 eight offset upper guard joints on raised rails",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Two J4 raised chassis rails with eight checked offset guard fastener stacks.",
+    "tags": [
+      "tractor",
+      "J4",
+      "chain guard",
+      "rail hardware",
+      "A07 joint"
+    ],
+    "aliases": [
+      "J4 eight offset upper guard joints on raised rails",
+      "j4-eight-offset-guard-mounts-with-rails"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-eight-offset-guard-mounts-with-rails",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails-XY.png",
+        "view": "Plan",
+        "alt": "J4 eight offset upper guard joints on raised rails, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 eight offset upper guard joints on raised rails, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails-YZ.png",
+        "view": "End",
+        "alt": "J4 eight offset upper guard joints on raised rails, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 eight offset upper guard joints on raised rails, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/j4-eight-offset-guard-mounts-with-rails.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-eight-offset-guard-mounts-with-rails/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p01j650-j4-left-offset-guard-rail",
+        "revision": 1,
+        "sha256": "ef81aa0d1f3056b25fd796656121d1eb3a438617dc0d79182c71541478ef7c45",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left raised rail"
+        ]
+      },
+      {
+        "id": "p01j650-j4-right-offset-guard-rail",
+        "revision": 1,
+        "sha256": "79f1c3c60e8ccbec2139df303908f31c9762ffb7709f1fcde4e2ec625f74aab8",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right raised rail"
+        ]
+      },
+      {
+        "id": "j4-a07-offset-guard-rail-stack",
+        "revision": 1,
+        "sha256": "613f93d7ecbd275df40faec3e51306ae7b27238ea7ccb4e565f05e8f9738746c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left flange joint at X -110",
+          "Left flange joint at X -40",
+          "Left flange joint at X 40",
+          "Left flange joint at X 110",
+          "Right flange joint at X -110",
+          "Right flange joint at X 0",
+          "Right flange joint at X 110",
+          "Right flange joint at X 210"
+        ]
+      }
+    ]
   }
 ]
