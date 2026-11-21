@@ -43525,17 +43525,17 @@
     "subject": "Electrical",
     "kind": "part",
     "category_path": "electrical/enclosure-mounts",
-    "description": "Proposed Tyro Gemini 1S cradle Isometric. Folded 3 mm steel part, 200 mm along X. The bend centre is (Y, Z) = (269, 632) mm, with R3 inside and R6 outside. The uncut uplift lip lies at Y = 249 to 269 mm and Z = 635 to 638 mm. Locating any SMA coupling relief requires the actual port position.",
+    "description": "Proposed Tyro Gemini 1S cradle upper keeper. Folded 3 mm steel part, 200 mm along X. The bend centre is (Y, Z) = (269, 632) mm, with R3 inside and R6 outside. The uncut uplift lip lies at Y = 249 to 269 mm and Z = 635 to 638 mm. Locating any SMA coupling relief requires the actual port position.",
     "tags": [
       "Tyro",
       "Gemini 1S",
       "receiver",
-      "Isometric",
+      "upper keeper",
       "cradle"
     ],
     "aliases": [
       "P22RXT",
-      "Gemini Isometric"
+      "Gemini upper keeper"
     ],
     "materials": [
       {
@@ -43547,7 +43547,7 @@
     "state": "Discussion construction proposal",
     "needs_information": false,
     "revision": 1,
-    "variant": "P22RXT Isometric",
+    "variant": "P22RXT upper keeper",
     "file": "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper.dwg",
     "package_assets": [
       "models/electrical/enclosure-mounts/p22rxt-gemini-upper-keeper/p22rxt-gemini-upper-keeper-XY.png",
