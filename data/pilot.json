@@ -52418,5 +52418,139 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-top-mounted-deck-rails-and-captive-guards",
+    "name": "J4 captive chain guards and rails with top-mounted rear feet",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "Both J4 chain guards and captive joints fitted to the rails carrying four top-mounted rear outrigger feet.",
+    "tags": [
+      "J4",
+      "chain guard",
+      "A06",
+      "captive thread",
+      "deck mounts"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 captive chain guards and rails with top-mounted rear feet",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards-XY.png",
+        "view": "Plan",
+        "alt": "J4 captive chain guards and rails with top-mounted rear feet, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 captive chain guards and rails with top-mounted rear feet, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards-YZ.png",
+        "view": "End",
+        "alt": "J4 captive chain guards and rails with top-mounted rear feet, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/j4-top-mounted-deck-rails-and-captive-guards-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 captive chain guards and rails with top-mounted rear feet, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-top-mounted-deck-rails-and-captive-guards/thumbnail.png"
+      }
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-rails-with-rear-top-feet-and-guard-mounts",
+        "revision": 1,
+        "sha256": "0bde724db98a52c28d83b7791d5d14f07809394f2b67684bbba8ddc6314d8188",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rails and eight unpocketed fixed mounts"
+        ]
+      },
+      {
+        "id": "j4-left-chain-guard-with-offset-mounts",
+        "revision": 1,
+        "sha256": "ed382b60cd10d346558b70d66286bcbb1bbfb79c9459e0967f9b0af4e90a8420",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left offset guard"
+        ]
+      },
+      {
+        "id": "j4-right-chain-guard-with-deck-compatible-mounts",
+        "revision": 1,
+        "sha256": "6c024d73c1e29436b22a0323120ac4b688d30578b6caed6fba0855c61492ad7f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right offset guard"
+        ]
+      },
+      {
+        "id": "j4-a06-captive-thread-plate",
+        "revision": 1,
+        "sha256": "3b9351ce809fc786b677b5450c75b948cb0ee16a6d63d8e57f1eacd70a0abc0c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left A06 at X -110 Plate",
+          "Left A06 at X -40 Plate",
+          "Left A06 at X 40 Plate",
+          "Left A06 at X 110 Plate",
+          "Right A06 at X -110 Plate",
+          "Right A06 at X 0 Plate",
+          "Right A06 at X 110 Plate",
+          "Right A06 at X 193 Plate"
+        ]
+      },
+      {
+        "id": "iso-4017-m6x20",
+        "revision": null,
+        "sha256": "32dcc1ddeecddfa8687901a913f6a6aa1e6cb574c311daa8cc1f59ebc896eb4d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left A06 at X -110 Screw",
+          "Left A06 at X -40 Screw",
+          "Left A06 at X 40 Screw",
+          "Left A06 at X 110 Screw",
+          "Right A06 at X -110 Screw",
+          "Right A06 at X 0 Screw",
+          "Right A06 at X 110 Screw",
+          "Right A06 at X 193 Screw"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left A06 at X -110 Washer",
+          "Left A06 at X -40 Washer",
+          "Left A06 at X 40 Washer",
+          "Left A06 at X 110 Washer",
+          "Right A06 at X -110 Washer",
+          "Right A06 at X 0 Washer",
+          "Right A06 at X 110 Washer",
+          "Right A06 at X 193 Washer"
+        ]
+      }
+    ]
   }
 ]
