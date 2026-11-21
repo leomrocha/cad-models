@@ -43087,5 +43087,107 @@
       }
     ],
     "model_references": []
+  },
+  {
+    "id": "wiska-m25-removable-cable-entry-fit",
+    "name": "WISKA M25 removable cable entry installation reference",
+    "subject": "Electrical",
+    "kind": "group",
+    "category_path": "assemblies/reusable/groups",
+    "description": "Removable WISKA ESKV 25 cable entry with the gland, gasket and locknut placed on the saved carrier and four M4 fixings. Nominal gasket bore interference is recorded.",
+    "tags": [
+      "WISKA",
+      "removable cable entry",
+      "M25",
+      "carrier",
+      "mounting stack"
+    ],
+    "aliases": [
+      "WISKA removable M25 cable entry"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "ESKV25 on removable insert",
+    "file": "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit.dwg",
+    "package_assets": [
+      "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/thumbnail.png",
+      "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit-XY.png",
+      "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit-XZ.png",
+      "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit-YZ.png",
+      "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit-top-isometric.png",
+      "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit.dwg",
+      "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit.md"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit-XY.png",
+        "view": "Plan",
+        "alt": "WISKA M25 removable cable entry installation reference, plan"
+      },
+      {
+        "file": "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit-XZ.png",
+        "view": "Elevation",
+        "alt": "WISKA M25 removable cable entry installation reference, elevation"
+      },
+      {
+        "file": "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit-YZ.png",
+        "view": "End",
+        "alt": "WISKA M25 removable cable entry installation reference, end"
+      },
+      {
+        "file": "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/wiska-m25-removable-cable-entry-fit-top-isometric.png",
+        "view": "Isometric",
+        "alt": "WISKA M25 removable cable entry installation reference, isometric",
+        "thumbnail_file": "models/assemblies/reusable/groups/wiska-m25-removable-cable-entry-fit/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "WISKA ESKV 25 LG, order 10066413",
+        "url": "https://www.wiska.com/en/pdf/10066413/ESKV-25.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-41",
+        "revision": null,
+        "sha256": "32fd201b2d2f47604822e2b7aba356f344c6f60ea72cfd909632f7f6859c3e25",
+        "dependency": "embedded",
+        "occurrences": [
+          "Carrier and four M4 fixings"
+        ]
+      },
+      {
+        "id": "wiska-eadr-25-10062804-gasket",
+        "revision": 1,
+        "sha256": "25b30345b54854bee6a889c9602d0a32d02eb4ed0b7ca2da782770dfba0c6669",
+        "dependency": "embedded",
+        "occurrences": [
+          "EADR gasket"
+        ]
+      },
+      {
+        "id": "wiska-emug-25-lg-10060773-locknut-fit",
+        "revision": 1,
+        "sha256": "24f9c72a85974a884cf8739a7ecc3795deaf33f659cb7faf0d0f59298d186452",
+        "dependency": "embedded",
+        "occurrences": [
+          "EMUG locknut"
+        ]
+      },
+      {
+        "id": "wiska-eskv-25-lg-10066413-gland-fit",
+        "revision": 1,
+        "sha256": "2414598cff09f5e69829f6bfed96ccf8709ac2f2ffc8f5e8ed0a86102bab4a59",
+        "dependency": "embedded",
+        "occurrences": [
+          "ESKV gland"
+        ]
+      }
+    ]
   }
 ]
