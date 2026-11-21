@@ -53195,5 +53195,86 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-recessed-deck-bmw-tray-250mm-caster",
+    "name": "J4 recessed deck and BMW raised tray with 250 mm caster",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "J4 guarded chassis, recessed deck and BMW i3 tray with 250 mm caster.",
+    "tags": [
+      "tractor",
+      "J4",
+      "BMW i3",
+      "battery tray",
+      "chain guard",
+      "deck mounts"
+    ],
+    "aliases": [
+      "J4 recessed deck and BMW raised tray with 250 mm caster",
+      "j4-recessed-deck-bmw-tray-250mm-caster"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "j4-recessed-deck-bmw-tray-250mm-caster",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster-XY.png",
+        "view": "Plan",
+        "alt": "J4 recessed deck and BMW raised tray with 250 mm caster, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 recessed deck and BMW raised tray with 250 mm caster, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster-YZ.png",
+        "view": "End",
+        "alt": "J4 recessed deck and BMW raised tray with 250 mm caster, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 recessed deck and BMW raised tray with 250 mm caster, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/j4-recessed-deck-bmw-tray-250mm-caster.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-recessed-deck-bmw-tray-250mm-caster/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-recessed-deck-top-mount-fit-250mm-caster",
+        "revision": 1,
+        "sha256": "fd01247e6ad27037fcb0e76a3603f70ea7865225c3c2af22f35e84ad25ef4df8",
+        "dependency": "embedded",
+        "occurrences": [
+          "J4 guarded chassis and recessed deck"
+        ]
+      },
+      {
+        "id": "bmw-i3-raised-j-tray-with-b01-threaded-bridges",
+        "revision": 1,
+        "sha256": "77d5fe79cf7599605e23d8668bf67ef6263da5f1a402b053eff8ad0ac8156246",
+        "dependency": "embedded",
+        "occurrences": [
+          "BMW raised tray and supports"
+        ]
+      }
+    ]
   }
 ]
