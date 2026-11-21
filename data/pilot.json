@@ -50854,5 +50854,165 @@
       "models/mechanical/chassis/rails/p01j650-j4-right-deck-foot-guard-rail/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "j4-right-chain-guard-with-deck-compatible-mounts",
+    "name": "J4 right chain guard with deck-compatible mounts",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "J4 right chain guard with the front mounting tab and socket relief at X = 193 mm.",
+    "tags": [
+      "J4",
+      "guard",
+      "right",
+      "A06",
+      "offset upper mount",
+      "deck mounts"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 right chain guard with deck-compatible mounts",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts-XY.png",
+        "view": "Plan",
+        "alt": "J4 right chain guard with deck-compatible mounts, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 right chain guard with deck-compatible mounts, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts-YZ.png",
+        "view": "End",
+        "alt": "J4 right chain guard with deck-compatible mounts, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/j4-right-chain-guard-with-deck-compatible-mounts-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 right chain guard with deck-compatible mounts, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-right-chain-guard-with-deck-compatible-mounts/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Böllhoff ISO 7380-1 steel 10.9 button-head screws",
+        "url": "https://eshop-ro.boellhoff.com/out/media/pdf/ISO_7380-1_Stahl_10.9_Innensechskant___en.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p16j4ldr-j4-right-guard-lid-retained-drive-openings",
+        "revision": 1,
+        "sha256": "7f4df47ee949e108323efe3907781ae1c5e06c89570b7dbae1589302f8ddc727",
+        "dependency": "embedded",
+        "occurrences": [
+          "Removable lid"
+        ]
+      },
+      {
+        "id": "p16j4rmr-j4-right-guard-rim-deck-compatible",
+        "revision": 1,
+        "sha256": "adb507c6075d7249525f0222f3a4dbc0cac458171b5680d840db16097c318eae",
+        "dependency": "embedded",
+        "occurrences": [
+          "Outboard rim"
+        ]
+      },
+      {
+        "id": "model-175",
+        "revision": null,
+        "sha256": "b8dde6a3ba077709ab404c7e5d56732644d914b67c29d16fe370eca437196370",
+        "dependency": "embedded",
+        "occurrences": [
+          "Backing block 1",
+          "Backing block 2",
+          "Backing block 3",
+          "Backing block 4",
+          "Backing block 5",
+          "Backing block 6",
+          "Backing block 7",
+          "Backing block 8",
+          "Backing block 9",
+          "Backing block 10"
+        ]
+      },
+      {
+        "id": "c134-iso-7380-1-m6x30-button-head-envelope",
+        "revision": 1,
+        "sha256": "b4afcd496a7ed350e9289377a781bef64564ae4ea1367a51c0b0dbf389be6475",
+        "dependency": "embedded",
+        "occurrences": [
+          "Lid screw 1",
+          "Lid screw 2",
+          "Lid screw 3",
+          "Lid screw 4",
+          "Lid screw 5",
+          "Lid screw 6",
+          "Lid screw 7",
+          "Lid screw 8",
+          "Lid screw 9",
+          "Lid screw 10"
+        ]
+      },
+      {
+        "id": "p16j4bkr-j4-right-guard-back-sheet-offset-mount",
+        "revision": 1,
+        "sha256": "15da1ad46dc2ec73deef3f379b5a9ed084e0f263e8f9d2a1ef2ff71daa57914a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Back sheet"
+        ]
+      },
+      {
+        "id": "p16j4sw-j4-guard-common-sidewall-sheet",
+        "revision": 1,
+        "sha256": "2a3ce3af6ec25f1ade64dc1b7a21822a0d9900664326fa56cbb91ef33c5ee7af",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear wall",
+          "Forward wall"
+        ]
+      },
+      {
+        "id": "p16j4hwr-j4-guard-horizontal-wall-sheet",
+        "revision": 1,
+        "sha256": "6ccb6f3b2713dffd3cc58876300a9cddc7f0072b00f5e5766880bd5e2d521609",
+        "dependency": "embedded",
+        "occurrences": [
+          "Bottom wall",
+          "Top wall"
+        ]
+      },
+      {
+        "id": "j4-offset-upper-guard-braced-body-tab",
+        "revision": 1,
+        "sha256": "560450c5ca837ad3bbda67e7c67ab1a22f5285dc96dc9c0141c8899735b56dc2",
+        "dependency": "embedded",
+        "occurrences": [
+          "Braced mount tab 1",
+          "Braced mount tab 2",
+          "Braced mount tab 3",
+          "Braced mount tab 4"
+        ]
+      }
+    ]
   }
 ]
