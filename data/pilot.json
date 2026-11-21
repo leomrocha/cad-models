@@ -45092,5 +45092,95 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p01j650fkv-j3f-left-raised-receiver-rail",
+    "name": "J3f left rail with vertical raised receiver passages",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/chassis/rails",
+    "description": "Left 650 mm J3f rail with two vertical Ø6.6 mm passages for the raised receiver risers. Retains the stock section, deck-foot and Kelly passages.",
+    "tags": [
+      "J3f",
+      "rail",
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "chassis"
+    ],
+    "aliases": [
+      "P01J650FK-V",
+      "J3f left vertical receiver rail"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P01J650FK-V vertical receiver drilling",
+    "file": "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail.dwg",
+    "package_assets": [
+      "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail-XY.png",
+      "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail-XZ.png",
+      "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail-YZ.png",
+      "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail-top-isometric.png",
+      "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail.dwg",
+      "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail.md",
+      "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail-XY.png",
+        "view": "Plan",
+        "alt": "J3f left rail with vertical raised receiver passages, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f left rail with vertical raised receiver passages, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail-YZ.png",
+        "view": "End",
+        "alt": "J3f left rail with vertical raised receiver passages, end"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/p01j650fkv-j3f-left-raised-receiver-rail-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f left rail with vertical raised receiver passages, isometric",
+        "thumbnail_file": "models/mechanical/chassis/rails/p01j650fkv-j3f-left-raised-receiver-rail/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p01j650fk-j3f-foot-and-kelly-passage-rail",
+        "revision": 1,
+        "sha256": "632d564574ffc0b88263d76efc0ac7b0619ddf791c21197cd277cc0a777900a9",
+        "dependency": "derived",
+        "occurrences": [
+          "Source left rail with existing foot and Kelly passages"
+        ]
+      },
+      {
+        "id": "j3f-gemini-raised-cradle-riser",
+        "revision": 1,
+        "sha256": "aa97f437ad61ca92c19bf6e71505d4531765163a77f644050828bbdc10938a1b",
+        "dependency": "derived",
+        "occurrences": [
+          "Vertical receiver fixing positions"
+        ]
+      }
+    ]
   }
 ]
