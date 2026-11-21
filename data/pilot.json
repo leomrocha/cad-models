@@ -40425,5 +40425,119 @@
         ]
       }
     ]
+  },
+  {
+    "id": "bmw-j-battery-tray-support-with-fastener-access",
+    "name": "BMW J battery tray support with battery-tab and shield-upright access",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "BMW J tray floor, two drilled support angles, four riser pads and eight relocated braces. The support has four battery-tab axes and four removable shield-upright axes.",
+    "tags": [
+      "tractor",
+      "J3f",
+      "BMW i3",
+      "battery tray",
+      "service access",
+      "support"
+    ],
+    "aliases": [
+      "BMW J battery tray support with battery-tab and shield-upright access",
+      "bmw-j-battery-tray-support-with-fastener-access"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "bmw-j-battery-tray-support-with-fastener-access",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access-XY.png",
+        "view": "Plan",
+        "alt": "BMW J battery tray support with battery-tab and shield-upright access, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW J battery tray support with battery-tab and shield-upright access, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access-YZ.png",
+        "view": "End",
+        "alt": "BMW J battery tray support with battery-tab and shield-upright access, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW J battery tray support with battery-tab and shield-upright access, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/bmw-j-battery-tray-support-with-fastener-access.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/bmw-j-battery-tray-support-with-fastener-access/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield",
+        "revision": 1,
+        "sha256": "39bac74ea3408df0f3cc7f0cf9a7e5a4aeb49602ac6874ee787c0463fc9cc3f5",
+        "dependency": "embedded",
+        "occurrences": [
+          "Revised tray floor"
+        ]
+      },
+      {
+        "id": "p18ja-j-bmw-removable-shield-support-angle-battery-tabs",
+        "revision": 1,
+        "sha256": "80203870bb6a7472edfcb9f5940036d8634986784a583d506f0ec6a15766cc3f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left drilled tray angle",
+          "Right drilled tray angle"
+        ]
+      },
+      {
+        "id": "model-184",
+        "revision": null,
+        "sha256": "3b543700b97b785588fdb87f9a1bc0ab30703104293cfea656c8b7d30ae72432",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left rear riser pad",
+          "Left front riser pad",
+          "Right rear riser pad",
+          "Right front riser pad"
+        ]
+      },
+      {
+        "id": "model-183",
+        "revision": null,
+        "sha256": "0b9710b3daeea93280ab99a596fe58294f6e67fb4578bd3ad1acda97709c5b0d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left rear brace 1",
+          "Left rear brace 2",
+          "Left front brace 1",
+          "Left front brace 2",
+          "Right rear brace 1",
+          "Right rear brace 2",
+          "Right front brace 1",
+          "Right front brace 2"
+        ]
+      }
+    ]
   }
 ]
