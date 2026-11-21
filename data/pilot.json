@@ -49669,5 +49669,106 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-offset-guards-with-pocketed-rail-mounts",
+    "name": "J4 offset chain guards fitted to pocketed rail mounts",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "Both J4 offset chain guards fitted to the two fixed rail mounts and eight A06 stacks.",
+    "tags": [
+      "J4",
+      "chain guard",
+      "A06",
+      "upper mount"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 offset chain guards fitted to pocketed rail mounts",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts-XY.png",
+        "view": "Plan",
+        "alt": "J4 offset chain guards fitted to pocketed rail mounts, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 offset chain guards fitted to pocketed rail mounts, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts-YZ.png",
+        "view": "End",
+        "alt": "J4 offset chain guards fitted to pocketed rail mounts, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/j4-offset-guards-with-pocketed-rail-mounts-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 offset chain guards fitted to pocketed rail mounts, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-pocketed-rail-mounts/thumbnail.png"
+      }
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-eight-pocketed-guard-mounts-with-rails",
+        "revision": 1,
+        "sha256": "f50f9fd3ad3152c37e7be794da525325234b1fcf0a998a1b4681c266a8786812",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rails and fixed upper mounts"
+        ]
+      },
+      {
+        "id": "j4-left-chain-guard-with-offset-mounts",
+        "revision": 1,
+        "sha256": "ed382b60cd10d346558b70d66286bcbb1bbfb79c9459e0967f9b0af4e90a8420",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left offset guard"
+        ]
+      },
+      {
+        "id": "j4-right-chain-guard-with-offset-mounts",
+        "revision": 1,
+        "sha256": "4c09b5137acb4ce6c2bfad1a85101992a67bb4d870b2b0100058ec661894fc0a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right offset guard"
+        ]
+      },
+      {
+        "id": "j4-a06-offset-guard-fastener-stack",
+        "revision": 1,
+        "sha256": "8e16dfb575951d2c7dd2fefd614f267aaa60870e7b9432fe4c6a209a20ea4439",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left A06 stack at X -110",
+          "Left A06 stack at X -40",
+          "Left A06 stack at X 40",
+          "Left A06 stack at X 110",
+          "Right A06 stack at X -110",
+          "Right A06 stack at X 0",
+          "Right A06 stack at X 110",
+          "Right A06 stack at X 210"
+        ]
+      }
+    ]
   }
 ]
