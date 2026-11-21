@@ -40315,5 +40315,115 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p18ja-j-bmw-removable-shield-support-angle-battery-tabs",
+    "name": "BMW J tray angle for battery tabs and removable shield uprights",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "440 mm formed tray support angle, 37 mm flange, 30 mm leg and 3 mm sheet. Two Ø8.5 mm battery-tab bores and two Ø4.5 mm shield-upright bores pass through the flange.",
+    "tags": [
+      "tractor",
+      "BMW i3 94 Ah",
+      "shield support",
+      "tray angle"
+    ],
+    "aliases": [
+      "BMW J tray angle for battery tabs and removable shield uprights",
+      "p18ja-j-bmw-removable-shield-support-angle-battery-tabs"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "p18ja-j-bmw-removable-shield-support-angle-battery-tabs",
+    "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs-XY.png",
+        "view": "Plan",
+        "alt": "BMW J tray angle for battery tabs and removable shield uprights, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW J tray angle for battery tabs and removable shield uprights, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs-YZ.png",
+        "view": "End",
+        "alt": "BMW J tray angle for battery tabs and removable shield uprights, end"
+      },
+      {
+        "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW J tray angle for battery tabs and removable shield uprights, isometric",
+        "thumbnail_file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs-XY.png",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs-XZ.png",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs-YZ.png",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs-top-isometric.png",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs.dwg",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/p18ja-j-bmw-removable-shield-support-angle-battery-tabs.md",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle-battery-tabs/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-181",
+        "revision": null,
+        "sha256": "33e532c71e221a1ab8753f241328138b4de82b1c004b2a9c94ad4276cd117bcc",
+        "dependency": "derived",
+        "occurrences": [
+          "Original 430 mm support angle"
+        ]
+      },
+      {
+        "id": "p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield",
+        "revision": 1,
+        "sha256": "39bac74ea3408df0f3cc7f0cf9a7e5a4aeb49602ac6874ee787c0463fc9cc3f5",
+        "dependency": "derived",
+        "occurrences": [
+          "Revised tray floor"
+        ]
+      },
+      {
+        "id": "p18ja-j-bmw-removable-shield-support-angle",
+        "revision": 1,
+        "sha256": "86409ee577171aa4e3f5074e7285aa84fdd07f729bd6149c4dcda45059728fdb",
+        "dependency": "derived",
+        "occurrences": [
+          "440 mm shield-upright support angle"
+        ]
+      },
+      {
+        "id": "model-91",
+        "revision": null,
+        "sha256": "533eb9e8cd7f67ab3e4f3fdebdd2294d990d9d7a60e17067ed4a6e74602581e5",
+        "dependency": "derived",
+        "occurrences": [
+          "ISO 7089 M8 washer"
+        ]
+      },
+      {
+        "id": "model-88",
+        "revision": null,
+        "sha256": "82c8bfae0411486bf95807b11f7cd235c1d6af3a40b3e88fc3a6a5658fca8575",
+        "dependency": "derived",
+        "occurrences": [
+          "ISO 7089 M4 washer"
+        ]
+      }
+    ]
   }
 ]
