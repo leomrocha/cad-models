@@ -50012,5 +50012,138 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j4-offset-guards-with-captive-thread-plates",
+    "name": "J4 offset chain guards with captive threaded mounting plates",
+    "subject": "Subassemblies",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "Both J4 offset chain guards mounted with eight captive threaded plates and outside screw access.",
+    "tags": [
+      "J4",
+      "chain guard",
+      "A06",
+      "captive thread"
+    ],
+    "aliases": [],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 offset chain guards with captive threaded mounting plates",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates-XY.png",
+        "view": "Plan",
+        "alt": "J4 offset chain guards with captive threaded mounting plates, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 offset chain guards with captive threaded mounting plates, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates-YZ.png",
+        "view": "End",
+        "alt": "J4 offset chain guards with captive threaded mounting plates, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/j4-offset-guards-with-captive-thread-plates-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 offset chain guards with captive threaded mounting plates, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-offset-guards-with-captive-thread-plates/thumbnail.png"
+      }
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "j4-eight-offset-guard-mounts-with-rails",
+        "revision": 1,
+        "sha256": "9697eb86ba841106ce9672c397e3cd43d0dff40141c06d7476f8c6b2b820c622",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rails and eight unpocketed fixed mounts"
+        ]
+      },
+      {
+        "id": "j4-left-chain-guard-with-offset-mounts",
+        "revision": 1,
+        "sha256": "ed382b60cd10d346558b70d66286bcbb1bbfb79c9459e0967f9b0af4e90a8420",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left offset guard"
+        ]
+      },
+      {
+        "id": "j4-right-chain-guard-with-offset-mounts",
+        "revision": 1,
+        "sha256": "4c09b5137acb4ce6c2bfad1a85101992a67bb4d870b2b0100058ec661894fc0a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right offset guard"
+        ]
+      },
+      {
+        "id": "j4-a06-captive-thread-plate",
+        "revision": 1,
+        "sha256": "3b9351ce809fc786b677b5450c75b948cb0ee16a6d63d8e57f1eacd70a0abc0c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left A06 at X -110 Plate",
+          "Left A06 at X -40 Plate",
+          "Left A06 at X 40 Plate",
+          "Left A06 at X 110 Plate",
+          "Right A06 at X -110 Plate",
+          "Right A06 at X 0 Plate",
+          "Right A06 at X 110 Plate",
+          "Right A06 at X 210 Plate"
+        ]
+      },
+      {
+        "id": "iso-4017-m6x20",
+        "revision": null,
+        "sha256": "32dcc1ddeecddfa8687901a913f6a6aa1e6cb574c311daa8cc1f59ebc896eb4d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left A06 at X -110 Screw",
+          "Left A06 at X -40 Screw",
+          "Left A06 at X 40 Screw",
+          "Left A06 at X 110 Screw",
+          "Right A06 at X -110 Screw",
+          "Right A06 at X 0 Screw",
+          "Right A06 at X 110 Screw",
+          "Right A06 at X 210 Screw"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left A06 at X -110 Washer",
+          "Left A06 at X -40 Washer",
+          "Left A06 at X 40 Washer",
+          "Left A06 at X 110 Washer",
+          "Right A06 at X -110 Washer",
+          "Right A06 at X 0 Washer",
+          "Right A06 at X 110 Washer",
+          "Right A06 at X 210 Washer"
+        ]
+      }
+    ]
   }
 ]
