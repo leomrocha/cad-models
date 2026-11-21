@@ -43269,5 +43269,85 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxs-gemini-receiver-cradle-bottom-seat",
+    "name": "P22RXS Tyro Gemini 1S cradle bottom seat",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed 3 mm steel folded bottom seat for the Tyro Gemini 1S cradle. Includes two carrier holes and four floor holes for the side stops.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "bottom seat",
+      "cradle"
+    ],
+    "aliases": [
+      "P22RXS",
+      "Gemini cradle bottom seat"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXS folded seat",
+    "file": "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat-XY.png",
+      "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat.dwg",
+      "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat.md",
+      "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat-XY.png",
+        "view": "Plan",
+        "alt": "P22RXS Tyro Gemini 1S cradle bottom seat, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXS Tyro Gemini 1S cradle bottom seat, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat-YZ.png",
+        "view": "End",
+        "alt": "P22RXS Tyro Gemini 1S cradle bottom seat, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/p22rxs-gemini-receiver-cradle-bottom-seat-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXS Tyro Gemini 1S cradle bottom seat, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxs-gemini-receiver-cradle-bottom-seat/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxj-gemini-receiver-cradle-carrier",
+        "revision": 1,
+        "sha256": "cab585d093adb5e43997f41db8e4cdd8e6a0f479d1cde286f89f0ea01a9443cd",
+        "dependency": "derived",
+        "occurrences": [
+          "Carrier matching seat pattern"
+        ]
+      }
+    ]
   }
 ]
