@@ -58964,5 +58964,55 @@
         ]
       }
     ]
+  },
+  {
+    "id": "c118-southco-51-72-610-24-captive-screw",
+    "name": "Southco 51-72-610-24 captive screw",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/fasteners",
+    "description": "Southco M3 captive screw installation reference with a Ø7.1 mm head, 17 mm under-head length and 0.76 mm slot.",
+    "tags": [
+      "Southco",
+      "51-72-610-24",
+      "M3",
+      "captive fastener"
+    ],
+    "aliases": [
+      "Southco 51-72-610-24 captive screw",
+      "c118-southco-51-72-610-24-captive-screw"
+    ],
+    "materials": [
+      {
+        "name": "302 stainless steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Installation reference with estimated profile details",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "Bright polished 51-72-610-24",
+    "file": "models/mechanical/fasteners/c118-southco-51-72-610-24-captive-screw/c118-southco-51-72-610-24-captive-screw.dwg",
+    "package_assets": [
+      "models/mechanical/fasteners/c118-southco-51-72-610-24-captive-screw/c118-southco-51-72-610-24-captive-screw.dwg",
+      "models/mechanical/fasteners/c118-southco-51-72-610-24-captive-screw/c118-southco-51-72-610-24-captive-screw.md",
+      "models/mechanical/fasteners/c118-southco-51-72-610-24-captive-screw/ocs-isometric.png",
+      "models/mechanical/fasteners/c118-southco-51-72-610-24-captive-screw/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/fasteners/c118-southco-51-72-610-24-captive-screw/ocs-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Southco 51-72-610-24 captive screw in OpenCADStudio",
+        "thumbnail_file": "models/mechanical/fasteners/c118-southco-51-72-610-24-captive-screw/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Southco Polished Series M3 captive fasteners, printed page 250",
+        "url": "https://media.southco.com/media/static/Literature/51-53-58.en.pdf#page=7"
+      }
+    ]
   }
 ]
