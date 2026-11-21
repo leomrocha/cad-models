@@ -55512,5 +55512,69 @@
       "models/mechanical/guards/p24j4-splash-lower-centre-support-blank/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p24j4-splash-lower-offset-support-blank",
+    "name": "J4 splash lower offset support blank",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "J4 splash-panel lower offset support machining blank.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panel",
+      "support bracket",
+      "machining blank"
+    ],
+    "aliases": [
+      "J4 splash lower offset support blank",
+      "p24j4-splash-lower-offset-support-blank"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/guards",
+    "variant": "p24j4-splash-lower-offset-support-blank",
+    "file": "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank-XY.png",
+        "view": "Plan",
+        "alt": "J4 splash lower offset support blank, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 splash lower offset support blank, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank-YZ.png",
+        "view": "End",
+        "alt": "J4 splash lower offset support blank, end"
+      },
+      {
+        "file": "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 splash lower offset support blank, isometric",
+        "thumbnail_file": "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank-XY.png",
+      "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank-XZ.png",
+      "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank-YZ.png",
+      "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank-top-isometric.png",
+      "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank.dwg",
+      "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/p24j4-splash-lower-offset-support-blank.md",
+      "models/mechanical/guards/p24j4-splash-lower-offset-support-blank/thumbnail.png"
+    ],
+    "sources": []
   }
 ]
