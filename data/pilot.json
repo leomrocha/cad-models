@@ -40232,5 +40232,88 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p18ja-j-bmw-removable-shield-support-angle",
+    "name": "BMW J tray support angle for removable shield uprights",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "440 mm cut of nominal 30 × 30 × 3 mm tray support angle with two Ø4.5 mm bores matching the BMW shield upright fasteners.",
+    "tags": [
+      "tractor",
+      "BMW i3 94 Ah",
+      "shield support",
+      "tray angle"
+    ],
+    "aliases": [
+      "BMW J tray support angle for removable shield uprights",
+      "p18ja-j-bmw-removable-shield-support-angle"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "mechanical/chassis",
+    "variant": "p18ja-j-bmw-removable-shield-support-angle",
+    "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle.dwg",
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle-XY.png",
+        "view": "Plan",
+        "alt": "BMW J tray support angle for removable shield uprights, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle-XZ.png",
+        "view": "Elevation",
+        "alt": "BMW J tray support angle for removable shield uprights, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle-YZ.png",
+        "view": "End",
+        "alt": "BMW J tray support angle for removable shield uprights, end"
+      },
+      {
+        "file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle-top-isometric.png",
+        "view": "Isometric",
+        "alt": "BMW J tray support angle for removable shield uprights, isometric",
+        "thumbnail_file": "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle-XY.png",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle-XZ.png",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle-YZ.png",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle-top-isometric.png",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle.dwg",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/p18ja-j-bmw-removable-shield-support-angle.md",
+      "models/mechanical/chassis/p18ja-j-bmw-removable-shield-support-angle/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "model-181",
+        "revision": null,
+        "sha256": "33e532c71e221a1ab8753f241328138b4de82b1c004b2a9c94ad4276cd117bcc",
+        "dependency": "derived",
+        "occurrences": [
+          "Original 430 mm support angle"
+        ]
+      },
+      {
+        "id": "p18bmw-j-bmw-i3-94ah-tray-floor-removable-shield",
+        "revision": 1,
+        "sha256": "39bac74ea3408df0f3cc7f0cf9a7e5a4aeb49602ac6874ee787c0463fc9cc3f5",
+        "dependency": "derived",
+        "occurrences": [
+          "Revised tray floor"
+        ]
+      }
+    ]
   }
 ]
