@@ -56405,5 +56405,190 @@
       "models/mechanical/guards/p24j4-outboard-splash-upper-fixing-pad/thumbnail.png"
     ],
     "sources": []
+  },
+  {
+    "id": "p24j4-outboard-splash-mounted",
+    "name": "J4 outboard splash panels with supports",
+    "subject": "Subassemblies",
+    "kind": "subassembly",
+    "description": "Outboard J4 splash assembly with the two removable sheets, 17 edge-trim cuts, 22 outboard support pieces, six existing crossbars and six compression sleeves.",
+    "tags": [
+      "tractor",
+      "J4",
+      "splash panels",
+      "outboard supports",
+      "service layout"
+    ],
+    "aliases": [
+      "J4 outboard splash panels with supports",
+      "p24j4-outboard-splash-mounted"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "variant": "p24j4-outboard-splash-mounted",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted.dwg",
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted-XY.png",
+        "view": "Plan",
+        "alt": "J4 outboard splash panels with supports, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 outboard splash panels with supports, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted-YZ.png",
+        "view": "End",
+        "alt": "J4 outboard splash panels with supports, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 outboard splash panels with supports, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/p24j4-outboard-splash-mounted.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/p24j4-outboard-splash-mounted/thumbnail.png"
+    ],
+    "sources": [],
+    "model_references": [
+      {
+        "id": "p24j4-outboard-splash-sheets-and-edge-trims",
+        "revision": 1,
+        "sha256": "240bd6a68ae3515bef28bdaff32ad19e3ebd545311541e45c7fa380ac0a50c86",
+        "dependency": "embedded",
+        "occurrences": [
+          "Sheets and edge trims"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-left-rail-arm",
+        "revision": 1,
+        "sha256": "5a0d6e084d839fc351b2c9b04c19642bfa9b259f5edfb813334b87a32a0df7fa",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Lower rail arm -215",
+          "Left Lower rail arm +215"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-lower-riser",
+        "revision": 1,
+        "sha256": "b6d88475d6de197384a098be6df257a0232147b5b92894926580ffe0b023d571",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Lower panel riser -215",
+          "Left Lower panel riser +215",
+          "Right Lower panel riser -215",
+          "Right Lower panel riser +215"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-lower-fixing-beam",
+        "revision": 1,
+        "sha256": "be84745617fa285ba6f31a24d3af49edff0aa033f524acaaa966fd6254da8d26",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Lower shared fixing beam",
+          "Right Lower shared fixing beam"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-left-upper-stand-off",
+        "revision": 1,
+        "sha256": "160aad291266d61289972d59278bd14bdf30071606abcb9545ea2f43f968d29c",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Upper stand-off -220",
+          "Left Upper stand-off +0",
+          "Left Upper stand-off +220"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-upper-fixing-pad",
+        "revision": 1,
+        "sha256": "cde20f3663b1b804c751f17d667e8f7ae7c7d3e0e87d1adf7f30d6aab75857c1",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left Upper fixing pad -220",
+          "Left Upper fixing pad +0",
+          "Left Upper fixing pad +220",
+          "Right Upper fixing pad -220",
+          "Right Upper fixing pad +0",
+          "Right Upper fixing pad +220"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-right-rail-arm",
+        "revision": 1,
+        "sha256": "922e1ef9dc6a645d5f9719b2cd07c8fc4dacbea3816ca35c0bec57c72e286350",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right Lower rail arm -215",
+          "Right Lower rail arm +215"
+        ]
+      },
+      {
+        "id": "p24j4-outboard-splash-right-upper-stand-off",
+        "revision": 1,
+        "sha256": "41a6d35d9d07f321d7d8affc85a85186376058ac349f26afdc81f6a3693ea57d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Right Upper stand-off -220",
+          "Right Upper stand-off +0",
+          "Right Upper stand-off +220"
+        ]
+      },
+      {
+        "id": "p24jb50-j-splash-outer-crossbar-segment",
+        "revision": 1,
+        "sha256": "d88ecb783e7c6aa58a1832e632a66e9cc00f50936713952fb73580bef1c6e8dd",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left upper crossbar -220",
+          "Left upper crossbar +220",
+          "Right upper crossbar -220",
+          "Right upper crossbar +220"
+        ]
+      },
+      {
+        "id": "model-186",
+        "revision": null,
+        "sha256": "081476f9b2c52946a7b811edb1b85fa7b9841a55936831b5168987d8e9e5c4bd",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left compression sleeve -220",
+          "Left compression sleeve +0",
+          "Left compression sleeve +220",
+          "Right compression sleeve -220",
+          "Right compression sleeve +0",
+          "Right compression sleeve +220"
+        ]
+      },
+      {
+        "id": "p24jb340-j-splash-central-crossbar-segment",
+        "revision": 1,
+        "sha256": "70db103a57359fcf1d640b53228641fa30687ac58cdf6b134f5d6f059d9aff8a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Left upper crossbar +0",
+          "Right upper crossbar +0"
+        ]
+      }
+    ]
   }
 ]
