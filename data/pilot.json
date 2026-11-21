@@ -44857,5 +44857,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-gemini-receiver-raised-outboard-cradle",
+    "name": "J3f Tyro Gemini 1S raised and outboard cradle proposal",
+    "subject": "Electrical",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "Alternate Tyro Gemini 1S receiver cradle proposal with 30 mm outward and 75 mm upward translation. New chassis supports are separate from this 61-solid placement.",
+    "tags": [
+      "J3f",
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "cradle",
+      "placement"
+    ],
+    "aliases": [
+      "J3f relocated Gemini cradle",
+      "Gemini raised outboard placement"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J3f Gemini raised outboard proposal",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle-XY.png",
+        "view": "Plan",
+        "alt": "J3f Tyro Gemini 1S raised and outboard cradle proposal, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Tyro Gemini 1S raised and outboard cradle proposal, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle-YZ.png",
+        "view": "End",
+        "alt": "J3f Tyro Gemini 1S raised and outboard cradle proposal, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/j3f-gemini-receiver-raised-outboard-cradle-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Tyro Gemini 1S raised and outboard cradle proposal, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-gemini-receiver-raised-outboard-cradle/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "gemini-1s-receiver-cradle-with-fixings",
+        "revision": 1,
+        "sha256": "cec095628790aab2de1e36f56ca12b71e340ce114ca34122079248b734e70b30",
+        "dependency": "derived",
+        "occurrences": [
+          "Relocated cradle"
+        ]
+      }
+    ]
   }
 ]
