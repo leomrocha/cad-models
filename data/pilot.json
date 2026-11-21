@@ -45606,5 +45606,93 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-gemini-cradle-horizontal-fillet-envelope",
+    "name": "J3f Gemini cradle horizontal 3 mm fillet envelope",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle horizontal fillet envelope. Proposed 3 mm equal-leg triangular section along a 16 mm joint line.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "horizontal fillet envelope",
+      "cradle"
+    ],
+    "aliases": [
+      "Gemini horizontal fillet envelope"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "horizontal fillet envelope",
+    "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope-XY.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope-XZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope-YZ.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope-top-isometric.png",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope.dwg",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope.md",
+      "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope-XY.png",
+        "view": "Plan",
+        "alt": "J3f Gemini cradle horizontal 3 mm fillet envelope, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f Gemini cradle horizontal 3 mm fillet envelope, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope-YZ.png",
+        "view": "End",
+        "alt": "J3f Gemini cradle horizontal 3 mm fillet envelope, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/j3f-gemini-cradle-horizontal-fillet-envelope-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f Gemini cradle horizontal 3 mm fillet envelope, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/j3f-gemini-cradle-horizontal-fillet-envelope/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "j3f-gemini-forward-dogleg-cradle-riser",
+        "revision": 1,
+        "sha256": "9f9d796d8f3e1306820ee34f7b9515e64e2592d48ba985228f3f6a9770188623",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal fillet mating faces"
+        ]
+      },
+      {
+        "id": "j3f-gemini-raised-cradle-spreader",
+        "revision": 1,
+        "sha256": "a02dec1c993812ece32055ec406575f62bd999e51c598900d054e485a6563511",
+        "dependency": "derived",
+        "occurrences": [
+          "Nominal fillet mating faces"
+        ]
+      }
+    ]
   }
 ]
