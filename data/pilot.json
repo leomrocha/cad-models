@@ -44324,5 +44324,104 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p01j650fkr-j3f-left-receiver-passage-rail",
+    "name": "J3f left rail with foot, Kelly and receiver passages",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/chassis/rails",
+    "description": "Left 650 mm J3f rail with two additional Ø6.6 mm passages for a receiver carrier. Retains the stock section, deck-foot and Kelly passages.",
+    "tags": [
+      "J3f",
+      "rail",
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "chassis"
+    ],
+    "aliases": [
+      "P01J650FK-RX",
+      "J3f left receiver passage rail"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P01J650FK-RX left receiver drilling",
+    "file": "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail.dwg",
+    "package_assets": [
+      "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail-XY.png",
+      "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail-XZ.png",
+      "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail-YZ.png",
+      "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail-top-isometric.png",
+      "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail.dwg",
+      "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail.md",
+      "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail-XY.png",
+        "view": "Plan",
+        "alt": "J3f left rail with foot, Kelly and receiver passages, plan"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f left rail with foot, Kelly and receiver passages, elevation"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail-YZ.png",
+        "view": "End",
+        "alt": "J3f left rail with foot, Kelly and receiver passages, end"
+      },
+      {
+        "file": "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/p01j650fkr-j3f-left-receiver-passage-rail-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f left rail with foot, Kelly and receiver passages, isometric",
+        "thumbnail_file": "models/mechanical/chassis/rails/p01j650fkr-j3f-left-receiver-passage-rail/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p01j650fk-j3f-foot-and-kelly-passage-rail",
+        "revision": 1,
+        "sha256": "632d564574ffc0b88263d76efc0ac7b0619ddf791c21197cd277cc0a777900a9",
+        "dependency": "derived",
+        "occurrences": [
+          "Unmachined source of this receiver-drilled variant"
+        ]
+      },
+      {
+        "id": "p22rxb-gemini-rear-receiver-bridge",
+        "revision": 1,
+        "sha256": "156b370e05504b1ce60a982934af26402a3d9c4f8a3fb3f0b186ca582673ba02",
+        "dependency": "derived",
+        "occurrences": [
+          "Rear receiver mounting axis"
+        ]
+      },
+      {
+        "id": "p22rxb-gemini-forward-receiver-bridge",
+        "revision": 1,
+        "sha256": "b01e881c626fd1047e087912a9a2db3c2eff6457ea8005427eefb607738b8591",
+        "dependency": "derived",
+        "occurrences": [
+          "Forward receiver mounting axis"
+        ]
+      }
+    ]
   }
 ]
