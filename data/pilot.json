@@ -42952,5 +42952,71 @@
       }
     ],
     "model_references": []
+  },
+  {
+    "id": "wiska-emug-25-lg-10060773-locknut-fit",
+    "name": "WISKA EMUG 25 LG locknut clearance reference",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/cable-entry",
+    "description": "WISKA order 10060773, M25 × 1.5 mm mounting locknut clearance model. The 32 mm wrench hexagon and Ø36 mm collar are projected over the full 6 mm axial length.",
+    "tags": [
+      "WISKA",
+      "locknut",
+      "cable entry",
+      "M25",
+      "clearance"
+    ],
+    "aliases": [
+      "EMUG 25 LG",
+      "10060773"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Mounting clearance reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "10060773",
+    "file": "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit.dwg",
+    "package_assets": [
+      "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/thumbnail.png",
+      "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit-XY.png",
+      "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit-XZ.png",
+      "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit-YZ.png",
+      "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit-top-isometric.png",
+      "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit.dwg",
+      "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit.md"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit-XY.png",
+        "view": "Plan",
+        "alt": "WISKA EMUG 25 LG locknut clearance reference, plan"
+      },
+      {
+        "file": "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit-XZ.png",
+        "view": "Elevation",
+        "alt": "WISKA EMUG 25 LG locknut clearance reference, elevation"
+      },
+      {
+        "file": "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit-YZ.png",
+        "view": "End",
+        "alt": "WISKA EMUG 25 LG locknut clearance reference, end"
+      },
+      {
+        "file": "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/wiska-emug-25-lg-10060773-locknut-fit-top-isometric.png",
+        "view": "Isometric",
+        "alt": "WISKA EMUG 25 LG locknut clearance reference, isometric",
+        "thumbnail_file": "models/electrical/cable-entry/wiska-emug-25-lg-10060773-locknut-fit/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "WISKA EMUG 25 LG, order 10060773",
+        "url": "https://www.wiska.com/en/pdf/10060773/EMUG-25-LG.pdf"
+      }
+    ],
+    "model_references": []
   }
 ]
