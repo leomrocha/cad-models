@@ -45694,5 +45694,189 @@
         ]
       }
     ]
+  },
+  {
+    "id": "j3f-dogleg-raised-receiver-rail-and-cradle",
+    "name": "J3f raised Gemini 1S receiver mount with dog-leg riser",
+    "subject": "Electrical",
+    "kind": "group",
+    "category_path": "assemblies/tractor/two-wheel/subassemblies",
+    "description": "Raised Tyro Gemini 1S cradle proposal assembled on the vertical-drilled J3f rail with risers, spreader, weld envelopes and four nominal mounting stacks.",
+    "tags": [
+      "J3f",
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "cradle",
+      "rail",
+      "raised"
+    ],
+    "aliases": [
+      "Raised J3f Gemini receiver mount",
+      "Gemini vertical receiver rail assembly"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion installation reference",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "Dog-leg raised J3f rail and Gemini cradle",
+    "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle.dwg",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle-XY.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle-XZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle-YZ.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle-top-isometric.png",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle.dwg",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle.md",
+      "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle-XY.png",
+        "view": "Plan",
+        "alt": "J3f raised Gemini 1S receiver mount with dog-leg riser, plan"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle-XZ.png",
+        "view": "Elevation",
+        "alt": "J3f raised Gemini 1S receiver mount with dog-leg riser, elevation"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle-YZ.png",
+        "view": "End",
+        "alt": "J3f raised Gemini 1S receiver mount with dog-leg riser, end"
+      },
+      {
+        "file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/j3f-dogleg-raised-receiver-rail-and-cradle-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J3f raised Gemini 1S receiver mount with dog-leg riser, isometric",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j3f-dogleg-raised-receiver-rail-and-cradle/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p01j650fkw-j3f-left-dogleg-receiver-rail",
+        "revision": 1,
+        "sha256": "8ed1ffb4536a186c469b5ebc23b9be69866430d38328b4bc4db14f130e32fa0f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Vertical passage rail"
+        ]
+      },
+      {
+        "id": "j3f-gemini-receiver-raised-outboard-cradle",
+        "revision": 1,
+        "sha256": "43eb93cbce8dd1526ed070fdad821cb5aa933d3c48a57e9eeeecf5c66333e574",
+        "dependency": "embedded",
+        "occurrences": [
+          "Raised cradle"
+        ]
+      },
+      {
+        "id": "j3f-gemini-raised-cradle-spreader",
+        "revision": 1,
+        "sha256": "a02dec1c993812ece32055ec406575f62bd999e51c598900d054e485a6563511",
+        "dependency": "embedded",
+        "occurrences": [
+          "Carrier spreader"
+        ]
+      },
+      {
+        "id": "j3f-gemini-raised-cradle-riser",
+        "revision": 1,
+        "sha256": "aa97f437ad61ca92c19bf6e71505d4531765163a77f644050828bbdc10938a1b",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear riser"
+        ]
+      },
+      {
+        "id": "j3f-gemini-cradle-horizontal-fillet-envelope",
+        "revision": 1,
+        "sha256": "51ded6c9203e0eaf8c2efeccace27a7654468f7d37ab4ab8c07f1fe3774ebd8a",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear lower fillet",
+          "Rear upper fillet",
+          "Forward lower fillet",
+          "Forward upper fillet"
+        ]
+      },
+      {
+        "id": "j3f-gemini-forward-dogleg-cradle-riser",
+        "revision": 1,
+        "sha256": "9f9d796d8f3e1306820ee34f7b9515e64e2592d48ba985228f3f6a9770188623",
+        "dependency": "embedded",
+        "occurrences": [
+          "Forward riser"
+        ]
+      },
+      {
+        "id": "c129-iso-4017-m6x55-screw-proposed-class-8-8",
+        "revision": 1,
+        "sha256": "016e29607e1b47d4b421a292483d4435c9d83aea8c51581507d39679c57bb386",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear rail stack Screw",
+          "Forward rail stack Screw"
+        ]
+      },
+      {
+        "id": "model-90",
+        "revision": null,
+        "sha256": "624e3bb3c0818f68d4cf020851b26e077ee0f073e70d0bde81014ee8dd199943",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear rail stack Head washer",
+          "Rear rail stack Nut washer",
+          "Forward rail stack Head washer",
+          "Forward rail stack Nut washer",
+          "Rear carrier stack Head washer",
+          "Rear carrier stack Nut washer",
+          "Forward carrier stack Head washer",
+          "Forward carrier stack Nut washer"
+        ]
+      },
+      {
+        "id": "model-187",
+        "revision": null,
+        "sha256": "5cdb33e56fea83e7adf5df809bb23ebb7ded8032b0692beb564e2c670025161f",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear rail stack Compression sleeve",
+          "Forward rail stack Compression sleeve"
+        ]
+      },
+      {
+        "id": "model-77",
+        "revision": null,
+        "sha256": "b005197d6d63b19d28d1785191f25a1a7a8a07068289550796644a12ed197e08",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear rail stack Locknut",
+          "Forward rail stack Locknut",
+          "Rear carrier stack Locknut",
+          "Forward carrier stack Locknut"
+        ]
+      },
+      {
+        "id": "iso-4017-m6x20",
+        "revision": null,
+        "sha256": "32dcc1ddeecddfa8687901a913f6a6aa1e6cb574c311daa8cc1f59ebc896eb4d",
+        "dependency": "embedded",
+        "occurrences": [
+          "Rear carrier stack Screw",
+          "Forward carrier stack Screw"
+        ]
+      }
+    ]
   }
 ]
