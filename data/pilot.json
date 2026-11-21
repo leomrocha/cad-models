@@ -44056,5 +44056,95 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p22rxp20s-gemini-lateral-stop-pad",
+    "name": "P22RXP20S Tyro Gemini 1S lateral-stop pad",
+    "subject": "Electrical",
+    "kind": "part",
+    "category_path": "electrical/enclosure-mounts",
+    "description": "Proposed Tyro Gemini 1S cradle lateral-stop pad. Nominal 20 × 20 × 1 mm EPDM laminate. Quantity 2 per cradle.",
+    "tags": [
+      "Tyro",
+      "Gemini 1S",
+      "receiver",
+      "lateral-stop pad",
+      "cradle",
+      "EPDM"
+    ],
+    "aliases": [
+      "P22RXP20S",
+      "Gemini lateral-stop pad"
+    ],
+    "materials": [
+      {
+        "name": "EPDM"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion construction proposal",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "P22RXP20S lateral-stop pad",
+    "file": "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad.dwg",
+    "package_assets": [
+      "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad-XY.png",
+      "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad-XZ.png",
+      "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad-YZ.png",
+      "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad-top-isometric.png",
+      "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad.dwg",
+      "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad.md",
+      "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad-XY.png",
+        "view": "Plan",
+        "alt": "P22RXP20S Tyro Gemini 1S lateral-stop pad, plan"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad-XZ.png",
+        "view": "Elevation",
+        "alt": "P22RXP20S Tyro Gemini 1S lateral-stop pad, elevation"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad-YZ.png",
+        "view": "End",
+        "alt": "P22RXP20S Tyro Gemini 1S lateral-stop pad, end"
+      },
+      {
+        "file": "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/p22rxp20s-gemini-lateral-stop-pad-top-isometric.png",
+        "view": "Isometric",
+        "alt": "P22RXP20S Tyro Gemini 1S lateral-stop pad, isometric",
+        "thumbnail_file": "models/electrical/enclosure-mounts/p22rxp20s-gemini-lateral-stop-pad/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "Tyro Gemini 1S technical specification",
+        "url": "https://www.tyroremotes.co.uk/wp-content/uploads/2017/02/Gemini-EN-1.1.pdf"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p22rxe-gemini-side-stop-angle",
+        "revision": 1,
+        "sha256": "d16e065f2f35e8f4c91660a11d2ae74ef40117381ddba193a9470ae1606f6c2b",
+        "dependency": "derived",
+        "occurrences": [
+          "Bonding face of pad fixture"
+        ]
+      },
+      {
+        "id": "model-219",
+        "revision": null,
+        "sha256": "716a96d80b1d0b3705f491e40f04a7a991e8f75d519dd15de3423e19aa609339",
+        "dependency": "derived",
+        "occurrences": [
+          "Receiver case envelope"
+        ]
+      }
+    ]
   }
 ]
