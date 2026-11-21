@@ -50713,5 +50713,82 @@
         ]
       }
     ]
+  },
+  {
+    "id": "p16j4rmr-j4-right-guard-rim-deck-compatible",
+    "name": "J4 right guard rim with deck-compatible guard mount relief",
+    "subject": "Mechanical",
+    "kind": "part",
+    "category_path": "mechanical/guards",
+    "description": "J4 right guard rim with four rim reliefs for access to the offset upper mount screws.",
+    "tags": [
+      "J4",
+      "guard",
+      "offset upper mount"
+    ],
+    "aliases": [
+      "J4 right guard rim with deck-compatible guard mount relief blank"
+    ],
+    "materials": [
+      {
+        "name": "Steel"
+      }
+    ],
+    "standards": null,
+    "dimensions": null,
+    "state": "Discussion machining blank",
+    "needs_information": false,
+    "revision": 1,
+    "variant": "J4 right deck-compatible-rim sheet blank",
+    "file": "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible.dwg",
+    "package_assets": [
+      "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible-XY.png",
+      "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible-XZ.png",
+      "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible-YZ.png",
+      "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible-top-isometric.png",
+      "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible.dwg",
+      "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible.md",
+      "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/thumbnail.png"
+    ],
+    "previews": [
+      {
+        "file": "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible-XY.png",
+        "view": "Plan",
+        "alt": "J4 right guard rim with deck-compatible guard mount relief, plan"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible-XZ.png",
+        "view": "Elevation",
+        "alt": "J4 right guard rim with deck-compatible guard mount relief, elevation"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible-YZ.png",
+        "view": "End",
+        "alt": "J4 right guard rim with deck-compatible guard mount relief, end"
+      },
+      {
+        "file": "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/p16j4rmr-j4-right-guard-rim-deck-compatible-top-isometric.png",
+        "view": "Isometric",
+        "alt": "J4 right guard rim with deck-compatible guard mount relief, isometric",
+        "thumbnail_file": "models/mechanical/guards/p16j4rmr-j4-right-guard-rim-deck-compatible/thumbnail.png"
+      }
+    ],
+    "sources": [
+      {
+        "title": "iwis ELITE 520-1 roller chain, part 81013824",
+        "url": "https://www.iwis.com/en-en/products-services/roller-chain-520-1-elite~p3368?_locale=en_GB"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "p16j4rmr-j4-guard-outboard-rim",
+        "revision": 1,
+        "sha256": "6bb4f1247654835dcdd29dbf03c3df554c867b6e9b4f06bdec01b837df7f38ea",
+        "dependency": "derived",
+        "occurrences": [
+          "J4 right guard outboard rim"
+        ]
+      }
+    ]
   }
 ]
