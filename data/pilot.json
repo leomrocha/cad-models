@@ -41530,5 +41530,74 @@
         ]
       }
     ]
+  },
+  {
+    "id": "fibox-arca-203015t-8121020",
+    "name": "Fibox ARCA 203015T cabinet with source mounting feet",
+    "subject": "Mechanical",
+    "kind": "part",
+    "description": "Source Fibox ARCA 203015T enclosure assembly with four rear feet, internal mounting plate and retained source lock geometry.",
+    "tags": [
+      "Fibox",
+      "ARCA",
+      "8121020",
+      "cabinet",
+      "source assembly"
+    ],
+    "aliases": [
+      "Fibox ARCA 203015T cabinet with source mounting feet",
+      "fibox-arca-203015t-8121020"
+    ],
+    "materials": null,
+    "standards": null,
+    "dimensions": null,
+    "needs_information": false,
+    "revision": 1,
+    "state": "Discussion construction proposal",
+    "category_path": "electrical/enclosures",
+    "variant": "fibox-arca-203015t-8121020",
+    "file": "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020.dwg",
+    "previews": [
+      {
+        "file": "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020-XY.png",
+        "view": "Plan",
+        "alt": "Fibox ARCA 203015T cabinet with source mounting feet, plan"
+      },
+      {
+        "file": "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020-XZ.png",
+        "view": "Elevation",
+        "alt": "Fibox ARCA 203015T cabinet with source mounting feet, elevation"
+      },
+      {
+        "file": "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020-YZ.png",
+        "view": "End",
+        "alt": "Fibox ARCA 203015T cabinet with source mounting feet, end"
+      },
+      {
+        "file": "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020-top-isometric.png",
+        "view": "Isometric",
+        "alt": "Fibox ARCA 203015T cabinet with source mounting feet, isometric",
+        "thumbnail_file": "models/electrical/enclosures/fibox-arca-203015t-8121020/thumbnail.png"
+      }
+    ],
+    "package_assets": [
+      "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020-XY.png",
+      "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020-XZ.png",
+      "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020-YZ.png",
+      "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020-top-isometric.png",
+      "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020.dwg",
+      "models/electrical/enclosures/fibox-arca-203015t-8121020/fibox-arca-203015t-8121020.md",
+      "models/electrical/enclosures/fibox-arca-203015t-8121020/thumbnail.png"
+    ],
+    "sources": [
+      {
+        "title": "Fibox ARCA 203015T product 8121020",
+        "url": "https://www.fibox.com/products/arca-iec/arca-203015/8121020"
+      },
+      {
+        "title": "Fibox dimension drawing for product 8121020",
+        "url": "https://www.fibox.com/hubfs/assets/8121020_FIBOX%20ARCA%20IEC%20203015T.pdf"
+      }
+    ]
   }
 ]
