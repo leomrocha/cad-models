@@ -53247,5 +53247,82 @@
         "url": "https://www.trelleborg-tires.com/-/media/tires-aft/datatsheet/technical-manual/trelleborg-technical-manual-en.pdf?hash=AB0C897622FFD6443624A33BDFA5552E&rev=258948143820400e9a05c5a63b8c7ae0&sc_lang=en#page=111"
       }
     ]
+  },
+  {
+    "id": "j4-rear-four-eye-h390-working-module",
+    "name": "Four-eye H390 tow module",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Detachable 14-solid carrier, cassette and nominal Ø50 mm SM453 tow-ball body.",
+    "tags": [
+      "tractor",
+      "tooling",
+      "towing",
+      "H390",
+      "tow ball"
+    ],
+    "aliases": [
+      "H390 four-eye tow module"
+    ],
+    "variant": "Four-eye cassette with revised transverse carrier position",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/j4-rear-four-eye-h390-working-module.dwg",
+    "dimensions": [
+      {
+        "name": "Ball diameter",
+        "value": "50 mm",
+        "evidence": "source nominal"
+      },
+      {
+        "name": "Ball-to-carrier clearance",
+        "value": "15 mm minimum",
+        "evidence": "native fit lower bound"
+      },
+      {
+        "name": "Installed solid count",
+        "value": "14",
+        "evidence": "native readback"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "c025-sm453-50-mm-tow-ball",
+        "revision": 1,
+        "sha256": "5d6feef99480a13f5bddb07d502d524947a5aea6ddfe9ce0ba3a68dfd3fd7dba",
+        "dependency": "embedded",
+        "occurrences": [
+          "SM453 tow ball body"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "TÜV SÜD SM453 approval report 17-00034-AS-MUC-01, ball drawing",
+        "url": "https://www.misterdotcom.de/media/0c/d8/c8/1743087730/Zulassung-komplett-AHK-453-44-mit-EQ.pdf?1743087730=#page=47"
+      },
+      {
+        "title": "TÜV SÜD SM453 approval report, fitting list and trailer conditions",
+        "url": "https://www.misterdotcom.de/media/0c/d8/c8/1743087730/Zulassung-komplett-AHK-453-44-mit-EQ.pdf?1743087730=#page=51"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/j4-rear-four-eye-h390-working-module.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/j4-rear-four-eye-h390-working-module.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Four-eye H390 tow module in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
