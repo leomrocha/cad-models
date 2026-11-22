@@ -52981,7 +52981,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Detachable 14-solid carrier, cassette and nominal Ø50 mm SM453 tow-ball body.",
+    "description": "Detachable four-eye carrier and nominal Ø50 mm SM453 tow ball with revised carrier and terminal geometry.",
     "tags": [
       "tractor",
       "tooling",
@@ -52992,10 +52992,10 @@
     "aliases": [
       "H390 four-eye tow module"
     ],
-    "variant": "Four-eye cassette with revised transverse carrier position",
+    "variant": "Inboard carrier and relieved terminal for screened trailer articulation",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/j4-rear-four-eye-h390-working-module.dwg",
@@ -53006,14 +53006,14 @@
         "evidence": "source nominal"
       },
       {
-        "name": "Ball-to-carrier clearance",
-        "value": "15 mm minimum",
-        "evidence": "native fit lower bound"
+        "name": "Carrier position change",
+        "value": "32 mm inboard",
+        "evidence": "native revision"
       },
       {
-        "name": "Installed solid count",
-        "value": "14",
-        "evidence": "native readback"
+        "name": "Minimum nominal envelope clearance",
+        "value": "2.37 mm in the stated articulation domain",
+        "evidence": "continuous exterior bound"
       }
     ],
     "model_references": [

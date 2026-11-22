@@ -1,13 +1,10 @@
 # Four-eye H390 tow module
 
-**Representation.** Native assembly of a detachable steel towing support and the nominal Ø50 mm SM453 ball body.
-
-1. **CAD.** [DWG 2018](j4-rear-four-eye-h390-working-module.dwg). SHA-256 `08c92b09a676f1f8e50063d953e86ba32558621bb1aa013f2768ff315275f8ab`.
-2. **Assembly.** One 16 mm four-eye cassette face, four Ø28.5 mm eyes, two rounded uprights, two longitudinal tubes, one transverse tube, two drop webs, one slotted terminal plate and one Ø50 mm ball.
-3. **Fit.** The final native assembly contains 14 solids. The carrier seats across 40 mm at both longitudinal rails. The ball-to-carrier geometric clearance is at least 15 mm. The two drop webs seat between the carrier and the slotted terminal plate.
-4. **Ball fastening.** The modeled ball collar seats on the 10 mm plate, leaving 10 mm of nominal stem below the plate. The approval drawing specifies M22 × 1.5 and the parts list specifies M20. Match the cap nut and wave washer to the measured ball kit before fabrication. The approved SM453 component lists 50 kg maximum static vertical load in trailer service.
-5. **Datums.** Millimetres. X forward, Y left, Z up. The cassette working face is X = −728 mm. The ball centre is X = −1028 mm, Y = 0 mm and Z = 435.676 mm.
-6. **Native inspection.** [OpenCADStudio isometric](open-cad-studio-isometric.png).
+1. **Native CAD.** [DWG 2018](j4-rear-four-eye-h390-working-module.dwg). SHA-256 `b5a1cfcf3a4b2b21d5994e4ecc781947181ca95e3798a2af798977ae6b54264b`. The existing Ø50 mm SM453 ball remains at its original axis.
+2. **Carrier revision.** The carrier tube and both webs move 32 mm inboard. The relieved terminal plate spans X = −1070 to −916 mm in the tractor frame and preserves the native slot centres. The ball shoulder seats on the plate with 10 mm nominal thread projection before the washer.
+3. **Coupling-clearance screen.** The finite exterior calculation gives a 2.37 mm lower bound at ±5° pitch, ±25° roll and ±25° yaw with ±12.27 mm axial envelope uncertainty. The screen uses the traced Steelpress housing and a square tongue at its proposed station.
+4. **Fastening stack.** The retained ball drawing specifies M22 × 1.5 and the fitting list specifies M20. Select the matched cap nut and washer from the physical tow-ball kit.
+5. **View.** [OpenCADStudio isometric](open-cad-studio-isometric.png).
 
 ## Technical sources
 
