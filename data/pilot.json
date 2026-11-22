@@ -53260,5 +53260,99 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-category1-ridger",
+    "name": "Category 1 adjustable ridger",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Passive ridger with a replaceable central share and two width-adjustable 25° moldboards.",
+    "tags": [
+      "tractor",
+      "Category 1",
+      "ridger",
+      "passive soil tool",
+      "replaceable share"
+    ],
+    "aliases": [
+      "J4 adjustable ridger",
+      "three-position ridger"
+    ],
+    "variant": "190 mm neutral moldboard station on each side",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/j4-category1-ridger.dwg",
+    "dimensions": [
+      {
+        "name": "Lower shoulder span",
+        "value": "683 mm",
+        "evidence": "ISO 730 Category 1 nominal"
+      },
+      {
+        "name": "Mast height",
+        "value": "460 mm",
+        "evidence": "ISO 730 Category 1 nominal"
+      },
+      {
+        "name": "Lower / upper pin diameter",
+        "value": "22 / 19 mm",
+        "evidence": "ISO 730 Category 1 nominal"
+      },
+      {
+        "name": "Width settings",
+        "value": "553 / 643 / 733 mm",
+        "evidence": "nominal projected moldboard working widths"
+      },
+      {
+        "name": "Moldboard inclination",
+        "value": "25°",
+        "evidence": "modeled proposal"
+      },
+      {
+        "name": "Leading share working depth",
+        "value": "80 mm",
+        "evidence": "nominal pitch-screen target"
+      },
+      {
+        "name": "Native check records",
+        "value": "49",
+        "evidence": "native readback"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-4",
+        "revision": null,
+        "sha256": "d87312c30cbc3a0eceb92542a08e544b14847487341609af7393cb9f362d506e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Hidden ISO 730 Category 1 interface reference"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "ISO 730:2009+A1:2014, Category 1 hitch dimensions",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/j4-category1-ridger.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/j4-category1-ridger.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Category 1 adjustable ridger in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
