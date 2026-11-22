@@ -53885,5 +53885,105 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-category1-potato-digger",
+    "name": "Category 1 potato digger",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Passive potato digger with an inclined replaceable share, two height settings and seven individually retained sifting tines.",
+    "tags": [
+      "tractor",
+      "Category 1",
+      "potato digger",
+      "sieving",
+      "passive soil tool",
+      "replaceable tines"
+    ],
+    "aliases": [
+      "J4 potato lifter",
+      "seven-tine potato digger"
+    ],
+    "variant": "Zero-offset height setting",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/j4-category1-potato-digger.dwg",
+    "dimensions": [
+      {
+        "name": "Lower shoulder span",
+        "value": "683 mm",
+        "evidence": "ISO 730 Category 1 nominal"
+      },
+      {
+        "name": "Mast height",
+        "value": "460 mm",
+        "evidence": "ISO 730 Category 1 nominal"
+      },
+      {
+        "name": "Lower / upper pin diameter",
+        "value": "22 / 19 mm",
+        "evidence": "ISO 730 Category 1 nominal"
+      },
+      {
+        "name": "Share maximum width",
+        "value": "384 mm",
+        "evidence": "modeled proposal"
+      },
+      {
+        "name": "Share inclination",
+        "value": "18°",
+        "evidence": "modeled proposal"
+      },
+      {
+        "name": "Tine pitch / diameter",
+        "value": "48 / 16 mm",
+        "evidence": "modeled proposal"
+      },
+      {
+        "name": "Height index options",
+        "value": "0 / −30 mm",
+        "evidence": "modeled proposal"
+      },
+      {
+        "name": "Split guide service gap",
+        "value": "12 mm",
+        "evidence": "native geometry"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-4",
+        "revision": null,
+        "sha256": "d87312c30cbc3a0eceb92542a08e544b14847487341609af7393cb9f362d506e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Hidden ISO 730 Category 1 interface reference"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "ISO 730:2009+A1:2014, Category 1 hitch dimensions",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/j4-category1-potato-digger.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/j4-category1-potato-digger.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Category 1 potato digger in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
