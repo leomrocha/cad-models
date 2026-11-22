@@ -53376,7 +53376,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Guarded horizontal rotor with seven staggered twin-tine stations, an indexed depth roller and separate pulley-register parts. Separate motor enclosure and recessed cable feed.",
+    "description": "Guarded horizontal rotor with seven staggered twin-tine stations, a depth roller in its lower index, four positive index locks and separate pulley-register parts. Separate motor shroud and recessed cable feed.",
     "tags": [
       "tractor",
       "rotary tiller",
@@ -53386,7 +53386,7 @@
       "roller"
     ],
     "aliases": [],
-    "variant": "700 mm horizontal rotor with replaceable L-tine pairs with removable motor shroud",
+    "variant": "700 mm horizontal rotor with replaceable L-tine pairs, removable motor shroud and lower depth-roller index",
     "materials": null,
     "standards": [
       {
@@ -53394,7 +53394,7 @@
         "relationship": "Nominal Category 1 hitch dimensions"
       }
     ],
-    "revision": 2,
+    "revision": 3,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-tiller/j4-category1-rotary-tiller.dwg",
@@ -53415,13 +53415,38 @@
         "evidence": "engineering assumption"
       },
       {
-        "name": "Native geometry check records",
+        "name": "Preceding nominal geometry check records",
         "value": "118",
         "evidence": "native readback"
       },
       {
-        "name": "Added motor protection solid occurrences",
+        "name": "Retained motor protection solid occurrences",
         "value": "28",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Lower depth-roller index shift",
+        "value": "25 mm down",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Lower roller axis in implement coordinates",
+        "value": "X 515 mm, Z −145 mm",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Positive depth-index locks",
+        "value": "4 × Ø10 mm shank through Ø11 mm bores",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Index lock head to hub clearance",
+        "value": "2 mm",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Retained fixed solid fingerprints",
+        "value": "139",
         "evidence": "native readback"
       }
     ],

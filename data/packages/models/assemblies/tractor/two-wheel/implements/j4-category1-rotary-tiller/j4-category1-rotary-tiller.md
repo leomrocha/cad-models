@@ -1,15 +1,14 @@
 # Category 1 700 mm rotary tiller
 
-**Representation.** Guarded horizontal rotor with seven staggered twin-tine stations, an indexed depth roller and separate pulley-register parts.
+**Representation.** Guarded horizontal rotor with seven staggered twin-tine stations, a depth roller in its lower index, four positive index locks and separate pulley-register parts.
 
-1. **Native CAD.** [DWG 2018](j4-category1-rotary-tiller.dwg). SHA-256: 42f7d47124343daf0d3e5d35921ba7aaae09263c768244ab5fbda53b76bfe588.
-2. **Native checks.** 118 individually named part records passed the native geometry checks.
-3. **Working arrangement.** Nominal 700 mm span. The nominal rotor envelope clears the upper hood by 20.1 mm and the roller by 20.3 mm in the rigid section comparison.
-4. **Hitch.** Category 1 with 683 mm shoulder span, 460 mm mast height and nominal Ø22/Ø19 mm pins.
-5. **Proposed operating case.** 80 mm depth, 3 kW at 225 rpm and 65 kg assumed gross implement mass.
-6. **Configuration.** Shaft, guard, bearings, depth roller and protected drive bodies are separate parts. Supplier drive selection and the operating rating require physical verification.
-7. **Motor enclosure.** The frame-mounted shroud includes a removable end cap and recessed cable feed. It provides 10 mm radial clearance to the motor envelope and 23 mm nominal clearance at the end cap.
-8. **View.** [OpenCADStudio isometric](open-cad-studio-isometric.png).
+1. **Native CAD.** [DWG 2018](j4-category1-rotary-tiller.dwg). SHA-256: 606b2aaa7e6fdbd48823b1aa76125d7904309099d451a21017be7f3cd944a529.
+2. **Native revision checks.** The index and lock geometry passed. Readback matched 139 fixed solid fingerprints to the preceding guarded revision. The roller tube, axle, hubs, carriers and lock hardware move together into the existing lower index. The roller axis moves 25 mm down to X = 515 mm, Z = −145 mm in implement coordinates.
+3. **Positive depth-index locks.** The four lock positions use Ø10 mm shanks through Ø11 mm bores, Ø14 mm heads, washers and locknuts. The checked grip is 20 mm, head-to-hub clearance is 2 mm and remaining screw end after the washer and locknut is 5.4 mm. The nominal check also records 9 mm minimum hub annulus radial land.
+4. **Hitch.** Nominal ISO 730 Category 1 with 683 mm shoulder span, 460 mm mast height and Ø22/Ø19 mm nominal pins.
+5. **Working arrangement.** Nominal 700 mm span. The preceding guarded comparison used 80 mm depth, 3 kW at 225 rpm and 65 kg assumed gross implement mass. These assumptions describe the earlier comparison. The lower-index drawing records the implement configuration.
+6. **Guarded components.** Shaft, bearings, hood, drive guard, depth roller and motor protection are separate parts. The retained motor shroud has a removable end cap and recessed cable feed, with the preceding 10 mm radial and 23 mm end-cap clearances. The 20.1 mm nominal rotor-to-upper-hood clearance uses retained rotor and hood geometry.
+7. **View.** [OpenCADStudio isometric](open-cad-studio-isometric.png).
 
 ## Technical reference
 
@@ -17,4 +16,4 @@
 
 ## Evidence status
 
-Original physical proposal recorded as a verified native fit model.
+Discussion construction proposal with verified native lower-index and lock geometry. Supplier drive selection, actual operating depth and the physical operating rating require verification.
