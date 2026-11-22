@@ -53067,17 +53067,17 @@
     "aliases": [
       "Category 1 light fork carrier"
     ],
-    "variant": "Lifting",
+    "variant": "Category 1 fork carrier with positive pin heads and removable keepers",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/j4-category1-light-fork-carrier.dwg",
     "dimensions": [
       {
         "name": "Solid occurrences",
-        "value": "15",
+        "value": "27",
         "evidence": "native readback"
       }
     ],
