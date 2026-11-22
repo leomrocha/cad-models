@@ -53436,5 +53436,68 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-tiller/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-harrow-rear-ground-driven-seeder",
+    "name": "700 mm rear ground-driven seeder",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Seven-outlet seeder with a formed hopper, interchangeable pocketed metering rings, a guarded chain layout and a floating ground roller.",
+    "tags": [
+      "tractor",
+      "seeder",
+      "ground drive",
+      "seed metering",
+      "harrow accessory",
+      "hopper",
+      "roller"
+    ],
+    "aliases": [],
+    "variant": "700 mm seven-outlet accessory, 13:26 ground roller drive",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/j4-harrow-rear-ground-driven-seeder.dwg",
+    "dimensions": [
+      {
+        "name": "Nominal working width",
+        "value": "700 mm",
+        "evidence": "proposed geometry"
+      },
+      {
+        "name": "Ground roller diameter",
+        "value": "130 mm",
+        "evidence": "proposed geometry"
+      },
+      {
+        "name": "Seed payload case",
+        "value": "8 kg",
+        "evidence": "engineering assumption"
+      },
+      {
+        "name": "Native geometry check records",
+        "value": "99",
+        "evidence": "native readback"
+      }
+    ],
+    "model_references": [],
+    "sources": [],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/j4-harrow-rear-ground-driven-seeder.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/j4-harrow-rear-ground-driven-seeder.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "700 mm rear ground-driven seeder in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
