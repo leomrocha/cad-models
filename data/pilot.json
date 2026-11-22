@@ -53092,5 +53092,61 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-category1-passive-three-tine-cultivator",
+    "name": "Category 1 three-tine cultivator",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Passive rear cultivator with three shanks and separately replaceable shares.",
+    "tags": [
+      "tractor",
+      "tooling",
+      "soil cultivation"
+    ],
+    "aliases": [
+      "Category 1 three-tine cultivator"
+    ],
+    "variant": "Soil cultivation",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/j4-category1-passive-three-tine-cultivator.dwg",
+    "dimensions": [
+      {
+        "name": "Tine spacing",
+        "value": "225 mm",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Solid occurrences",
+        "value": "30",
+        "evidence": "native readback"
+      }
+    ],
+    "model_references": [],
+    "sources": [
+      {
+        "title": "ISO 730:2009+A1:2014 Category 1 dimensions",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/j4-category1-passive-three-tine-cultivator.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/j4-category1-passive-three-tine-cultivator.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Category 1 three-tine cultivator in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
