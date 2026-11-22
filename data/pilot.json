@@ -53376,7 +53376,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Guarded horizontal rotor with seven staggered twin-tine stations, an indexed depth roller and separate pulley-register parts.",
+    "description": "Guarded horizontal rotor with seven staggered twin-tine stations, an indexed depth roller and separate pulley-register parts. Separate motor enclosure and recessed cable feed.",
     "tags": [
       "tractor",
       "rotary tiller",
@@ -53386,7 +53386,7 @@
       "roller"
     ],
     "aliases": [],
-    "variant": "700 mm horizontal rotor with replaceable L-tine pairs",
+    "variant": "700 mm horizontal rotor with replaceable L-tine pairs with removable motor shroud",
     "materials": null,
     "standards": [
       {
@@ -53394,7 +53394,7 @@
         "relationship": "Nominal Category 1 hitch dimensions"
       }
     ],
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-tiller/j4-category1-rotary-tiller.dwg",
@@ -53417,6 +53417,11 @@
       {
         "name": "Native geometry check records",
         "value": "118",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Added motor protection solid occurrences",
+        "value": "28",
         "evidence": "native readback"
       }
     ],
