@@ -52761,13 +52761,23 @@
         "name": "Solid occurrences",
         "value": "910",
         "evidence": "native assembly readback"
+      },
+      {
+        "name": "Front keeper service envelope",
+        "value": "Ø8 mm over 120 mm",
+        "evidence": "native driver sweep and intended screw drive"
+      },
+      {
+        "name": "Front keeper drive clearance",
+        "value": "4 mm nominal",
+        "evidence": "source-based ring and cheek geometry"
       }
     ],
     "needs_information": false,
-    "revision": 2,
+    "revision": 3,
     "state": "Discussion construction proposal",
     "category_path": "assemblies/tractor/two-wheel/subassemblies",
-    "variant": "Fixed front and rear four-pin tooling bulkheads and flush accessory receivers",
+    "variant": "Permanent mounts with revised front pin bearing seats and internal-hex keepers",
     "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal.dwg",
     "previews": [
       {
