@@ -53829,5 +53829,61 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-front-category1-supported-pickup-lift",
+    "name": "Front Category 1 supported pickup lift",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Detachable four-eye lift cassette with spherical lower ends, adjustable upper link and two rolling supports.",
+    "tags": [
+      "tractor",
+      "lift",
+      "Category 1",
+      "front",
+      "caster"
+    ],
+    "aliases": [],
+    "variant": "Supported level pickup",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/j4-front-category1-supported-pickup-lift.dwg",
+    "dimensions": [
+      {
+        "name": "Pickup upper link",
+        "value": "459.695 mm",
+        "evidence": "checked nominal pickup pose"
+      },
+      {
+        "name": "Actuator eye centres",
+        "value": "494.670 mm",
+        "evidence": "native pickup axes"
+      }
+    ],
+    "model_references": [],
+    "sources": [
+      {
+        "title": "ISO 730:2009+A1:2014 Category 1 dimensions",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/j4-front-category1-supported-pickup-lift.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/j4-front-category1-supported-pickup-lift.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Front Category 1 supported pickup lift in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
