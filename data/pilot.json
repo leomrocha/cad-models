@@ -53990,5 +53990,102 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-category1-rotary-burier",
+    "name": "Category 1 700 mm reverse-rotor soil burier",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Reverse-cut soil burier with a guarded 2:1 side drive, enclosed motor, replaceable tines, separator and trailing roller.",
+    "tags": [
+      "tractor",
+      "soil burier",
+      "soil preparation",
+      "Category 1",
+      "reverse rotor",
+      "separator",
+      "roller"
+    ],
+    "aliases": [],
+    "variant": "700 mm reverse rotor with sealed side gearcase and removable motor shroud",
+    "materials": null,
+    "standards": [
+      {
+        "designation": "ISO 730:2009+A1:2014",
+        "relationship": "Nominal Category 1 hitch dimensions"
+      }
+    ],
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/j4-category1-rotary-burier.dwg",
+    "dimensions": [
+      {
+        "name": "Working width",
+        "value": "700 mm",
+        "evidence": "source comparison and design geometry"
+      },
+      {
+        "name": "Overall width",
+        "value": "1,049 mm guard envelope",
+        "evidence": "proposed geometry"
+      },
+      {
+        "name": "Tine sweep radius",
+        "value": "190.02 mm",
+        "evidence": "calculated from proposed tips"
+      },
+      {
+        "name": "Guard clearance",
+        "value": "28.02 mm at 100 mm level working depth",
+        "evidence": "nominal geometric screen"
+      },
+      {
+        "name": "Native geometry check records",
+        "value": "145",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Motor shroud ground clearance",
+        "value": "62.02 mm at 100 mm level working depth",
+        "evidence": "checked nominal fit"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-4",
+        "revision": null,
+        "sha256": "d87312c30cbc3a0eceb92542a08e544b14847487341609af7393cb9f362d506e",
+        "dependency": "embedded",
+        "occurrences": [
+          "Hidden Category 1 implement hitch reference"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "ISO 730:2009+A1:2014, Category 1 hitch interface",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      },
+      {
+        "title": "Rapid soil burier working width and depth comparison",
+        "url": "https://rapid.ch/fr_CH/enfouisseuse"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/j4-category1-rotary-burier.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/j4-category1-rotary-burier.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Category 1 700 mm reverse-rotor soil burier in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
