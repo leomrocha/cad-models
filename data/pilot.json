@@ -53499,5 +53499,81 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-front-powered-tool-carrier",
+    "name": "J4 front powered tool carrier",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Four-eye removable motor carrier with a guarded coupling envelope and a separate power pocket.",
+    "tags": [
+      "tractor",
+      "tooling",
+      "powered carrier"
+    ],
+    "aliases": [
+      "Four-eye powered tool carrier"
+    ],
+    "variant": "Powered tool carrier",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/j4-front-powered-tool-carrier.dwg",
+    "dimensions": [
+      {
+        "name": "Motor shaft diameter",
+        "value": "22.23 mm",
+        "evidence": "Retained Motenergy ME0907 source geometry"
+      },
+      {
+        "name": "Guard throat",
+        "value": "96 mm",
+        "evidence": "Proposed carrier geometry"
+      },
+      {
+        "name": "Rotating coupling reserve diameter",
+        "value": "66 mm",
+        "evidence": "Proposed service envelope"
+      },
+      {
+        "name": "De-energized axial service travel",
+        "value": "60 mm",
+        "evidence": "Calculated fit screen"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-106",
+        "revision": null,
+        "sha256": "6c9c1505c3beb528b10cb27c5a2af0406c16e00a2f766cfaa27bed8c132d1a33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Motenergy ME0907 mechanical reference"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Amphenol SurLok Plus catalogue",
+        "url": "https://www.mouser.com/datasheet/2/18/2/Amphenol_08_30_2024_surlok_plus_series_ic_10-3499107.pdf"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/j4-front-powered-tool-carrier.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/j4-front-powered-tool-carrier.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 front powered tool carrier",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
