@@ -52727,10 +52727,10 @@
   },
   {
     "id": "j4-250mm-caster-800mm-wheel-width-proposal",
-    "name": "J4 250 mm caster chassis with 800 mm wheel-width proposal",
+    "name": "J4 two-wheel tractor base",
     "subject": "Subassemblies",
     "kind": "subassembly",
-    "description": "J4 chassis with 250 mm caster, H390 tow-ball terminal and the 800 mm wheel-width proposal.",
+    "description": "Base tractor with agricultural drive tyres, direct support wheel, removable body panels, full cargo plate and permanent tool mounts.",
     "tags": [
       "tractor",
       "J4",
@@ -52746,328 +52746,44 @@
     ],
     "materials": null,
     "standards": null,
-    "dimensions": null,
+    "dimensions": [
+      {
+        "name": "Drive tyre outside span",
+        "value": "793.56 mm",
+        "evidence": "native nominal readback"
+      },
+      {
+        "name": "Cargo plate",
+        "value": "981 × 800 × 3 mm",
+        "evidence": "native dimensions"
+      },
+      {
+        "name": "Solid occurrences",
+        "value": "910",
+        "evidence": "native assembly readback"
+      }
+    ],
     "needs_information": false,
-    "revision": 1,
+    "revision": 2,
     "state": "Discussion construction proposal",
     "category_path": "assemblies/tractor/two-wheel/subassemblies",
-    "variant": "j4-250mm-caster-800mm-wheel-width-proposal",
+    "variant": "Fixed front and rear four-pin tooling bulkheads and flush accessory receivers",
     "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal.dwg",
     "previews": [
       {
         "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-ocs-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, opencadstudio · isometric",
-        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/thumbnail.png"
-      },
-      {
-        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-XY.png",
-        "view": "Plan",
-        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, plan"
-      },
-      {
-        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-XZ.png",
-        "view": "Elevation",
-        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, elevation"
-      },
-      {
-        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-YZ.png",
-        "view": "End",
-        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, end"
-      },
-      {
-        "file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-top-isometric.png",
-        "view": "Isometric",
-        "alt": "J4 250 mm caster chassis with 800 mm wheel-width proposal, isometric"
+        "alt": "J4 two-wheel tractor base",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-ocs-isometric.png"
       }
     ],
     "package_assets": [
-      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-XY.png",
-      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-XZ.png",
-      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-YZ.png",
-      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-ocs-isometric.png",
-      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-top-isometric.png",
       "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal.dwg",
       "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal.md",
-      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/thumbnail.png"
+      "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-ocs-isometric.png"
     ],
     "sources": [],
-    "model_references": [
-      {
-        "id": "j4-top-mounted-deck-rails-and-captive-guards",
-        "revision": 1,
-        "sha256": "e8a7690da5a47d2c5818c5747dfbe9baa2f363404a7e73017b8c6daa13fdf6fa",
-        "dependency": "reference",
-        "occurrences": [
-          "Source guard bodies and captive guard hardware. Later rail replacements are recorded separately."
-        ]
-      },
-      {
-        "id": "p02j4r-j4-short-rear-crossmember-248mm",
-        "revision": 1,
-        "sha256": "8590028336da6d49cde85b17d033c982045a741ccd965d75301417d45c90b872",
-        "dependency": "embedded",
-        "occurrences": [
-          "P02 — Rear crossmember"
-        ]
-      },
-      {
-        "id": "model-114",
-        "revision": null,
-        "sha256": "f2cd4fdf0b6f1c7b2ddc58fbbe1f9680c92ecac4fee7365acececf92c55104c2",
-        "dependency": "embedded",
-        "occurrences": [
-          "P02 — Middle crossmember"
-        ]
-      },
-      {
-        "id": "model-115",
-        "revision": null,
-        "sha256": "cb2075536d1391cbae7ffd5a4b1cd9ac47f711adad08933f1a2d14a025140e0e",
-        "dependency": "embedded",
-        "occurrences": [
-          "P02JF — Narrow front crossmember"
-        ]
-      },
-      {
-        "id": "j4-30mm-left-wheel-stack-with-keyed-sprocket-hub",
-        "revision": 1,
-        "sha256": "270b280fbfc44d96ea566c44374c452e721a77a10d30dae7a820354ebd117553",
-        "dependency": "reference",
-        "occurrences": [
-          "Source of left brake and sprocket side hardware. Final wheel-end replacements use the width-target package."
-        ]
-      },
-      {
-        "id": "j4-30mm-right-wheel-stack-with-keyed-sprocket-hub",
-        "revision": 1,
-        "sha256": "9a3d6fc6ec65914ca99fe1b22d90b73f2695456045f5d66243ec6b6018301845",
-        "dependency": "reference",
-        "occurrences": [
-          "Source of right brake and sprocket side hardware. Final wheel-end replacements use the width-target package."
-        ]
-      },
-      {
-        "id": "j4-30-bearing-hangers-with-shifted-left-post-j04-stack",
-        "revision": 1,
-        "sha256": "7657e9f60b799aa127e9e28f45686f95f434329f30eb89a9a84366aec9568d6d",
-        "dependency": "embedded",
-        "occurrences": [
-          "Installed bearing hangers with fasteners"
-        ]
-      },
-      {
-        "id": "p03jin-j4-relieved-left-motor-backbone",
-        "revision": 1,
-        "sha256": "6afcdb83ffb199d9864e1997086ccf0601e5bc3cc9929081c103222e840ac059",
-        "dependency": "embedded",
-        "occurrences": [
-          "Left fixed motor backbone"
-        ]
-      },
-      {
-        "id": "p03jbr-j4-relieved-right-motor-backbone",
-        "revision": 1,
-        "sha256": "faab7e6913a007675f6f5f55632d888b8f2bd9b3b1f2c41e73d7159e2d364ab0",
-        "dependency": "embedded",
-        "occurrences": [
-          "Right fixed motor backbone"
-        ]
-      },
-      {
-        "id": "p11-j4-me0907-moving-motor-plate-lower-relief",
-        "revision": 1,
-        "sha256": "1f0195d6d17b927ed5fa3713f1523a24c7f7015233cb485b309c89994cf92384",
-        "dependency": "embedded",
-        "occurrences": [
-          "Left moving motor plate",
-          "Right moving motor plate"
-        ]
-      },
-      {
-        "id": "model-106",
-        "revision": null,
-        "sha256": "6c9c1505c3beb528b10cb27c5a2af0406c16e00a2f766cfaa27bed8c132d1a33",
-        "dependency": "embedded",
-        "occurrences": [
-          "Left Motenergy ME0907 motor",
-          "Right Motenergy ME0907 motor"
-        ]
-      },
-      {
-        "id": "j4-caster-250-60mm-rearward-head-installation",
-        "revision": 1,
-        "sha256": "5048e2eddffc0c249b2edb53d8ec8ba39b7bac3980fad3e8d578167f53d97f08",
-        "dependency": "embedded",
-        "occurrences": [
-          "Caster and stepped bridge"
-        ]
-      },
-      {
-        "id": "j4-h390-hitch-frame-for-250mm-caster",
-        "revision": 1,
-        "sha256": "ab689b4183388140906725a57063d8353b6340b68ec8b382aa61c04bc438cff6",
-        "dependency": "embedded",
-        "occurrences": [
-          "H390 hitch tube frame"
-        ]
-      },
-      {
-        "id": "j4-left-520-chain-route-envelope",
-        "revision": 1,
-        "sha256": "12a5bc2def72aa3edc1e636cfc4e6958e150271fd8fcee6e33ad0c245c404784",
-        "dependency": "embedded",
-        "occurrences": [
-          "Left chain planning space"
-        ]
-      },
-      {
-        "id": "j4-right-520-chain-route-envelope",
-        "revision": 1,
-        "sha256": "4659f03e25d3bb125654509729ba7231a621de8b7b999dbb9b1b1072c6a3abaa",
-        "dependency": "embedded",
-        "occurrences": [
-          "Right chain planning space"
-        ]
-      },
-      {
-        "id": "j4-recessed-deck-for-rear-top-feet",
-        "revision": 1,
-        "sha256": "e4bd8404029b3bbdcace384bcfa37b82046c8c669872d884e7fbd1baa8217719",
-        "dependency": "reference",
-        "occurrences": [
-          "Recessed deck source. The right deck ledge was replaced by the detachable assembly."
-        ]
-      },
-      {
-        "id": "bmw-i3-raised-j-tray-with-b01-threaded-bridges",
-        "revision": 1,
-        "sha256": "77d5fe79cf7599605e23d8668bf67ef6263da5f1a402b053eff8ad0ac8156246",
-        "dependency": "embedded",
-        "occurrences": [
-          "BMW raised tray and supports"
-        ]
-      },
-      {
-        "id": "j3f-negative-y-detachable-deck-ledge-and-cap-joints",
-        "revision": 1,
-        "sha256": "412f79109647f15a603478452b8b0332e12e17eb3f4f550b8a3cb3e70a0c8c5c",
-        "dependency": "embedded",
-        "occurrences": [
-          "Detachable ledge joints"
-        ]
-      },
-      {
-        "id": "j4-kelly-carrier-and-guard-rail-installation",
-        "revision": 1,
-        "sha256": "626b06fff3fa01af2cf3e9261ba94526800cd2449eae643cada535efcbbdff4f",
-        "dependency": "reference",
-        "occurrences": [
-          "Kelly carrier and guard rail installation source. The Gemini installation replaces the left rail."
-        ]
-      },
-      {
-        "id": "fibox-r2-pilz-pnoz-x3-relay-packaging-layout",
-        "revision": 1,
-        "sha256": "54399f8fd33e7233e6314e90b9d89bff619708b6f236c1f5201f0d8309543b93",
-        "dependency": "reference",
-        "occurrences": [
-          "Fibox cabinet, Pilz relay envelope and transverse mount source. The installation translates the package rearward by 45 mm."
-        ]
-      },
-      {
-        "id": "j4-raised-gemini-receiver-rail-and-cradle",
-        "revision": 1,
-        "sha256": "65d2ce041d03e40eb2299279acd79e4ea94c14f071e24bfdfd8fb24b686da0af",
-        "dependency": "embedded",
-        "occurrences": [
-          "J4 Gemini receiver mount and left rail"
-        ]
-      },
-      {
-        "id": "p24j4-outboard-splash-with-detachable-beam",
-        "revision": 1,
-        "sha256": "12494b7cc2cf170d91fcc7d2bce42d3978b74822649ed455d47317b6b8997dcb",
-        "dependency": "embedded",
-        "occurrences": [
-          "Outboard splash assembly"
-        ]
-      },
-      {
-        "id": "j4-front-category-1-attachment-support",
-        "revision": 1,
-        "sha256": "b7174503de56cfa099e65f61d607594cad98e3acabe7f77dd19d024e85a09aed",
-        "dependency": "embedded",
-        "occurrences": [
-          "Front Category 1 support"
-        ]
-      },
-      {
-        "id": "j4-rear-category-1-attachment-support",
-        "revision": 1,
-        "sha256": "eb7a834ec82fdbad059b6917d30853f0c983388524e748b02dcfb37084716179",
-        "dependency": "embedded",
-        "occurrences": [
-          "Rear Category 1 support"
-        ]
-      },
-      {
-        "id": "p07jtc280-j4-terminal-longitudinal-carrier",
-        "revision": 1,
-        "sha256": "05fac236bd2ee1bb8952181c59e3fb2ac01d35f402876f9663a5c46b8f45c5e7",
-        "dependency": "embedded",
-        "occurrences": [
-          "Left longitudinal carrier",
-          "Right longitudinal carrier"
-        ]
-      },
-      {
-        "id": "p07jtc160-j4-terminal-transverse-carrier",
-        "revision": 1,
-        "sha256": "2c21fbcd46a151e2c3326034f586a3535097076c29877fab007533729bf06c5e",
-        "dependency": "embedded",
-        "occurrences": [
-          "Rear transverse carrier"
-        ]
-      },
-      {
-        "id": "p07tp-j4-sm453-rounded-slot-terminal-plate",
-        "revision": 1,
-        "sha256": "129401734961e00bc03373e323c517b571765a70c5d0437a2a328fde5716f0c0",
-        "dependency": "embedded",
-        "occurrences": [
-          "Terminal plate"
-        ]
-      },
-      {
-        "id": "p07jdw-j4-20mm-terminal-drop-web",
-        "revision": 1,
-        "sha256": "75dbbefe5f2ec496025c93c8588f2b2c3a5258e250087e5a0af4e2be4cdfcaaf",
-        "dependency": "embedded",
-        "occurrences": [
-          "Left terminal drop web",
-          "Right terminal drop web"
-        ]
-      },
-      {
-        "id": "c025-sm453-50-mm-tow-ball",
-        "revision": 1,
-        "sha256": "5d6feef99480a13f5bddb07d502d524947a5aea6ddfe9ce0ba3a68dfd3fd7dba",
-        "dependency": "embedded",
-        "occurrences": [
-          "SM453 bare ball"
-        ]
-      },
-      {
-        "id": "j4-800mm-wheel-stack-and-clearance-layout",
-        "revision": 1,
-        "sha256": "b56564ae6821359b596c85d2429a909763f4eb8ee215a5f5e6cf4fcee7f9fe07",
-        "dependency": "embedded",
-        "occurrences": [
-          "Width-target wheel hardware and clearance"
-        ]
-      }
-    ],
+    "model_references": [],
     "historical_model_references": [
       {
         "companion": "data/packages/models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal.md",
@@ -53081,7 +52797,8 @@
         "commit": "5fd773c7cb6e986e10115be787921b752e037050",
         "file": "data/packages/models/assemblies/tractor/two-wheel/subassemblies/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal/j4-kelly-bmw-250mm-caster-with-category-1-and-h390-terminal.dwg"
       }
-    ]
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/subassemblies/j4-250mm-caster-800mm-wheel-width-proposal/j4-250mm-caster-800mm-wheel-width-proposal-ocs-isometric.png"
   },
   {
     "id": "c118-southco-51-72-610-24-captive-screw",
