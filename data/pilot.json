@@ -53230,10 +53230,10 @@
     "aliases": [
       "Four-eye fixed-plane front excavator"
     ],
-    "variant": "Excavating",
+    "variant": "Deployed fixed-plane configuration with positive jack drives",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/j4-front-fixed-plane-excavator-work.dwg",
@@ -53252,6 +53252,11 @@
         "name": "Support pad",
         "value": "180 × 180 mm",
         "evidence": "design geometry"
+      },
+      {
+        "name": "Jack wrench flats",
+        "value": "18 mm across flats",
+        "evidence": "native geometry"
       }
     ],
     "model_references": [],
