@@ -53575,5 +53575,85 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-electric-flail-protected-cat1-clearance",
+    "name": "Guarded electric flail",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Category 1 electric flail with a guarded rotor, belt, recessed motor and rear gauge roller.",
+    "tags": [
+      "tractor",
+      "tooling",
+      "cutting"
+    ],
+    "aliases": [
+      "Guarded electric flail"
+    ],
+    "variant": "Cutting",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/j4-electric-flail-protected-cat1-clearance.dwg",
+    "dimensions": [
+      {
+        "name": "Knife count",
+        "value": "24",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Working tip height",
+        "value": "35 mm",
+        "evidence": "nominal geometry"
+      },
+      {
+        "name": "Lower shoulder span",
+        "value": "683 mm",
+        "evidence": "native readback"
+      },
+      {
+        "name": "Lower crossmember width",
+        "value": "681 mm",
+        "evidence": "verified native bounds"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "model-106",
+        "revision": null,
+        "sha256": "6c9c1505c3beb528b10cb27c5a2af0406c16e00a2f766cfaa27bed8c132d1a33",
+        "dependency": "embedded",
+        "occurrences": [
+          "Motenergy ME0907 mechanical reference"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "ISO 730:2009+A1:2014 Category 1 dimensions",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      },
+      {
+        "title": "Rapid flail mower working width reference",
+        "url": "https://rapid.ch/fr_CH/debroussailleuses-a-fleaux"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/j4-electric-flail-protected-cat1-clearance.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/j4-electric-flail-protected-cat1-clearance.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Guarded electric flail in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
