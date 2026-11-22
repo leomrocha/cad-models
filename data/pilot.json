@@ -53665,5 +53665,108 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-two-wheel-tipping-trailer-transport",
+    "name": "Two-wheel tipping trailer, transport configuration",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Two-wheel tipping trailer with a lockable bin, rear supports, visible T539 tread and a two-bolt Steelpress coupling envelope.",
+    "tags": [
+      "tractor",
+      "trailer",
+      "tipping bin",
+      "drawbar",
+      "Trelleborg T539",
+      "SPP"
+    ],
+    "aliases": [
+      "J4 tipping trailer",
+      "two-wheel tipper trailer"
+    ],
+    "variant": "Closed transport pose, nominal Steelpress coupling and verified wheel placements",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/j4-two-wheel-tipping-trailer-transport.dwg",
+    "dimensions": [
+      {
+        "name": "Bin floor",
+        "value": "1,550 × 1,000 mm",
+        "evidence": "modeled proposal"
+      },
+      {
+        "name": "Wheel track",
+        "value": "1,380 mm",
+        "evidence": "modeled proposal"
+      },
+      {
+        "name": "Nominal tyre envelope",
+        "value": "Ø466 × 222 mm",
+        "evidence": "manufacturer manual and reused reconstruction"
+      },
+      {
+        "name": "Vertical tongue fastening axes",
+        "value": "2 × Ø12.5 mm at 90 mm pitch",
+        "evidence": "SPP source pattern"
+      },
+      {
+        "name": "Ball reference height",
+        "value": "440.676 mm",
+        "evidence": "nominal proposed level installation"
+      },
+      {
+        "name": "Nominal square coupling fit",
+        "value": "0.25 mm per side, 0.5 mm at end",
+        "evidence": "native fit to source-pattern envelope"
+      }
+    ],
+    "model_references": [
+      {
+        "id": "c001-t539-6pr-tyre-exterior",
+        "revision": 1,
+        "sha256": "033a4108cb7a6abe598acd23888c9d17a01001f508f1b8fa3d78c8bbc18f69bb",
+        "dependency": "derived",
+        "occurrences": [
+          "Left T539 tyre exterior",
+          "Right T539 tyre exterior"
+        ]
+      }
+    ],
+    "sources": [
+      {
+        "title": "Trelleborg tyre technical manual, printed page 221",
+        "url": "https://www.trelleborg-tires.com/-/media/tires-aft/datatsheet/technical-manual/trelleborg-technical-manual-en.pdf?hash=AB0C897622FFD6443624A33BDFA5552E&rev=258948143820400e9a05c5a63b8c7ae0&sc_lang=en#page=111"
+      },
+      {
+        "title": "Knott steel rim dimensional catalogue",
+        "url": "https://www.knott-trailer.co.uk/catalogs/Katalog2018Downloadversion-Regenstauf.pdf#page=7"
+      },
+      {
+        "title": "Steelpress coupling catalogue, page 22",
+        "url": "https://www.spp.net.pl/wp-content/uploads/2015/12/katalog-glowic-2016.pdf#page=22"
+      },
+      {
+        "title": "Steelpress coupling installation manual, Figure A and Figure B",
+        "url": "https://www.spp.net.pl/wp-content/uploads/2025/04/Manual_ZSK_BC_EN_DE_FR_PL_scalona.pdf#page=1"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/j4-two-wheel-tipping-trailer-transport.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/j4-two-wheel-tipping-trailer-transport.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Two-wheel tipping trailer, transport configuration in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
