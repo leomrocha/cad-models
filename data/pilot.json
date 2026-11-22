@@ -53768,5 +53768,66 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-on-base-tipping-bin",
+    "name": "J4 on-base tipping bin",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Hinged and pinned cargo bin cradle with a rear four-eye cassette, transport locks and two deployable support legs.",
+    "tags": [
+      "tractor",
+      "tipping bin",
+      "cargo",
+      "rear cassette",
+      "transport lock"
+    ],
+    "aliases": [],
+    "variant": "Closed transport position",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/j4-on-base-tipping-bin.dwg",
+    "dimensions": [
+      {
+        "name": "Screened payload",
+        "value": "25 kg",
+        "evidence": "assumed design case"
+      },
+      {
+        "name": "Maximum tip angle",
+        "value": "52°",
+        "evidence": "calculated pose"
+      },
+      {
+        "name": "Actuator stroke",
+        "value": "101.59 mm",
+        "evidence": "nominal calculation"
+      },
+      {
+        "name": "Factored actuator force",
+        "value": "3.75 kN",
+        "evidence": "assumed payload and static screen"
+      }
+    ],
+    "model_references": [],
+    "sources": [],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/j4-on-base-tipping-bin.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/j4-on-base-tipping-bin.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "J4 on-base tipping bin in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
