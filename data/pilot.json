@@ -53041,5 +53041,56 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-category1-light-fork-carrier",
+    "name": "Category 1 light fork carrier",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Detachable front fork carrier with two tines, carrier frame and pinned Category 1 mounting.",
+    "tags": [
+      "tractor",
+      "tooling",
+      "lifting"
+    ],
+    "aliases": [
+      "Category 1 light fork carrier"
+    ],
+    "variant": "Lifting",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/j4-category1-light-fork-carrier.dwg",
+    "dimensions": [
+      {
+        "name": "Solid occurrences",
+        "value": "15",
+        "evidence": "native readback"
+      }
+    ],
+    "model_references": [],
+    "sources": [
+      {
+        "title": "ISO 730:2009+A1:2014 Category 1 dimensions",
+        "url": "https://www.iso.org/obp/ui/?_escaped_fragment_=iso%3Astd%3Aiso%3A730%3Aed-1%3Av1%3Aen"
+      }
+    ],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/j4-category1-light-fork-carrier.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/j4-category1-light-fork-carrier.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Category 1 light fork carrier in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
