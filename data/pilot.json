@@ -53204,5 +53204,61 @@
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-pivoting-light-bucket/open-cad-studio-isometric.png"
       }
     ]
+  },
+  {
+    "id": "j4-front-fixed-plane-excavator-work",
+    "name": "Four-eye fixed-plane front excavator",
+    "kind": "subassembly",
+    "subject": "Subassemblies",
+    "state": "Discussion construction proposal",
+    "description": "Fixed-plane boom, dipper and bucket with a four-eye cassette and two adjustable supports.",
+    "tags": [
+      "tractor",
+      "tooling",
+      "excavating"
+    ],
+    "aliases": [
+      "Four-eye fixed-plane front excavator"
+    ],
+    "variant": "Excavating",
+    "materials": null,
+    "standards": null,
+    "revision": 1,
+    "needs_information": true,
+    "category_path": "assemblies/tractor/two-wheel/implements",
+    "file": "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/j4-front-fixed-plane-excavator-work.dwg",
+    "dimensions": [
+      {
+        "name": "Boom length",
+        "value": "680 mm",
+        "evidence": "design geometry"
+      },
+      {
+        "name": "Dipper length",
+        "value": "730 mm",
+        "evidence": "design geometry"
+      },
+      {
+        "name": "Support pad",
+        "value": "180 × 180 mm",
+        "evidence": "design geometry"
+      }
+    ],
+    "model_references": [],
+    "sources": [],
+    "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/open-cad-studio-isometric.png",
+    "package_assets": [
+      "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/j4-front-fixed-plane-excavator-work.dwg",
+      "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/j4-front-fixed-plane-excavator-work.md",
+      "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/open-cad-studio-isometric.png"
+    ],
+    "previews": [
+      {
+        "file": "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/open-cad-studio-isometric.png",
+        "view": "OpenCADStudio · Isometric",
+        "alt": "Four-eye fixed-plane front excavator in OpenCADStudio",
+        "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/open-cad-studio-isometric.png"
+      }
+    ]
   }
 ]
