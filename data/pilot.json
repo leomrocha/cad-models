@@ -52816,7 +52816,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Fixed-plane boom, dipper and bucket with a four-eye cassette and two adjustable supports.",
+    "description": "Front four-eye excavator for stationary digging with a fixed-plane boom, dipper, toothed bucket and two adjustable ground pads. Ten native colour layers identify the working members, drive, supports and attachment hardware.",
     "tags": [
       "tractor",
       "tooling",
@@ -52828,7 +52828,7 @@
     "variant": "Deployed fixed-plane configuration with positive jack drives",
     "materials": null,
     "standards": null,
-    "revision": 2,
+    "revision": 3,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/j4-front-fixed-plane-excavator-work.dwg",
@@ -52866,7 +52866,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Four-eye fixed-plane front excavator in OpenCADStudio",
+        "alt": "Coloured front excavator with a blue boom, teal dipper, toothed bucket, gold actuator bodies, red cassette and turquoise ground supports",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-fixed-plane-excavator-work/open-cad-studio-isometric.png"
       }
     ]
