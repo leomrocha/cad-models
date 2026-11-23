@@ -53146,7 +53146,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Four-eye removable motor carrier with a guarded coupling envelope and a separate power pocket.",
+    "description": "Front four-eye carrier for powered tools with a guarded Motenergy ME0907 motor, removable tool plate, covered coupling space and a separate power connector pocket. Eight native layers identify the part groups.",
     "tags": [
       "tractor",
       "tooling",
@@ -53158,7 +53158,7 @@
     "variant": "Powered tool carrier",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/j4-front-powered-tool-carrier.dwg",
@@ -53211,7 +53211,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "J4 front powered tool carrier",
+        "alt": "Coloured powered-tool carrier with a red cassette and mating plate, amber guards and indigo power pocket",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-powered-tool-carrier/open-cad-studio-isometric.png"
       }
     ]

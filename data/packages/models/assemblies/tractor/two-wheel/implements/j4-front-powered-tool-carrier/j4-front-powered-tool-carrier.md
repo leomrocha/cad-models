@@ -2,12 +2,23 @@
 
 Independent four-eye carrier with a guarded Motenergy ME0907 motor and a separate power connector pocket.
 
-1. **CAD file.** [DWG 2018](j4-front-powered-tool-carrier.dwg). SHA-256 `668fc95e939eb7fb8481dab42693aeb9f3a54bd397e64c18d6f1b7b8ae78efbd`. The native check places the motor shaft along positive X at the coupling.
+1. **CAD file.** [DWG 2018](j4-front-powered-tool-carrier.dwg). SHA-256 `c9d51bceef0694ceda6e5cb0cd299d220687550544216a687e363153b78d5da7`. The native check places the motor shaft along positive X at the coupling.
 2. **Mechanical mounting.** The front cassette uses four transverse Ø28 mm retaining pins. Its removable secondary tool plate has four Ø13 mm clearance holes and a Ø96 mm central throat. The plate pattern is carrier-side design geometry.
 3. **Power and service.** The exact motor body and Ø22.23 mm shaft establish the guard envelope. The separate power pocket reserves plug and withdrawal space from the archived Amphenol SurLok Plus 8 mm connector family. The capped configuration represents storage without a head attached.
 4. **Coupling and heads.** The Ø66 mm maximum rotating envelope and 60 mm de-energized withdrawal screen define reserved space. The interchangeable head, keyed shaft coupling, positive locking details, conductor selection, isolation switch and interlock remain design and component selection work.
 
 5. **View.** [OpenCADStudio isometric](open-cad-studio-isometric.png).
+
+6. **Native display.** Revision 2 preserves the 36 solid occurrences, their geometry and their positions. OpenCADStudio verified and isolated all eight functional layers and restored normal visibility.
+
+   - `Display-Implement-Frame` — support rails, uprights, motor mounting plate and pocket bracket, `#667584`.
+   - `Display-Implement-Interface` — four-eye tractor cassette and removable tool mating plate, `#C6484D`.
+   - `Display-Implement-Guards` — motor and coupling guard walls and floors, `#D89A27`.
+   - `Display-Implement-Guard-Lids` — removable covers and parked-output cap, `#F2D389`.
+   - `Display-Implement-Motors` — three Motenergy mechanical reference solids, `#6147A7`.
+   - `Display-Implement-Drive` — coupling hub envelope, `#B99A50`.
+   - `Display-Implement-Power-Pocket` — pocket structure and control junction envelope, `#494578`.
+   - `Display-Implement-Power-Access` — service cover, isolation handle envelope and strain-relief plate, `#9EAFF0`.
 
 ## Technical sources
 
