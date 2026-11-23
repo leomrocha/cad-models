@@ -53522,7 +53522,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Passive potato digger with an inclined replaceable share, two height settings and seven individually retained sifting tines.",
+    "description": "Category 1 potato digger with a replaceable share, two height settings and seven individually retained sifting tines. Seven native colour layers identify physical parts.",
     "tags": [
       "tractor",
       "Category 1",
@@ -53538,7 +53538,7 @@
     "variant": "Zero-offset height setting",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/j4-category1-potato-digger.dwg",
@@ -53611,7 +53611,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Category 1 potato digger in OpenCADStudio",
+        "alt": "OpenCADStudio isometric showing seven teal sifting tines, the blue digging share and red hitch mounting lugs",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-potato-digger/open-cad-studio-isometric.png"
       }
     ]
