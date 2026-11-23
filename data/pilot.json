@@ -52877,7 +52877,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Passive ridger with a replaceable central share and two width-adjustable 25° moldboards.",
+    "description": "Adjustable Category 1 ridger for forming raised soil rows. A central share and two inclined moldboards mount to a three-position guide system. Seven native colour layers distinguish the installed parts.",
     "tags": [
       "tractor",
       "Category 1",
@@ -52892,7 +52892,7 @@
     "variant": "190 mm neutral moldboard station on each side",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/j4-category1-ridger.dwg",
@@ -52960,7 +52960,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Category 1 adjustable ridger in OpenCADStudio",
+        "alt": "OpenCADStudio isometric of the adjustable ridger with teal moldboards, a blue central share and gold width guides",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-ridger/open-cad-studio-isometric.png"
       }
     ]
