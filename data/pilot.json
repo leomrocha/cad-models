@@ -52971,7 +52971,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Guarded horizontal rotor with seven staggered twin-tine stations, a depth roller in its lower index, four positive index locks and separate pulley-register parts. Separate motor shroud and recessed cable feed.",
+    "description": "Guarded 700 mm Category 1 rotary tiller with seven twin-tine stations, a driven rotor, covered motor and a depth roller in its lower index. Fourteen native colour layers identify its physical groups.",
     "tags": [
       "tractor",
       "rotary tiller",
@@ -52989,7 +52989,7 @@
         "relationship": "Nominal Category 1 hitch dimensions"
       }
     ],
-    "revision": 3,
+    "revision": 4,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-tiller/j4-category1-rotary-tiller.dwg",
@@ -53072,7 +53072,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-tiller/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Category 1 700 mm rotary tiller in OpenCADStudio",
+        "alt": "Native shaded rotary tiller with amber guards, red Category 1 mounts, turquoise depth brackets and a blue-grey roller",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-tiller/open-cad-studio-isometric.png"
       }
     ]
