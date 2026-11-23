@@ -53922,7 +53922,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Removable rear lift with spherical lower ends, indexed upper link, actuator and stabilizer assemblies, and direct stops.",
+    "description": "Removable rear Category 1 lift with spherical lower ends, an indexed upper link, two actuators and stabilizers, and direct mechanical stops. Seven native display layers identify the mounting cassette and moving assemblies.",
     "tags": [
       "tractor",
       "lift",
@@ -53934,7 +53934,7 @@
     "variant": "Shallow cultivator working pose",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-rear-category1-working-lift/j4-rear-category1-working-lift.dwg",
@@ -53972,7 +53972,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-rear-category1-working-lift/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Rear Category 1 working lift in OpenCADStudio",
+        "alt": "Rear Category 1 working lift with a red cassette, blue linkage, violet actuators and amber mechanical stops",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-rear-category1-working-lift/open-cad-studio-isometric.png"
       }
     ]
