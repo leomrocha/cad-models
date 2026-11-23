@@ -52653,7 +52653,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Detachable front fork carrier with two tines, carrier frame and pinned Category 1 mounting.",
+    "description": "Detachable front fork carrier for lifting and carrying loads on a Category 1 linkage. Two tines, a crossbeam frame, attachment lugs, headed pins and removable keepers use five functional display layers.",
     "tags": [
       "tractor",
       "tooling",
@@ -52665,7 +52665,7 @@
     "variant": "Category 1 fork carrier with positive pin heads and removable keepers",
     "materials": null,
     "standards": null,
-    "revision": 2,
+    "revision": 3,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/j4-category1-light-fork-carrier.dwg",
@@ -52693,7 +52693,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Category 1 light fork carrier in OpenCADStudio",
+        "alt": "Coloured fork carrier with two blue tines, red mounting interfaces, a slate frame and lilac pins and keepers",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-light-fork-carrier/open-cad-studio-isometric.png"
       }
     ]
