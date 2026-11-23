@@ -52643,7 +52643,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Detachable four-eye carrier and nominal Ø50 mm SM453 tow ball with revised carrier and terminal geometry.",
+    "description": "Detachable four-eye H390 towing cassette with a nominal Ø50 mm SM453 ball, crossmember, uprights, drop webs and relieved terminal plate. Five native colour layers separate the coupling and supporting structure.",
     "tags": [
       "tractor",
       "tooling",
@@ -52657,7 +52657,7 @@
     "variant": "Inboard carrier and relieved terminal for screened trailer articulation",
     "materials": null,
     "standards": null,
-    "revision": 2,
+    "revision": 3,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/j4-rear-four-eye-h390-working-module.dwg",
@@ -52709,7 +52709,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Four-eye H390 tow module in OpenCADStudio",
+        "alt": "Coloured H390 tow cassette with red mounting eyes, turquoise reinforcement webs and a silver tow ball",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-rear-four-eye-h390-working-module/open-cad-studio-isometric.png"
       }
     ]
