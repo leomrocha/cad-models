@@ -53097,7 +53097,7 @@
     "variant": "700 mm seven-outlet accessory, 13:26 ground roller drive",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/j4-harrow-rear-ground-driven-seeder.dwg",
@@ -53135,7 +53135,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "700 mm rear ground-driven seeder in OpenCADStudio",
+        "alt": "Shaded OpenCADStudio isometric of the hopper, removable covers, harrow mounting clevises and trailing roller.",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-harrow-rear-ground-driven-seeder/open-cad-studio-isometric.png"
       }
     ]
