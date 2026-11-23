@@ -52704,7 +52704,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Passive rear cultivator with three shanks and separately replaceable shares.",
+    "description": "Rear Category 1 cultivator with three welded shanks, replaceable shares and M10 share fasteners. Six native colour layers identify the physical groups. A separate hidden ISO reference supplies hitch datums.",
     "tags": [
       "tractor",
       "tooling",
@@ -52716,7 +52716,7 @@
     "variant": "Soil cultivation",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/j4-category1-passive-three-tine-cultivator.dwg",
@@ -52749,7 +52749,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Category 1 three-tine cultivator in OpenCADStudio",
+        "alt": "OpenCADStudio isometric showing the cultivator’s three shares, dark-blue shanks and red hitch mounting lugs",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-passive-three-tine-cultivator/open-cad-studio-isometric.png"
       }
     ]
