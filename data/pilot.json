@@ -53641,7 +53641,7 @@
         "relationship": "Nominal Category 1 hitch dimensions"
       }
     ],
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/j4-category1-rotary-burier.dwg",
@@ -53708,7 +53708,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Category 1 700 mm reverse-rotor soil burier in OpenCADStudio",
+        "alt": "Shaded OpenCADStudio isometric showing the Category 1 hitch, rotor hood, motor shroud, separator and depth roller.",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-burier/open-cad-studio-isometric.png"
       }
     ]
