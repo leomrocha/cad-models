@@ -52760,7 +52760,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Front light bucket with a replaceable wear lip, pinned hinge, actuator envelope and transport lock.",
+    "description": "Front Category 1 loader bucket with a replaceable wear lip, pinned hinge, curl actuator envelope and transport lock. Six native colour layers identify physical functions. A separate hidden ISO interface reference supports fit inspection.",
     "tags": [
       "tractor",
       "tooling",
@@ -52772,7 +52772,7 @@
     "variant": "Loading",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-pivoting-light-bucket/j4-front-category1-pivoting-light-bucket.dwg",
@@ -52805,7 +52805,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-pivoting-light-bucket/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Category 1 pivoting light bucket in OpenCADStudio",
+        "alt": "Coloured pivoting loader bucket with a pale steel-blue body, darker blue wear lip, red mounting interfaces and gold actuator geometry",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-pivoting-light-bucket/open-cad-studio-isometric.png"
       }
     ]
