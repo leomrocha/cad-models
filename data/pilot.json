@@ -53472,7 +53472,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Hinged and pinned cargo bin cradle with a rear four-eye cassette, transport locks and two deployable support legs.",
+    "description": "Tractor-mounted tipping bin with hinged cradle, removable tailgate, rear four-eye cassette, transport locks and deployable rear supports. Eight native display layers separate the body, hinges, mount and mechanism.",
     "tags": [
       "tractor",
       "tipping bin",
@@ -53484,7 +53484,7 @@
     "variant": "Closed transport position",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/j4-on-base-tipping-bin.dwg",
@@ -53522,7 +53522,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "J4 on-base tipping bin in OpenCADStudio",
+        "alt": "On-base tipping bin in its closed pose with a blue-grey body, red mounting cassette and turquoise supports",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-on-base-tipping-bin/open-cad-studio-isometric.png"
       }
     ]
