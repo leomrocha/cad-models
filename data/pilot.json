@@ -53222,7 +53222,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Category 1 electric flail with a guarded rotor, belt, recessed motor and rear gauge roller.",
+    "description": "Category 1 electric flail for cutting vegetation, with 24 hinged knives, a guarded belt and rotor, an enclosed Motenergy motor and a rear height roller. Eleven native colour layers identify the working parts, guards, drive and hitch.",
     "tags": [
       "tractor",
       "tooling",
@@ -53234,7 +53234,7 @@
     "variant": "Cutting",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/j4-electric-flail-protected-cat1-clearance.dwg",
@@ -53291,7 +53291,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Guarded electric flail in OpenCADStudio",
+        "alt": "OpenCADStudio isometric of the flail with closed amber guards, red Category 1 mounts and turquoise roller bearing brackets",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-electric-flail-protected-cat1-clearance/open-cad-studio-isometric.png"
       }
     ]
