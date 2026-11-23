@@ -53533,7 +53533,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Detachable four-eye lift cassette with spherical lower ends, adjustable upper link and two rolling supports.",
+    "description": "Detachable front Category 1 lift with two rolling supports, spherical lower-arm joints, an adjustable top link and actuator envelopes. Nine native display layers separate the mounting interface, linkage, supports and hardware.",
     "tags": [
       "tractor",
       "lift",
@@ -53545,7 +53545,7 @@
     "variant": "Supported level pickup",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/j4-front-category1-supported-pickup-lift.dwg",
@@ -53578,7 +53578,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Front Category 1 supported pickup lift in OpenCADStudio",
+        "alt": "Coloured front Category 1 lift with red mounting cassette, turquoise rolling supports and blue linkage",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-front-category1-supported-pickup-lift/open-cad-studio-isometric.png"
       }
     ]
