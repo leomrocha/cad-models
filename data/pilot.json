@@ -53737,7 +53737,7 @@
         "relationship": "Nominal Category 1 hitch dimensions"
       }
     ],
-    "revision": 2,
+    "revision": 3,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-harrow/j4-category1-rotary-harrow.dwg",
@@ -53844,7 +53844,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-harrow/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Category 1 750 mm rotary harrow in OpenCADStudio",
+        "alt": "Shaded OpenCADStudio isometric with separate colours for the hitch, frame, guards, lids, roller and roller supports.",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-category1-rotary-harrow/open-cad-studio-isometric.png"
       }
     ]
