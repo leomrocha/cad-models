@@ -53369,7 +53369,7 @@
     "kind": "subassembly",
     "subject": "Subassemblies",
     "state": "Discussion construction proposal",
-    "description": "Two-wheel tipping trailer with a lockable bin, rear supports, visible T539 tread and a two-bolt Steelpress coupling envelope.",
+    "description": "Two-wheel tipping trailer with hinged bin, transport locks, stowed rear supports, T539 tread and a Steelpress coupling envelope. Twelve native display layers separate the bin, running gear, locks and support hardware.",
     "tags": [
       "tractor",
       "trailer",
@@ -53385,7 +53385,7 @@
     "variant": "Closed transport pose, nominal Steelpress coupling and verified wheel placements",
     "materials": null,
     "standards": null,
-    "revision": 1,
+    "revision": 2,
     "needs_information": true,
     "category_path": "assemblies/tractor/two-wheel/implements",
     "file": "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/j4-two-wheel-tipping-trailer-transport.dwg",
@@ -53461,7 +53461,7 @@
       {
         "file": "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/open-cad-studio-isometric.png",
         "view": "OpenCADStudio · Isometric",
-        "alt": "Two-wheel tipping trailer, transport configuration in OpenCADStudio",
+        "alt": "Coloured two-wheel tipping trailer in transport position with charcoal T539 tread, a blue-grey bin and red coupling envelope",
         "thumbnail_file": "models/assemblies/tractor/two-wheel/implements/j4-two-wheel-tipping-trailer-transport/open-cad-studio-isometric.png"
       }
     ]
